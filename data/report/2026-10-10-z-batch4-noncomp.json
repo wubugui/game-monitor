@@ -1,0 +1,139 @@
+{
+ "baseline": false,
+ "date": "2026-10-10",
+ "id": "2026-10-10-z-batch4-noncomp",
+ "image_count": 0,
+ "images": [],
+ "md": "# 2026-10-10 非竞品深挖批次4\n\n- 时间：2026-10-10 02:26 CST\n- 本批完成：**20** 个非竞品（登录态播放前五+官方PV，剔除同名污染，看图+原话评价）\n- 标记：`<!-- added:2026-10-10 -->`\n\n## 本批名单\n\n1. **云海战记** — 相关视频 3｜去重评论≈171｜弹幕XML≈49｜合计播放 60875\n2. **约书亚：梦境之门** — 相关视频 1｜去重评论≈82｜弹幕XML≈26｜合计播放 53545\n3. **湮灭之潮** — 相关视频 6｜去重评论≈10721｜弹幕XML≈6754｜合计播放 27904310\n4. **暗黑西游：列妖** — 相关视频 5｜去重评论≈152｜弹幕XML≈57｜合计播放 86373\n5. **轮回保险公司** — 相关视频 5｜去重评论≈682｜弹幕XML≈324｜合计播放 349877\n6. **东方天试院** — 相关视频 5｜去重评论≈552｜弹幕XML≈40｜合计播放 162549\n7. **沉渊归航** — 相关视频 2｜去重评论≈79｜弹幕XML≈26｜合计播放 71882\n8. **隔离区** — 相关视频 5｜去重评论≈1422｜弹幕XML≈982｜合计播放 699457\n9. **高台生存** — 相关视频 6｜去重评论≈198｜弹幕XML≈93｜合计播放 104425\n10. **迪姆雷斯** — 相关视频 6｜去重评论≈441｜弹幕XML≈184｜合计播放 255954\n11. **黎明门前的吹笛人** — 相关视频 6｜去重评论≈2074｜弹幕XML≈747｜合计播放 638734\n12. **ForgeTax** — 相关视频 5｜去重评论≈121｜弹幕XML≈42｜合计播放 137676\n13. **守墓人2** — 相关视频 6｜去重评论≈2909｜弹幕XML≈2612｜合计播放 1539947\n14. **西部拓荒纪** — 相关视频 5｜去重评论≈313｜弹幕XML≈167｜合计播放 208269\n15. **龙之庇护所** — 相关视频 5｜去重评论≈216｜弹幕XML≈282｜合计播放 158717\n16. **维修物语** — 相关视频 6｜去重评论≈1837｜弹幕XML≈4310｜合计播放 2287892\n17. **城市蓝图** — 相关视频 6｜去重评论≈3053｜弹幕XML≈1043｜合计播放 694699\n18. **自动之城** — 相关视频 5｜去重评论≈186｜弹幕XML≈21｜合计播放 73042\n19. **叠叠不休** — 相关视频 6｜去重评论≈200｜弹幕XML≈52｜合计播放 99374\n20. **墓后营生** — 相关视频 5｜去重评论≈104｜弹幕XML≈52｜合计播放 45718\n\n## 关键修正\n\n- **约书亚：梦境之门**：剔除电影/拳击/约书亚树等同名污染，仅保留 1 条游戏 PV。\n- **暗黑西游：列妖**：剔除永夜起源/黑神话/全集等，仅保留列妖本家试玩。\n- **隔离区**：剔除《死亡录像》等电影，仅保留独立游戏相关预告/简介。\n- **迪姆雷斯**：实机帧改为从本家实况 BV 重截，避免合集串游。\n\n## 热度速览（核验后）\n\n- 湮灭之潮：播放 27904310\n- 维修物语：播放 2287892\n- 守墓人2：播放 1539947\n- 隔离区：播放 699457\n- 城市蓝图：播放 694699\n- 黎明门前的吹笛人：播放 638734\n- 轮回保险公司：播放 349877\n- 迪姆雷斯：播放 255954\n\n",
+ "new": "",
+ "projects": [
+  {
+   "competitor": false,
+   "cover": "covers/BV1BjaV6DE5G.jpg",
+   "id": "BV1BjaV6DE5G",
+   "name": "龙之庇护所"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1E9hq6SEW5.jpg",
+   "id": "BV1E9hq6SEW5",
+   "name": "黎明门前的吹笛人"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1xsaq6YEo4.jpg",
+   "id": "BV1xsaq6YEo4",
+   "name": "高台生存"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1DNa96nELZ.jpg",
+   "id": "BV1DNa96nELZ",
+   "name": "隔离区"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1fees6REig.jpg",
+   "id": "BV1fees6REig",
+   "name": "迪姆雷斯"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Quew6CEMB.jpg",
+   "id": "BV1Quew6CEMB",
+   "name": "轮回保险公司"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1jXau66Ers.jpg",
+   "id": "BV1jXau66Ers",
+   "name": "西部拓荒纪"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1xZaH6REJh.jpg",
+   "id": "BV1xZaH6REJh",
+   "name": "自动之城"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1HXHL6BEX7.jpg",
+   "id": "BV1HXHL6BEX7",
+   "name": "维修物语"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1MEHx6kEhk.jpg",
+   "id": "BV1MEHx6kEhk",
+   "name": "约书亚：梦境之门"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Edec6WEun.jpg",
+   "id": "BV1Edec6WEun",
+   "name": "湮灭之潮"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV16Ma36EECB.jpg",
+   "id": "BV16Ma36EECB",
+   "name": "沉渊归航"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1pVej6MESD.jpg",
+   "id": "BV1pVej6MESD",
+   "name": "暗黑西游：列妖"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1yNhE66Ev9.jpg",
+   "id": "BV1yNhE66Ev9",
+   "name": "守墓人2"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1LDaU6LEAR.jpg",
+   "id": "BV1LDaU6LEAR",
+   "name": "墓后营生"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1WSaf6dERw.jpg",
+   "id": "BV1WSaf6dERw",
+   "name": "城市蓝图"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1j4ez6oEJ6.jpg",
+   "id": "BV1j4ez6oEJ6",
+   "name": "叠叠不休"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1AeaA68ET2.jpg",
+   "id": "BV1AeaA68ET2",
+   "name": "云海战记"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1wfhR6gEMx.jpg",
+   "id": "BV1wfhR6gEMx",
+   "name": "东方天试院"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1vApu6rE6Y.jpg",
+   "id": "BV1vApu6rE6Y",
+   "name": "ForgeTax"
+  }
+ ],
+ "sections": [
+  "本批名单",
+  "关键修正",
+  "热度速览（核验后）"
+ ],
+ "summary": "- 时间：2026-10-10 02:26 CST - 本批完成：20 个非竞品（登录态播放前五+官方PV，剔除同名污染，看图+原话评价） - 标记：",
+ "title": "2026-10-10 非竞品深挖批次4",
+ "updated": ""
+}

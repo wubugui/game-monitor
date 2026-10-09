@@ -38,10 +38,10 @@
   "肉鸽/构筑",
   "自研"
  ],
- "latest_report": "2026-10-10-z-batch3-noncomp",
+ "latest_report": "2026-10-10-z-batch4-noncomp",
  "latest_report_date": "2026-10-10",
  "project_count": 130,
- "report_count": 8,
+ "report_count": 9,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -55,8 +55,18 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 20,
+ "today_updated": 40,
  "today_updates": [
+  {
+   "competitor": false,
+   "cover": "covers/BV1vApu6rE6Y.jpg",
+   "genre": "锻剑模拟",
+   "id": "BV1vApu6rE6Y",
+   "kind": "updated",
+   "name": "ForgeTax",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
+  },
   {
    "competitor": false,
    "cover": "covers/BV1Tkao6XETQ.jpg",
@@ -89,6 +99,26 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1wfhR6gEMx.jpg",
+   "genre": "东方同人3D格斗",
+   "id": "BV1wfhR6gEMx",
+   "kind": "updated",
+   "name": "东方天试院",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1AeaA68ET2.jpg",
+   "genre": "复古动作肉鸽",
+   "id": "BV1AeaA68ET2",
+   "kind": "updated",
+   "name": "云海战记",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV19Apu6rEYa.jpg",
    "genre": "剧情驱动肉鸽RPG",
    "id": "BV19Apu6rEYa",
@@ -99,12 +129,52 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1j4ez6oEJ6.jpg",
+   "genre": "卡牌种田建城",
+   "id": "BV1j4ez6oEJ6",
+   "kind": "updated",
+   "name": "叠叠不休",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1WSaf6dERw.jpg",
+   "genre": "城市建造",
+   "id": "BV1WSaf6dERw",
+   "kind": "updated",
+   "name": "城市蓝图",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1LDaU6LEAR.jpg",
+   "genre": "4人合作殡仪馆经营",
+   "id": "BV1LDaU6LEAR",
+   "kind": "updated",
+   "name": "墓后营生",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV19Qeb6fErq.jpg",
    "genre": "水墨仙侠动作肉鸽",
    "id": "BV19Qeb6fErq",
    "kind": "updated",
    "name": "墨境",
    "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1yNhE66Ev9.jpg",
+   "genre": "墓场模拟经营",
+   "id": "BV1yNhE66Ev9",
+   "kind": "updated",
+   "name": "守墓人2",
+   "note": "综合评价（其他项目·批次4）",
    "status": "已发售"
   },
   {
@@ -139,6 +209,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1pVej6MESD.jpg",
+   "genre": "暗黑刷宝",
+   "id": "BV1pVej6MESD",
+   "kind": "updated",
+   "name": "暗黑西游：列妖",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1ZgYB6REuY.jpg",
    "genre": "桌面叙事解谜",
    "id": "BV1ZgYB6REuY",
@@ -159,6 +239,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV16Ma36EECB.jpg",
+   "genre": "深海克苏鲁搜打撤",
+   "id": "BV16Ma36EECB",
+   "kind": "updated",
+   "name": "沉渊归航",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1tSYx66EvP.jpg",
    "genre": "科幻第三人称射击单机",
    "id": "BV1tSYx66EvP",
@@ -166,6 +256,16 @@
    "name": "流浪地球：望日",
    "note": "综合评价（其他项目·批次3）",
    "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Edec6WEun.jpg",
+   "genre": "动作游戏",
+   "id": "BV1Edec6WEun",
+   "kind": "updated",
+   "name": "湮灭之潮",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -209,6 +309,36 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1MEHx6kEhk.jpg",
+   "genre": "像素ARPG",
+   "id": "BV1MEHx6kEhk",
+   "kind": "updated",
+   "name": "约书亚：梦境之门",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1HXHL6BEX7.jpg",
+   "genre": "数码维修经营",
+   "id": "BV1HXHL6BEX7",
+   "kind": "updated",
+   "name": "维修物语",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1xZaH6REJh.jpg",
+   "genre": "肉鸽城镇建造",
+   "id": "BV1xZaH6REJh",
+   "kind": "updated",
+   "name": "自动之城",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV15uHE6vEDh.jpg",
    "genre": "动作续作（众筹）",
    "id": "BV15uHE6vEDh",
@@ -226,6 +356,36 @@
    "name": "螺旋起证",
    "note": "综合评价（其他项目·批次3）",
    "status": "即将发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1jXau66Ers.jpg",
+   "genre": "西部建造模拟",
+   "id": "BV1jXau66Ers",
+   "kind": "updated",
+   "name": "西部拓荒纪",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Quew6CEMB.jpg",
+   "genre": "割草刷宝",
+   "id": "BV1Quew6CEMB",
+   "kind": "updated",
+   "name": "轮回保险公司",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1fees6REig.jpg",
+   "genre": "奇幻像素ARPG",
+   "id": "BV1fees6REig",
+   "kind": "updated",
+   "name": "迪姆雷斯",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -249,6 +409,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1DNa96nELZ.jpg",
+   "genre": "丧尸生存",
+   "id": "BV1DNa96nELZ",
+   "kind": "updated",
+   "name": "隔离区",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "抢先体验"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1ghec66EaJ.jpg",
    "genre": "动作肉鸽",
    "id": "BV1ghec66EaJ",
@@ -256,6 +426,36 @@
    "name": "零境·入侵",
    "note": "综合评价（其他项目·批次3）",
    "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1xsaq6YEo4.jpg",
+   "genre": "丧尸生存",
+   "id": "BV1xsaq6YEo4",
+   "kind": "updated",
+   "name": "高台生存",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "抢先体验"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1E9hq6SEW5.jpg",
+   "genre": "种田（反差题材）",
+   "id": "BV1E9hq6SEW5",
+   "kind": "updated",
+   "name": "黎明门前的吹笛人",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1BjaV6DE5G.jpg",
+   "genre": "休闲种田",
+   "id": "BV1BjaV6DE5G",
+   "kind": "updated",
+   "name": "龙之庇护所",
+   "note": "综合评价（其他项目·批次4）",
+   "status": "已发售"
   }
  ]
 }

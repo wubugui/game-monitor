@@ -1,6 +1,72 @@
 [
  {
   "competitor": false,
+  "cover": "covers/BV1BjaV6DE5G.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "休闲种田",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1BjaV6DE5G",
+  "link": "https://www.bilibili.com/video/BV1BjaV6DE5G",
+  "name": "龙之庇护所",
+  "note": "养龙种田重建小镇",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "龙之庇护所 档案 - 类型：休闲种田 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：养龙种田重建小镇 - 代表视频播放：5.1万；B站相关视频覆盖播放（本次抓到的）：约12.8万，共6条 官方/代表视频简介（原文摘录） 游戏名：龙之庇护所 类型：休闲种田 实机截图 资料来源 B站视频",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1E9hq6SEW5.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "种田（反差题材）",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1E9hq6SEW5",
+  "link": "https://www.bilibili.com/video/BV1E9hq6SEW5",
+  "name": "黎明门前的吹笛人",
+  "note": "UP主：不正经种田",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "黎明门前的吹笛人 档案 - 类型：种田（反差题材） - 开发者：未知（开发者类型：未知） - 状态：已发售/试玩 - 平台：未知 - 一句话：UP主：不正经种田 - 代表视频播放：15.8万；B站相关视频覆盖播放（本次抓到的）：约44.8万，共8条 官方/代表视频简介（原文摘录） 游戏平台：Steam 游戏名：黎明门前",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1xsaq6YEo4.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "丧尸生存",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "其他"
+  ],
+  "id": "BV1xsaq6YEo4",
+  "link": "https://www.bilibili.com/video/BV1xsaq6YEo4",
+  "name": "高台生存",
+  "note": "一人一狗开局",
+  "source": "B站",
+  "status": "抢先体验",
+  "status_inferred": null,
+  "summary": "高台生存 档案 - 类型：丧尸生存 - 开发者：未知（开发者类型：未知） - 状态：EA - 平台：未知 - 一句话：一人一狗开局 - 代表视频播放：5.7万；B站相关视频覆盖播放（本次抓到的）：约5.7万，共1条 实机截图 资料来源 B站视频（按类别） 实况/通关（1） - 丧尸生存游戏《高台生存》最新实况 开局一人",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
   "cover": "covers/BV1ghec66EaJ.jpg",
   "dev_type": "未知",
   "developer": "未知（官方号）",
@@ -19,6 +85,28 @@
   "status": "Demo",
   "status_inferred": null,
   "summary": "零境·入侵 档案 - 类型：动作肉鸽 - 开发者：未知（官方号）（开发者类型：未知） - 状态：Demo - 平台：未知 - 一句话：新角色哈姆雷特，时间骇客 - 代表视频播放：17.2万；B站相关视频覆盖播放（本次抓到的）：约24.9万，共4条 官方/代表视频简介（原文摘录） 全新时间骇客——哈姆雷特登场！新角色，新",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1DNa96nELZ.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "丧尸生存",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "其他"
+  ],
+  "id": "BV1DNa96nELZ",
+  "link": "https://www.bilibili.com/video/BV1DNa96nELZ",
+  "name": "隔离区",
+  "note": "2026Q4正式版",
+  "source": "B站",
+  "status": "抢先体验",
+  "status_inferred": null,
+  "summary": "隔离区 档案 - 类型：丧尸生存 - 开发者：未知（开发者类型：未知） - 状态：EA→正式版Q4 - 平台：未知 - 一句话：2026Q4正式版 - 代表视频播放：4.0万；B站相关视频覆盖播放（本次抓到的）：约4.0万，共2条 官方/代表视频简介（原文摘录） 自抢先体验版本上线以来，我们收到了很多玩家的支持、建议与",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -70,6 +158,73 @@
  },
  {
   "competitor": false,
+  "cover": "covers/BV1fees6REig.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "奇幻像素ARPG",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "动作",
+   "RPG"
+  ],
+  "id": "BV1fees6REig",
+  "link": "https://www.bilibili.com/video/BV1fees6REig",
+  "name": "迪姆雷斯",
+  "note": "多种族职业",
+  "source": "B站",
+  "status": "Demo",
+  "status_inferred": null,
+  "summary": "迪姆雷斯 档案 - 类型：奇幻像素ARPG - 开发者：未知（开发者类型：未知） - 状态：发售/试玩 - 平台：未知 - 一句话：多种族职业 - 代表视频播放：3.4万；B站相关视频覆盖播放（本次抓到的）：约9.0万，共5条 官方/代表视频简介（原文摘录） 游戏名：迪姆雷斯 / Dimraeth 游戏类型：角色扮演，",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1Quew6CEMB.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "割草刷宝",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "其他"
+  ],
+  "id": "BV1Quew6CEMB",
+  "link": "https://www.bilibili.com/video/BV1Quew6CEMB",
+  "name": "轮回保险公司",
+  "note": "新角色新地图",
+  "source": "B站",
+  "status": "开发中",
+  "status_inferred": null,
+  "summary": "轮回保险公司 档案 - 类型：割草刷宝 - 开发者：未知（开发者类型：未知） - 状态：更新 - 平台：未知 - 一句话：新角色新地图 - 代表视频播放：4.7万；B站相关视频覆盖播放（本次抓到的）：约8.8万，共4条 官方/代表视频简介（原文摘录） steam《轮回保险公司》 实机截图 资料来源 B站视频（按类别） ",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1jXau66Ers.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "西部建造模拟",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1jXau66Ers",
+  "link": "https://www.bilibili.com/video/BV1jXau66Ers",
+  "name": "西部拓荒纪",
+  "note": "剧情互动大世界",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "西部拓荒纪 档案 - 类型：西部建造模拟 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：剧情互动大世界 - 代表视频播放：6.4万；B站相关视频覆盖播放（本次抓到的）：约12.3万，共7条 官方/代表视频简介（原文摘录） 游戏名：西部拓荒纪， 背景框架很有意思，并且还有剧情互动，大世",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
   "cover": "covers/BV1rDeG6xE77.jpg",
   "dev_type": "未知",
   "developer": "未知（犬声绘色Studio）",
@@ -110,6 +265,74 @@
   "status": "众筹中",
   "status_inferred": null,
   "summary": "艾希：续 档案 - 类型：动作续作（众筹） - 开发者：未知（老马克肖）（开发者类型：未知） - 状态：众筹中 - 平台：未知 - 一句话：众筹超2700万 - 代表视频播放：5.7万；B站相关视频覆盖播放（本次抓到的）：约92.6万，共13条 官方/代表视频简介（原文摘录） 艾希续作一开筹，吓得老马直磕头。 四十八块",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1xZaH6REJh.jpg",
+  "dev_type": "未知",
+  "developer": "未知（盏灯工作室）",
+  "found": "2026-10-09",
+  "genre": "肉鸽城镇建造",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "肉鸽/构筑",
+   "模拟经营"
+  ],
+  "id": "BV1xZaH6REJh",
+  "link": "https://www.bilibili.com/video/BV1xZaH6REJh",
+  "name": "自动之城",
+  "note": "新作PV首曝",
+  "source": "B站",
+  "status": "首曝",
+  "status_inferred": null,
+  "summary": "自动之城 档案 - 类型：肉鸽城镇建造 - 开发者：未知（盏灯工作室）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：新作PV首曝 - 代表视频播放：6.3万；B站相关视频覆盖播放（本次抓到的）：约6.9万，共3条 官方/代表视频简介（原文摘录） 我们的新作公开 demo 了！ 这是一款将城镇建造与肉",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1HXHL6BEX7.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "数码维修经营",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1HXHL6BEX7",
+  "link": "https://www.bilibili.com/video/BV1HXHL6BEX7",
+  "name": "维修物语",
+  "note": "重回00年修旧数码",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "维修物语 档案 - 类型：数码维修经营 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：重回00年修旧数码 - 代表视频播放：2.5万；B站相关视频覆盖播放（本次抓到的）：约2.5万，共1条 官方/代表视频简介（原文摘录） 🌸你不赞~我不赞~ 酸酸你的肝怎么办 🌸 游戏：维修物语 实机",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1MEHx6kEhk.jpg",
+  "dev_type": "未知",
+  "developer": "未知（官方号）",
+  "found": "2026-10-09",
+  "genre": "像素ARPG",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "动作",
+   "RPG"
+  ],
+  "id": "BV1MEHx6kEhk",
+  "link": "https://www.bilibili.com/video/BV1MEHx6kEhk",
+  "name": "约书亚：梦境之门",
+  "note": "解谜制作烹饪钓鱼",
+  "source": "B站",
+  "status": "首曝",
+  "status_inferred": null,
+  "summary": "约书亚：梦境之门 档案 - 类型：像素ARPG - 开发者：未知（官方号）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：解谜制作烹饪钓鱼 - 代表视频播放：5.4万；B站相关视频覆盖播放（本次抓到的）：约5.4万，共1条 官方/代表视频简介（原文摘录） 《约书亚：梦境之门》是一款扣人心弦的动作冒险游",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -206,6 +429,28 @@
  },
  {
   "competitor": false,
+  "cover": "covers/BV1Edec6WEun.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "动作游戏",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "动作"
+  ],
+  "id": "BV1Edec6WEun",
+  "link": "https://www.bilibili.com/video/BV1Edec6WEun",
+  "name": "湮灭之潮",
+  "note": "UP主称超预期，女主美术",
+  "source": "B站",
+  "status": "Demo",
+  "status_inferred": null,
+  "summary": "湮灭之潮 档案 - 类型：动作游戏 - 开发者：未知（开发者类型：未知） - 状态：试玩 - 平台：未知 - 一句话：UP主称超预期，女主美术 - 代表视频播放：23.4万；B站相关视频覆盖播放（本次抓到的）：约47.8万，共4条 官方/代表视频简介（原文摘录） 终于玩上了，操作没有想象的难，看了视频后基本上就知道这游",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
   "cover": "covers/BV1tSYx66EvP.jpg",
   "dev_type": "未知",
   "developer": "未知（刘慈欣原著授权）",
@@ -223,6 +468,28 @@
   "status": "首曝",
   "status_inferred": null,
   "summary": "流浪地球：望日 档案 - 类型：科幻第三人称射击单机 - 开发者：未知（刘慈欣原著授权）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：首支预告812万播放 - 代表视频播放：812.3万；B站相关视频覆盖播放（本次抓到的）：约856.4万，共8条 官方/代表视频简介（原文摘录） 这是最后的“望日窗口",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV16Ma36EECB.jpg",
+  "dev_type": "未知",
+  "developer": "未知（OKJOY）",
+  "found": "2026-10-09",
+  "genre": "深海克苏鲁搜打撤",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "其他"
+  ],
+  "id": "BV16Ma36EECB",
+  "link": "https://www.bilibili.com/video/BV16Ma36EECB",
+  "name": "沉渊归航",
+  "note": "正式公开",
+  "source": "B站",
+  "status": "首曝",
+  "status_inferred": null,
+  "summary": "沉渊归航 档案 - 类型：深海克苏鲁搜打撤 - 开发者：未知（OKJOY）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：正式公开 - 代表视频播放：4.1万；B站相关视频覆盖播放（本次抓到的）：约4.1万，共1条 官方/代表视频简介（原文摘录） 大家好！我们是独立游戏发行商OKJOY。由《废土快递》",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -268,6 +535,28 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "桌面探索者 档案 - 类型：桌面叙事解谜 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：旧电脑两家庭悲剧 - 代表视频播放：1.5万；B站相关视频覆盖播放（本次抓到的）：约3.6万，共3条 官方/代表视频简介（原文摘录） 游戏名：桌面探索者 实机截图 资料来源 B站视频（按类别） 评",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1pVej6MESD.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "暗黑刷宝",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "其他"
+  ],
+  "id": "BV1pVej6MESD",
+  "link": "https://www.bilibili.com/video/BV1pVej6MESD",
+  "name": "暗黑西游：列妖",
+  "note": "无体力限制",
+  "source": "B站",
+  "status": "Demo",
+  "status_inferred": null,
+  "summary": "暗黑西游：列妖 档案 - 类型：暗黑刷宝 - 开发者：未知（开发者类型：未知） - 状态：Demo/测试 - 平台：未知 - 一句话：无体力限制 - 代表视频播放：4.1万；B站相关视频覆盖播放（本次抓到的）：约6.0万，共2条 官方/代表视频简介（原文摘录） steam《暗黑西游：列妖》 https://store.",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -340,6 +629,28 @@
  },
  {
   "competitor": false,
+  "cover": "covers/BV1yNhE66Ev9.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "墓场模拟经营",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1yNhE66Ev9",
+  "link": "https://www.bilibili.com/video/BV1yNhE66Ev9",
+  "name": "守墓人2",
+  "note": "僵尸版星露谷",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "守墓人2 档案 - 类型：墓场模拟经营 - 开发者：未知（开发者类型：未知） - 状态：正式版 - 平台：未知 - 一句话：僵尸版星露谷 - 代表视频播放：6.5万；B站相关视频覆盖播放（本次抓到的）：约129.5万，共25条 官方/代表视频简介（原文摘录） 游戏名：守墓人2 实机截图 资料来源 B站视频（按类别） 官",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
   "cover": "covers/BV19Qeb6fErq.jpg",
   "dev_type": "未知",
   "developer": "未知",
@@ -358,6 +669,74 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "墨境 档案 - 类型：水墨仙侠动作肉鸽 - 开发者：未知（开发者类型：未知） - 状态：已发售 - 平台：未知 - 一句话：类哈迪斯，可与女妖约会 - 代表视频播放：7.6万；B站相关视频覆盖播放（本次抓到的）：约17.8万，共6条 官方/代表视频简介（原文摘录） 游戏名：墨境 实机截图 资料来源 B站视频（按类别） ",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1LDaU6LEAR.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "4人合作殡仪馆经营",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营",
+   "多人/合作"
+  ],
+  "id": "BV1LDaU6LEAR",
+  "link": "https://www.bilibili.com/video/BV1LDaU6LEAR",
+  "name": "墓后营生",
+  "note": "合作经营",
+  "source": "B站",
+  "status": "Demo",
+  "status_inferred": null,
+  "summary": "墓后营生 档案 - 类型：4人合作殡仪馆经营 - 开发者：未知（开发者类型：未知） - 状态：Demo - 平台：未知 - 一句话：合作经营 - 代表视频播放：1.7万；B站相关视频覆盖播放（本次抓到的）：约2.4万，共3条 官方/代表视频简介（原文摘录） 早殡早安！4人合作热热闹闹殡仪馆经营《墓后营生》 - 接待客户",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1WSaf6dERw.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "城市建造",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "模拟经营"
+  ],
+  "id": "BV1WSaf6dERw",
+  "link": "https://www.bilibili.com/video/BV1WSaf6dERw",
+  "name": "城市蓝图",
+  "note": "铺路与立交",
+  "source": "B站",
+  "status": "开发中",
+  "status_inferred": null,
+  "summary": "城市蓝图 档案 - 类型：城市建造 - 开发者：未知（开发者类型：未知） - 状态：开发中 - 平台：未知 - 一句话：铺路与立交 - 代表视频播放：6.5万；B站相关视频覆盖播放（本次抓到的）：约6.5万，共1条 官方/代表视频简介（原文摘录） 各位规划师假期快乐！《城市蓝图》全新实机演示正式掉落。 基础网格、弧形弯",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1j4ez6oEJ6.jpg",
+  "dev_type": "未知",
+  "developer": "未知",
+  "found": "2026-10-09",
+  "genre": "卡牌种田建城",
+  "genre_tags": [
+   "模拟经营/休闲/种田",
+   "肉鸽/构筑",
+   "模拟经营"
+  ],
+  "id": "BV1j4ez6oEJ6",
+  "link": "https://www.bilibili.com/video/BV1j4ez6oEJ6",
+  "name": "叠叠不休",
+  "note": "卡牌建城刷宝",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "叠叠不休 档案 - 类型：卡牌种田建城 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：卡牌建城刷宝 - 代表视频播放：5.8万；B站相关视频覆盖播放（本次抓到的）：约5.9万，共2条 官方/代表视频简介（原文摘录） 你不赞，我不赞，酸酸的肝~ 怎么办✿✿ヽ(°▽°)ノ✿ 游戏：叠叠不",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -382,6 +761,52 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "勇者小队全灭了。 档案 - 类型：剧情驱动肉鸽RPG - 开发者：未知（Neverland）（开发者类型：未知） - 状态：11-10发售 - 平台：未知 - 一句话：15万愿望单 - 代表视频播放：3132；B站相关视频覆盖播放（本次抓到的）：约3132，共1条 官方/代表视频简介（原文摘录） 剧情驱动地下城冒险肉鸽",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1AeaA68ET2.jpg",
+  "dev_type": "未知",
+  "developer": "未知（官方号）",
+  "found": "2026-10-09",
+  "genre": "复古动作肉鸽",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "肉鸽/构筑",
+   "动作"
+  ],
+  "id": "BV1AeaA68ET2",
+  "link": "https://www.bilibili.com/video/BV1AeaA68ET2",
+  "name": "云海战记",
+  "note": "异世界复古风",
+  "source": "B站",
+  "status": "开发中",
+  "status_inferred": null,
+  "summary": "云海战记 档案 - 类型：复古动作肉鸽 - 开发者：未知（官方号）（开发者类型：未知） - 状态：开发中 - 平台：未知 - 一句话：异世界复古风 - 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约3.7万，共1条 官方/代表视频简介（原文摘录） 大家好，我们是一支热爱ACG文化的小团队，非常怀念放学、",
+  "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/BV1wfhR6gEMx.jpg",
+  "dev_type": "未知",
+  "developer": "未知（有灯实验室）",
+  "found": "2026-10-09",
+  "genre": "东方同人3D格斗",
+  "genre_tags": [
+   "动作/肉鸽/射击",
+   "民俗/国风",
+   "动作"
+  ],
+  "id": "BV1wfhR6gEMx",
+  "link": "https://www.bilibili.com/video/BV1wfhR6gEMx",
+  "name": "东方天试院",
+  "note": "东方格斗作3D化",
+  "source": "B站",
+  "status": "开发中",
+  "status_inferred": null,
+  "summary": "东方天试院 档案 - 类型：东方同人3D格斗 - 开发者：未知（有灯实验室）（开发者类型：未知） - 状态：抢先测试 - 平台：未知 - 一句话：东方格斗作3D化 - 代表视频播放：3.9万；B站相关视频覆盖播放（本次抓到的）：约5.0万，共2条 官方/代表视频简介（原文摘录） 《东方天试院》抢先测试资格可加Q群495",
   "update_count": 2,
   "updated": "2026-10-10"
  },
@@ -454,25 +879,25 @@
  },
  {
   "competitor": false,
-  "cover": "covers/BV1BjaV6DE5G.jpg",
+  "cover": "covers/BV1vApu6rE6Y.jpg",
   "dev_type": "未知",
   "developer": "未知",
   "found": "2026-10-09",
-  "genre": "休闲种田",
+  "genre": "锻剑模拟",
   "genre_tags": [
    "模拟经营/休闲/种田",
    "模拟经营"
   ],
-  "id": "BV1BjaV6DE5G",
-  "link": "https://www.bilibili.com/video/BV1BjaV6DE5G",
-  "name": "龙之庇护所",
-  "note": "养龙种田重建小镇",
+  "id": "BV1vApu6rE6Y",
+  "link": "https://www.bilibili.com/video/BV1vApu6rE6Y",
+  "name": "ForgeTax",
+  "note": "14条视频覆盖",
   "source": "B站",
   "status": "已发售",
   "status_inferred": null,
-  "summary": "龙之庇护所 档案 - 类型：休闲种田 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：养龙种田重建小镇 - 代表视频播放：5.1万；B站相关视频覆盖播放（本次抓到的）：约12.8万，共6条 官方/代表视频简介（原文摘录） 游戏名：龙之庇护所 类型：休闲种田 实机截图 资料来源 B站视频",
-  "update_count": 1,
-  "updated": "2026-10-09"
+  "summary": "ForgeTax 档案 - 类型：锻剑模拟 - 开发者：未知（开发者类型：未知） - 状态：已发售 - 平台：未知 - 一句话：14条视频覆盖 - 代表视频播放：27.7万；B站相关视频覆盖播放（本次抓到的）：约34.2万，共18条 官方/代表视频简介（原文摘录） 游戏名：《ForgeTax》 实机截图 资料来源 B站",
+  "update_count": 2,
+  "updated": "2026-10-10"
  },
  {
   "competitor": false,
@@ -540,28 +965,6 @@
   "status": "Demo（Steam 试玩：惊变夜，已做到第三章）",
   "status_inferred": null,
   "summary": "⚠️ 黑水镇 档案 - 类型：中式民俗恐怖互动影游（AI 生成的动画风格画面 + 选项分支） - 开发者：小黑与鹿鹿（B站 2267 粉；招募视频自述「一个人独立开发」） - 状态：Steam 试玩版「惊变夜」已开放（2026-07），开发者 9 月称 Demo「已经做到第三章」，正在招募真实玩家试玩反馈 - 平台：S",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1E9hq6SEW5.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "种田（反差题材）",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1E9hq6SEW5",
-  "link": "https://www.bilibili.com/video/BV1E9hq6SEW5",
-  "name": "黎明门前的吹笛人",
-  "note": "UP主：不正经种田",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "黎明门前的吹笛人 档案 - 类型：种田（反差题材） - 开发者：未知（开发者类型：未知） - 状态：已发售/试玩 - 平台：未知 - 一句话：UP主：不正经种田 - 代表视频播放：15.8万；B站相关视频覆盖播放（本次抓到的）：约44.8万，共8条 官方/代表视频简介（原文摘录） 游戏平台：Steam 游戏名：黎明门前",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -657,28 +1060,6 @@
  },
  {
   "competitor": false,
-  "cover": "covers/BV1xsaq6YEo4.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "丧尸生存",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "其他"
-  ],
-  "id": "BV1xsaq6YEo4",
-  "link": "https://www.bilibili.com/video/BV1xsaq6YEo4",
-  "name": "高台生存",
-  "note": "一人一狗开局",
-  "source": "B站",
-  "status": "抢先体验",
-  "status_inferred": null,
-  "summary": "高台生存 档案 - 类型：丧尸生存 - 开发者：未知（开发者类型：未知） - 状态：EA - 平台：未知 - 一句话：一人一狗开局 - 代表视频播放：5.7万；B站相关视频覆盖播放（本次抓到的）：约5.7万，共1条 实机截图 资料来源 B站视频（按类别） 实况/通关（1） - 丧尸生存游戏《高台生存》最新实况 开局一人",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
   "cover": "covers/BV18JHz6EEyz.jpg",
   "dev_type": "未知",
   "developer": "未知",
@@ -696,28 +1077,6 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "雾雨谜宫（超侦探事件簿） 档案 - 类型：推理ADV - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：散人连载 - 代表视频播放：21.1万；B站相关视频覆盖播放（本次抓到的）：约71.1万，共3条 官方/代表视频简介（原文摘录） 序章结束，案件质量真不错。谜宫有些拖沓，后续继续。 持",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1DNa96nELZ.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "丧尸生存",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "其他"
-  ],
-  "id": "BV1DNa96nELZ",
-  "link": "https://www.bilibili.com/video/BV1DNa96nELZ",
-  "name": "隔离区",
-  "note": "2026Q4正式版",
-  "source": "B站",
-  "status": "抢先体验",
-  "status_inferred": null,
-  "summary": "隔离区 档案 - 类型：丧尸生存 - 开发者：未知（开发者类型：未知） - 状态：EA→正式版Q4 - 平台：未知 - 一句话：2026Q4正式版 - 代表视频播放：4.0万；B站相关视频覆盖播放（本次抓到的）：约4.0万，共2条 官方/代表视频简介（原文摘录） 自抢先体验版本上线以来，我们收到了很多玩家的支持、建议与",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -876,51 +1235,6 @@
   "status": "开发中",
   "status_inferred": null,
   "summary": "迪诺世界物语 档案 - 类型：经营模拟 - 开发者：未知（开发者类型：未知） - 状态：开发中 - 平台：未知 - 一句话：愿望单阶段 - 代表视频播放：8.9万；B站相关视频覆盖播放（本次抓到的）：约8.9万，共1条 官方/代表视频简介（原文摘录） 相关游戏：迪诺世界物语 感兴趣的朋友可以上steam加个愿望单哦！ ",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1fees6REig.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "奇幻像素ARPG",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "动作",
-   "RPG"
-  ],
-  "id": "BV1fees6REig",
-  "link": "https://www.bilibili.com/video/BV1fees6REig",
-  "name": "迪姆雷斯",
-  "note": "多种族职业",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "迪姆雷斯 档案 - 类型：奇幻像素ARPG - 开发者：未知（开发者类型：未知） - 状态：发售/试玩 - 平台：未知 - 一句话：多种族职业 - 代表视频播放：3.4万；B站相关视频覆盖播放（本次抓到的）：约9.0万，共5条 官方/代表视频简介（原文摘录） 游戏名：迪姆雷斯 / Dimraeth 游戏类型：角色扮演，",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1Quew6CEMB.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "割草刷宝",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "其他"
-  ],
-  "id": "BV1Quew6CEMB",
-  "link": "https://www.bilibili.com/video/BV1Quew6CEMB",
-  "name": "轮回保险公司",
-  "note": "新角色新地图",
-  "source": "B站",
-  "status": "开发中",
-  "status_inferred": null,
-  "summary": "轮回保险公司 档案 - 类型：割草刷宝 - 开发者：未知（开发者类型：未知） - 状态：更新 - 平台：未知 - 一句话：新角色新地图 - 代表视频播放：4.7万；B站相关视频覆盖播放（本次抓到的）：约8.8万，共4条 官方/代表视频简介（原文摘录） steam《轮回保险公司》 实机截图 资料来源 B站视频（按类别） ",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -1092,28 +1406,6 @@
  },
  {
   "competitor": false,
-  "cover": "covers/BV1jXau66Ers.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "西部建造模拟",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1jXau66Ers",
-  "link": "https://www.bilibili.com/video/BV1jXau66Ers",
-  "name": "西部拓荒纪",
-  "note": "剧情互动大世界",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "西部拓荒纪 档案 - 类型：西部建造模拟 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：剧情互动大世界 - 代表视频播放：6.4万；B站相关视频覆盖播放（本次抓到的）：约12.3万，共7条 官方/代表视频简介（原文摘录） 游戏名：西部拓荒纪， 背景框架很有意思，并且还有剧情互动，大世",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
   "cover": "covers/BV1neYu62ENf.jpg",
   "dev_type": "个人",
   "developer": "个人（薄海纸鱼）",
@@ -1175,74 +1467,6 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "英雄立志传：三国志 档案 - 类型：三国RPG - 开发者：未知（开发者类型：未知） - 状态：正式版 - 平台：未知 - 一句话：高自由度 - 代表视频播放：5.4万；B站相关视频覆盖播放（本次抓到的）：约26.6万，共7条 官方/代表视频简介（原文摘录） steam《英雄立志传·三国志》 实机截图 资料来源 B站视",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1xZaH6REJh.jpg",
-  "dev_type": "未知",
-  "developer": "未知（盏灯工作室）",
-  "found": "2026-10-09",
-  "genre": "肉鸽城镇建造",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "肉鸽/构筑",
-   "模拟经营"
-  ],
-  "id": "BV1xZaH6REJh",
-  "link": "https://www.bilibili.com/video/BV1xZaH6REJh",
-  "name": "自动之城",
-  "note": "新作PV首曝",
-  "source": "B站",
-  "status": "首曝",
-  "status_inferred": null,
-  "summary": "自动之城 档案 - 类型：肉鸽城镇建造 - 开发者：未知（盏灯工作室）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：新作PV首曝 - 代表视频播放：6.3万；B站相关视频覆盖播放（本次抓到的）：约6.9万，共3条 官方/代表视频简介（原文摘录） 我们的新作公开 demo 了！ 这是一款将城镇建造与肉",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1HXHL6BEX7.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "数码维修经营",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1HXHL6BEX7",
-  "link": "https://www.bilibili.com/video/BV1HXHL6BEX7",
-  "name": "维修物语",
-  "note": "重回00年修旧数码",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "维修物语 档案 - 类型：数码维修经营 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：重回00年修旧数码 - 代表视频播放：2.5万；B站相关视频覆盖播放（本次抓到的）：约2.5万，共1条 官方/代表视频简介（原文摘录） 🌸你不赞~我不赞~ 酸酸你的肝怎么办 🌸 游戏：维修物语 实机",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1MEHx6kEhk.jpg",
-  "dev_type": "未知",
-  "developer": "未知（官方号）",
-  "found": "2026-10-09",
-  "genre": "像素ARPG",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "动作",
-   "RPG"
-  ],
-  "id": "BV1MEHx6kEhk",
-  "link": "https://www.bilibili.com/video/BV1MEHx6kEhk",
-  "name": "约书亚：梦境之门",
-  "note": "解谜制作烹饪钓鱼",
-  "source": "B站",
-  "status": "首曝",
-  "status_inferred": null,
-  "summary": "约书亚：梦境之门 档案 - 类型：像素ARPG - 开发者：未知（官方号）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：解谜制作烹饪钓鱼 - 代表视频播放：5.4万；B站相关视频覆盖播放（本次抓到的）：约5.4万，共1条 官方/代表视频简介（原文摘录） 《约书亚：梦境之门》是一款扣人心弦的动作冒险游",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -1427,28 +1651,6 @@
   "updated": "2026-10-09"
  },
  {
-  "competitor": false,
-  "cover": "covers/BV1Edec6WEun.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "动作游戏",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "动作"
-  ],
-  "id": "BV1Edec6WEun",
-  "link": "https://www.bilibili.com/video/BV1Edec6WEun",
-  "name": "湮灭之潮",
-  "note": "UP主称超预期，女主美术",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "湮灭之潮 档案 - 类型：动作游戏 - 开发者：未知（开发者类型：未知） - 状态：试玩 - 平台：未知 - 一句话：UP主称超预期，女主美术 - 代表视频播放：23.4万；B站相关视频覆盖播放（本次抓到的）：约47.8万，共4条 官方/代表视频简介（原文摘录） 终于玩上了，操作没有想象的难，看了视频后基本上就知道这游",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
   "competitor": true,
   "cover": "covers/BV14HHq6uEX5.jpg",
   "dev_type": "未知",
@@ -1468,28 +1670,6 @@
   "status": "Demo",
   "status_inferred": null,
   "summary": "⚠️ 泯灭 档案 - 类型：中式梦核恐怖 - 开发者：未知（开发者类型：未知） - 状态：Demo - 平台：Steam - 一句话：新婚夫妻凶宅 - 代表视频播放：10.4万；B站相关视频覆盖播放（本次抓到的）：约124.4万，共39条 官方/代表视频简介（原文摘录） 相关游戏：《泯灭》 还可以的中式恐怖游戏！后期高",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV16Ma36EECB.jpg",
-  "dev_type": "未知",
-  "developer": "未知（OKJOY）",
-  "found": "2026-10-09",
-  "genre": "深海克苏鲁搜打撤",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "其他"
-  ],
-  "id": "BV16Ma36EECB",
-  "link": "https://www.bilibili.com/video/BV16Ma36EECB",
-  "name": "沉渊归航",
-  "note": "正式公开",
-  "source": "B站",
-  "status": "首曝",
-  "status_inferred": null,
-  "summary": "沉渊归航 档案 - 类型：深海克苏鲁搜打撤 - 开发者：未知（OKJOY）（开发者类型：未知） - 状态：首曝 - 平台：未知 - 一句话：正式公开 - 代表视频播放：4.1万；B站相关视频覆盖播放（本次抓到的）：约4.1万，共1条 官方/代表视频简介（原文摘录） 大家好！我们是独立游戏发行商OKJOY。由《废土快递》",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -1671,28 +1851,6 @@
   "status": "开发中",
   "status_inferred": null,
   "summary": "月隐其明修仙世界（未命名） 档案 - 类型：AI修仙模拟 - 开发者：个人（开发者类型：个人） - 状态：开发中 - 平台：未知 - 一句话：不懂编程靠AI，26万播放 - 代表视频播放：26.0万；B站相关视频覆盖播放（本次抓到的）：约26.0万，共0条 官方/代表视频简介（原文摘录） 这是一个可能早就超过1000亿",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1pVej6MESD.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "暗黑刷宝",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "其他"
-  ],
-  "id": "BV1pVej6MESD",
-  "link": "https://www.bilibili.com/video/BV1pVej6MESD",
-  "name": "暗黑西游：列妖",
-  "note": "无体力限制",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "暗黑西游：列妖 档案 - 类型：暗黑刷宝 - 开发者：未知（开发者类型：未知） - 状态：Demo/测试 - 平台：未知 - 一句话：无体力限制 - 代表视频播放：4.1万；B站相关视频覆盖播放（本次抓到的）：约6.0万，共2条 官方/代表视频简介（原文摘录） steam《暗黑西游：列妖》 https://store.",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -2036,28 +2194,6 @@
   "updated": "2026-10-09"
  },
  {
-  "competitor": false,
-  "cover": "covers/BV1yNhE66Ev9.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "墓场模拟经营",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1yNhE66Ev9",
-  "link": "https://www.bilibili.com/video/BV1yNhE66Ev9",
-  "name": "守墓人2",
-  "note": "僵尸版星露谷",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "守墓人2 档案 - 类型：墓场模拟经营 - 开发者：未知（开发者类型：未知） - 状态：正式版 - 平台：未知 - 一句话：僵尸版星露谷 - 代表视频播放：6.5万；B站相关视频覆盖播放（本次抓到的）：约129.5万，共25条 官方/代表视频简介（原文摘录） 游戏名：守墓人2 实机截图 资料来源 B站视频（按类别） 官",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
   "competitor": true,
   "cover": "covers/BV1RAeV67Ed9.jpg",
   "dev_type": "未知",
@@ -2263,29 +2399,6 @@
  },
  {
   "competitor": false,
-  "cover": "covers/BV1LDaU6LEAR.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "4人合作殡仪馆经营",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营",
-   "多人/合作"
-  ],
-  "id": "BV1LDaU6LEAR",
-  "link": "https://www.bilibili.com/video/BV1LDaU6LEAR",
-  "name": "墓后营生",
-  "note": "合作经营",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "墓后营生 档案 - 类型：4人合作殡仪馆经营 - 开发者：未知（开发者类型：未知） - 状态：Demo - 平台：未知 - 一句话：合作经营 - 代表视频播放：1.7万；B站相关视频覆盖播放（本次抓到的）：约2.4万，共3条 官方/代表视频简介（原文摘录） 早殡早安！4人合作热热闹闹殡仪馆经营《墓后营生》 - 接待客户",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
   "cover": "covers/BV168hS69EgX.jpg",
   "dev_type": "未知",
   "developer": "未知",
@@ -2303,28 +2416,6 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "塞爆魔窟 档案 - 类型：背包乱斗+基地+自走棋 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：100头魔物 - 代表视频播放：4.8万；B站相关视频覆盖播放（本次抓到的）：约20.8万，共9条 官方/代表视频简介（原文摘录） 游戏名：塞爆魔窟 类型：背包乱斗+基地建设+肉鸽自走棋 ",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1WSaf6dERw.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "城市建造",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1WSaf6dERw",
-  "link": "https://www.bilibili.com/video/BV1WSaf6dERw",
-  "name": "城市蓝图",
-  "note": "铺路与立交",
-  "source": "B站",
-  "status": "开发中",
-  "status_inferred": null,
-  "summary": "城市蓝图 档案 - 类型：城市建造 - 开发者：未知（开发者类型：未知） - 状态：开发中 - 平台：未知 - 一句话：铺路与立交 - 代表视频播放：6.5万；B站相关视频覆盖播放（本次抓到的）：约6.5万，共1条 官方/代表视频简介（原文摘录） 各位规划师假期快乐！《城市蓝图》全新实机演示正式掉落。 基础网格、弧形弯",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -2373,29 +2464,6 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "图灵证言 档案 - 类型：AI Agent 悬疑推理+恋爱 - 开发者：未知（开发者类型：未知） - 状态：已发售 - 平台：未知 - 一句话：角色大脑与剧情交给AI Agent - 代表视频播放：5.3万；B站相关视频覆盖播放（本次抓到的）：约12.1万，共5条 官方/代表视频简介（原文摘录） 游戏名：图灵证言 这做",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1j4ez6oEJ6.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "卡牌种田建城",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "肉鸽/构筑",
-   "模拟经营"
-  ],
-  "id": "BV1j4ez6oEJ6",
-  "link": "https://www.bilibili.com/video/BV1j4ez6oEJ6",
-  "name": "叠叠不休",
-  "note": "卡牌建城刷宝",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "叠叠不休 档案 - 类型：卡牌种田建城 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：卡牌建城刷宝 - 代表视频播放：5.8万；B站相关视频覆盖播放（本次抓到的）：约5.9万，共2条 官方/代表视频简介（原文摘录） 你不赞，我不赞，酸酸的肝~ 怎么办✿✿ヽ(°▽°)ノ✿ 游戏：叠叠不",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -2605,29 +2673,6 @@
  },
  {
   "competitor": false,
-  "cover": "covers/BV1AeaA68ET2.jpg",
-  "dev_type": "未知",
-  "developer": "未知（官方号）",
-  "found": "2026-10-09",
-  "genre": "复古动作肉鸽",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "肉鸽/构筑",
-   "动作"
-  ],
-  "id": "BV1AeaA68ET2",
-  "link": "https://www.bilibili.com/video/BV1AeaA68ET2",
-  "name": "云海战记",
-  "note": "异世界复古风",
-  "source": "B站",
-  "status": "开发中",
-  "status_inferred": null,
-  "summary": "云海战记 档案 - 类型：复古动作肉鸽 - 开发者：未知（官方号）（开发者类型：未知） - 状态：开发中 - 平台：未知 - 一句话：异世界复古风 - 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约3.7万，共1条 官方/代表视频简介（原文摘录） 大家好，我们是一支热爱ACG文化的小团队，非常怀念放学、",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
   "cover": "covers/BV1XpYL6EEXx.jpg",
   "dev_type": "未知",
   "developer": "未知（UP主称蜗牛出品）",
@@ -2668,29 +2713,6 @@
   "status": "即将发售",
   "status_inferred": null,
   "summary": "⚠️ 乌合之众 档案 - 类型：中式民俗悬疑/黑色幽默 - 开发者：小团队（NanZhai Games）（开发者类型：小团队） - 状态：即将发售 - 平台：Steam - 一句话：定档2027-03，大佛吃人 - 代表视频播放：1.5万；B站相关视频覆盖播放（本次抓到的）：约239.5万，共13条 官方/代表视频简介",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1wfhR6gEMx.jpg",
-  "dev_type": "未知",
-  "developer": "未知（有灯实验室）",
-  "found": "2026-10-09",
-  "genre": "东方同人3D格斗",
-  "genre_tags": [
-   "动作/肉鸽/射击",
-   "民俗/国风",
-   "动作"
-  ],
-  "id": "BV1wfhR6gEMx",
-  "link": "https://www.bilibili.com/video/BV1wfhR6gEMx",
-  "name": "东方天试院",
-  "note": "东方格斗作3D化",
-  "source": "B站",
-  "status": "开发中",
-  "status_inferred": null,
-  "summary": "东方天试院 档案 - 类型：东方同人3D格斗 - 开发者：未知（有灯实验室）（开发者类型：未知） - 状态：抢先测试 - 平台：未知 - 一句话：东方格斗作3D化 - 代表视频播放：3.9万；B站相关视频覆盖播放（本次抓到的）：约5.0万，共2条 官方/代表视频简介（原文摘录） 《东方天试院》抢先测试资格可加Q群495",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -2873,28 +2895,6 @@
   "status": "开发中",
   "status_inferred": null,
   "summary": "LocoMo 档案 - 类型：扮演村庄本身 - 开发者：小团队（2人外国开发者）（开发者类型：小团队） - 状态：开发中 - 平台：未知 - 一句话：社区共创 - 代表视频播放：2.2万；B站相关视频覆盖播放（本次抓到的）：约10.2万，共9条 官方/代表视频简介（原文摘录） 我们正在制作《LocoMo》，一款温馨的村",
-  "update_count": 1,
-  "updated": "2026-10-09"
- },
- {
-  "competitor": false,
-  "cover": "covers/BV1vApu6rE6Y.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "found": "2026-10-09",
-  "genre": "锻剑模拟",
-  "genre_tags": [
-   "模拟经营/休闲/种田",
-   "模拟经营"
-  ],
-  "id": "BV1vApu6rE6Y",
-  "link": "https://www.bilibili.com/video/BV1vApu6rE6Y",
-  "name": "ForgeTax",
-  "note": "14条视频覆盖",
-  "source": "B站",
-  "status": "已发售",
-  "status_inferred": null,
-  "summary": "ForgeTax 档案 - 类型：锻剑模拟 - 开发者：未知（开发者类型：未知） - 状态：已发售 - 平台：未知 - 一句话：14条视频覆盖 - 代表视频播放：27.7万；B站相关视频覆盖播放（本次抓到的）：约34.2万，共18条 官方/代表视频简介（原文摘录） 游戏名：《ForgeTax》 实机截图 资料来源 B站",
   "update_count": 1,
   "updated": "2026-10-09"
  },

@@ -1,5 +1,5 @@
 {
- "baseline_only": true,
+ "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 20,
  "data_date": "2026-10-09",
@@ -31,18 +31,20 @@
   "竞品",
   "策略",
   "策略/RPG/卡牌",
-  "肉鸽/构筑"
+  "肉鸽/构筑",
+  "自研"
  ],
- "latest_report": "2026-10-09",
+ "latest_report": "2026-10-09-revision",
  "latest_report_date": "2026-10-09",
- "project_count": 127,
- "report_count": 1,
+ "project_count": 129,
+ "report_count": 2,
  "statuses": [
   "Demo",
   "众筹中",
   "即将发售",
   "已发售",
   "开发中",
+  "开发中（Demo）",
   "抢先体验",
   "首曝"
  ]

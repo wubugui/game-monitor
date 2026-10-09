@@ -1,7 +1,7 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 21,
+ "competitor_count": 29,
  "data_date": "2026-10-10",
  "dev_types": [
   "个人",
@@ -40,23 +40,106 @@
  ],
  "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
- "project_count": 130,
- "report_count": 11,
+ "project_count": 140,
+ "report_count": 12,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
   "众筹中",
   "即将发售",
+  "商店页上线",
   "已发售",
+  "已发售/实况热",
   "开发中",
   "开发中（Demo）",
   "抢先体验",
+  "首发宣传",
   "首曝"
  ],
  "today_banner": "",
- "today_new": 0,
- "today_updated": 77,
+ "today_new": 10,
+ "today_updated": 80,
  "today_updates": [
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式民俗戏曲风恐怖",
+   "id": "BV1AtYE6kESe",
+   "kind": "new",
+   "name": "冥娘引",
+   "note": "新建档",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "梦核/阈限空间心理恐怖",
+   "id": "BV17Kp46YEZN",
+   "kind": "new",
+   "name": "别眨眼",
+   "note": "新建档",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式梦核找异常恐怖",
+   "id": "BV1WGqhYdEjx",
+   "kind": "new",
+   "name": "无人",
+   "note": "关注度与数据（ 初建）",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式民俗微恐 RPG",
+   "id": "BV1SjeP62EMn",
+   "kind": "new",
+   "name": "萦回",
+   "note": "新建档",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "国风志怪剧情独立",
+   "id": "BV1f4Lq6VE65",
+   "kind": "new",
+   "name": "论道聊斋",
+   "note": "新建档",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式找异常恐怖",
+   "id": "BV1rAbp66EV1",
+   "kind": "new",
+   "name": "镇尸",
+   "note": "关注度与数据（ 初建）",
+   "status": "已发售/实况热"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式民俗联机抓鬼",
+   "id": "BV15ZijeREHG",
+   "kind": "new",
+   "name": "镇邪2",
+   "note": "新建档",
+   "status": "首发宣传"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "genre": "中式找异常恐怖",
+   "id": "BV1E3NgzWEVh",
+   "kind": "new",
+   "name": "阴界诡录：尸语公寓",
+   "note": "关注度与数据（ 初建）",
+   "status": "已发售"
+  },
   {
    "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
@@ -76,6 +159,26 @@
    "name": "京门之下",
    "note": "Seed BV1SXYj6mE1g 登录态复核：播放 2.2万｜点赞 1315｜评论 65｜收藏 610｜投币 70｜分享 81。",
    "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "genre": "中式县城校园心理恐怖",
+   "id": "BV1NVH96SETa",
+   "kind": "updated",
+   "name": "你就是缘由",
+   "note": "BV1NVH96SETa（商店/宣发）：播放 652 → 792（约 +21.5%）",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "genre": "中式民俗恐怖 ARPG",
+   "id": "BV1btHC6bEVr",
+   "kind": "updated",
+   "name": "太渊无朔",
+   "note": "BV1btHC6bEVr（代表实机）：播放 2474 → 3117（约 +26%）",
+   "status": "Demo"
   },
   {
    "competitor": true,
@@ -109,6 +212,16 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "genre": "北宋国风听觉解谜",
+   "id": "BV15GHX6hEjk",
+   "kind": "updated",
+   "name": "追境",
+   "note": "关注度",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "genre": "中式民俗恐怖互动影游（AI 动画）",
    "id": "BV1vLFCzwEq1",
@@ -116,6 +229,26 @@
    "name": "黑水镇",
    "note": "Seed BV1vLFCzwEq1 登录态复核：播放 9052｜点赞 111｜评论 28｜收藏 43｜投币 20｜分享 8。",
    "status": "Demo（Steam 试玩：惊变夜，已做到第三章）"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "genre": "AI互动影游",
+   "id": "BV1uiao6oEmy",
+   "kind": "new",
+   "name": "1999保密协议",
+   "note": "新建档",
+   "status": "商店页上线"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "genre": "二次元动作肉鸽（AI开发）",
+   "id": "BV1xZHW6TE9n",
+   "kind": "new",
+   "name": "Duola Mage",
+   "note": "新建档",
+   "status": "已发售"
   },
   {
    "competitor": false,
@@ -714,7 +847,7 @@
    "id": "BV1vmpF6SE3p",
    "kind": "updated",
    "name": "迪诺世界物语",
-   "note": "合计（本批核验相关的 5 条，含播放前五+官方PV）：播放 2.6万｜点赞 500｜投币 98｜收藏 502｜转发 102｜评论 66｜弹幕 34。赞播比 1.9%｜收藏播放比 1.9%｜评论/万播放",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 11.5万｜点赞 1.1万｜投币 131｜收藏 1255｜转发 118｜评论 125｜弹幕 287。赞播比 9.6%｜收藏播放比 1.1%｜",
    "status": "开发中"
   },
   {

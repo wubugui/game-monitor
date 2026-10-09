@@ -1,0 +1,47 @@
+{
+ "added_dates": [
+  "2026-10-10"
+ ],
+ "aliases": [
+  "Duola Mage"
+ ],
+ "baseline": "2026-10-10",
+ "bvid": "BV1xZHW6TE9n",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-10",
+ "genre": "二次元动作肉鸽（AI开发）",
+ "genre_tags": [
+  "AI新玩法",
+  "肉鸽/构筑",
+  "动作"
+ ],
+ "history": [
+  {
+   "date": "2026-10-10",
+   "kind": "report",
+   "md": "- **Duola Mage**：开发者自称 CodexAI/UGC 编辑器开发、无站外宣发上架；B 站自述帖约 7698 播。档案：`state/BV1xZHW6TE9n.md`\n\n- **发售信号**：《恐迫症》(Obsessive) 和风视线逃脱 Steam 发售；《Duola Mage》无宣发上架叙事。",
+   "report": "2026-10-10",
+   "title": "2026-10-10 日报"
+  }
+ ],
+ "id": "BV1xZHW6TE9n",
+ "images": [],
+ "intro": "# Duola Mage\n\n<!-- added:2026-10-10 -->\n\n## 档案\n\n\n- 类型：二次元动作肉鸽 / 刷本\n- 开发者：DuolaMage（自称 CodexAI / UGC 编辑器开发）\n- 状态：Steam 已发售约 10 天（开发者自述）\n- 平台：Steam\n- 一句话：无站外宣发的 AI 辅助独立肉鸽；开发者自称好评率高\n- 代表：BV1xZHW6TE9n｜DuolaMage｜7698播放｜147赞｜38评论（2026-10-10）\n\n\n\n## 关注度\n\n\n低热。X 侧亦有「无宣发上架」讨论（见 x/2026-10-10-notes.md）。\n\n\n\n## 综合评价\n\n\n作 AI 独立管线样本，非民俗竞品。缺口：Steam 评测原文抽样、真实好评率核验。",
+ "link": "https://www.bilibili.com/video/BV1xZHW6TE9n",
+ "name": "Duola Mage",
+ "note": "自称无站外宣发；AI/UGC编辑器开发",
+ "platform": "Steam",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1xZHW6TE9n.md",
+ "status": "已发售",
+ "summary": "Duola Mage 档案 - 类型：二次元动作肉鸽 / 刷本 - 开发者：DuolaMage（自称 CodexAI / UGC 编辑器开发） - 状态：Steam 已发售约 10 天（开发者自述） - 平台：Steam - 一句话：无站外宣发的 AI 辅助独立肉鸽；开发者自称好评率高 - 代表：BV1xZHW6TE9",
+ "tags": [
+  "AI新玩法"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-10"
+}

@@ -131,3 +131,13 @@
 | 源初之结 | 米哈游新作 | 大厂（大厂（米哈游）） | 科隆曝光 | 2026-10-09 | https://www.bilibili.com/video/BV1nh8R6vEKw | 7.9万 | 科隆开幕 |
 | 艾希：续 | 动作续作（众筹） | 未知（未知（老马克肖）） | 众筹中 | 2026-10-09 | https://www.bilibili.com/video/BV15uHE6vEDh | 5.7万 | 众筹超2700万 |
 | 秩序：新曙光 | 舰船策略手游/PC | 未知（未知（制作组）） | 10-14 EA | 2026-10-09 | https://www.bilibili.com/video/BV1gMhi6aEgH | 2.1万 | Steam+TapTap |
+| ⚠️ 镇尸 | 中式找异常恐怖 | 未知（未知） | 已发售/实况热 | 2026-10-10 | https://www.bilibili.com/video/BV1rAbp66EV1 | 122.6万 | 中式找异常；南译速通约122.6万播放 |
+| ⚠️ 阴界诡录：尸语公寓 | 中式找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1E3NgzWEVh | 71.0万 | 阴界诡录系列；公寓找异常；ee实况约71万 |
+| ⚠️ 无人 | 中式梦核找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1WGqhYdEjx | 110.2万 | 中式梦核找异常；C菌全流程约110万 |
+| ⚠️ 萦回 | 中式民俗微恐 RPG | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1SjeP62EMn | 581 | 逝者回生者家；民俗微恐RPG demo |
+| ⚠️ 冥娘引 | 中式民俗戏曲风恐怖 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1AtYE6kESe | 307 | 民俗戏曲风格恐游 Demo |
+| ⚠️ 别眨眼 | 梦核/阈限空间心理恐怖 | 未知（未知） | 即将发售 | 2026-10-10 | https://www.bilibili.com/video/BV17Kp46YEZN | 1638 | 霸凌后坠入后室；梦核恐怖 |
+| 1999保密协议 | AI互动影游 | 未知（未知） | 商店页上线 | 2026-10-10 | https://www.bilibili.com/video/BV1uiao6oEmy | 1292 | 天命重启原班/暖铁互动；AI影游 |
+| Duola Mage | 二次元动作肉鸽（AI开发） | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1xZHW6TE9n | 7698 | 自称无站外宣发；AI/UGC编辑器开发 |
+| ⚠️ 镇邪2 | 中式民俗联机抓鬼 | 未知（未知） | 首发宣传 | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | 110.5万 | 多人联机+抓鬼炼尸+画符+下墓摸金 |
+| ⚠️ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；扮道士单元剧 |

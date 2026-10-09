@@ -1,0 +1,155 @@
+{
+ "baseline": false,
+ "date": "2026-10-10",
+ "id": "2026-10-10",
+ "image_count": 0,
+ "images": [],
+ "md": "# 2026-10-10 日报\n\n<!-- added:2026-10-10 -->\n\n对照基准：`state/***.md`（本轮 Step0 已刷新：*** HEAD `b83be931` WorkbenchHub 接线；***Story 无新 commit）。B 站登录有效（`ydttteng`）。本文件为**主日报骨架**；同日非竞品深挖见 `reports/2026-10-10-z-batch*.md`（勿删）。\n\n## 今日结论速览\n\n- **新增项目：10**（写入 `tracked_projects.md` + `state/`，`found=2026-10-10`）\n- **热度显著更新：3**（追境、太渊无朔、你就是缘由 state 追加「2026-10-10 关注度」）\n- **多数竞品相对昨日持平**（见下表）\n- **阻塞**：小红书未登录，跳过；新发现档案多为初建，评论/弹幕/Steam 深挖标为缺口\n\n---\n\n## 【竞品专区】\n\n<!-- added:2026-10-10 -->\n\n### 热度差分（登录态 view，相对档案/总表旧值）\n\n数据源：`tmp/heat_delta_2026-10-10.tsv`（并参考父代理 `tmp/heat_2026-10-10.tsv`）。**已剔除同名污染**：请神 BV1gE411y7q8=「打鬼请神」动画重置版（非游戏）；重启相关 BV1EAHX6qErs=《坠落男孩》；你就是缘由 BV1kpep6xEkz=歌曲；乌合之众部分「群体心理学」书评条未计入游戏热度。见诡录代表高播是 Z贤者等实况（约443万级），官号发售帖 BV1rBX6Y9Euf 仅约4828——父代理 TSV 里的见诡录 seed 低播数是官帖，不是热度塌陷。\n\n| 竞品 | 核对结论 | 明细（核验后相关条） |\n|---|---|---|\n| ⚠️ 追境 | **显著升温（相对）** | 官方 PV 201→**351**（+74.6%） |\n| ⚠️ 太渊无朔 | **显著升温（相对）** | 代表条 2474→**3117**（+26%）；更新说明片 +2.2% |\n| ⚠️ 你就是缘由 | **小幅升温** | 宣发条 652→**792**（+21.5%）；Demo≈10-23 |\n| ⚠️ 童年诡事录 | 持平略增 | king17 试玩 246.1万≈持平；歪芙芙/橪韭等次条 +0.5%～1.4% |\n| ⚠️ 请神（游戏） | 持平 | 核验后相关：笨尼尼子≈38.0万、配音实况≈6.2万、万字精讲≈5.5万；污染条「打鬼请神」269万不计入 |\n| ⚠️ 乌合之众 | 持平 | 定档解说≈1.49万；游戏向定档讨论约5.6万；昆兰叔解说约202万仍在 |\n| ⚠️ 京门之下 | 持平略降 | 首曝 PV 2.18万（约 -0.9%） |\n| ⚠️ 黑水镇 | 持平 | 官方实机演示 9052 不变；仍受 RDR2/仙剑同名污染 |\n| ⚠️ 见诡录：阴魂街 | 持平 | 前五实况合计仍约千万级；官帖≈4828 |\n| ⚠️ 随侯珠 / 声探疑云 / 七号患者 / 棺门 / 烟雨山 / 见诡 / 小先生 / 妄生 / 诡偶 / 泯灭 / 南亭湖 | 持平或 ±3% 内微动 | 详见 tsv |\n\n**热度亮点（3–5）**\n\n1. **追境** 官方 PV 一日内相对涨幅最大（仍绝对低热）。\n2. **太渊无朔** 代表实机 +26%，个人民俗 ARPG 小圈仍在动。\n3. **你就是缘由** 临近 Demo 窗口小幅爬升。\n4. **童年诡事录** 仍是民俗池绝对高热，但头部试玩评论密度依旧极低（流量≠讨论）。\n5. **新发现《镇尸》《无人》《阴界诡录：尸语公寓》** 单条实况即破百万/七十万，找异常赛道继续挤占「中式恐怖」推荐位。\n\n完整差分写入：`state/BV15GHX6hEjk.md`、`state/BV1btHC6bEVr.md`、`state/BV1NVH96SETa.md`（`## 2026-10-10 关注度`）。\n\n### 今日新增竞品向（摘要）\n\n| 名称 | 代表播 | 一句话 | 档案 |\n|---|---|---|---|\n| ⚠️ 镇尸 | 122.6万 | 中式找异常；南译速通爆 | `state/BV1rAbp66EV1.md` |\n| ⚠️ 无人 | 110.2万 | 中式梦核找异常；C菌全流程 | `state/BV1WGqhYdEjx.md` |\n| ⚠️ 镇邪2 | 110.5万 | 联机抓鬼炼尸摸金宣传片 | `state/BV15ZijeREHG.md` |\n| ⚠️ 阴界诡录：尸语公寓 | 71.0万 | 公寓找异常系列 | `state/BV1E3NgzWEVh.md` |\n| ⚠️ 萦回 / 冥娘引 / 别眨眼 / 论道聊斋 | 低热 | 民俗/梦核 Demo 或即将发售 | 对应 state |\n\n初建档案已标明评论/Steam/官方信息**缺口**，未编造评价。\n\n---\n\n## 【B站】\n\n<!-- added:2026-10-10 -->\n\n### 发现方法\n\n关键词（pubdate）：中式民俗恐怖独立游戏 / 中式恐怖 Demo / 志怪独立游戏 / 互动影游 AI / 梦核恐怖 / 找异常 中式恐怖 等。登录 cookie 有效。\n\n### 今日无「全站随机新类型」爆款以外\n\n民俗/恐怖池内新增以**找异常**与**低热 Demo**为主；动作/二游高热项多已在昨日总表（见 batch 报告）。若只论「昨日总表未收录」：上表 10 项已入库。\n\n### 同名污染备忘（今日再确认）\n\n- 请神 / 黑水镇 / 随侯珠 / 诡偶 / 镇尸 / 萦回 / 冥娘引 / 别眨眼：搜索必须带游戏名全称+「游戏/Demo」，否则电影、歌曲、他作会污染热度。\n\n---\n\n## 【小红书】\n\n<!-- added:2026-10-10 -->\n\n未登录 / 无可用浏览器 cookie，**本轮跳过**（见 `xhs/2026-10-10-skip.txt`）。不发帖。\n\n---\n\n## 【AI】\n\n<!-- added:2026-10-10 -->\n\n- **1999保密协议**：暖铁互动 /《天命重启》原班，AI 互动影游，Steam 商店页已挂（低热宣发）。档案：`state/BV1uiao6oEmy.md`\n- **Duola Mage**：开发者自称 CodexAI/UGC 编辑器开发、无站外宣发上架；B 站自述帖约 7698 播。档案：`state/BV1xZHW6TE9n.md`\n- 既有池《京门之下》《重启：工作日》《黑水镇》今日热度持平——AI 影游供给增、单作热度未必涨。\n\n---\n\n## 【X】\n\n<!-- added:2026-10-10 -->\n\n要点摘自 `x/2026-10-10-notes.md`（公开检索，非 @wubuguiqqq 主时间线），并补一轮 indiedev 近况检索：\n\n- **反 AI / 盗作焦虑**：Belfrost 推迟恐怖作官宣；大模型反编译 Unity/Godot 独立作讨论升温。\n- **AI 制作样本**：木马人假期做黑神话味武侠 ARPG 拟小红书售卖；Tripo+Three.js 浏览器 F1 Demo；Finn 三人天跑通解压小游戏全流程。\n- **发售信号**：《恐迫症》(Obsessive) 和风视线逃脱 Steam 发售；《Duola Mage》无宣发上架叙事。\n- **海外 indie horror 碎片**：公寓心理恐怖（可交互微波炉）、Dendrophobia 酒店挖过去、Urbexia 1998 发售、Detour: Amygdala 预告等——中式民俗竞品在本轮英文圈检索里弱于通用 horror/AI 话题。\n\n对《***》：海外负面焦点在「AI 可复制」，与自研「AI 素材+质检纪律」同赛道不同立场；国内发现侧则是**找异常中式恐怖继续分流实况流量**。\n\n---\n\n## 附录：文件与阻塞\n\n| 项 | 状态 |\n|---|---|\n| 主日报 | 本文件 |\n| 热度明细 | `tmp/heat_delta_2026-10-10.tsv` / `tmp/heat_refresh_2026-10-10.json` |\n| 父代理热度种子 | `tmp/heat_2026-10-10.tsv`（已交叉核验污染） |\n| X 笔记 | `x/2026-10-10-notes.md` |\n| 小红书 | 跳过 |\n| publish.sh | **未运行**（父代理统一发布） |\n| *** / ***Story | 只读，无 commit |\n\n",
+ "new": "",
+ "projects": [
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1E3NgzWEVh",
+   "name": "阴界诡录：尸语公寓"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1SjeP62EMn",
+   "name": "萦回"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1AtYE6kESe",
+   "name": "冥娘引"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "id": "BV1xZHW6TE9n",
+   "name": "Duola Mage"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "id": "BV1uiao6oEmy",
+   "name": "1999保密协议"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1vLFCzwEq1.jpg",
+   "id": "BV1vLFCzwEq1",
+   "name": "黑水镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1o7ht6pEgQ.jpg",
+   "id": "BV1o7ht6pEgQ",
+   "name": "随侯珠"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/jianguilu-yinhunjie.jpg",
+   "id": "BV1rBX6Y9Euf",
+   "name": "见诡录：阴魂街"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1J6eb6MEhr.jpg",
+   "id": "BV1J6eb6MEhr",
+   "name": "见诡"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "id": "p-082fe23aab",
+   "name": "***（***）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "id": "BV1btHC6bEVr",
+   "name": "太渊无朔"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SXYj6mE1g.jpg",
+   "id": "BV1SXYj6mE1g",
+   "name": "京门之下"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "id": "BV1mSa76yEor",
+   "name": "乌合之众"
+  }
+ ],
+ "sections": [
+  "今日结论速览",
+  "【竞品专区】",
+  "【B站】",
+  "【小红书】",
+  "【AI】",
+  "【X】",
+  "附录：文件与阻塞"
+ ],
+ "summary": "竞品热度差分（多数持平；追境/太渊/你就是缘由相对升温）+ 新发现10项（镇尸/无人/阴界诡录等）+ X AI/反AI要点；小红书跳过。",
+ "title": "2026-10-10 日报",
+ "updated": ""
+}

@@ -30,12 +30,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1uGew6kE5H.jpg",
-   "id": "BV1uGew6kE5H",
-   "name": "黑箱：无限构筑"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1E9hq6SEW5.jpg",
    "id": "BV1E9hq6SEW5",
    "name": "黎明门前的吹笛人"
@@ -135,12 +129,6 @@
    "cover": "covers/BV1Quew6CEMB.jpg",
    "id": "BV1Quew6CEMB",
    "name": "轮回保险公司"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1dgeM6TEGL.jpg",
-   "id": "BV1dgeM6TEGL",
-   "name": "车水马龙"
   },
   {
    "competitor": true,
@@ -360,12 +348,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1R7ar69EKk.jpg",
-   "id": "BV1R7ar69EKk",
-   "name": "无誓者"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1ygYd6UEui.jpg",
    "id": "BV1ygYd6UEui",
    "name": "文字游戏"
@@ -381,12 +363,6 @@
    "cover": "covers/BV1Sbhx6TE9f.jpg",
    "id": "BV1Sbhx6TE9f",
    "name": "摇摇晃晃去旅行"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1yKYg6RErh.jpg",
-   "id": "BV1yKYg6RErh",
-   "name": "捉迷藏"
   },
   {
    "competitor": false,
@@ -414,99 +390,9 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1wYHU6hEED.jpg",
-   "id": "BV1wYHU6hEED",
-   "name": "心渊光谱"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Tsps6kEju.jpg",
-   "id": "BV1Tsps6kEju",
-   "name": "影之刃零"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1rdYy6EEY5.jpg",
-   "id": "BV1rdYy6EEY5",
-   "name": "异病侦探"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Rsh86xEiW.jpg",
-   "id": "BV1Rsh86xEiW",
-   "name": "小小收藏家"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1yNhE66Ev9.jpg",
-   "id": "BV1yNhE66Ev9",
-   "name": "守墓人2"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1yph76uEdF.jpg",
    "id": "BV1yph76uEdF",
    "name": "奇遇动物城"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1hta36vEsb.jpg",
-   "id": "BV1hta36vEsb",
-   "name": "太吾绘卷"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1nnHh61E5v.jpg",
-   "id": "BV1nnHh61E5v",
-   "name": "天火行动"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1dztJ6sE6T.jpg",
-   "id": "BV1dztJ6sE6T",
-   "name": "大宋汴京梦华录"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1gfYu68EHB.jpg",
-   "id": "BV1gfYu68EHB",
-   "name": "夜园游记"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1b2eu6aEs9.jpg",
-   "id": "BV1b2eu6aEs9",
-   "name": "外星来信"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV19Qeb6fErq.jpg",
-   "id": "BV19Qeb6fErq",
-   "name": "墨境"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1LDaU6LEAR.jpg",
-   "id": "BV1LDaU6LEAR",
-   "name": "墓后营生"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV168hS69EgX.jpg",
-   "id": "BV168hS69EgX",
-   "name": "塞爆魔窟"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1WSaf6dERw.jpg",
-   "id": "BV1WSaf6dERw",
-   "name": "城市蓝图"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1t4Ys6qETp.jpg",
-   "id": "BV1t4Ys6qETp",
-   "name": "坠入昨日"
   },
   {
    "competitor": false,
@@ -516,153 +402,9 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1j4ez6oEJ6.jpg",
-   "id": "BV1j4ez6oEJ6",
-   "name": "叠叠不休"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1emHx6QEVi.jpg",
-   "id": "BV1emHx6QEVi",
-   "name": "受肉症"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1XoHX68E2s.jpg",
-   "id": "BV1XoHX68E2s",
-   "name": "博丽神社繁盛记"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV19Apu6rEYa.jpg",
-   "id": "BV19Apu6rEYa",
-   "name": "勇者小队全灭了。"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1c6aE66Eyn.jpg",
-   "id": "BV1c6aE66Eyn",
-   "name": "剑侠世界4：无限"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Rpbs6vEKb.jpg",
-   "id": "BV1Rpbs6vEKb",
-   "name": "傀纪元：悟道"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1kueU6cER1.jpg",
-   "id": "BV1kueU6cER1",
-   "name": "修仙风云"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV18Wt26nEaL.jpg",
-   "id": "BV18Wt26nEaL",
-   "name": "仙乡小千金"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1AeaA68ET2.jpg",
-   "id": "BV1AeaA68ET2",
-   "name": "云海战记"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1XpYL6EEXx.jpg",
-   "id": "BV1XpYL6EEXx",
-   "name": "九阴真经（新作）"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1wfhR6gEMx.jpg",
-   "id": "BV1wfhR6gEMx",
-   "name": "东方天试院"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1BdYQ6aESB.jpg",
    "id": "BV1BdYQ6aESB",
    "name": "不问凡尘"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1jshE6oEtT.jpg",
-   "id": "BV1jshE6oEtT",
-   "name": "三国杀·烽烟策"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1fAhH6BEGP.jpg",
-   "id": "BV1fAhH6BEGP",
-   "name": "三国乱世苍生"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1HFY162Es1.jpg",
-   "id": "BV1HFY162Es1",
-   "name": "万象之环"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1ReHQ64ET5.jpg",
-   "id": "BV1ReHQ64ET5",
-   "name": "七日之馆"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Tkao6XETQ.jpg",
-   "id": "BV1Tkao6XETQ",
-   "name": "Ved：疗愈所"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1GpYf6MECB.jpg",
-   "id": "BV1GpYf6MECB",
-   "name": "ThirdBloc"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV11XhF6RExf.jpg",
-   "id": "BV11XhF6RExf",
-   "name": "TARAE: The Unbound"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1FSh265Ee8.jpg",
-   "id": "BV1FSh265Ee8",
-   "name": "Rain98"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1USHk6sEY6.jpg",
-   "id": "BV1USHk6sEY6",
-   "name": "NPCs AI Studio"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Dxhx6uErv.jpg",
-   "id": "BV1Dxhx6uErv",
-   "name": "LocoMo"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1vApu6rE6Y.jpg",
-   "id": "BV1vApu6rE6Y",
-   "name": "ForgeTax"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1CxaW6sE8B.jpg",
-   "id": "BV1CxaW6sE8B",
-   "name": "Caliber Citadel（暂定）"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Pva86CEnY.jpg",
-   "id": "BV1Pva86CEnY",
-   "name": "ANTIMATTER"
   }
  ],
  "sections": [

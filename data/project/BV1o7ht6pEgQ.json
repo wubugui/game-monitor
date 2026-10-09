@@ -1,0 +1,34 @@
+{
+ "bvid": "BV1o7ht6pEgQ",
+ "competitor": true,
+ "cover": "",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "南方民俗视觉小说（百合）",
+ "genre_tags": [
+  "民俗/国风",
+  "叙事/剧情"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "蛇神民俗",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1o7ht6pEgQ",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1o7ht6pEgQ",
+ "name": "随侯珠",
+ "note": "蛇神民俗",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "蛇神民俗",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

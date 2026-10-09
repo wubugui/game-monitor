@@ -1,0 +1,36 @@
+{
+ "bvid": "BV1btHC6bEVr",
+ "competitor": true,
+ "cover": "covers/BV1btHC6bEVr.jpg",
+ "dev_type": "未知",
+ "developer": "未知（官方号）",
+ "found": "2026-10-09",
+ "genre": "中式民俗恐怖 ARPG 刷宝",
+ "genre_tags": [
+  "恐怖",
+  "民俗/国风",
+  "动作",
+  "RPG"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "黄皮子讨封、鬼新娘、挖古墓；demo 已上线 BV1yhHr6UEZT",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1btHC6bEVr",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1btHC6bEVr",
+ "name": "太渊无朔",
+ "note": "黄皮子讨封、鬼新娘、挖古墓；demo 已上线 BV1yhHr6UEZT",
+ "source": "B站",
+ "status": "已发售",
+ "status_inferred": true,
+ "summary": "黄皮子讨封、鬼新娘、挖古墓；demo 已上线 BV1yhHr6UEZT",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

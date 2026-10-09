@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1wYHU6hEED",
+ "competitor": false,
+ "cover": "covers/BV1wYHU6hEED.jpg",
+ "dev_type": "小团队",
+ "developer": "小团队（北大学生团队）",
+ "found": "2026-10-09",
+ "genre": "原创 galgame",
+ "genre_tags": [
+  "叙事/剧情"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "首曝 OP 和 PV",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1wYHU6hEED",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1wYHU6hEED",
+ "name": "心渊光谱",
+ "note": "首曝 OP 和 PV",
+ "source": "B站",
+ "status": "首曝",
+ "status_inferred": true,
+ "summary": "首曝 OP 和 PV",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1Kxaj6GEmu",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "未知",
+ "developer": "未知（Waytoon）",
+ "found": "2026-10-09",
+ "genre": "坦克小游戏（AI 宣发案例）",
+ "genre_tags": [
+  "AI 驱动"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "Opus 5.5 自己导演、录制、剪辑宣传片",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1Kxaj6GEmu",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1Kxaj6GEmu",
+ "name": "MiniTanks",
+ "note": "Opus 5.5 自己导演、录制、剪辑宣传片",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "Opus 5.5 自己导演、录制、剪辑宣传片",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

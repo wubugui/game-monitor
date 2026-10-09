@@ -1,0 +1,35 @@
+{
+ "bvid": "BV15GHX6hEjk",
+ "competitor": true,
+ "cover": "covers/BV15GHX6hEjk.jpg",
+ "dev_type": "小团队",
+ "developer": "小团队（自称）",
+ "found": "2026-10-09",
+ "genre": "北宋国风听觉解谜（剧情向）",
+ "genre_tags": [
+  "民俗/国风",
+  "叙事/剧情",
+  "悬疑/解谜"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "首曝 PV，愿望单已开",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV15GHX6hEjk",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV15GHX6hEjk",
+ "name": "追境",
+ "note": "首曝 PV，愿望单已开",
+ "source": "B站",
+ "status": "首曝",
+ "status_inferred": true,
+ "summary": "首曝 PV，愿望单已开",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

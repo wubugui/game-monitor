@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1WSaf6dERw",
+ "competitor": false,
+ "cover": "covers/BV1WSaf6dERw.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "城市建造模拟经营",
+ "genre_tags": [
+  "模拟经营"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "新实机，道路和立交",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1WSaf6dERw",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1WSaf6dERw",
+ "name": "城市蓝图",
+ "note": "新实机，道路和立交",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "新实机，道路和立交",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

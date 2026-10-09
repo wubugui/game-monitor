@@ -1,0 +1,36 @@
+{
+ "bvid": "BV1GhHS6QECw",
+ "competitor": true,
+ "cover": "covers/BV1GhHS6QECw.jpg",
+ "dev_type": "小团队",
+ "developer": "未知（NOXlabs 工作室）",
+ "found": "2026-10-09",
+ "genre": "悬疑恐怖 AI 互动影游",
+ "genre_tags": [
+  "恐怖",
+  "悬疑/解谜",
+  "互动影游",
+  "AI 驱动"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "七日循环工作日",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1GhHS6QECw",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1GhHS6QECw",
+ "name": "重启：工作日",
+ "note": "七日循环工作日",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "七日循环工作日",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

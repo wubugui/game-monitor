@@ -1,0 +1,36 @@
+{
+ "bvid": "BV1SXYj6mE1g",
+ "competitor": true,
+ "cover": "covers/BV1SXYj6mE1g.jpg",
+ "dev_type": "未知",
+ "developer": "未知（司命互动影游）",
+ "found": "2026-10-09",
+ "genre": "国风悬疑 AI 互动影游",
+ "genre_tags": [
+  "民俗/国风",
+  "悬疑/解谜",
+  "互动影游",
+  "AI 驱动"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "刑房女书吏查县衙命案，标签 AIGC；10-08 官方发了“即将上线” BV1C3HS6eE18",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1SXYj6mE1g",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1SXYj6mE1g",
+ "name": "京门之下",
+ "note": "刑房女书吏查县衙命案，标签 AIGC；10-08 官方发了“即将上线” BV1C3HS6eE18",
+ "source": "B站",
+ "status": "即将发售",
+ "status_inferred": true,
+ "summary": "刑房女书吏查县衙命案，标签 AIGC；10-08 官方发了“即将上线” BV1C3HS6eE18",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

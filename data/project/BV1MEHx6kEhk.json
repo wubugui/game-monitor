@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1MEHx6kEhk",
+ "competitor": false,
+ "cover": "covers/BV1MEHx6kEhk.jpg",
+ "dev_type": "未知",
+ "developer": "未知（官方号）",
+ "found": "2026-10-09",
+ "genre": "像素 ARPG（解谜、制作、烹饪）",
+ "genre_tags": [
+  "悬疑/解谜",
+  "动作",
+  "RPG"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "首支实机 PV，5.3 万播放",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1MEHx6kEhk",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1MEHx6kEhk",
+ "name": "约书亚：梦境之门",
+ "note": "首支实机 PV，5.3 万播放",
+ "source": "B站",
+ "status": "首曝",
+ "status_inferred": true,
+ "summary": "首支实机 PV，5.3 万播放",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

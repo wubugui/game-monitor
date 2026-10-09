@@ -1,0 +1,35 @@
+{
+ "bvid": "BV19Apu6rEYa",
+ "competitor": false,
+ "cover": "covers/BV19Apu6rEYa.jpg",
+ "dev_type": "未知",
+ "developer": "未知（Neverland）",
+ "found": "2026-10-09",
+ "genre": "剧情驱动肉鸽 RPG",
+ "genre_tags": [
+  "叙事/剧情",
+  "肉鸽/构筑",
+  "RPG"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "15 万愿望单，11-10 发售",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV19Apu6rEYa",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV19Apu6rEYa",
+ "name": "勇者小队全灭了。",
+ "note": "15 万愿望单，11-10 发售",
+ "source": "B站",
+ "status": "即将发售",
+ "status_inferred": true,
+ "summary": "15 万愿望单，11-10 发售",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

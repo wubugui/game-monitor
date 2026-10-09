@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1USHk6sEY6",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "个人",
+ "developer": "个人",
+ "found": "2026-10-09",
+ "genre": "开源 AI 叙事/对白工具",
+ "genre_tags": [
+  "叙事/剧情",
+  "AI 驱动",
+  "工具/行业"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "github.com/koronto11/ludo-npc-ai",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1USHk6sEY6",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1USHk6sEY6",
+ "name": "NPCs AI Studio（工具）",
+ "note": "github.com/koronto11/ludo-npc-ai",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "github.com/koronto11/ludo-npc-ai",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

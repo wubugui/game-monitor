@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1kueU6cER1",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "个人",
+ "developer": "个人（“我一个人 + AI”）",
+ "found": "2026-10-09",
+ "genre": "修仙单机（Godot）",
+ "genre_tags": [
+  "民俗/国风"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "用 AI 统一成千里江山图画风",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1kueU6cER1",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1kueU6cER1",
+ "name": "修仙风云",
+ "note": "用 AI 统一成千里江山图画风",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "用 AI 统一成千里江山图画风",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

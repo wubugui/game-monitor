@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1R7ar69EKk",
+ "competitor": false,
+ "cover": "covers/BV1R7ar69EKk.jpg",
+ "dev_type": "个人",
+ "developer": "个人（简介自称“本人”）",
+ "found": "2026-10-09",
+ "genre": "类魂动作（UE）",
+ "genre_tags": [
+  "动作"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "31 万播放；暂用了《血源》的动作和音效",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1R7ar69EKk",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1R7ar69EKk",
+ "name": "无誓者",
+ "note": "31 万播放；暂用了《血源》的动作和音效",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "31 万播放；暂用了《血源》的动作和音效",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

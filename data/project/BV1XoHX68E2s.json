@@ -1,0 +1,34 @@
+{
+ "bvid": "BV1XoHX68E2s",
+ "competitor": false,
+ "cover": "covers/BV1XoHX68E2s.jpg",
+ "dev_type": "未知",
+ "developer": "未知（NikusonP）",
+ "found": "2026-10-09",
+ "genre": "东方同人像素经营/增量",
+ "genre_tags": [
+  "民俗/国风",
+  "模拟经营"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "标题称“烧了76亿Token”做出来；美术和音乐还在打磨",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1XoHX68E2s",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1XoHX68E2s",
+ "name": "博丽神社繁盛记",
+ "note": "标题称“烧了76亿Token”做出来；美术和音乐还在打磨",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "标题称“烧了76亿Token”做出来；美术和音乐还在打磨",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

@@ -1,0 +1,33 @@
+{
+ "bvid": "BV1g9ad64EZj",
+ "competitor": true,
+ "cover": "covers/BV1g9ad64EZj.jpg",
+ "dev_type": "未知",
+ "developer": "未知（《疑案追声》原团队）",
+ "found": "2026-10-09",
+ "genre": "寻声探案解谜",
+ "genre_tags": [
+  "悬疑/解谜"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "已开发 1 年多，进入配音阶段",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1g9ad64EZj",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1g9ad64EZj",
+ "name": "声探疑云",
+ "note": "已开发 1 年多，进入配音阶段",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "已开发 1 年多，进入配音阶段",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

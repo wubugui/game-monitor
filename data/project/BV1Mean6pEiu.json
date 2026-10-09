@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1Mean6pEiu",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "大厂",
+ "developer": "大厂（米哈游）",
+ "found": "2026-10-09",
+ "genre": "AI NPC 生活模拟",
+ "genre_tags": [
+  "模拟经营",
+  "AI 驱动",
+  "工具/行业"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "云栖大会：NPC 共享记忆、自我进化",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1Mean6pEiu",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1Mean6pEiu",
+ "name": "星布谷地（行业参考）",
+ "note": "云栖大会：NPC 共享记忆、自我进化",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "云栖大会：NPC 共享记忆、自我进化",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

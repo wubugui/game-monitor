@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1NVH96SETa",
+ "competitor": true,
+ "cover": "covers/BV1NVH96SETa.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "中式县城校园心理恐怖像素 RPG",
+ "genre_tags": [
+  "恐怖",
+  "民俗/国风",
+  "RPG"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "demo 10-23 上 Steam",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1NVH96SETa",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1NVH96SETa",
+ "name": "你就是缘由",
+ "note": "demo 10-23 上 Steam",
+ "source": "B站",
+ "status": "Demo",
+ "status_inferred": true,
+ "summary": "demo 10-23 上 Steam",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

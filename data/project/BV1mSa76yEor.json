@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1mSa76yEor",
+ "competitor": true,
+ "cover": "covers/BV1mSa76yEor.jpg",
+ "dev_type": "未知",
+ "developer": "未知（NanZhai Games）",
+ "found": "2026-10-09",
+ "genre": "中式民俗悬疑/黑色幽默剧情",
+ "genre_tags": [
+  "民俗/国风",
+  "叙事/剧情",
+  "悬疑/解谜"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "定档 2027 年 3 月",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1mSa76yEor",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1mSa76yEor",
+ "name": "乌合之众",
+ "note": "定档 2027 年 3 月",
+ "source": "B站",
+ "status": "即将发售",
+ "status_inferred": true,
+ "summary": "定档 2027 年 3 月",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

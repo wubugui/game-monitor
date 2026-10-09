@@ -1,0 +1,34 @@
+{
+ "bvid": "BV1wiaU6REqS",
+ "competitor": true,
+ "cover": "covers/BV1wiaU6REqS.jpg",
+ "dev_type": "个人",
+ "developer": "个人",
+ "found": "2026-10-09",
+ "genre": "叙事/模拟经营",
+ "genre_tags": [
+  "叙事/剧情",
+  "模拟经营"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "一个人两个月全程用 AI 做；“逝者怀念生者”主题",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1wiaU6REqS",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1wiaU6REqS",
+ "name": "记忆重现局",
+ "note": "一个人两个月全程用 AI 做；“逝者怀念生者”主题",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "一个人两个月全程用 AI 做；“逝者怀念生者”主题",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

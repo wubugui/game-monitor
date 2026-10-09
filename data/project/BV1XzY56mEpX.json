@@ -1,0 +1,35 @@
+{
+ "bvid": "BV1XzY56mEpX",
+ "competitor": false,
+ "cover": "covers/BV1XzY56mEpX.jpg",
+ "dev_type": "未知",
+ "developer": "未知（有 UP 主称其为“字节游戏”出品）",
+ "found": "2026-10-09",
+ "genre": "AI 修仙 RPG（AI NPC）",
+ "genre_tags": [
+  "民俗/国风",
+  "RPG",
+  "AI 驱动"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "NPC 有记忆、亲密度；9 月下旬抢先体验，主播覆盖面很大",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV1XzY56mEpX",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV1XzY56mEpX",
+ "name": "不问凡尘",
+ "note": "NPC 有记忆、亲密度；9 月下旬抢先体验，主播覆盖面很大",
+ "source": "B站",
+ "status": "抢先体验",
+ "status_inferred": true,
+ "summary": "NPC 有记忆、亲密度；9 月下旬抢先体验，主播覆盖面很大",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

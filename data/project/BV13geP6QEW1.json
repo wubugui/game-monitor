@@ -1,0 +1,35 @@
+{
+ "bvid": "BV13geP6QEW1",
+ "competitor": false,
+ "cover": "",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "AI Agent 驱动的悬疑推理加恋爱",
+ "genre_tags": [
+  "叙事/剧情",
+  "悬疑/解谜",
+  "AI 驱动"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "found",
+   "md": "角色大脑和剧情交给 AI Agent；近 14 天在 B 站没搜到新视频",
+   "title": "首次发现"
+  }
+ ],
+ "id": "BV13geP6QEW1",
+ "images": [],
+ "intro": "",
+ "link": "https://www.bilibili.com/video/BV13geP6QEW1",
+ "name": "图灵证言",
+ "note": "角色大脑和剧情交给 AI Agent；近 14 天在 B 站没搜到新视频",
+ "source": "B站",
+ "status": "开发中",
+ "status_inferred": true,
+ "summary": "角色大脑和剧情交给 AI Agent；近 14 天在 B 站没搜到新视频",
+ "tags": [],
+ "update_count": 0,
+ "updated": "2026-10-09"
+}

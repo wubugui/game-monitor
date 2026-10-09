@@ -1,0 +1,204 @@
+独立游戏|pubdate|1
+独立游戏|pubdate|2
+独立游戏|pubdate|3
+独立游戏|pubdate|4
+独立游戏|click|1
+独立游戏|click|2
+国产独立游戏|pubdate|1
+国产独立游戏|pubdate|2
+国产独立游戏|pubdate|3
+国产独立游戏|pubdate|4
+国产独立游戏|click|1
+国产独立游戏|click|2
+国产单机|pubdate|1
+国产单机|pubdate|2
+国产单机|pubdate|3
+国产单机|pubdate|4
+国产单机|click|1
+国产单机|click|2
+独立开发者|pubdate|1
+独立开发者|pubdate|2
+独立开发者|pubdate|3
+独立开发者|pubdate|4
+独立开发者|click|1
+独立开发者|click|2
+个人开发 游戏|pubdate|1
+个人开发 游戏|pubdate|2
+个人开发 游戏|pubdate|3
+个人开发 游戏|pubdate|4
+个人开发 游戏|click|1
+个人开发 游戏|click|2
+一个人做游戏|pubdate|1
+一个人做游戏|pubdate|2
+一个人做游戏|pubdate|3
+一个人做游戏|pubdate|4
+一个人做游戏|click|1
+一个人做游戏|click|2
+游戏开发日志|pubdate|1
+游戏开发日志|pubdate|2
+游戏开发日志|pubdate|3
+游戏开发日志|pubdate|4
+游戏开发日志|click|1
+游戏开发日志|click|2
+devlog 游戏|pubdate|1
+devlog 游戏|pubdate|2
+devlog 游戏|pubdate|3
+devlog 游戏|pubdate|4
+devlog 游戏|click|1
+devlog 游戏|click|2
+首曝PV 游戏|pubdate|1
+首曝PV 游戏|pubdate|2
+首曝PV 游戏|pubdate|3
+首曝PV 游戏|pubdate|4
+首曝PV 游戏|click|1
+首曝PV 游戏|click|2
+实机PV|pubdate|1
+实机PV|pubdate|2
+实机PV|pubdate|3
+实机PV|pubdate|4
+实机PV|click|1
+实机PV|click|2
+实机演示 独立游戏|pubdate|1
+实机演示 独立游戏|pubdate|2
+实机演示 独立游戏|pubdate|3
+实机演示 独立游戏|pubdate|4
+实机演示 独立游戏|click|1
+实机演示 独立游戏|click|2
+demo 试玩 游戏|pubdate|1
+demo 试玩 游戏|pubdate|2
+demo 试玩 游戏|pubdate|3
+demo 试玩 游戏|pubdate|4
+demo 试玩 游戏|click|1
+demo 试玩 游戏|click|2
+试玩版 国产|pubdate|1
+试玩版 国产|pubdate|2
+试玩版 国产|pubdate|3
+试玩版 国产|pubdate|4
+试玩版 国产|click|1
+试玩版 国产|click|2
+Steam新品节|pubdate|1
+Steam新品节|pubdate|2
+Steam新品节|pubdate|3
+Steam新品节|pubdate|4
+Steam新品节|click|1
+Steam新品节|click|2
+愿望单 游戏|pubdate|1
+愿望单 游戏|pubdate|2
+愿望单 游戏|pubdate|3
+愿望单 游戏|pubdate|4
+愿望单 游戏|click|1
+愿望单 游戏|click|2
+摩点众筹 游戏|pubdate|1
+摩点众筹 游戏|pubdate|2
+摩点众筹 游戏|click|1
+摩点众筹 游戏|click|2
+抢先体验 国产|pubdate|1
+抢先体验 国产|pubdate|2
+抢先体验 国产|click|1
+定档 独立游戏|pubdate|1
+定档 独立游戏|pubdate|2
+定档 独立游戏|pubdate|3
+定档 独立游戏|click|1
+发售 独立游戏|pubdate|1
+发售 独立游戏|pubdate|2
+发售 独立游戏|pubdate|3
+发售 独立游戏|pubdate|4
+发售 独立游戏|click|1
+发售 独立游戏|click|2
+上线 steam 国产|pubdate|1
+上线 steam 国产|pubdate|2
+上线 steam 国产|pubdate|3
+上线 steam 国产|click|1
+上线 steam 国产|click|2
+肉鸽 独立游戏|pubdate|1
+肉鸽 独立游戏|pubdate|2
+肉鸽 独立游戏|pubdate|3
+肉鸽 独立游戏|pubdate|4
+肉鸽 独立游戏|click|1
+肉鸽 独立游戏|click|2
+塔防 独立游戏|pubdate|1
+塔防 独立游戏|pubdate|2
+塔防 独立游戏|pubdate|3
+塔防 独立游戏|pubdate|4
+塔防 独立游戏|click|1
+塔防 独立游戏|click|2
+自走棋 独立游戏|pubdate|1
+自走棋 独立游戏|pubdate|2
+自走棋 独立游戏|pubdate|3
+自走棋 独立游戏|pubdate|4
+自走棋 独立游戏|click|1
+自走棋 独立游戏|click|2
+搜打撤 独立游戏|pubdate|1
+搜打撤 独立游戏|pubdate|2
+搜打撤 独立游戏|pubdate|3
+搜打撤 独立游戏|pubdate|4
+搜打撤 独立游戏|click|1
+搜打撤 独立游戏|click|2
+卡牌构筑 独立游戏|pubdate|1
+卡牌构筑 独立游戏|pubdate|2
+卡牌构筑 独立游戏|pubdate|3
+卡牌构筑 独立游戏|pubdate|4
+卡牌构筑 独立游戏|click|1
+卡牌构筑 独立游戏|click|2
+模拟经营 独立游戏|pubdate|1
+模拟经营 独立游戏|pubdate|2
+模拟经营 独立游戏|pubdate|3
+模拟经营 独立游戏|pubdate|4
+模拟经营 独立游戏|click|1
+模拟经营 独立游戏|click|2
+种田 独立游戏|pubdate|1
+种田 独立游戏|pubdate|2
+种田 独立游戏|pubdate|3
+种田 独立游戏|pubdate|4
+种田 独立游戏|click|1
+种田 独立游戏|click|2
+城建 独立游戏|pubdate|1
+城建 独立游戏|pubdate|2
+城建 独立游戏|click|1
+动作游戏 独立游戏|pubdate|1
+动作游戏 独立游戏|pubdate|2
+动作游戏 独立游戏|pubdate|3
+动作游戏 独立游戏|pubdate|4
+动作游戏 独立游戏|click|1
+动作游戏 独立游戏|click|2
+类魂 独立游戏|pubdate|1
+类魂 独立游戏|pubdate|2
+类魂 独立游戏|pubdate|3
+类魂 独立游戏|pubdate|4
+类魂 独立游戏|click|1
+类魂 独立游戏|click|2
+动作冒险 独立游戏|pubdate|1
+动作冒险 独立游戏|pubdate|2
+动作冒险 独立游戏|pubdate|3
+动作冒险 独立游戏|pubdate|4
+动作冒险 独立游戏|click|1
+动作冒险 独立游戏|click|2
+平台跳跃 独立游戏|pubdate|1
+平台跳跃 独立游戏|pubdate|2
+平台跳跃 独立游戏|pubdate|3
+平台跳跃 独立游戏|pubdate|4
+平台跳跃 独立游戏|click|1
+平台跳跃 独立游戏|click|2
+银河城 独立游戏|pubdate|1
+银河城 独立游戏|pubdate|2
+银河城 独立游戏|click|1
+银河城 独立游戏|click|2
+解谜游戏 独立游戏|pubdate|1
+解谜游戏 独立游戏|pubdate|2
+解谜游戏 独立游戏|pubdate|3
+解谜游戏 独立游戏|pubdate|4
+解谜游戏 独立游戏|click|1
+解谜游戏 独立游戏|click|2
+叙事游戏 独立游戏|pubdate|1
+叙事游戏 独立游戏|pubdate|2
+叙事游戏 独立游戏|pubdate|3
+叙事游戏 独立游戏|pubdate|4
+叙事游戏 独立游戏|click|1
+叙事游戏 独立游戏|click|2
+视觉小说 独立游戏|pubdate|1
+视觉小说 独立游戏|pubdate|2
+视觉小说 独立游戏|pubdate|3
+视觉小说 独立游戏|pubdate|4
+视觉小说 独立游戏|click|1
+视觉小说 独立游戏|click|2
+galgame 独立游戏|pubdate|1

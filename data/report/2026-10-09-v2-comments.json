@@ -13,6 +13,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "",
+   "id": "***",
+   "name": "***"
+  },
+  {
    "competitor": true,
    "cover": "covers/jianguilu-yinhunjie.jpg",
    "id": "BV1rBX6Y9Euf",
@@ -23,12 +29,6 @@
    "cover": "",
    "id": "p-082fe23aab",
    "name": "***（***）"
-  },
-  {
-   "competitor": false,
-   "cover": "",
-   "id": "***",
-   "name": "***"
   }
  ],
  "sections": [

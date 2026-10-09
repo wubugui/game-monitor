@@ -38,10 +38,10 @@
   "肉鸽/构筑",
   "自研"
  ],
- "latest_report": "2026-10-10-z-batch4-noncomp",
+ "latest_report": "2026-10-10-z-batch5-noncomp",
  "latest_report_date": "2026-10-10",
  "project_count": 130,
- "report_count": 9,
+ "report_count": 10,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -55,8 +55,18 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 40,
+ "today_updated": 60,
  "today_updates": [
+  {
+   "competitor": false,
+   "cover": "covers/BV1CxaW6sE8B.jpg",
+   "genre": "塔防/重炮",
+   "id": "BV1CxaW6sE8B",
+   "kind": "updated",
+   "name": "Caliber Citadel（暂定）",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "开发中"
+  },
   {
    "competitor": false,
    "cover": "covers/BV1vApu6rE6Y.jpg",
@@ -69,12 +79,32 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV11XhF6RExf.jpg",
+   "genre": "俯视角东方暗黑ARPG",
+   "id": "BV11XhF6RExf",
+   "kind": "updated",
+   "name": "TARAE: The Unbound",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1Tkao6XETQ.jpg",
    "genre": "二次元动作肉鸽",
    "id": "BV1Tkao6XETQ",
    "kind": "updated",
    "name": "Ved：疗愈所",
    "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ReHQ64ET5.jpg",
+   "genre": "洋馆悬疑",
+   "id": "BV1ReHQ64ET5",
+   "kind": "updated",
+   "name": "七日之馆",
+   "note": "团队与靠谱程度（看图+评论证据）",
    "status": "已发售"
   },
   {
@@ -109,6 +139,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1XpYL6EEXx.jpg",
+   "genre": "武侠",
+   "id": "BV1XpYL6EEXx",
+   "kind": "updated",
+   "name": "九阴真经（新作）",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1AeaA68ET2.jpg",
    "genre": "复古动作肉鸽",
    "id": "BV1AeaA68ET2",
@@ -119,6 +159,26 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV18Wt26nEaL.jpg",
+   "genre": "国风仙侠养女儿",
+   "id": "BV18Wt26nEaL",
+   "kind": "updated",
+   "name": "仙乡小千金",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1c6aE66Eyn.jpg",
+   "genre": "MMO",
+   "id": "BV1c6aE66Eyn",
+   "kind": "updated",
+   "name": "剑侠世界4：无限",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "即将发售"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV19Apu6rEYa.jpg",
    "genre": "剧情驱动肉鸽RPG",
    "id": "BV19Apu6rEYa",
@@ -126,6 +186,16 @@
    "name": "勇者小队全灭了。",
    "note": "综合评价（其他项目·批次3）",
    "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1emHx6QEVi.jpg",
+   "genre": "克苏鲁生存RPG",
+   "id": "BV1emHx6QEVi",
+   "kind": "updated",
+   "name": "受肉症",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -149,6 +219,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV168hS69EgX.jpg",
+   "genre": "背包乱斗+基地+自走棋",
+   "id": "BV168hS69EgX",
+   "kind": "updated",
+   "name": "塞爆魔窟",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1LDaU6LEAR.jpg",
    "genre": "4人合作殡仪馆经营",
    "id": "BV1LDaU6LEAR",
@@ -169,6 +249,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1dztJ6sE6T.jpg",
+   "genre": "国风经营",
+   "id": "BV1dztJ6sE6T",
+   "kind": "updated",
+   "name": "大宋汴京梦华录",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1yNhE66Ev9.jpg",
    "genre": "墓场模拟经营",
    "id": "BV1yNhE66Ev9",
@@ -179,12 +269,42 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1Rsh86xEiW.jpg",
+   "genre": "文物收集手游",
+   "id": "BV1Rsh86xEiW",
+   "kind": "updated",
+   "name": "小小收藏家",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Tsps6kEju.jpg",
+   "genre": "动作单机",
+   "id": "BV1Tsps6kEju",
+   "kind": "updated",
+   "name": "影之刃零",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV183e16wEKc.jpg",
    "genre": "狩猎RPG（手游/多端）",
    "id": "BV183e16wEKc",
    "kind": "updated",
    "name": "怪物猎人：旅人",
    "note": "综合评价（其他项目·批次3）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Sbhx6TE9f.jpg",
+   "genre": "4人合作公路旅行",
+   "id": "BV1Sbhx6TE9f",
+   "kind": "updated",
+   "name": "摇摇晃晃去旅行",
+   "note": "团队与靠谱程度（看图+评论证据）",
    "status": "首曝"
   },
   {
@@ -209,6 +329,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1gwHk6tEy9.jpg",
+   "genre": "剧情下落式音游",
+   "id": "BV1gwHk6tEy9",
+   "kind": "updated",
+   "name": "星梦旅记·域灰之梦",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1pVej6MESD.jpg",
    "genre": "暗黑刷宝",
    "id": "BV1pVej6MESD",
@@ -216,6 +346,26 @@
    "name": "暗黑西游：列妖",
    "note": "综合评价（其他项目·批次4）",
    "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV158eN6oEJZ.jpg",
+   "genre": "治愈解压",
+   "id": "BV158eN6oEJZ",
+   "kind": "updated",
+   "name": "木木屋/Woodo",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1QMh466E16.jpg",
+   "genre": "凉屋新作",
+   "id": "BV1QMh466E16",
+   "kind": "updated",
+   "name": "查无此地",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "抢先体验"
   },
   {
    "competitor": false,
@@ -299,6 +449,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1gMhi6aEgH.jpg",
+   "genre": "舰船策略手游/PC",
+   "id": "BV1gMhi6aEgH",
+   "kind": "updated",
+   "name": "秩序：新曙光",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "抢先体验"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1SaHi6kEUw.jpg",
    "genre": "蔷薇向叙事",
    "id": "BV1SaHi6kEUw",
@@ -346,6 +506,16 @@
    "name": "艾希：续",
    "note": "综合评价（其他项目·批次3）",
    "status": "众筹中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Q8ht65EDp.jpg",
+   "genre": "三国RPG",
+   "id": "BV1Q8ht65EDp",
+   "kind": "updated",
+   "name": "英雄立志传：三国志",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
   },
   {
    "competitor": false,
@@ -409,6 +579,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1doaR6eEdT.jpg",
+   "genre": "大战略",
+   "id": "BV1doaR6eEdT",
+   "kind": "updated",
+   "name": "镀金天命",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1DNa96nELZ.jpg",
    "genre": "丧尸生存",
    "id": "BV1DNa96nELZ",
@@ -429,6 +609,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV18JHz6EEyz.jpg",
+   "genre": "推理ADV",
+   "id": "BV18JHz6EEyz",
+   "kind": "updated",
+   "name": "雾雨谜宫（超侦探事件簿）",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1xsaq6YEo4.jpg",
    "genre": "丧尸生存",
    "id": "BV1xsaq6YEo4",
@@ -436,6 +626,16 @@
    "name": "高台生存",
    "note": "综合评价（其他项目·批次4）",
    "status": "抢先体验"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1KCbP6hEsh.jpg",
+   "genre": "武侠肉鸽卡牌",
+   "id": "BV1KCbP6hEsh",
+   "kind": "updated",
+   "name": "麒麟刀",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "开发中"
   },
   {
    "competitor": false,

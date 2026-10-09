@@ -14,8 +14,10 @@
 写完当天的数据（日报、state、图片、总表）后，在仓库根目录执行：
 
 ```bash
-git pull --rebase --autostash && python3 scripts/build_site.py && git add -A tracked_projects.md state reports covers frames sheets x images data .nojekyll 2>/dev/null; git commit -m "YYYY-MM-DD：新增 N 个，更新 M 个" && git push
+bash scripts/publish.sh "YYYY-MM-DD：新增 N 个，更新 M 个"
 ```
+
+它会依次：`git pull --rebase --autostash` → `python3 scripts/build_site.py` → 只 `git add` 数据目录（总表、state、reports、图片、data）→ 有变化才提交 → push。只想重建不提交时运行 `python3 scripts/build_site.py`。
 
 `scripts/build_site.py` 只用 Python 标准库，可重复执行（每次整个重建 `data/`）。缺失的图片会以 `WARN` 打印到 stderr，不会中断。
 

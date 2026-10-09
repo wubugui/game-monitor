@@ -48,12 +48,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1YyHd6KEeK.jpg",
-   "id": "BV1YyHd6KEeK",
-   "name": "魔王诛杀"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1bveq6CEdP.jpg",
    "id": "BV1bveq6CEdP",
    "name": "魔女：终末旅途"
@@ -432,12 +426,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1nnHh61E5v.jpg",
-   "id": "BV1nnHh61E5v",
-   "name": "天火行动"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1dztJ6sE6T.jpg",
    "id": "BV1dztJ6sE6T",
    "name": "大宋汴京梦华录"
@@ -633,12 +621,6 @@
    "cover": "covers/BV1CxaW6sE8B.jpg",
    "id": "BV1CxaW6sE8B",
    "name": "Caliber Citadel（暂定）"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Pva86CEnY.jpg",
-   "id": "BV1Pva86CEnY",
-   "name": "ANTIMATTER"
   }
  ],
  "sections": [

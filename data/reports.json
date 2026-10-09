@@ -2,6 +2,23 @@
  {
   "baseline": false,
   "date": "2026-10-09",
+  "id": "2026-10-09-z-batch2-noncomp",
+  "image_count": 0,
+  "images": [],
+  "new": "0",
+  "sections": [
+   "已完成",
+   "纠错与备注",
+   "仍缺关注度段的其他项目",
+   "下一批"
+  ],
+  "summary": "完成20个其他项目登录态深挖：关注度与数据、具体玩家原话、看图靠谱程度与综合评价；纠错ANTIMATTER/魔王诛杀同名污染。",
+  "title": "2026-10-09 其他项目深挖·第2批",
+  "updated": "20"
+ },
+ {
+  "baseline": false,
+  "date": "2026-10-09",
   "id": "2026-10-09-z-batch1-noncomp",
   "image_count": 0,
   "images": [],

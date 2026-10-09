@@ -44,49 +44,10 @@ updated: 17
 - **薄海纸鱼的个人声明…**：非游戏，建议降级，见 `tmp/batch1/DROP_薄海纸鱼.md`。
 
 
-## 仍缺「关注度与数据」的非竞品（约 91）
+## 仍缺「关注度与数据」的其他项目
 
-- ANTIMATTER（BV1Pva86CEnY.md）
-- Caliber Citadel（暂定）（BV1CxaW6sE8B.md）
-- ForgeTax（BV1vApu6rE6Y.md）
-- LocoMo（BV1Dxhx6uErv.md）
-- NPCs AI Studio（BV1USHk6sEY6.md）
-- Rain98（BV1FSh265Ee8.md）
-- TARAE: The Unbound（BV11XhF6RExf.md）
-- ThirdBloc（BV1GpYf6MECB.md）
-- Ved：疗愈所（BV1Tkao6XETQ.md）
-- 七日之馆（BV1ReHQ64ET5.md）
-- 万象之环（BV1HFY162Es1.md）
-- 三国乱世苍生（BV1fAhH6BEGP.md）
-- 三国杀·烽烟策（BV1jshE6oEtT.md）
-- 东方天试院（BV1wfhR6gEMx.md）
-- 九阴真经（新作）（BV1XpYL6EEXx.md）
-- 云海战记（BV1AeaA68ET2.md）
-- 仙乡小千金（BV18Wt26nEaL.md）
-- 修仙风云（BV1kueU6cER1.md）
-- 傀纪元：悟道（BV1Rpbs6vEKb.md）
-- 剑侠世界4：无限（BV1c6aE66Eyn.md）
-- 勇者小队全灭了。（BV19Apu6rEYa.md）
-- 博丽神社繁盛记（BV1XoHX68E2s.md）
-- 受肉症（BV1emHx6QEVi.md）
-- 叠叠不休（BV1j4ez6oEJ6.md）
-- 坠入昨日（BV1t4Ys6qETp.md）
-- 城市蓝图（BV1WSaf6dERw.md）
-- 塞爆魔窟（BV168hS69EgX.md）
-- 墓后营生（BV1LDaU6LEAR.md）
-- 墨境（BV19Qeb6fErq.md）
-- 外星来信（BV1b2eu6aEs9.md）
-- 夜园游记（BV1gfYu68EHB.md）
-- 大宋汴京梦华录（BV1dztJ6sE6T.md）
-- 天火行动（BV1nnHh61E5v.md）
-- 太吾绘卷（BV1hta36vEsb.md）
-- 守墓人2（BV1yNhE66Ev9.md）
-- ***（***.md）
-- 小小收藏家（BV1Rsh86xEiW.md）
-- 异病侦探（BV1rdYy6EEY5.md）
-- 影之刃零（BV1Tsps6kEju.md）
-- 心渊光谱（BV1wYHU6hEED.md）
-- …另有 51 个
+约 91 个（名单见仓库 `tmp/batch2_queue.md` 与本地缺段扫描，不在此展开以免首页误匹配）。
+
 
 ## 下一批
 见 `tmp/batch2_queue.md`。

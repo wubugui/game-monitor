@@ -1893,7 +1893,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "每日任务对照基准；详见 state/***.md",
-  "update_count": 3,
+  "update_count": 2,
   "updated": "2026-10-09"
  },
  {
@@ -1918,7 +1918,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "***（***档案） 本档案是竞品「综合评价」的唯一对照基准。每日任务启动时必须先 git fetch/pull 刷新 ***Story + ***（只读），再改写本文件。禁止对这两个仓库 commit / push / PR / issue / 触发 Actions。 一句话 民国川东***",
-  "update_count": 4,
+  "update_count": 3,
   "updated": "2026-10-09"
  },
  {

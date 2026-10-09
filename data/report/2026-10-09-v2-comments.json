@@ -13,72 +13,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": true,
-   "cover": "covers/BV1vLFCzwEq1.jpg",
-   "id": "BV1vLFCzwEq1",
-   "name": "黑水镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1o7ht6pEgQ.jpg",
-   "id": "BV1o7ht6pEgQ",
-   "name": "随侯珠"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1J6eb6MEhr.jpg",
-   "id": "BV1J6eb6MEhr",
-   "name": "见诡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1ZYak6aELT.jpg",
-   "id": "BV1ZYak6aELT",
-   "name": "烟雨山异闻"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
    "competitor": false,
    "cover": "",
    "id": "p-082fe23aab",
@@ -89,36 +23,6 @@
    "cover": "",
    "id": "***",
    "name": "***"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RAeV67Ed9.jpg",
-   "id": "BV1RAeV67Ed9",
-   "name": "妄生"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1g9ad64EZj.jpg",
-   "id": "BV1g9ad64EZj",
-   "name": "声探疑云"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1SXYj6mE1g.jpg",
-   "id": "BV1SXYj6mE1g",
-   "name": "京门之下"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1mSa76yEor.jpg",
-   "id": "BV1mSa76yEor",
-   "name": "乌合之众"
   }
  ],
  "sections": [

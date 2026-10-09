@@ -305,12 +305,6 @@
    "name": "欢迎来到古原镇"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1pEtm6CEBP.jpg",
-   "id": "BV1pEtm6CEBP",
-   "name": "棺门"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1oFei6mExP.jpg",
    "id": "BV1oFei6mExP",
@@ -455,12 +449,6 @@
    "name": "奇遇动物城"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1btHC6bEVr.jpg",
-   "id": "BV1btHC6bEVr",
-   "name": "太渊无朔"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1hta36vEsb.jpg",
    "id": "BV1hta36vEsb",
@@ -543,12 +531,6 @@
    "cover": "covers/BV1XoHX68E2s.jpg",
    "id": "BV1XoHX68E2s",
    "name": "博丽神社繁盛记"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
   },
   {
    "competitor": false,

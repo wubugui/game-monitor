@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 21,
- "data_date": "2026-10-09",
+ "data_date": "2026-10-10",
  "dev_types": [
   "个人",
   "小团队",
@@ -38,10 +38,10 @@
   "肉鸽/构筑",
   "自研"
  ],
- "latest_report": "2026-10-09-z-batch2-noncomp",
- "latest_report_date": "2026-10-09",
+ "latest_report": "2026-10-10-z-batch3-noncomp",
+ "latest_report_date": "2026-10-10",
  "project_count": 130,
- "report_count": 7,
+ "report_count": 8,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -53,219 +53,209 @@
   "抢先体验",
   "首曝"
  ],
- "today_banner": "2026-10-09 与基线同日，首页只列最新日报涉及/竞品修订/自研共 21 项；其余见项目库。",
- "today_new": 20,
- "today_updated": 1,
+ "today_banner": "",
+ "today_new": 0,
+ "today_updated": 20,
  "today_updates": [
   {
    "competitor": false,
-   "cover": "covers/BV1Pva86CEnY.jpg",
-   "genre": "太空沙盒4X",
-   "id": "BV1Pva86CEnY",
-   "kind": "new",
-   "name": "ANTIMATTER",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Dxhx6uErv.jpg",
-   "genre": "扮演村庄本身",
-   "id": "BV1Dxhx6uErv",
-   "kind": "new",
-   "name": "LocoMo",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1USHk6sEY6.jpg",
-   "genre": "开源AI叙事/对白工具",
-   "id": "BV1USHk6sEY6",
-   "kind": "new",
-   "name": "NPCs AI Studio",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "已发售"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1FSh265Ee8.jpg",
-   "genre": "叙事Demo",
-   "id": "BV1FSh265Ee8",
-   "kind": "new",
-   "name": "Rain98",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "Demo"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1GpYf6MECB.jpg",
-   "genre": "ASCII冷战策略",
-   "id": "BV1GpYf6MECB",
-   "kind": "new",
-   "name": "ThirdBloc",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1fAhH6BEGP.jpg",
-   "genre": "三国策略",
-   "id": "BV1fAhH6BEGP",
-   "kind": "new",
-   "name": "三国乱世苍生",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1kueU6cER1.jpg",
-   "genre": "修仙单机（AI美术）",
-   "id": "BV1kueU6cER1",
-   "kind": "new",
-   "name": "修仙风云",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Rpbs6vEKb.jpg",
-   "genre": "东方玄秘开放世界RPG",
-   "id": "BV1Rpbs6vEKb",
-   "kind": "new",
-   "name": "傀纪元：悟道",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1XoHX68E2s.jpg",
-   "genre": "东方同人像素经营增量（AI开发）",
-   "id": "BV1XoHX68E2s",
-   "kind": "new",
-   "name": "博丽神社繁盛记",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "首曝"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1t4Ys6qETp.jpg",
-   "genre": "赛博悬疑叙事RPG",
-   "id": "BV1t4Ys6qETp",
-   "kind": "new",
-   "name": "坠入昨日",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "Demo"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1b2eu6aEs9.jpg",
-   "genre": "语言学解谜",
-   "id": "BV1b2eu6aEs9",
-   "kind": "new",
-   "name": "外星来信",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1gfYu68EHB.jpg",
-   "genre": "奇幻童年肉鸽卡牌",
-   "id": "BV1gfYu68EHB",
-   "kind": "new",
-   "name": "夜园游记",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1nnHh61E5v.jpg",
-   "genre": "射击/动作",
-   "id": "BV1nnHh61E5v",
-   "kind": "new",
-   "name": "天火行动",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1wYHU6hEED.jpg",
-   "genre": "原创galgame",
-   "id": "BV1wYHU6hEED",
-   "kind": "new",
-   "name": "心渊光谱",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "首曝"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1W1Y763Efb.jpg",
-   "genre": "独立GAL",
-   "id": "BV1W1Y763Efb",
-   "kind": "new",
-   "name": "心象天仪本线",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "已发售"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1Qeej6XEe5.jpg",
-   "genre": "暗黑SRPG",
-   "id": "BV1Qeej6XEe5",
-   "kind": "new",
-   "name": "污血远征",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1LiYN6fE1X.jpg",
-   "genre": "心理恐怖文字冒险",
-   "id": "BV1LiYN6fE1X",
-   "kind": "new",
-   "name": "爱之巢~V0.098~",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1zreB6tEMo.jpg",
-   "genre": "UE5二次元开放世界（NPC群体AI）",
-   "id": "BV1zreB6tEMo",
-   "kind": "new",
-   "name": "环之塔物语",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1V8hE6WErH.jpg",
-   "genre": "RPG",
-   "id": "BV1V8hE6WErH",
-   "kind": "new",
-   "name": "降临之地",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "开发中"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1YyHd6KEeK.jpg",
-   "genre": "动作/肉鸽（4角色）",
-   "id": "BV1YyHd6KEeK",
-   "kind": "new",
-   "name": "魔王诛杀",
-   "note": "登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。",
-   "status": "Demo"
-  },
-  {
-   "competitor": false,
-   "cover": "",
-   "genre": "45°等距民俗恐怖冒险解谜",
-   "id": "***",
+   "cover": "covers/BV1Tkao6XETQ.jpg",
+   "genre": "二次元动作肉鸽",
+   "id": "BV1Tkao6XETQ",
    "kind": "updated",
-   "name": "***",
-   "note": "***档案更新",
-   "status": "开发中（Demo）"
+   "name": "Ved：疗愈所",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1HFY162Es1.jpg",
+   "genre": "无限流叙事",
+   "id": "BV1HFY162Es1",
+   "kind": "updated",
+   "name": "万象之环",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1jshE6oEtT.jpg",
+   "genre": "三国SLG",
+   "id": "BV1jshE6oEtT",
+   "kind": "updated",
+   "name": "三国杀·烽烟策",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV19Apu6rEYa.jpg",
+   "genre": "剧情驱动肉鸽RPG",
+   "id": "BV19Apu6rEYa",
+   "kind": "updated",
+   "name": "勇者小队全灭了。",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV19Qeb6fErq.jpg",
+   "genre": "水墨仙侠动作肉鸽",
+   "id": "BV19Qeb6fErq",
+   "kind": "updated",
+   "name": "墨境",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV183e16wEKc.jpg",
+   "genre": "狩猎RPG（手游/多端）",
+   "id": "BV183e16wEKc",
+   "kind": "updated",
+   "name": "怪物猎人：旅人",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ygYd6UEui.jpg",
+   "genre": "文字解谜",
+   "id": "BV1ygYd6UEui",
+   "kind": "updated",
+   "name": "文字游戏",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1o1pw6fExf.jpg",
+   "genre": "国产心理恐怖",
+   "id": "BV1o1pw6fExf",
+   "kind": "updated",
+   "name": "星期五之后",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ZgYB6REuY.jpg",
+   "genre": "桌面叙事解谜",
+   "id": "BV1ZgYB6REuY",
+   "kind": "updated",
+   "name": "桌面探索者",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1e8hX6HE7i.jpg",
+   "genre": "肉鸽战棋",
+   "id": "BV1e8hX6HE7i",
+   "kind": "updated",
+   "name": "永铃回响",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1tSYx66EvP.jpg",
+   "genre": "科幻第三人称射击单机",
+   "id": "BV1tSYx66EvP",
+   "kind": "updated",
+   "name": "流浪地球：望日",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1UKe86JEYj.jpg",
+   "genre": "修仙文字RPG",
+   "id": "BV1UKe86JEYj",
+   "kind": "updated",
+   "name": "灵劫变",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1uQhs6YE7b.jpg",
+   "genre": "异星生存/叙事",
+   "id": "BV1uQhs6YE7b",
+   "kind": "updated",
+   "name": "生生：不熄之火",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1KxeS6TEry.jpg",
+   "genre": "动作肉鸽",
+   "id": "BV1KxeS6TEry",
+   "kind": "updated",
+   "name": "登神之路",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1SaHi6kEUw.jpg",
+   "genre": "蔷薇向叙事",
+   "id": "BV1SaHi6kEUw",
+   "kind": "updated",
+   "name": "箱庭",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV15uHE6vEDh.jpg",
+   "genre": "动作续作（众筹）",
+   "id": "BV15uHE6vEDh",
+   "kind": "updated",
+   "name": "艾希：续",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "众筹中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1rDeG6xE77.jpg",
+   "genre": "推理/叙事",
+   "id": "BV1rDeG6xE77",
+   "kind": "updated",
+   "name": "螺旋起证",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "即将发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV11deC6WENG.jpg",
+   "genre": "美少女机甲搜打撤",
+   "id": "BV11deC6WENG",
+   "kind": "updated",
+   "name": "铁骑少女",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1apar6nE8q.jpg",
+   "genre": "动作肉鸽塔防",
+   "id": "BV1apar6nE8q",
+   "kind": "updated",
+   "name": "银河系除虫公司",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ghec66EaJ.jpg",
+   "genre": "动作肉鸽",
+   "id": "BV1ghec66EaJ",
+   "kind": "updated",
+   "name": "零境·入侵",
+   "note": "综合评价（其他项目·批次3）",
+   "status": "Demo"
   }
  ]
 }

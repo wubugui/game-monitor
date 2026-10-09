@@ -1,0 +1,74 @@
+{
+ "baseline": false,
+ "date": "2026-10-10",
+ "id": "2026-10-10-z-batch3-noncomp",
+ "image_count": 0,
+ "images": [],
+ "md": "# 其他项目深挖第3批（2026-10-10）\n\n完成 **20** 个其他项目完整档案更新（登录态评论+关注度+看图靠谱+综合评价）。\n\n## 已完成\n\n| 游戏 | ID | 相关视频 | 去重评论≈ | 弹幕≈ | 核验播放合计 |\n|---|---|---:|---:|---:|---:|\n| 流浪地球：望日 | BV1tSYx66EvP | 6 | 4002 | 2649 | 936.2万 |\n| 怪物猎人：旅人 | BV183e16wEKc | 6 | 7380 | 6206 | 730.6万 |\n| 艾希：续 | BV15uHE6vEDh | 6 | 5430 | 6969 | 724.2万 |\n| 桌面探索者 | BV1ZgYB6REuY | 6 | 1683 | 5393 | 172.0万 |\n| 三国杀·烽烟策 | BV1jshE6oEtT | 6 | 931 | 737 | 170.2万 |\n| 零境·入侵 | BV1ghec66EaJ | 6 | 1773 | 1662 | 158.6万 |\n| 文字游戏 | BV1ygYd6UEui | 5 | 1925 | 2595 | 138.8万 |\n| 墨境 | BV19Qeb6fErq | 6 | 2142 | 972 | 135.2万 |\n| 铁骑少女 | BV11deC6WENG | 6 | 1446 | 980 | 110.3万 |\n| Ved：疗愈所 | BV1Tkao6XETQ | 6 | 2172 | 693 | 89.7万 |\n| 万象之环 | BV1HFY162Es1 | 6 | 2505 | 264 | 63.7万 |\n| 永铃回响 | BV1e8hX6HE7i | 6 | 686 | 288 | 23.1万 |\n| 银河系除虫公司 | BV1apar6nE8q | 6 | 561 | 159 | 19.8万 |\n| 灵劫变 | BV1UKe86JEYj | 5 | 859 | 65 | 18.9万 |\n| 勇者小队全灭了。 | BV19Apu6rEYa | 6 | 378 | 1089 | 18.7万 |\n| 螺旋起证 | BV1rDeG6xE77 | 6 | 777 | 104 | 14.6万 |\n| 登神之路 | BV1KxeS6TEry | 5 | 415 | 111 | 11.7万 |\n| 生生：不熄之火 | BV1uQhs6YE7b | 3 | 55 | 8 | 10.5万 |\n| 箱庭 | BV1SaHi6kEUw | 1 | 19 | 31 | 6.3万 |\n| 星期五之后 | BV1o1pw6fExf | 5 | 134 | 521 | 2.8万 |\n\n## 纠错与备注\n\n- **箱庭**：播放前五曾被「箱庭式关卡 / L月同人 / 艾尔登法环」污染；已按蔷薇向种子BV1SaHi6kEUw重采，仅保留真正相关1条。\n- **文字游戏**：剔除 DSH Tavern（AI酒馆agent）异作。\n- **生生：不熄之火**：剔除音乐异作（黄和兴/ZEN）。\n- **登神之路**：封面为Hades梗图污染；评价以实机帧与评论为准。\n- **Ved：疗愈所**：封面/部分帧质量差（END梗图、Steam库界面），视觉结论降权。\n- **艾希：续**：抓帧混入一代ICEY流程/摄像头，续作实机样本不足已在档案注明。\n- **星期五之后 / 永铃回响 / 三国杀·烽烟策**：热度或好评含金量受主播/商单/宣发头重脚轻影响，分析已写明。\n\n## 仍缺关注度段的其他项目\n\n约 **50** 个（名单见 `tmp/batch4_queue.md`，此处不展开以免首页误匹配）。\n\n\n## 下一批\n见 `tmp/batch4_queue.md`。\n",
+ "new": "0",
+ "projects": [
+  {
+   "competitor": false,
+   "cover": "covers/BV15uHE6vEDh.jpg",
+   "id": "BV15uHE6vEDh",
+   "name": "艾希：续"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1SaHi6kEUw.jpg",
+   "id": "BV1SaHi6kEUw",
+   "name": "箱庭"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1KxeS6TEry.jpg",
+   "id": "BV1KxeS6TEry",
+   "name": "登神之路"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1uQhs6YE7b.jpg",
+   "id": "BV1uQhs6YE7b",
+   "name": "生生：不熄之火"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1e8hX6HE7i.jpg",
+   "id": "BV1e8hX6HE7i",
+   "name": "永铃回响"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1o1pw6fExf.jpg",
+   "id": "BV1o1pw6fExf",
+   "name": "星期五之后"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ygYd6UEui.jpg",
+   "id": "BV1ygYd6UEui",
+   "name": "文字游戏"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1jshE6oEtT.jpg",
+   "id": "BV1jshE6oEtT",
+   "name": "三国杀·烽烟策"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1Tkao6XETQ.jpg",
+   "id": "BV1Tkao6XETQ",
+   "name": "Ved：疗愈所"
+  }
+ ],
+ "sections": [
+  "已完成",
+  "纠错与备注",
+  "仍缺关注度段的其他项目",
+  "下一批"
+ ],
+ "summary": "完成20个其他项目登录态深挖：关注度与数据、具体玩家原话、看图靠谱程度与综合评价；纠正箱庭/文字游戏/生生等同名污染。",
+ "title": "2026-10-10 其他项目深挖·第3批",
+ "updated": "20"
+}

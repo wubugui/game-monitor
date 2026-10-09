@@ -657,6 +657,33 @@
  },
  {
   "competitor": true,
+  "cover": "covers/jianguilu-yinhunjie.jpg",
+  "dev_type": "个人",
+  "developer": "个人（Gameloop / 游戏循环GameLoop）",
+  "found": "2026-10-09",
+  "genre": "中式民俗/都市步行恐怖（找异常+池核+迷宫）",
+  "genre_tags": [
+   "竞品",
+   "中式恐怖",
+   "找异常",
+   "步行模拟",
+   "已发售",
+   "恐怖",
+   "民俗/国风"
+  ],
+  "id": "BV1rBX6Y9Euf",
+  "link": "https://www.bilibili.com/video/BV1rBX6Y9Euf",
+  "name": "见诡录：阴魂街",
+  "note": "广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 Very Positive；与《见诡》同名混淆已独立建档",
+  "source": "B站",
+  "status": "已发售",
+  "status_inferred": null,
+  "summary": "⚠️ 见诡录：阴魂街 档案 - 类型：中式民俗/都市步行恐怖（找异常 + 池核 + 迷宫追逐） - 开发者：个人（Gameloop / B 站号「游戏循环GameLoop」，粉丝约 274） - 状态：已发售（Steam appid 3387330） - 平台：Steam（单人 / 成就 / 家庭共享） - 价格：¥2",
+  "update_count": 1,
+  "updated": "2026-10-09"
+ },
+ {
+  "competitor": true,
   "cover": "covers/BV1J6eb6MEhr.jpg",
   "dev_type": "未知",
   "developer": "未知",
@@ -1866,7 +1893,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "每日任务对照基准；详见 state/***.md",
-  "update_count": 1,
+  "update_count": 2,
   "updated": "2026-10-09"
  },
  {
@@ -1891,7 +1918,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "***（***档案） 本档案是竞品「综合评价」的唯一对照基准。每日任务启动时必须先 git fetch/pull 刷新 ***Story + ***（只读），再改写本文件。禁止对这两个仓库 commit / push / PR / issue / 触发 Actions。 一句话 民国川东***",
-  "update_count": 2,
+  "update_count": 3,
   "updated": "2026-10-09"
  },
  {

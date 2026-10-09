@@ -55,6 +55,22 @@
   "updated": ""
  },
  {
+  "baseline": false,
+  "date": "2026-10-09",
+  "id": "2026-10-09-jianguilu",
+  "image_count": 0,
+  "images": [],
+  "new": "",
+  "sections": [
+   "摘要",
+   "今日首页应高亮",
+   "缺口"
+  ],
+  "summary": "从《见诡》检索污染中独立出来的项目，已按竞品标准建档：state/jianguilu-yinhunjie.md。",
+  "title": "2026-10-09 新增竞品：见诡录：阴魂街",
+  "updated": ""
+ },
+ {
   "baseline": true,
   "date": "2026-10-09",
   "id": "2026-10-09",

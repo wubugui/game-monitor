@@ -1,7 +1,7 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 20,
+ "competitor_count": 21,
  "data_date": "2026-10-09",
  "dev_types": [
   "个人",
@@ -14,6 +14,7 @@
   "AI 驱动",
   "AI新玩法",
   "RPG",
+  "中式恐怖",
   "互动影游",
   "其他",
   "动作",
@@ -23,10 +24,13 @@
   "多人/合作",
   "大厂/中型/手游/网游",
   "工具/行业",
+  "已发售",
   "恐怖",
   "悬疑/解谜",
+  "找异常",
   "模拟经营",
   "模拟经营/休闲/种田",
+  "步行模拟",
   "民俗/国风",
   "竞品",
   "策略",
@@ -36,8 +40,8 @@
  ],
  "latest_report": "2026-10-09-v3-nested",
  "latest_report_date": "2026-10-09",
- "project_count": 129,
- "report_count": 4,
+ "project_count": 130,
+ "report_count": 5,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -49,9 +53,9 @@
   "抢先体验",
   "首曝"
  ],
- "today_banner": "2026-10-09 与基线同日，首页只列最新日报涉及/竞品修订/自研共 21 项；其余见项目库。",
+ "today_banner": "2026-10-09 与基线同日，首页只列最新日报涉及/竞品修订/自研共 22 项；其余见项目库。",
  "today_new": 0,
- "today_updated": 21,
+ "today_updated": 22,
  "today_updates": [
   {
    "competitor": true,
@@ -182,6 +186,16 @@
    "name": "见诡",
    "note": "楼中楼+完整弹幕入库：新采楼中楼 54 条、弹幕 XML 666/dmseg非空 44；新增原话 10、弹幕摘录 7。",
    "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/jianguilu-yinhunjie.jpg",
+   "genre": "中式民俗/都市步行恐怖（找异常+池核+迷宫）",
+   "id": "BV1rBX6Y9Euf",
+   "kind": "updated",
+   "name": "见诡录：阴魂街",
+   "note": "从《见诡》同名混淆线索独立建档；登录态深挖播放前五 + 开发者两条 + 补采；Steam 3387330；封面 + videoshot 14 + Steam 9 帧。",
+   "status": "已发售"
   },
   {
    "competitor": true,

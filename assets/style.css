@@ -92,3 +92,25 @@ h1{font-size:24px;margin:8px 0 4px}h2{font-size:19px;margin:28px 0 12px}h3{font-
 .added-block > .badge.new,.added-block > .badge.baseline-tag{position:absolute;top:6px;right:8px}
 .badge.baseline-tag{background:rgba(140,140,160,.18);color:var(--mute);border-color:rgba(140,140,160,.4)}
 img.added-new,figure.added-new{outline:3px solid rgba(245,197,24,.85);outline-offset:2px;border-radius:6px}
+
+
+/* homepage 「今日更新」 */
+.today-banner{background:rgba(255,214,10,.08);border:1px solid rgba(255,196,0,.35);border-radius:8px;padding:10px 12px;color:var(--mute);font-size:13.5px;margin-bottom:12px}
+.tu-label{font-size:13px;color:var(--mute);margin:14px 0 8px;font-weight:600}
+.tu-list{display:flex;flex-direction:column;gap:8px}
+.tu-item{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:8px 12px 8px 8px;color:var(--txt);transition:border-color .12s,transform .12s}
+.tu-item:hover{border-color:var(--acc);transform:translateY(-1px);text-decoration:none}
+.tu-cv{width:96px;height:54px;border-radius:6px;background:#0b0e13 center/cover no-repeat;flex:none}
+.tu-cv.none{display:flex;align-items:center;justify-content:center;color:#3a4552;font-size:22px}
+.tu-body{min-width:0}
+.tu-top{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-bottom:4px}
+.tu-nm{font-weight:600;font-size:15px}
+.tu-note{font-size:13.5px;line-height:1.45;color:var(--txt);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tu-meta{margin-top:4px;font-size:12px;color:var(--mute)}
+.badge.upd{background:rgba(80,160,255,.18);color:#8ec5ff;border-color:rgba(80,160,255,.45)}
+.home-links{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 8px}
+@media (max-width:760px){
+ .tu-item{grid-template-columns:72px 1fr;gap:10px;padding:8px}
+ .tu-cv{width:72px;height:40px}
+ .tu-note{-webkit-line-clamp:3}
+}

@@ -53,15 +53,50 @@
 
   function setNav(k) { document.querySelectorAll('[data-nav]').forEach(a => a.classList.toggle('on', a.dataset.nav === k)); }
 
+  function todayRow(u) {
+    const cv = u.cover
+      ? `<div class="tu-cv" style="background-image:url('${esc(u.cover)}')"></div>`
+      : `<div class="tu-cv none">◆</div>`;
+    const kind = u.kind === 'new'
+      ? '<span class="badge new">新增</span>'
+      : '<span class="badge upd">更新</span>';
+    const comp = u.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : '';
+    return `<a class="tu-item" href="#/project/${encodeURIComponent(u.id)}">${cv}
+      <div class="tu-body"><div class="tu-top">${kind}${comp}<span class="tu-nm">${esc(u.name)}</span></div>
+      <div class="tu-note">${esc(u.note || '')}</div>
+      <div class="tu-meta">${esc(u.genre || '')}${u.status ? ' · ' + esc(u.status) : ''}</div></div></a>`;
+  }
+
   // ---------------- home
   async function home() {
     setNav('home');
     const [meta, reports, projects] = await Promise.all([get('data/meta.json'), get('data/reports.json'), get('data/projects.json')]);
     const latest = reports[0];
-    const comp = projects.filter(p => p.competitor);
-    const recent = projects.slice(0, 12);
-    let h = `<h1>游戏项目监控</h1><div class="sub">B 站 + X · 竞品、独立开发者与中型厂商 · 数据截至 ${esc(meta.data_date || '—')}</div>
-    <div class="stats"><div class="stat"><b>${meta.project_count}</b><span>跟踪项目</span></div><div class="stat"><b>${meta.competitor_count}</b><span>⚠️ 竞品</span></div><div class="stat"><b>${meta.report_count}</b><span>历史日报</span></div><div class="stat"><b>${projects.filter(p => p.updated === meta.data_date).length}</b><span>最近一天有动静</span></div></div>`;
+    const today = meta.today_updates || [];
+    const todayNew = meta.today_new != null ? meta.today_new : today.filter(x => x.kind === 'new').length;
+    const todayUpd = meta.today_updated != null ? meta.today_updated : today.filter(x => x.kind === 'updated').length;
+    let h = `<h1>游戏项目监控</h1><div class="sub">B 站 + X + 小红书 · 竞品、独立开发者与中型厂商 · 数据截至 ${esc(meta.data_date || '—')}</div>
+    <div class="stats"><div class="stat"><b>${meta.project_count}</b><span>跟踪项目</span></div><div class="stat"><b>${meta.competitor_count}</b><span>⚠️ 竞品</span></div><div class="stat"><b>${todayNew + todayUpd}</b><span>今日新增/更新</span></div><div class="stat"><b>${meta.report_count}</b><span>历史日报</span></div></div>`;
+
+    // 「今日更新」 — only NEW / UPDATED that day; older games live in 项目库
+    const dayLabel = meta.latest_report_date || meta.data_date || '';
+    h += `<div class="sec-h"><h2>今日更新</h2><a href="#/projects">完整项目库 →</a></div>`;
+    if (meta.today_banner) h += `<div class="today-banner">${esc(meta.today_banner)}</div>`;
+    if (!today.length) {
+      h += `<div class="empty">今天没有新增或更新的游戏。${meta.baseline_only ? '（初始基线日：全部项目见项目库）' : ''}往日档案请打开项目库浏览。</div>`;
+    } else {
+      const comps = today.filter(x => x.competitor);
+      const others = today.filter(x => !x.competitor);
+      h += `<div class="sub" style="margin-bottom:10px">${esc(dayLabel)}${dayLabel ? ' · ' + fmtDate(dayLabel) : ''} · 新增 ${todayNew} · 更新 ${todayUpd}（竞品优先）</div>`;
+      if (comps.length) {
+        h += `<div class="tu-label">⚠️ 竞品（${comps.length}）</div><div class="tu-list">${comps.map(todayRow).join('')}</div>`;
+      }
+      if (others.length) {
+        h += `<div class="tu-label">其他（${others.length}）</div><div class="tu-list">${others.map(todayRow).join('')}</div>`;
+      }
+    }
+    h += `<div class="home-links"><a class="btn" href="#/projects">全部项目库</a><a class="btn" href="#/projects?comp=1">⚠️ 竞品专区</a><a class="btn" href="#/reports">日报归档</a></div>`;
+
     if (latest) {
       h += `<div class="sec-h"><h2>最新日报</h2><a href="#/reports">全部日报 →</a></div>
       <div class="hero"><div class="sub">${esc(latest.date)} · ${fmtDate(latest.date)}</div><h3 style="margin:4px 0 8px"><a href="#/report/${esc(latest.id)}">${esc(latest.title)}</a></h3>
@@ -71,8 +106,6 @@
     } else {
       h += `<div class="sec-h"><h2>最新日报</h2></div><div class="empty">还没有日报，第一份生成后会显示在这里。</div>`;
     }
-    h += `<div class="sec-h"><h2>⚠️ 竞品专区</h2><a href="#/projects?comp=1">全部 ${comp.length} 个竞品 →</a></div>${grid(comp.slice(0, 8), meta.data_date)}`;
-    h += `<div class="sec-h"><h2>最近更新的项目</h2><a href="#/projects">项目库 →</a></div>${grid(recent, meta.data_date)}`;
     if (reports.length > 1) h += `<div class="sec-h"><h2>往期日报</h2><a href="#/reports">归档 →</a></div>${archList(reports.slice(1, 6))}`;
     $app.innerHTML = h;
   }

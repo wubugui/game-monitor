@@ -13,6 +13,7 @@ os.chdir(ROOT)
 OUT = "data"
 IMG_DIRS = ["covers", "frames", "sheets", "x", "images"]
 DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
+ADDED_RE = re.compile(r"<!--\s*added:(\d{4}-\d{2}-\d{2})\s*-->", re.I)
 WARN = []
 
 
@@ -110,6 +111,37 @@ def strip_md(s):
     s = re.sub(r"[*_`>#]+", "", s)
     return re.sub(r"\s+", " ", s).strip()
 
+
+
+def collect_added_dates(md):
+    return set(ADDED_RE.findall(md or ""))
+
+
+def change_notes_for_date(md, date, limit=3):
+    """One-line notes from blocks marked <!-- added:date --> (prefer headings)."""
+    if not md or not date:
+        return []
+    parts = ADDED_RE.split(md)
+    notes = []
+    for i in range(1, len(parts), 2):
+        if parts[i] != date:
+            continue
+        chunk = parts[i + 1] if i + 1 < len(parts) else ""
+        hm = re.search(r"^#{2,4}\s+(.+)$", chunk, re.M)
+        if hm:
+            t = strip_md(hm.group(1))
+            # skip generic section labels
+            if t and t not in notes and t not in ("档案", "画面", "实机截图", "更新时间线"):
+                notes.append(t[:100])
+        else:
+            for para in re.split(r"\n\s*\n", chunk):
+                t = strip_md(para)
+                if len(t) >= 8 and t not in notes:
+                    notes.append(t[:100])
+                    break
+        if len(notes) >= limit:
+            break
+    return notes
 
 def clean_name(n):
     return re.sub(r"^\s*(⚠️|⚠)\s*", "", n).strip()
@@ -283,6 +315,8 @@ def load_state(projects):
             p["aliases"] = meta["aliases"] if isinstance(meta["aliases"], list) else split_list(meta["aliases"])
         if meta.get("baseline"):
             p["baseline"] = meta["baseline"] if not isinstance(meta["baseline"], list) else meta["baseline"][0]
+        if meta.get("self_project") is not None:
+            p["self_project"] = truthy(meta.get("self_project"))
         p["state_file"] = path
         # body: intro, then "## YYYY-MM-DD ..." history sections
         body = fix_md_paths(body)
@@ -299,6 +333,9 @@ def load_state(projects):
                 intro += "\n\n## " + h + "\n" + txt
         p["intro"] = intro.strip()
         p["entries"] = entries
+        full_md = body  # already path-fixed; includes intro + ## history headings text
+        p["added_dates"] = sorted(collect_added_dates(full_md))
+        p["_raw_body"] = full_md  # for today_updates notes; stripped before dump
 
 
 # ---------------------------------------------------------------- reports
@@ -375,6 +412,131 @@ def blocks_mentioning(md, name):
         else:
             i += 1
     return "\n\n".join(dict.fromkeys(out)).strip()
+
+
+
+# ---------------------------------------------------------------- today updates (homepage)
+def build_today_updates(plist, latest_report, latest, baseline_report, baseline_only):
+    """Games NEW or UPDATED on latest_report_date for the homepage 「今日更新」.
+
+    Sources: state `<!-- added:YYYY-MM-DD -->` markers, found date, and dated history
+    entries. Competitors first. One-line change notes. Avoids flooding the home on
+    the baseline day (everything is "new").
+    """
+    if not latest:
+        return [], "还没有日报。"
+    if baseline_only:
+        return [], f"今日为初始基线（{latest}），全部项目见项目库；明日起首页只列当天新增/更新。"
+
+    # names mentioned in the latest report (for same-day revision narrowing)
+    mentioned = set()
+    if latest_report:
+        for p in latest_report.get("projects") or []:
+            mentioned.add(p["id"])
+        md = latest_report.get("md") or ""
+        for p in plist:
+            names = [p["name"], core_name(p["name"])] + p.get("aliases", [])
+            if any(n and len(n) >= 2 and n in md for n in names):
+                mentioned.add(p["id"])
+
+    items = []
+    for p in plist:
+        found = p.get("found") or ""
+        is_new = found == latest
+        # state-dated history only (ignore "found" markers and baseline report mentions,
+        # which would otherwise mark every project as "updated" on day one)
+        hist_today = [e for e in p.get("history", []) if e.get("date") == latest and e.get("kind") == "state"]
+        added_dates = set(p.get("added_dates") or [])
+        added_today = latest in added_dates
+        incremental = added_today and found and found < latest
+        self_proj = bool(p.get("self_project")) or p.get("id") == "***"
+
+        # Normal day (after baseline calendar date): new / incremental added / dated history
+        if latest > baseline_report:
+            if not (is_new or incremental or hist_today):
+                continue
+        else:
+            # Same calendar day as baseline (e.g. a revision report): never dump all 100+
+            # dossiers. Prefer latest-report mentions, state hist, self project; if the
+            # latest report is a competitor revision, include all competitors too.
+            rev_txt = ""
+            if latest_report:
+                rev_txt = (latest_report.get("title") or "") + " " + (latest_report.get("summary") or "")
+            rev_competitors = bool(re.search(r"竞品", rev_txt))
+            # Do not use hist_today here: the revision pass stamped ## DATE 修订 on
+            # nearly every dossier, which would flood the homepage again.
+            keep = (
+                p["id"] in mentioned
+                or self_proj
+                or (rev_competitors and p.get("competitor") and added_today)
+            )
+            if not keep:
+                continue
+
+        if latest <= baseline_report and (self_proj or p.get("competitor")):
+            kind = "updated"  # same-day revision of baseline dossiers
+        elif is_new:
+            kind = "new"
+        else:
+            kind = "updated"
+        notes = change_notes_for_date(p.get("_raw_body") or p.get("intro") or "", latest)
+        # prefer history titles / first bullet from today
+        for e in hist_today:
+            t = strip_md(e.get("title") or "")
+            if t and t not in notes and t not in ("修订",):
+                notes.insert(0, t[:100])
+            for line in (e.get("md") or "").split("\n"):
+                ls = line.strip()
+                if ls.startswith(("-", "*")) or ls.startswith("1."):
+                    bt = strip_md(ls.lstrip("-*0123456789. "))
+                    if len(bt) >= 8 and bt not in notes:
+                        notes.insert(0, bt[:100])
+                        break
+        prefer = ("综合评价", "实际评价", "团队与靠谱", "相关视频正文", "修订", "自研")
+        ranked = sorted(notes, key=lambda n: (0 if any(k in n for k in prefer) else 1, notes.index(n) if n in notes else 99))
+        notes = ranked or notes
+        if not notes:
+            if self_proj:
+                notes = ["***档案更新"]
+            elif p.get("competitor") and latest <= baseline_report:
+                notes = ["竞品档案修订（正文化 + 评价）"]
+            elif is_new:
+                notes = ["新建档"]
+            elif hist_today:
+                notes = [strip_md(hist_today[0].get("title") or "") or "档案有更新"]
+            else:
+                notes = ["档案有更新"]
+        skip_labels = {"档案", "实机截图", "画面", "更新时间线", "一句话", "修订",
+                       "设定/玩法/美术（据视频与商店页归纳）", "官方/代表视频简介（原文摘录）",
+                       "相关视频正文摘要（正文化，免点链接）", "相关视频正文摘要", "资料来源"}
+        note = next((n for n in notes if n and n not in skip_labels), None)
+        # Prefer concrete evaluation headings when present
+        for pref in ("综合评价", "实际评价", "团队与靠谱程度", "***"):
+            hit = next((n for n in notes if pref in n), None)
+            if hit:
+                note = hit
+                break
+        if not note or note in skip_labels:
+            if self_proj:
+                note = "***档案更新"
+            elif p.get("competitor") and latest <= baseline_report:
+                note = "竞品档案修订（正文化 + 评价）"
+            elif is_new:
+                note = "新建档"
+            else:
+                note = "档案有更新"
+        items.append(dict(
+            id=p["id"], name=p["name"], competitor=bool(p.get("competitor")),
+            cover=p.get("cover") or "", kind=kind, note=note,
+            status=p.get("status") or "", genre=p.get("genre") or "",
+        ))
+
+    banner = ""
+    if latest <= baseline_report and items:
+        banner = f"{latest} 与基线同日，首页只列最新日报涉及/竞品修订/自研共 {len(items)} 项；其余见项目库。"
+
+    items.sort(key=lambda x: (not x["competitor"], 0 if x["kind"] == "new" else 1, x["name"]))
+    return items, banner
 
 
 # ---------------------------------------------------------------- main
@@ -455,7 +617,8 @@ def main():
                  "status_inferred", "found", "updated", "cover", "link", "source", "summary", "note", "update_count"]
     dump(f"{OUT}/projects.json", [{k: p.get(k) for k in card_keys} for p in plist])
     for p in plist:
-        dump(f"{OUT}/project/{p['id']}.json", p)
+        slim = {k: v for k, v in p.items() if not k.startswith("_")}
+        dump(f"{OUT}/project/{p['id']}.json", slim)
     dump(f"{OUT}/reports.json", [{k: v for k, v in r.items() if k != "md"} for r in reports])
     for r in reports:
         mentions = [dict(id=p["id"], name=p["name"], competitor=p["competitor"], cover=p.get("cover", ""))
@@ -464,15 +627,21 @@ def main():
     baseline_report = reports[-1]["date"] if reports else ""
     latest_report_date = reports[0]["date"] if reports else ""
     baseline_only = (len(reports) <= 1) or bool(reports and reports[0].get("baseline"))
+    today_updates, today_banner = build_today_updates(
+        plist, reports[0] if reports else None, latest_report_date, baseline_report, baseline_only)
     meta = dict(project_count=len(plist), competitor_count=sum(1 for p in plist if p["competitor"]),
                 report_count=len(reports), latest_report=reports[0]["id"] if reports else None,
                 latest_report_date=latest_report_date, baseline_report=baseline_report,
                 baseline_only=baseline_only,
+                today_updates=today_updates, today_banner=today_banner,
+                today_new=sum(1 for x in today_updates if x["kind"] == "new"),
+                today_updated=sum(1 for x in today_updates if x["kind"] == "updated"),
                 data_date=max([p["updated"] for p in plist if p["updated"]] + [r["date"] for r in reports] or [""]),
                 genres=sorted({g for p in plist for g in p["genre_tags"]}),
                 dev_types=[d for d in DEV_TYPES if any(p["dev_type"] == d for p in plist)],
                 statuses=sorted({p["status"] for p in plist}))
     dump(f"{OUT}/meta.json", meta)
+    # drop private fields from per-project dumps (already written above — scrub before was wrong order)
     if not os.path.exists(".nojekyll"):
         open(".nojekyll", "w").close()
     print(f"built: {len(plist)} projects, {len(reports)} reports -> {OUT}/")

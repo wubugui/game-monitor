@@ -19,7 +19,7 @@ bash scripts/publish.sh "YYYY-MM-DD：新增 N 个，更新 M 个"
 
 它会依次：`git pull --rebase --autostash` → `python3 scripts/build_site.py` → 只 `git add` 数据目录（总表、state、reports、图片、data）→ 有变化才提交 → push。只想重建不提交时运行 `python3 scripts/build_site.py`。
 
-`scripts/build_site.py` 只用 Python 标准库，可重复执行（每次整个重建 `data/`）。缺失的图片会以 `WARN` 打印到 stderr，不会中断。
+`scripts/build_site.py` 只用 Python 标准库，可重复执行（每次整个重建 `data/`，并刷新首页「今日更新」列表）。缺失的图片会以 `WARN` 打印到 stderr，不会中断。`publish.sh` 会一并提交 `assets/`、`index.html`、`scripts/`，保证前端与数据同步上线。
 
 ## 数据格式约定
 
@@ -110,15 +110,27 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 - 历史条目 `## YYYY-MM-DD ...` 本身已按日期归档；条目内部新增句段仍用 `<!-- added:日期 -->` 标记。
 - front matter 可写 `baseline: YYYY-MM-DD` 记录该项目的建档日。
 
-`scripts/build_site.py` 会把 `baseline_only` / `latest_report_date` 写入 `data/meta.json`；`assets/app.js` 在渲染项目页与日报时根据注释包一层 `.added-block` 并决定是否高亮。
+`scripts/build_site.py` 会把 `baseline_only` / `latest_report_date` / `today_updates` 写入 `data/meta.json`；`assets/app.js` 首页用 `today_updates` 置顶「今日更新」，并在项目页与日报里根据注释包一层 `.added-block` 决定是否黄底高亮。
 
 
 ## 网站结构
 
-- `#/` 首页：最新日报摘要、竞品专区、最近更新项目、往期日报
+- `#/` **首页「今日更新」**：只列当天 **新增** 或 **更新** 的游戏（竞品在前），带封面缩略图、一行变更说明，点进档案。未变动的旧项目不占首页，从「完整项目库」进入。其下是最新日报摘要与往期日报。
 - `#/reports` 日报归档（按月分组，最新在前）；`#/report/<日期>` 单份日报（含目录、前后翻页、本期涉及项目）
-- `#/projects` 项目库：竞品/类型/开发者/状态筛选、搜索、按更新或发现日期排序（筛选条件保存在网址里）
+- `#/projects` 项目库（完整数据库）：竞品/类型/开发者/状态筛选、搜索、按更新或发现日期排序（筛选条件保存在网址里）
 - `#/project/<ID>` 项目页：档案、画面、全部更新时间线
+
+### 首页「今日更新」怎么生成
+
+每次 `python3 scripts/build_site.py`（`publish.sh` 会自动跑）会：
+
+1. 读 `data/meta.json` 的 `latest_report_date`（最新日报日期）。
+2. 扫每个 `state/<ID>.md` 里的 `<!-- added:YYYY-MM-DD -->` 标记，以及 `found` / `## YYYY-MM-DD` 历史条目。
+3. **正常日**（日期晚于基线）：`found == 当天` → 新增；当天有新的 `added` 标记或 state 历史条目 → 更新。
+4. **基线日 / 与基线同日的修订**：不把 100+ 份建档全堆上首页；只列最新日报涉及项、***、以及（若日报是竞品修订）全部竞品。
+5. 结果写入 `meta.json` 的 `today_updates`（竞品优先）、`today_new` / `today_updated`、`today_banner`；`assets/app.js` 首页置顶渲染。
+
+日常写档案时：只给**当天新写入**的块打 `<!-- added:当天日期 -->`；旧块不要改日期。这样第二天首页自然只高亮 diff。
 
 ## 每日任务硬规则（2026-10-09 修订）
 

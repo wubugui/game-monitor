@@ -47,5 +47,220 @@
   "开发中（Demo）",
   "抢先体验",
   "首曝"
+ ],
+ "today_banner": "2026-10-09 与基线同日，首页只列最新日报涉及/竞品修订/自研共 21 项；其余见项目库。",
+ "today_new": 0,
+ "today_updated": 21,
+ "today_updates": [
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "genre": "中式民俗悬疑/黑色幽默",
+   "id": "BV1mSa76yEor",
+   "kind": "updated",
+   "name": "乌合之众",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SXYj6mE1g.jpg",
+   "genre": "国风悬疑 AI互动影游",
+   "id": "BV1SXYj6mE1g",
+   "kind": "updated",
+   "name": "京门之下",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "genre": "中式县城校园心理恐怖",
+   "id": "BV1NVH96SETa",
+   "kind": "updated",
+   "name": "你就是缘由",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "genre": "中式梦核恐怖",
+   "id": "BV1RVH86hEBF",
+   "kind": "updated",
+   "name": "南亭湖",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1g9ad64EZj.jpg",
+   "genre": "寻声探案解谜",
+   "id": "BV1g9ad64EZj",
+   "kind": "updated",
+   "name": "声探疑云",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "开发中"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "genre": "中式民俗恐怖 ARPG",
+   "id": "BV1btHC6bEVr",
+   "kind": "updated",
+   "name": "太渊无朔",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RAeV67Ed9.jpg",
+   "genre": "国产民俗志怪",
+   "id": "BV1RAeV67Ed9",
+   "kind": "updated",
+   "name": "妄生",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "genre": "中式民俗恐怖解谜",
+   "id": "BV1xMYY6QEBT",
+   "kind": "updated",
+   "name": "小先生",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1pEtm6CEBP.jpg",
+   "genre": "第一人称民俗恐怖",
+   "id": "BV1pEtm6CEBP",
+   "kind": "updated",
+   "name": "棺门",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "genre": "中式梦核恐怖",
+   "id": "BV14HHq6uEX5",
+   "kind": "updated",
+   "name": "泯灭",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1ZYak6aELT.jpg",
+   "genre": "中式民俗悬疑",
+   "id": "BV1ZYak6aELT",
+   "kind": "updated",
+   "name": "烟雨山异闻",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "genre": "中式民俗/梦核恐怖",
+   "id": "BV1zoe26JEwt",
+   "kind": "updated",
+   "name": "童年诡事录",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1J6eb6MEhr.jpg",
+   "genre": "中式民俗恐怖解谜",
+   "id": "BV1J6eb6MEhr",
+   "kind": "updated",
+   "name": "见诡",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "genre": "中式民俗解谜恐怖",
+   "id": "BV17Jap6rEjm",
+   "kind": "updated",
+   "name": "诡偶",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1Taa861EDN.jpg",
+   "genre": "恋爱+恐怖剧情",
+   "id": "BV1Taa861EDN",
+   "kind": "updated",
+   "name": "请勿与七号患者约会",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1gE411y7q8.jpg",
+   "genre": "中式民俗+克苏鲁叙事",
+   "id": "BV1gE411y7q8",
+   "kind": "updated",
+   "name": "请神",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "genre": "北宋国风听觉解谜",
+   "id": "BV15GHX6hEjk",
+   "kind": "updated",
+   "name": "追境",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "genre": "悬疑恐怖 AI互动影游",
+   "id": "BV1GhHS6QECw",
+   "kind": "updated",
+   "name": "重启：工作日",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1o7ht6pEgQ.jpg",
+   "genre": "南方民俗视觉小说",
+   "id": "BV1o7ht6pEgQ",
+   "kind": "updated",
+   "name": "随侯珠",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV18v411a7Mf.jpg",
+   "genre": "中式民俗恐怖互动影游",
+   "id": "BV18v411a7Mf",
+   "kind": "updated",
+   "name": "黑水镇",
+   "note": "按反馈重写：***（***）+ 档案正文化评价 + 具体玩家原话 + 看图评靠谱。",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "genre": "45°等距民俗恐怖冒险解谜",
+   "id": "***",
+   "kind": "updated",
+   "name": "***",
+   "note": "***档案更新",
+   "status": "开发中（Demo）"
+  }
  ]
 }

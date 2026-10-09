@@ -1,12 +1,14 @@
 {
+ "baseline": "2026-10-09",
  "bvid": "BV19Apu6rEYa",
  "competitor": false,
  "cover": "covers/BV19Apu6rEYa.jpg",
  "dev_type": "未知",
  "developer": "未知（Neverland）",
  "found": "2026-10-09",
- "genre": "剧情驱动肉鸽 RPG",
+ "genre": "剧情驱动肉鸽RPG",
  "genre_tags": [
+  "策略/RPG/卡牌",
   "叙事/剧情",
   "肉鸽/构筑",
   "RPG"
@@ -14,22 +16,30 @@
  "history": [
   {
    "date": "2026-10-09",
-   "kind": "found",
-   "md": "15 万愿望单，11-10 发售",
-   "title": "首次发现"
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV19Apu6rEYa（3132播放），状态：11-10发售。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
   }
  ],
  "id": "BV19Apu6rEYa",
- "images": [],
- "intro": "",
+ "images": [
+  "frames/BV19Apu6rEYa_01.jpg",
+  "frames/BV19Apu6rEYa_02.jpg"
+ ],
+ "intro": "# 勇者小队全灭了。\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV19Apu6rEYa.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：剧情驱动肉鸽RPG\n- 开发者：未知（Neverland）（开发者类型：未知）\n- 状态：11-10发售\n- 平台：未知\n- 一句话：15万愿望单\n- 代表视频播放：3132；B站相关视频覆盖播放（本次抓到的）：约3132，共1条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 剧情驱动地下城冒险肉鸽RPG游戏《勇者小队全灭了。》正式版将于2026年11月10日发售。同时游戏在 Steam 上的愿望单数量已突破 15 万，衷心感谢各位玩家长久以来的耐心等待！ 与此同时，开发团队全体成员仍将全力以赴，在发售前将持续改善游戏品质，以求玩家满意。也请大家多多支持。\n> \n> 试玩版也预定于近日发布！试玩版中，玩家可游玩至首位 BOSS「放逐者」。正式版中可选的 4 位伙伴全部均可体验游玩。后续更多情报将在 Steam 商店页面公布，欢迎各位加入愿望单并耐心等待。\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV19Apu6rEYa_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV19Apu6rEYa_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**剧情解析**（1）\n\n- 15万愿望单达成！剧情驱动肉鸽RPG《勇者小队全灭了。》11月10日正式发售｜Neverland_entmt｜2026-10-07｜3112｜BV19Apu6rEYa\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：剧情驱动肉鸽RPG，11-10发售；B站热度低（代表视频3132播放，覆盖约3132）。\n- **依据**：15万愿望单。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
  "link": "https://www.bilibili.com/video/BV19Apu6rEYa",
  "name": "勇者小队全灭了。",
- "note": "15 万愿望单，11-10 发售",
+ "note": "15万愿望单",
+ "platform": "未知",
+ "release": "未知",
  "source": "B站",
- "status": "即将发售",
- "status_inferred": true,
- "summary": "15 万愿望单，11-10 发售",
- "tags": [],
- "update_count": 0,
+ "state_file": "state/BV19Apu6rEYa.md",
+ "status": "已发售",
+ "summary": "勇者小队全灭了。 档案 - 类型：剧情驱动肉鸽RPG - 开发者：未知（Neverland）（开发者类型：未知） - 状态：11-10发售 - 平台：未知 - 一句话：15万愿望单 - 代表视频播放：3132；B站相关视频覆盖播放（本次抓到的）：约3132，共1条 官方/代表视频简介（原文摘录） 剧情驱动地下城冒险肉鸽",
+ "tags": [
+  "策略/RPG/卡牌"
+ ],
+ "update_count": 1,
  "updated": "2026-10-09"
 }

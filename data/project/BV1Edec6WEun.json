@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1Edec6WEun",
+ "competitor": false,
+ "cover": "covers/BV1Edec6WEun.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "动作游戏",
+ "genre_tags": [
+  "动作/肉鸽/射击",
+  "动作"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1Edec6WEun（23.4万播放），状态：试玩。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1Edec6WEun",
+ "images": [
+  "frames/BV1Edec6WEun_01.jpg",
+  "frames/BV1Edec6WEun_02.jpg",
+  "frames/BV1Edec6WEun_03.jpg",
+  "frames/BV1Edec6WEun_04.jpg",
+  "frames/BV1Edec6WEun_05.jpg",
+  "frames/BV1Edec6WEun_06.jpg",
+  "frames/BV1Edec6WEun_07.jpg",
+  "frames/BV1Edec6WEun_08.jpg"
+ ],
+ "intro": "# 湮灭之潮\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1Edec6WEun.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：动作游戏\n- 开发者：未知（开发者类型：未知）\n- 状态：试玩\n- 平台：未知\n- 一句话：UP主称超预期，女主美术\n- 代表视频播放：23.4万；B站相关视频覆盖播放（本次抓到的）：约47.8万，共4条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 终于玩上了，操作没有想象的难，看了视频后基本上就知道这游戏的战斗操作逻辑了。\n> 此类游戏我玩的很少，但是这款游戏上手比较好理解，很方便就可以打出超帅的招式。\n> 游戏现阶段不支持DLSS 5，我用软件加了DLSS5效果后，角色更立体，更美了。\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1Edec6WEun_08.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**实况/通关**（1）\n\n- 老戴试玩《湮灭之潮 》超预期！上手简！战斗爽！女主美翻了！新手教程+实战关卡， 同期上传DLSS5后处理 画质加强版｜老戴在此｜2026-09-16｜23.4万｜BV1Edec6WEun\n\n<!-- added:2026-10-09 -->\n\n**杂谈/吐槽**（1）\n\n- 节奏大？还是真不行？该不该对第一波国单抱以更高的期待？——爆肝14000字！深度盘点首波虚幻5写实风国产单机的成本和优劣！｜冷斯基Snake｜2026-09-23｜10.5万｜BV1mjh46NEuf\n\n<!-- added:2026-10-09 -->\n\n**其他**（2）\n\n- 国产游戏占领科隆？米哈游《源初之结》领衔开幕|《巫师3》免费升级+白嫖DLC|《无限大》明年1月上线？|《昭和米国物语》米国人也能飞？|《湮灭之潮》脸模修改？｜steam情报局｜2026-08-26｜7.9万｜BV1nh8R6vEKw\n- 圆桌骑士遇上东方武圣，《湮灭之潮》为什么敢这么混搭？｜随机反派｜2026-09-09｜6.1万｜BV12gYx6TEay\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：动作游戏，试玩；B站热度中（代表视频23.4万播放，覆盖约47.8万）。\n- **依据**：UP主称超预期，女主美术。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1Edec6WEun",
+ "name": "湮灭之潮",
+ "note": "UP主称超预期，女主美术",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1Edec6WEun.md",
+ "status": "Demo",
+ "summary": "湮灭之潮 档案 - 类型：动作游戏 - 开发者：未知（开发者类型：未知） - 状态：试玩 - 平台：未知 - 一句话：UP主称超预期，女主美术 - 代表视频播放：23.4万；B站相关视频覆盖播放（本次抓到的）：约47.8万，共4条 官方/代表视频简介（原文摘录） 终于玩上了，操作没有想象的难，看了视频后基本上就知道这游",
+ "tags": [
+  "动作/肉鸽/射击"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

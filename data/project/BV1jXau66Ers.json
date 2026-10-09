@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1jXau66Ers",
+ "competitor": false,
+ "cover": "covers/BV1jXau66Ers.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "西部建造模拟",
+ "genre_tags": [
+  "模拟经营/休闲/种田",
+  "模拟经营"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1jXau66Ers（6.4万播放），状态：发售。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1jXau66Ers",
+ "images": [
+  "frames/BV1jXau66Ers_01.jpg",
+  "frames/BV1jXau66Ers_02.jpg",
+  "frames/BV1jXau66Ers_03.jpg",
+  "frames/BV1jXau66Ers_04.jpg",
+  "frames/BV1jXau66Ers_05.jpg",
+  "frames/BV1jXau66Ers_06.jpg",
+  "frames/BV1jXau66Ers_07.jpg",
+  "frames/BV1jXau66Ers_08.jpg"
+ ],
+ "intro": "# 西部拓荒纪\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1jXau66Ers.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：西部建造模拟\n- 开发者：未知（开发者类型：未知）\n- 状态：发售\n- 平台：未知\n- 一句话：剧情互动大世界\n- 代表视频播放：6.4万；B站相关视频覆盖播放（本次抓到的）：约12.3万，共7条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 游戏名：西部拓荒纪，\n> 背景框架很有意思，并且还有剧情互动，大世界探索算是一个亮点，让我们一起建设西部吧！\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1jXau66Ers_08.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**官方PV/预告**（1）\n\n- 【IGN独家】《西部拓荒纪》实机演示｜IGN中国｜2026-09-18｜4.7万｜BV1SXew65EAF\n\n<!-- added:2026-10-09 -->\n\n**实况/通关**（1）\n\n- 城市建造策略模拟游戏《西部拓荒纪》试玩，题材吸引人玩着还可以！｜Rin酱今天玩什么｜2026-09-28｜470｜BV1rLaV6HEcf\n\n<!-- added:2026-10-09 -->\n\n**其他**（5）\n\n- 从零开始建造西部，疯狂淘金，私自酿酒，小心强盗和黑警！【西部拓荒纪】｜小草实况zz｜2026-09-26｜6.4万｜BV1jXau66Ers\n- 【IGN】《西部拓荒纪》抢先体验版发售宣传视频｜IGN中国｜2026-09-28｜6811｜BV1staq6hEuF\n- 【西部拓荒纪】拓荒淘金 模拟经营 Wild West Pioneers｜代糖L｜2026-09-25｜2234｜BV1CFhU6xEDp\n- 城市建造冒险游戏，体验西部牛仔生活，深入尚未开垦的西部边疆！【西部拓荒纪】｜萨克哈｜2026-10-07｜1032｜BV1D3pu6KE9m\n- 一个红脖子决定寻找父亲的西部经营之旅【西部拓荒纪】（已完结）｜氧气Lightning｜2026-10-05｜819｜BV1i6HW6UEu9\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：西部建造模拟，发售；B站热度中（代表视频6.4万播放，覆盖约12.3万）。\n- **依据**：剧情互动大世界。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1jXau66Ers",
+ "name": "西部拓荒纪",
+ "note": "剧情互动大世界",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1jXau66Ers.md",
+ "status": "已发售",
+ "summary": "西部拓荒纪 档案 - 类型：西部建造模拟 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：剧情互动大世界 - 代表视频播放：6.4万；B站相关视频覆盖播放（本次抓到的）：约12.3万，共7条 官方/代表视频简介（原文摘录） 游戏名：西部拓荒纪， 背景框架很有意思，并且还有剧情互动，大世",
+ "tags": [
+  "模拟经营/休闲/种田"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

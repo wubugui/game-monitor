@@ -1,0 +1,45 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1zreB6tEMo",
+ "competitor": false,
+ "cover": "covers/BV1zreB6tEMo.jpg",
+ "dev_type": "个人",
+ "developer": "个人/小团队（Tamill）",
+ "found": "2026-10-09",
+ "genre": "UE5二次元开放世界（NPC群体AI）",
+ "genre_tags": [
+  "AI新玩法",
+  "其他"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1zreB6tEMo（2.5万播放），状态：开发中。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1zreB6tEMo",
+ "images": [
+  "frames/BV1zreB6tEMo_01.jpg",
+  "frames/BV1zreB6tEMo_02.jpg",
+  "frames/BV1zreB6tEMo_03.jpg",
+  "frames/BV1zreB6tEMo_04.jpg"
+ ],
+ "intro": "# 环之塔物语\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1zreB6tEMo.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：UE5二次元开放世界（NPC群体AI）\n- 开发者：个人/小团队（Tamill）（开发者类型：个人）\n- 状态：开发中\n- 平台：未知\n- 一句话：路人围观倒地NPC的AI\n- 代表视频播放：2.5万；B站相关视频覆盖播放（本次抓到的）：约3.6万，共3条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 环之塔物语交流群：\n> ①群：540788386\n> ②群：793939207\n> Steam《环之塔物语》，欢迎加入愿望单\n> 今天给路人加了个吃瓜围观倒地NPC的AI~\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1zreB6tEMo_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1zreB6tEMo_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1zreB6tEMo_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1zreB6tEMo_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**其他**（3）\n\n- 【独立游戏】二次元美少女当街倒下的路人吃瓜反应｜Tamill｜2026-09-20｜2.5万｜BV1zreB6tEMo\n- 【独立游戏】新界面×贴贴×玩家驾车射击｜Tamill｜2026-10-02｜6755｜BV1r3a165EEN\n- 【独立游戏】我做了个龙卷风｜Tamill｜2026-10-07｜3544｜BV12ZHy6oE5y\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：UE5二次元开放世界（NPC群体AI），开发中；B站热度低（代表视频2.5万播放，覆盖约3.6万）。\n- **依据**：路人围观倒地NPC的AI。\n- **AI使用**：项目核心卖点即AI（见一句话）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1zreB6tEMo",
+ "name": "环之塔物语",
+ "note": "路人围观倒地NPC的AI",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1zreB6tEMo.md",
+ "status": "开发中",
+ "summary": "环之塔物语 档案 - 类型：UE5二次元开放世界（NPC群体AI） - 开发者：个人/小团队（Tamill）（开发者类型：个人） - 状态：开发中 - 平台：未知 - 一句话：路人围观倒地NPC的AI - 代表视频播放：2.5万；B站相关视频覆盖播放（本次抓到的）：约3.6万，共3条 官方/代表视频简介（原文摘录） 环",
+ "tags": [
+  "AI新玩法"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

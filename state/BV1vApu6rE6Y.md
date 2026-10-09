@@ -1,0 +1,139 @@
+---
+id: BV1vApu6rE6Y
+name: ForgeTax
+competitor: false
+genre: 锻剑模拟
+developer: 未知
+status: 已发售
+platform: 未知
+release: 未知
+link: https://www.bilibili.com/video/BV1vApu6rE6Y
+found: 2026-10-09
+baseline: 2026-10-09
+cover: covers/BV1vApu6rE6Y.jpg
+images:
+  - frames/BV1vApu6rE6Y_01.jpg
+  - frames/BV1vApu6rE6Y_02.jpg
+  - frames/BV1vApu6rE6Y_03.jpg
+  - frames/BV1vApu6rE6Y_04.jpg
+  - frames/BV1vApu6rE6Y_05.jpg
+  - frames/BV1vApu6rE6Y_06.jpg
+  - frames/BV1vApu6rE6Y_07.jpg
+  - frames/BV1vApu6rE6Y_08.jpg
+tags: [模拟经营/休闲/种田]
+aliases: []
+---
+
+# ForgeTax
+
+<!-- added:2026-10-09 -->
+
+![cover](covers/BV1vApu6rE6Y.jpg)
+
+<!-- added:2026-10-09 -->
+
+## 档案
+
+- 类型：锻剑模拟
+- 开发者：未知（开发者类型：未知）
+- 状态：已发售
+- 平台：未知
+- 一句话：14条视频覆盖
+- 代表视频播放：27.7万；B站相关视频覆盖播放（本次抓到的）：约34.2万，共18条
+
+<!-- added:2026-10-09 -->
+
+### 官方/代表视频简介（原文摘录）
+
+> 游戏名：《ForgeTax》
+
+<!-- added:2026-10-09 -->
+
+### 实机截图
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_01.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_02.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_03.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_04.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_05.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_06.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_07.jpg)
+
+<!-- added:2026-10-09 -->
+
+![](frames/BV1vApu6rE6Y_08.jpg)
+
+<!-- added:2026-10-09 -->
+
+## 资料来源
+
+### B站视频（按类别）
+
+<!-- added:2026-10-09 -->
+
+**官方PV/预告**（1）
+
+- 【正式预告】开发6年2.5D叙事种田游戏【蓝花物语】即将上线！｜SerenityForge｜2026-08-31｜6796｜BV1Ljtt6VEqv
+
+<!-- added:2026-10-09 -->
+
+**实况/通关**（3）
+
+- “陌生”小镇的两个连环杀人犯同时盯上了你《Forgetmenot》Demo全结局实况｜风见Chiho｜2026-08-07｜2.8万｜BV1vwus6nEJL
+- 指挥8人队伍战斗《快节奏回合制RPG+角色扮演》丨 丨steam新品节-独立游戏-试玩推荐 丨Alder Forge 2｜空白小糕｜2026-09-27｜4617｜BV15re36CE74
+- 肉鸽策略丨矮人打铁丨黑暗奇幻【ForgeTax】游戏实况｜爱打游戏的老给｜2026-10-07｜1413｜BV1kEpA6TEx4
+
+<!-- added:2026-10-09 -->
+
+**其他**（14）
+
+- 锻剑模拟器打造天下第一神剑！｜陈三岁恐怖游戏｜2026-10-07｜27.6万｜BV1vApu6rE6Y
+- 【DevLog】【EDG】女仆抓玩家任务演示｜3944REALMS｜2026-09-10｜2.2万｜BV1JvY86qENz
+- 《ForgeTax》解锁全遗物+无限抽奖券+关闭永久死亡！最新工具实测！｜黑色的银龙2｜2026-10-06｜1436｜BV1z6pw6AEUh
+- 《ForgeTax》全能修改器实测!无限金币!解锁遗物!锤击必定成功!｜affectr｜2026-10-06｜562｜BV1owpF6nErB
+- 《ForgeTax》最新物品工具-无限遗物奖券-无限耐心-锤击必定成功-助力锻剑｜南山鬼见愁｜2026-10-06｜260｜BV1Gapc6SEKU
+- 《ForgeTax》全能修改器实测!无限遗物!增加货币!提升锻剑价值!｜asdf9021｜2026-10-06｜198｜BV1LKpF6UEP8
+- 《ForgeTax》解锁全遗物+锤击必定成功+无限抽奖券！最新控制台来了！｜黑色的银龙2｜2026-10-07｜166｜BV1pfHk6JEsF
+- 《ForgeTax》最新CE修改控制器 增加全币/剑上供价值倍率/增加全币/剑上供价值倍率｜汽汽子｜2026-10-06｜158｜BV1yYpP61Er7
+- 《ForgeTax》多功能护肝修改-无限金币 -解锁遗物-锤击必成---问鼎最强铸剑师｜北島风起时_｜2026-10-06｜158｜BV1eapc6SE3C
+- 《ForgeTax》修改锤击必成功+一键满足贡品+游戏调速！最新工具实测！｜黑色的银龙2｜2026-10-08｜142｜BV1hkH96fE4L
+- 《ForgeTax》最新适配工具箱 锻刀高收益 进阶不卡壳｜沐目游戏_｜2026-10-08｜127｜BV1HqHD6iEQa
+- 《ForgeTax》最新适配工具箱 锻刀收益效率全拉满｜沐目游戏_｜2026-10-06｜126｜BV1uxpP6HEou
+- 《ForgeTax》最新适配工具箱 锻刀大成功 上贡收益翻倍｜沐目游戏_｜2026-10-07｜120｜BV1kCHC6EEYY
+- 《ForgeTax》解锁全部遗物、锤击必成功！锻造经营最新适配控制台！｜夜空之脊｜2026-10-06｜119｜BV1Hqpw6KEVP
+
+<!-- added:2026-10-09 -->
+
+## 综合评价
+
+- **结论**：锻剑模拟，已发售；B站热度中（代表视频27.7万播放，覆盖约34.2万）。
+- **依据**：14条视频覆盖。
+- **AI使用**：未见公开说明（未知）。
+- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。
+
+## 2026-10-09 建档
+
+<!-- added:2026-10-09 -->
+
+- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1vApu6rE6Y（27.7万播放），状态：已发售。
+- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。

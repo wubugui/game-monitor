@@ -4,7 +4,38 @@
   const cache = {};
   const get = (u) => cache[u] || (cache[u] = fetch(u, { cache: 'no-cache' }).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); }));
   const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-  const md = (s) => DOMPurify.sanitize(marked.parse(s || '', { gfm: true, breaks: false }), { ADD_ATTR: ['target'] });
+  const annotateAdded = (s) => {
+    if (!s || !/<!--\s*added:\d{4}-\d{2}-\d{2}\s*-->/i.test(s)) return s || '';
+    const parts = s.split(/<!--\s*added:(\d{4}-\d{2}-\d{2})\s*-->/i);
+    let out = parts[0];
+    for (let i = 1; i < parts.length; i += 2) {
+      const d = parts[i], body = parts[i + 1] || '';
+      out += `\n\n<div class="added-block" data-added="${d}">\n\n${body}\n\n</div>\n\n`;
+    }
+    return out;
+  };
+  const md = (s) => DOMPurify.sanitize(marked.parse(annotateAdded(s) || '', { gfm: true, breaks: false }), { ADD_ATTR: ['target', 'data-added'] });
+  const highlightDiff = (root, meta) => {
+    if (!root || !meta) return;
+    const latest = meta.latest_report_date || meta.data_date;
+    const baselineOnly = !!meta.baseline_only;
+    root.querySelectorAll('[data-added]').forEach(n => {
+      const d = n.getAttribute('data-added');
+      if (baselineOnly || d !== latest) {
+        if (baselineOnly) {
+          n.classList.add('added-baseline');
+          if (![...n.childNodes].some(c => c.classList && c.classList.contains('badge'))) {
+            n.insertAdjacentHTML('afterbegin', '<span class="badge baseline-tag">初始</span>');
+          }
+        }
+        return;
+      }
+      n.classList.add('added-new');
+      if (![...n.childNodes].some(c => c.classList && c.classList.contains('badge'))) {
+        n.insertAdjacentHTML('afterbegin', '<span class="badge new">NEW</span>');
+      }
+    });
+  };
   const WD = ['日', '一', '二', '三', '四', '五', '六'];
   const fmtDate = (d) => { if (!d) return ''; const t = new Date(d + 'T00:00:00'); return isNaN(t) ? d : `${t.getMonth() + 1}月${t.getDate()}日 周${WD[t.getDay()]}`; };
   const today = () => { const t = new Date(); return t.toISOString().slice(0, 10); };
@@ -64,7 +95,7 @@
   }
   async function reportPage(id) {
     setNav('reports');
-    const [reports, r] = await Promise.all([get('data/reports.json'), get('data/report/' + id + '.json')]);
+    const [meta, reports, r] = await Promise.all([get('data/meta.json'), get('data/reports.json'), get('data/report/' + id + '.json')]);
     const i = reports.findIndex(x => x.id === id);
     const newer = reports[i - 1], older = reports[i + 1];
     const pager = `<div class="pager">${older ? `<a class="btn" href="#/report/${esc(older.id)}">← ${esc(older.date)}</a>` : '<span></span>'}<a class="btn" href="#/reports">归档</a>${newer ? `<a class="btn" href="#/report/${esc(newer.id)}">${esc(newer.date)} →</a>` : '<span></span>'}</div>`;
@@ -77,6 +108,7 @@
     const art = document.getElementById('rbody');
     if (!/^#\s/m.test(r.md)) art.insertAdjacentHTML('afterbegin', `<h1>${esc(r.title)}</h1>`);
     art.appendChild(body);
+    highlightDiff(art, meta);
     $app.querySelectorAll('[data-sec]').forEach(a => a.onclick = () => document.getElementById(a.dataset.sec).scrollIntoView({ behavior: 'smooth' }));
   }
 
@@ -118,7 +150,7 @@
 
   async function projectPage(id) {
     setNav('projects');
-    const p = await get('data/project/' + id + '.json');
+    const [meta, p] = await Promise.all([get('data/meta.json'), get('data/project/' + id + '.json')]);
     const kv = [['类型', p.genre], ['开发者', p.developer + (p.dev_type && !String(p.developer).startsWith(p.dev_type) ? `（${p.dev_type}）` : '')], ['状态', p.status + (p.status_inferred ? '（根据描述推测）' : '')], ['平台', p.platform], ['发售', p.release], ['发现日期', p.found], ['最后更新', p.updated], ['来源', p.source], ['链接', p.link ? `<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link)}</a>` : '']]
       .filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${k === '链接' ? v : esc(v)}</dd>`).join('');
     const tl = (p.history || []).map(e => `<div class="tl-item ${e.kind}"><div class="tl-date">${esc(e.date)}<span class="sub">${fmtDate(e.date)} · ${e.kind === 'found' ? '首次发现' : esc(e.title || (e.kind === 'report' ? '日报提及' : '更新'))}${e.report ? ` · <a href="#/report/${esc(e.report)}">看当天日报</a>` : ''}</span></div>
@@ -131,6 +163,7 @@
     ${p.intro ? `<h2>档案</h2><div class="md">${md(p.intro)}</div>` : ''}
     ${p.images && p.images.length ? `<h2>画面</h2><div class="gallery">${p.images.map(i => `<img loading="lazy" src="${esc(i)}" alt="">`).join('')}</div>` : ''}
     <h2>更新时间线（${(p.history || []).length}）</h2>${tl ? `<div class="tl">${tl}</div>` : '<div class="empty">暂无记录</div>'}`;
+    highlightDiff($app, meta);
   }
 
   // ---------------- router

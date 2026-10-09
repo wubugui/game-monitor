@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV158eN6oEJZ",
+ "competitor": false,
+ "cover": "covers/BV158eN6oEJZ.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "治愈解压",
+ "genre_tags": [
+  "模拟经营/休闲/种田",
+  "其他"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV158eN6oEJZ（3.7万播放），状态：发售。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV158eN6oEJZ",
+ "images": [
+  "frames/BV158eN6oEJZ_01.jpg",
+  "frames/BV158eN6oEJZ_02.jpg",
+  "frames/BV158eN6oEJZ_03.jpg",
+  "frames/BV158eN6oEJZ_04.jpg",
+  "frames/BV158eN6oEJZ_05.jpg",
+  "frames/BV158eN6oEJZ_06.jpg",
+  "frames/BV158eN6oEJZ_07.jpg",
+  "frames/BV158eN6oEJZ_08.jpg"
+ ],
+ "intro": "# 木木屋/Woodo\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV158eN6oEJZ.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：治愈解压\n- 开发者：未知（开发者类型：未知）\n- 状态：发售\n- 平台：未知\n- 一句话：重回童年\n- 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约4.9万，共3条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 你不赞，我不赞，酸酸的肝怎么办！\n> 游戏：木木屋/Woodo\n> 价格：39.9 * 主线时长3~4h\n> 实况：https://www.bilibili.com/video/BV1jpeA69ENp/\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV158eN6oEJZ_08.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**实况/通关**（1）\n\n- 【谜之声实况】木木屋 3D积木填色拼图+叙事 极致的美术与轻松的氛围！ Woodo｜谜之声｜2026-09-17｜1.2万｜BV1HdeT6mEbj\n\n<!-- added:2026-10-09 -->\n\n**其他**（2）\n\n- 匠心之作！一场重回童年的治愈解压之旅《木木屋/Woodo》·休闲解谜新游｜苏安安Susanne｜2026-09-17｜3.7万｜BV158eN6oEJZ\n- 备受期待的温馨木质解谜新作《木木屋》定档9月17日！中文全程配音确认！｜Daedalic｜2026-08-21｜250｜BV1b88M6SEYV\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：治愈解压，发售；B站热度低（代表视频3.7万播放，覆盖约4.9万）。\n- **依据**：重回童年。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV158eN6oEJZ",
+ "name": "木木屋/Woodo",
+ "note": "重回童年",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV158eN6oEJZ.md",
+ "status": "已发售",
+ "summary": "木木屋/Woodo 档案 - 类型：治愈解压 - 开发者：未知（开发者类型：未知） - 状态：发售 - 平台：未知 - 一句话：重回童年 - 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约4.9万，共3条 官方/代表视频简介（原文摘录） 你不赞，我不赞，酸酸的肝怎么办！ 游戏：木木屋/Woodo 价格：",
+ "tags": [
+  "模拟经营/休闲/种田"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1KCbP6hEsh",
+ "competitor": false,
+ "cover": "covers/BV1KCbP6hEsh.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "武侠肉鸽卡牌",
+ "genre_tags": [
+  "策略/RPG/卡牌",
+  "民俗/国风",
+  "肉鸽/构筑"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1KCbP6hEsh（3.7万播放），状态：即将推出。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1KCbP6hEsh",
+ "images": [
+  "frames/BV1KCbP6hEsh_01.jpg",
+  "frames/BV1KCbP6hEsh_02.jpg",
+  "frames/BV1KCbP6hEsh_03.jpg",
+  "frames/BV1KCbP6hEsh_04.jpg",
+  "frames/BV1KCbP6hEsh_05.jpg",
+  "frames/BV1KCbP6hEsh_06.jpg",
+  "frames/BV1KCbP6hEsh_07.jpg"
+ ],
+ "intro": "# 麒麟刀\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1KCbP6hEsh.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：武侠肉鸽卡牌\n- 开发者：未知（开发者类型：未知）\n- 状态：即将推出\n- 平台：未知\n- 一句话：Steam独立新游\n- 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约3.7万，共1条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 武侠肉鸽卡牌游戏《麒麟刀》商店页面已推出，即将上线，欢迎关注！\n> \n> https://store.steampowered.com/app/4932730?utm_source=zyj_bilibili\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1KCbP6hEsh_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**其他**（1）\n\n- Steam独立新游《麒麟刀》即将推出，武侠肉鸽卡牌｜自游境游戏｜2026-09-07｜3.7万｜BV1KCbP6hEsh\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：武侠肉鸽卡牌，即将推出；B站热度低（代表视频3.7万播放，覆盖约3.7万）。\n- **依据**：Steam独立新游。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1KCbP6hEsh",
+ "name": "麒麟刀",
+ "note": "Steam独立新游",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1KCbP6hEsh.md",
+ "status": "开发中",
+ "summary": "麒麟刀 档案 - 类型：武侠肉鸽卡牌 - 开发者：未知（开发者类型：未知） - 状态：即将推出 - 平台：未知 - 一句话：Steam独立新游 - 代表视频播放：3.7万；B站相关视频覆盖播放（本次抓到的）：约3.7万，共1条 官方/代表视频简介（原文摘录） 武侠肉鸽卡牌游戏《麒麟刀》商店页面已推出，即将上线，欢迎关注",
+ "tags": [
+  "策略/RPG/卡牌"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

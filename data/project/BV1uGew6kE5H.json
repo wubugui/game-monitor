@@ -1,34 +1,46 @@
 {
+ "baseline": "2026-10-09",
  "bvid": "BV1uGew6kE5H",
  "competitor": false,
- "cover": "",
+ "cover": "covers/BV1uGew6kE5H.jpg",
  "dev_type": "未知",
  "developer": "未知（MeshyGameStudio）",
  "found": "2026-10-09",
- "genre": "肉鸽（AI 实时生成技能）",
+ "genre": "AI实时生成技能肉鸽",
  "genre_tags": [
-  "肉鸽/构筑",
-  "AI 驱动"
+  "AI新玩法",
+  "肉鸽/构筑"
  ],
  "history": [
   {
    "date": "2026-10-09",
-   "kind": "found",
-   "md": "AI 把机制原子项编排成技能",
-   "title": "首次发现"
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1uGew6kE5H（1498播放），状态：Demo。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
   }
  ],
  "id": "BV1uGew6kE5H",
- "images": [],
- "intro": "",
+ "images": [
+  "frames/BV1uGew6kE5H_01.jpg",
+  "frames/BV1uGew6kE5H_02.jpg",
+  "frames/BV1uGew6kE5H_03.jpg",
+  "frames/BV1uGew6kE5H_04.jpg",
+  "frames/BV1uGew6kE5H_05.jpg"
+ ],
+ "intro": "# 黑箱：无限构筑\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1uGew6kE5H.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：AI实时生成技能肉鸽\n- 开发者：未知（MeshyGameStudio）（开发者类型：未知）\n- 状态：Demo\n- 平台：未知\n- 一句话：AI编排机制原子项生成技能\n- 代表视频播放：1498；B站相关视频覆盖播放（本次抓到的）：约1498，共0条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 【本视频为游戏Demo用于新品节的中文实机宣传片视频】\n> \n> 《黑箱：无限构筑》是一款由 AI 实时生成技能的 Roguelike游戏。 在核心技能系统中，AI能够深度解析玩家的策略意图，将数百种底层机制原子项进行逻辑编排，实时生成严谨、自洽且符合直觉的专属技能。\n> 心愿单链接→ https://store.steampowered.com/app/4437020/_/\n> \n> (*ˊᗜˋ*)感谢所有人的帮助！我们的小游戏有大家相伴真是一件十分幸福的事情！\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uGew6kE5H_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uGew6kE5H_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uGew6kE5H_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uGew6kE5H_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uGew6kE5H_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n- 除代表视频外未搜到更多相关视频（数据不足）\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：AI实时生成技能肉鸽，Demo；B站热度低（代表视频1498播放，覆盖约1498）。\n- **依据**：AI编排机制原子项生成技能。\n- **AI使用**：项目核心卖点即AI（见一句话）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
  "link": "https://www.bilibili.com/video/BV1uGew6kE5H",
  "name": "黑箱：无限构筑",
- "note": "AI 把机制原子项编排成技能",
+ "note": "AI编排机制原子项生成技能",
+ "platform": "未知",
+ "release": "未知",
  "source": "B站",
- "status": "开发中",
- "status_inferred": true,
- "summary": "AI 把机制原子项编排成技能",
- "tags": [],
- "update_count": 0,
+ "state_file": "state/BV1uGew6kE5H.md",
+ "status": "Demo",
+ "summary": "黑箱：无限构筑 档案 - 类型：AI实时生成技能肉鸽 - 开发者：未知（MeshyGameStudio）（开发者类型：未知） - 状态：Demo - 平台：未知 - 一句话：AI编排机制原子项生成技能 - 代表视频播放：1498；B站相关视频覆盖播放（本次抓到的）：约1498，共0条 官方/代表视频简介（原文摘录） 【",
+ "tags": [
+  "AI新玩法"
+ ],
+ "update_count": 1,
  "updated": "2026-10-09"
 }

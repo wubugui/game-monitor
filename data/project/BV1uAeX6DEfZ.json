@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1uAeX6DEfZ",
+ "competitor": false,
+ "cover": "covers/BV1uAeX6DEfZ.jpg",
+ "dev_type": "未知",
+ "developer": "未知",
+ "found": "2026-10-09",
+ "genre": "真人群像悬疑VN",
+ "genre_tags": [
+  "叙事/解谜/恐怖(非竞品)/视觉小说",
+  "悬疑/解谜"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1uAeX6DEfZ（58.7万播放），状态：延期发售。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1uAeX6DEfZ",
+ "images": [
+  "frames/BV1uAeX6DEfZ_01.jpg",
+  "frames/BV1uAeX6DEfZ_02.jpg",
+  "frames/BV1uAeX6DEfZ_03.jpg",
+  "frames/BV1uAeX6DEfZ_04.jpg",
+  "frames/BV1uAeX6DEfZ_05.jpg",
+  "frames/BV1uAeX6DEfZ_06.jpg",
+  "frames/BV1uAeX6DEfZ_07.jpg",
+  "frames/BV1uAeX6DEfZ_08.jpg"
+ ],
+ "intro": "# 秋叶原迷踪\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1uAeX6DEfZ.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：真人群像悬疑VN\n- 开发者：未知（开发者类型：未知）\n- 状态：延期发售\n- 平台：未知\n- 一句话：类428\n- 代表视频播放：58.7万；B站相关视频覆盖播放（本次抓到的）：约58.7万，共1条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 类428的悬疑群像视觉小说，试玩感觉不错。\n> 本来想发售时和正篇一起做大长篇连载的，结果游戏延期发售了。排期全乱，这周末没视频更新了，不能忍。那就把之前录好的试玩版先放上来，哈哈。\n> 欢迎收藏三连追更。\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1uAeX6DEfZ_08.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**其他**（1）\n\n- 【散人】悬疑真人群像《秋叶原迷踪》P1 天才游戏创作者｜逍遥散人｜2026-09-19｜58.7万｜BV1uAeX6DEfZ\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：真人群像悬疑VN，延期发售；B站热度高（代表视频58.7万播放，覆盖约58.7万）。\n- **依据**：类428。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1uAeX6DEfZ",
+ "name": "秋叶原迷踪",
+ "note": "类428",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1uAeX6DEfZ.md",
+ "status": "已发售",
+ "summary": "秋叶原迷踪 档案 - 类型：真人群像悬疑VN - 开发者：未知（开发者类型：未知） - 状态：延期发售 - 平台：未知 - 一句话：类428 - 代表视频播放：58.7万；B站相关视频覆盖播放（本次抓到的）：约58.7万，共1条 官方/代表视频简介（原文摘录） 类428的悬疑群像视觉小说，试玩感觉不错。 本来想发售时和",
+ "tags": [
+  "叙事/解谜/恐怖(非竞品)/视觉小说"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

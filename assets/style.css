@@ -84,3 +84,11 @@ h1{font-size:24px;margin:8px 0 4px}h2{font-size:19px;margin:28px 0 12px}h3{font-
  .filters{top:88px}.filters select{flex:1 1 40%}
  .md img{max-width:100%}
 }
+
+/* diff highlighting: only latest-report additions; baseline uses 初始 tag, no yellow */
+.added-block{position:relative;margin:10px 0;padding:8px 10px 8px 12px;border-radius:8px}
+.added-block.added-new{background:rgba(255,214,10,.14);border:1px solid rgba(255,196,0,.55);box-shadow:inset 3px 0 0 #f5c518}
+.added-block.added-baseline{background:transparent;border:1px dashed var(--line)}
+.added-block > .badge.new,.added-block > .badge.baseline-tag{position:absolute;top:6px;right:8px}
+.badge.baseline-tag{background:rgba(140,140,160,.18);color:var(--mute);border-color:rgba(140,140,160,.4)}
+img.added-new,figure.added-new{outline:3px solid rgba(245,197,24,.85);outline-offset:2px;border-radius:6px}

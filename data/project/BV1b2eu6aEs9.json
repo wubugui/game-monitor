@@ -1,0 +1,40 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1b2eu6aEs9",
+ "competitor": false,
+ "cover": "covers/BV1b2eu6aEs9.jpg",
+ "dev_type": "未知",
+ "developer": "未知（ArtlessGames）",
+ "found": "2026-10-09",
+ "genre": "语言学解谜",
+ "genre_tags": [
+  "叙事/解谜/恐怖(非竞品)/视觉小说",
+  "悬疑/解谜"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1b2eu6aEs9（6.9万播放），状态：宣传。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1b2eu6aEs9",
+ "images": [],
+ "intro": "# 外星来信\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1b2eu6aEs9.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：语言学解谜\n- 开发者：未知（ArtlessGames）（开发者类型：未知）\n- 状态：宣传\n- 平台：未知\n- 一句话：宣传片6.8万\n- 代表视频播放：6.9万；B站相关视频覆盖播放（本次抓到的）：约7.0万，共2条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 在游戏中，玩家会探索一个有着上千个字的外星象形文字系统，从数字系统出发，直到外星人的文化与思想 \n> \n> 试玩版现已发布：https://store.steampowered.com/app/5195140/Message_From_Aliens_Demo/\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**官方PV/预告**（1）\n\n- 语言学游戏《外星来信》宣传片｜ArtlessGames｜2026-09-17｜6.9万｜BV1b2eu6aEs9\n\n<!-- added:2026-10-09 -->\n\n**实况/通关**（1）\n\n- 【解谜好游/试玩】连接符文铺路的猜规则纸笔 - 符文神庙 (Temple oF Glyphs)【游戏推荐/Demo试玩/712】｜彩虹箱RainbowBox｜2026-10-06｜1036｜BV1DXHZ6BEXg\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：语言学解谜，宣传；B站热度中（代表视频6.9万播放，覆盖约7.0万）。\n- **依据**：宣传片6.8万。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1b2eu6aEs9",
+ "name": "外星来信",
+ "note": "宣传片6.8万",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1b2eu6aEs9.md",
+ "status": "开发中",
+ "summary": "外星来信 档案 - 类型：语言学解谜 - 开发者：未知（ArtlessGames）（开发者类型：未知） - 状态：宣传 - 平台：未知 - 一句话：宣传片6.8万 - 代表视频播放：6.9万；B站相关视频覆盖播放（本次抓到的）：约7.0万，共2条 官方/代表视频简介（原文摘录） 在游戏中，玩家会探索一个有着上千个字的外",
+ "tags": [
+  "叙事/解谜/恐怖(非竞品)/视觉小说"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

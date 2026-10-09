@@ -281,6 +281,8 @@ def load_state(projects):
             p["images"] = [norm_path(x) for x in imgs]
         if meta.get("aliases"):
             p["aliases"] = meta["aliases"] if isinstance(meta["aliases"], list) else split_list(meta["aliases"])
+        if meta.get("baseline"):
+            p["baseline"] = meta["baseline"] if not isinstance(meta["baseline"], list) else meta["baseline"][0]
         p["state_file"] = path
         # body: intro, then "## YYYY-MM-DD ..." history sections
         body = fix_md_paths(body)
@@ -327,7 +329,8 @@ def load_reports():
         sections = [strip_md(h) for h in re.findall(r"^##\s+(.+)$", body, re.M)]
         reports.append(dict(id=rid, date=m.group(1), title=title, summary=summary[:280],
                             images=imgs[:8], image_count=len(imgs), sections=sections,
-                            new=meta.get("new", ""), updated=meta.get("updated", ""), md=body))
+                            new=meta.get("new", ""), updated=meta.get("updated", ""),
+                            baseline=truthy(meta.get("baseline", False)) or ("初始" in title), md=body))
     reports.sort(key=lambda r: (r["date"], r["id"]), reverse=True)
     return reports
 
@@ -458,8 +461,13 @@ def main():
         mentions = [dict(id=p["id"], name=p["name"], competitor=p["competitor"], cover=p.get("cover", ""))
                     for p in plist if any(e.get("report") == r["id"] for e in p["history"])]
         dump(f"{OUT}/report/{r['id']}.json", {**r, "projects": mentions})
+    baseline_report = reports[-1]["date"] if reports else ""
+    latest_report_date = reports[0]["date"] if reports else ""
+    baseline_only = (len(reports) <= 1) or bool(reports and reports[0].get("baseline"))
     meta = dict(project_count=len(plist), competitor_count=sum(1 for p in plist if p["competitor"]),
                 report_count=len(reports), latest_report=reports[0]["id"] if reports else None,
+                latest_report_date=latest_report_date, baseline_report=baseline_report,
+                baseline_only=baseline_only,
                 data_date=max([p["updated"] for p in plist if p["updated"]] + [r["date"] for r in reports] or [""]),
                 genres=sorted({g for p in plist for g in p["genre_tags"]}),
                 dev_types=[d for d in DEV_TYPES if any(p["dev_type"] == d for p in plist)],

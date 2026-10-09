@@ -1,0 +1,47 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1wfhR6gEMx",
+ "competitor": false,
+ "cover": "covers/BV1wfhR6gEMx.jpg",
+ "dev_type": "未知",
+ "developer": "未知（有灯实验室）",
+ "found": "2026-10-09",
+ "genre": "东方同人3D格斗",
+ "genre_tags": [
+  "动作/肉鸽/射击",
+  "民俗/国风",
+  "动作"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1wfhR6gEMx（3.9万播放），状态：抢先测试。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1wfhR6gEMx",
+ "images": [
+  "frames/BV1wfhR6gEMx_01.jpg",
+  "frames/BV1wfhR6gEMx_02.jpg",
+  "frames/BV1wfhR6gEMx_03.jpg",
+  "frames/BV1wfhR6gEMx_04.jpg",
+  "frames/BV1wfhR6gEMx_05.jpg"
+ ],
+ "intro": "# 东方天试院\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1wfhR6gEMx.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：东方同人3D格斗\n- 开发者：未知（有灯实验室）（开发者类型：未知）\n- 状态：抢先测试\n- 平台：未知\n- 一句话：东方格斗作3D化\n- 代表视频播放：3.9万；B站相关视频覆盖播放（本次抓到的）：约5.0万，共2条\n\n<!-- added:2026-10-09 -->\n\n### 官方/代表视频简介（原文摘录）\n\n> 《东方天试院》抢先测试资格可加Q群495762543获取，欢迎体验！\n> 现已上线Steam商店页，欢迎愿望单！https://store.steampowered.com/app/3566860/\n> 试玩版：https://store.steampowered.com/app/4797760/\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1wfhR6gEMx_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1wfhR6gEMx_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1wfhR6gEMx_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1wfhR6gEMx_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1wfhR6gEMx_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**其他**（2）\n\n- 我把东方格斗作写成了3D游戏！《东方天试院》永江衣玖 技能演示｜有灯实验室｜2026-09-26｜3.9万｜BV1wfhR6gEMx\n- 3D打则！？《东方天试院》 抢先体验渠道已开放！｜有灯实验室｜2026-09-04｜1.1万｜BV1Netq6XE4i\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：东方同人3D格斗，抢先测试；B站热度低（代表视频3.9万播放，覆盖约5.0万）。\n- **依据**：东方格斗作3D化。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1wfhR6gEMx",
+ "name": "东方天试院",
+ "note": "东方格斗作3D化",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1wfhR6gEMx.md",
+ "status": "开发中",
+ "summary": "东方天试院 档案 - 类型：东方同人3D格斗 - 开发者：未知（有灯实验室）（开发者类型：未知） - 状态：抢先测试 - 平台：未知 - 一句话：东方格斗作3D化 - 代表视频播放：3.9万；B站相关视频覆盖播放（本次抓到的）：约5.0万，共2条 官方/代表视频简介（原文摘录） 《东方天试院》抢先测试资格可加Q群495",
+ "tags": [
+  "动作/肉鸽/射击"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

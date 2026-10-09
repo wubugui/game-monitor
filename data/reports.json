@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "baseline": true,
+  "date": "2026-10-09",
+  "id": "2026-10-09",
+  "image_count": 489,
+  "images": [
+   "sheets/sheet_competitors.jpg",
+   "covers/BV1zoe26JEwt.jpg",
+   "frames/BV1zoe26JEwt_01.jpg",
+   "frames/BV1zoe26JEwt_02.jpg",
+   "frames/BV1zoe26JEwt_03.jpg",
+   "frames/BV1zoe26JEwt_04.jpg",
+   "frames/BV1zoe26JEwt_05.jpg",
+   "frames/BV1zoe26JEwt_06.jpg"
+  ],
+  "new": "",
+  "sections": [
+   "方法与缺口",
+   "【竞品专区】",
+   "【B站全部游戏】",
+   "【AI新玩法】",
+   "洞察（3条）",
+   "联系表路径"
+  ],
+  "summary": "初始基线：竞品20 + 全站扫描107，共127个项目建档；含视频分类、热评、Steam、实机截图与综合评价。",
+  "title": "2026-10-09 日报（初始版本）",
+  "updated": ""
+ }
+]

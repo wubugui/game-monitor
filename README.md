@@ -85,6 +85,34 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 - 图片用仓库相对路径：`![](covers/BVxxx.jpg)` 或 `![](../covers/BVxxx.jpg)` 都可以；也可用 `https://` 外链。
 - 历史日报**永不删除、不改名**。
 
+
+### 4. 增量高亮（每日差分）
+
+网站只高亮**最新一份日报日期**当天新写入的内容；已经在更早日报里出现过的内容保持普通样式，不会重复标黄。
+
+**写法（state / 日报正文通用）：**
+
+在每一段「首次写入」的事实、小节或截图**正上方**加一行 HTML 注释（保留在 Markdown 里）：
+
+```markdown
+<!-- added:2026-10-10 -->
+- Steam 中文评测上线：特别好评（12 正 / 1 负）
+
+<!-- added:2026-10-10 -->
+![](frames/BV1xxx_05.jpg)
+```
+
+规则：
+- `added` 日期 = 这条信息**第一次**写进仓库的日期（以后改措辞也不要改日期）。
+- 建档日（第一份日报）把全部内容都标成当天的 `<!-- added:YYYY-MM-DD -->`，并在日报 front matter 写 `baseline: true`、标题带「初始版本」。
+- **初始基线**：`baseline_only` 为真时，网站给这些块加「初始」灰标签，**不**黄底高亮（避免首日整页刷黄）。
+- **次日及以后**：仅当 `added` == 最新日报日期时，显示黄底 + `NEW` 徽章；旧日期块不加样式。
+- 历史条目 `## YYYY-MM-DD ...` 本身已按日期归档；条目内部新增句段仍用 `<!-- added:日期 -->` 标记。
+- front matter 可写 `baseline: YYYY-MM-DD` 记录该项目的建档日。
+
+`scripts/build_site.py` 会把 `baseline_only` / `latest_report_date` 写入 `data/meta.json`；`assets/app.js` 在渲染项目页与日报时根据注释包一层 `.added-block` 并决定是否高亮。
+
+
 ## 网站结构
 
 - `#/` 首页：最新日报摘要、竞品专区、最近更新项目、往期日报

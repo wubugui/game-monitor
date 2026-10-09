@@ -1,0 +1,49 @@
+{
+ "baseline": "2026-10-09",
+ "bvid": "BV1XpYL6EEXx",
+ "competitor": false,
+ "cover": "covers/BV1XpYL6EEXx.jpg",
+ "dev_type": "未知",
+ "developer": "未知（UP主称蜗牛出品）",
+ "found": "2026-10-09",
+ "genre": "武侠",
+ "genre_tags": [
+  "大厂/中型/手游/网游",
+  "民俗/国风"
+ ],
+ "history": [
+  {
+   "date": "2026-10-09",
+   "kind": "state",
+   "md": "<!-- added:2026-10-09 -->\n\n- 首次建档（初始基线）。来源：B站搜索/相关推荐深度扫描。代表视频 BV1XpYL6EEXx（6.8万播放），状态：曝光。\n- 本档案所有事实与截图均标记 `added:2026-10-09`；网站在仅有初始日报时显示「初始」标签、不高亮黄底。",
+   "report": "2026-10-09",
+   "title": "建档"
+  }
+ ],
+ "id": "BV1XpYL6EEXx",
+ "images": [
+  "frames/BV1XpYL6EEXx_01.jpg",
+  "frames/BV1XpYL6EEXx_02.jpg",
+  "frames/BV1XpYL6EEXx_03.jpg",
+  "frames/BV1XpYL6EEXx_04.jpg",
+  "frames/BV1XpYL6EEXx_05.jpg",
+  "frames/BV1XpYL6EEXx_06.jpg",
+  "frames/BV1XpYL6EEXx_07.jpg",
+  "frames/BV1XpYL6EEXx_08.jpg"
+ ],
+ "intro": "# 九阴真经（新作）\n\n<!-- added:2026-10-09 -->\n\n![cover](covers/BV1XpYL6EEXx.jpg)\n\n<!-- added:2026-10-09 -->\n\n## 档案\n\n\n- 类型：武侠\n- 开发者：未知（UP主称蜗牛出品）（开发者类型：未知）\n- 状态：曝光\n- 平台：未知\n- 一句话：14年后新作\n- 代表视频播放：6.8万；B站相关视频覆盖播放（本次抓到的）：约6.8万，共1条\n\n<!-- added:2026-10-09 -->\n\n### 实机截图\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_01.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_02.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_03.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_04.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_05.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_06.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_07.jpg)\n\n<!-- added:2026-10-09 -->\n\n![](frames/BV1XpYL6EEXx_08.jpg)\n\n<!-- added:2026-10-09 -->\n\n\n\n## 资料来源\n\n\n### B站视频（按类别）\n\n<!-- added:2026-10-09 -->\n\n**其他**（1）\n\n- 14年过去，蜗牛带着《九阴真经》新作回来了！｜悠闲的蚊子｜2026-09-11｜6.8万｜BV1XpYL6EEXx\n\n<!-- added:2026-10-09 -->\n\n\n\n## 综合评价\n\n\n- **结论**：武侠，曝光；B站热度中（代表视频6.8万播放，覆盖约6.8万）。\n- **依据**：14年后新作。\n- **AI使用**：未见公开说明（未知）。\n- **数据缺口**：评论/Steam/TapTap 未深挖时可视为未知；后续日报增量补。",
+ "link": "https://www.bilibili.com/video/BV1XpYL6EEXx",
+ "name": "九阴真经（新作）",
+ "note": "14年后新作",
+ "platform": "未知",
+ "release": "未知",
+ "source": "B站",
+ "state_file": "state/BV1XpYL6EEXx.md",
+ "status": "首曝",
+ "summary": "九阴真经（新作） 档案 - 类型：武侠 - 开发者：未知（UP主称蜗牛出品）（开发者类型：未知） - 状态：曝光 - 平台：未知 - 一句话：14年后新作 - 代表视频播放：6.8万；B站相关视频覆盖播放（本次抓到的）：约6.8万，共1条 实机截图 资料来源 B站视频（按类别） 其他（1） - 14年过去，蜗牛带着《九",
+ "tags": [
+  "大厂/中型/手游/网游"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-09"
+}

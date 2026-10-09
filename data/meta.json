@@ -55,7 +55,7 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 76,
+ "today_updated": 77,
  "today_updates": [
   {
    "competitor": true,
@@ -656,6 +656,16 @@
    "name": "蓝色星原：旅谣",
    "note": "合计（本批核验相关的 5 条，含播放前五+官方PV）：播放 1448.1万｜点赞 45.9万｜投币 17.3万｜收藏 9.9万｜转发 27.7万｜评论 66111｜弹幕 43192。赞播比 3.2%｜",
    "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1neYu62ENf.jpg",
+   "genre": "叙事/心理",
+   "id": "BV1neYu62ENf",
+   "kind": "updated",
+   "name": "薄海纸鱼的个人声明与他人行为规范指引",
+   "note": "实际评价（登录态评论+弹幕，具体原话）",
+   "status": "已发售"
   },
   {
    "competitor": false,

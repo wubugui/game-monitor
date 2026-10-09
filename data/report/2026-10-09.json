@@ -30,6 +30,12 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1rLbK6tESL.jpg",
+   "id": "BV1rLbK6tESL",
+   "name": "黄金星漩"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1KCbP6hEsh.jpg",
    "id": "BV1KCbP6hEsh",
    "name": "麒麟刀"
@@ -78,6 +84,12 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1vmpF6SE3p.jpg",
+   "id": "BV1vmpF6SE3p",
+   "name": "迪诺世界物语"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1fees6REig.jpg",
    "id": "BV1fees6REig",
    "name": "迪姆雷斯"
@@ -99,6 +111,18 @@
    "cover": "covers/BV1rDeG6xE77.jpg",
    "id": "BV1rDeG6xE77",
    "name": "螺旋起证"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1neYu62ENf.jpg",
+   "id": "BV1neYu62ENf",
+   "name": "薄海纸鱼的个人声明与他人行为规范指引"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1szec6NE1b.jpg",
+   "id": "BV1szec6NE1b",
+   "name": "蓝色星原：旅谣"
   },
   {
    "competitor": false,
@@ -156,9 +180,21 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1nMpM6JEEF.jpg",
+   "id": "BV1nMpM6JEEF",
+   "name": "烤肉！！！"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1UKe86JEYj.jpg",
    "id": "BV1UKe86JEYj",
    "name": "灵劫变"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1nh8R6vEKw.jpg",
+   "id": "BV1nh8R6vEKw",
+   "name": "源初之结"
   },
   {
    "competitor": false,
@@ -198,6 +234,12 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1xnYt6uEva.jpg",
+   "id": "BV1xnYt6uEva",
+   "name": "未眠野"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV158eN6oEJZ.jpg",
    "id": "BV158eN6oEJZ",
    "name": "木木屋/Woodo"
@@ -234,6 +276,12 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1zHYd63EKA.jpg",
+   "id": "BV1zHYd63EKA",
+   "name": "战国立志传"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV183e16wEKc.jpg",
    "id": "BV183e16wEKc",
    "name": "怪物猎人：旅人"
@@ -246,6 +294,12 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1rdYy6EEY5.jpg",
+   "id": "BV1rdYy6EEY5",
+   "name": "异病侦探"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1Rsh86xEiW.jpg",
    "id": "BV1Rsh86xEiW",
    "name": "小小收藏家"
@@ -255,6 +309,12 @@
    "cover": "covers/BV1yNhE66Ev9.jpg",
    "id": "BV1yNhE66Ev9",
    "name": "守墓人2"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1hta36vEsb.jpg",
+   "id": "BV1hta36vEsb",
+   "name": "太吾绘卷"
   },
   {
    "competitor": false,
@@ -384,12 +444,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1rLbK6tESL.jpg",
-   "id": "BV1rLbK6tESL",
-   "name": "黄金星漩"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1bveq6CEdP.jpg",
    "id": "BV1bveq6CEdP",
    "name": "魔女：终末旅途"
@@ -407,12 +461,6 @@
    "name": "针影裁梦"
   },
   {
-   "competitor": false,
-   "cover": "covers/BV1vmpF6SE3p.jpg",
-   "id": "BV1vmpF6SE3p",
-   "name": "迪诺世界物语"
-  },
-  {
    "competitor": true,
    "cover": "covers/BV1Taa861EDN.jpg",
    "id": "BV1Taa861EDN",
@@ -423,18 +471,6 @@
    "cover": "covers/BV1wiaU6REqS.jpg",
    "id": "BV1wiaU6REqS",
    "name": "记忆重现局"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1neYu62ENf.jpg",
-   "id": "BV1neYu62ENf",
-   "name": "薄海纸鱼的个人声明与他人行为规范指引"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1szec6NE1b.jpg",
-   "id": "BV1szec6NE1b",
-   "name": "蓝色星原：旅谣"
   },
   {
    "competitor": false,
@@ -456,18 +492,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1nMpM6JEEF.jpg",
-   "id": "BV1nMpM6JEEF",
-   "name": "烤肉！！！"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1nh8R6vEKw.jpg",
-   "id": "BV1nh8R6vEKw",
-   "name": "源初之结"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1Qeej6XEe5.jpg",
    "id": "BV1Qeej6XEe5",
    "name": "污血远征"
@@ -486,12 +510,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1xnYt6uEva.jpg",
-   "id": "BV1xnYt6uEva",
-   "name": "未眠野"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1K8aq6cEN3.jpg",
    "id": "BV1K8aq6cEN3",
    "name": "月隐其明修仙世界（未命名）"
@@ -501,12 +519,6 @@
    "cover": "covers/BV1ARYc6cEBN.jpg",
    "id": "BV1ARYc6cEBN",
    "name": "教妹妹开车"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1zHYd63EKA.jpg",
-   "id": "BV1zHYd63EKA",
-   "name": "战国立志传"
   },
   {
    "competitor": false,
@@ -528,21 +540,9 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1rdYy6EEY5.jpg",
-   "id": "BV1rdYy6EEY5",
-   "name": "异病侦探"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1yph76uEdF.jpg",
    "id": "BV1yph76uEdF",
    "name": "奇遇动物城"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1hta36vEsb.jpg",
-   "id": "BV1hta36vEsb",
-   "name": "太吾绘卷"
   },
   {
    "competitor": false,

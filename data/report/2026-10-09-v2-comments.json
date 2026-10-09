@@ -13,16 +13,16 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "",
-   "id": "***",
-   "name": "***"
-  },
-  {
    "competitor": true,
    "cover": "covers/jianguilu-yinhunjie.jpg",
    "id": "BV1rBX6Y9Euf",
    "name": "见诡录：阴魂街"
+  },
+  {
+   "competitor": false,
+   "cover": "",
+   "id": "***",
+   "name": "***"
   },
   {
    "competitor": false,

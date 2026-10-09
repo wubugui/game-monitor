@@ -38,10 +38,10 @@
   "肉鸽/构筑",
   "自研"
  ],
- "latest_report": "2026-10-10-z-batch5-noncomp",
+ "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
  "project_count": 130,
- "report_count": 10,
+ "report_count": 11,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -55,8 +55,68 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 60,
+ "today_updated": 76,
  "today_updates": [
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "genre": "中式民俗悬疑/黑色幽默",
+   "id": "BV1mSa76yEor",
+   "kind": "updated",
+   "name": "乌合之众",
+   "note": "Seed BV1mSa76yEor 登录态复核：播放 1.5万｜点赞 192｜评论 45｜收藏 69｜投币 19｜分享 62。",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SXYj6mE1g.jpg",
+   "genre": "国风悬疑 AI互动影游",
+   "id": "BV1SXYj6mE1g",
+   "kind": "updated",
+   "name": "京门之下",
+   "note": "Seed BV1SXYj6mE1g 登录态复核：播放 2.2万｜点赞 1315｜评论 65｜收藏 610｜投币 70｜分享 81。",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "genre": "中式民俗/梦核恐怖",
+   "id": "BV1zoe26JEwt",
+   "kind": "updated",
+   "name": "童年诡事录",
+   "note": "Seed BV1zoe26JEwt 登录态复核：播放 246.1万｜点赞 3.9万｜评论 28｜收藏 6.2万｜投币 3814｜分享 33。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/jianguilu-yinhunjie.jpg",
+   "genre": "中式民俗/都市步行恐怖（找异常+池核+迷宫）",
+   "id": "BV1rBX6Y9Euf",
+   "kind": "updated",
+   "name": "见诡录：阴魂街",
+   "note": "Seed BV1rBX6Y9Euf 登录态复核：播放 4828｜点赞 97｜评论 55｜收藏 72｜投币 10｜分享 26。",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "genre": "中式民俗+克苏鲁叙事",
+   "id": "BV1gE411y7q8",
+   "kind": "updated",
+   "name": "请神",
+   "note": "Seed BV1gE411y7q8 登录态复核：播放 269.2万｜点赞 7.4万｜评论 2869｜收藏 5.0万｜投币 2.9万｜分享 34337。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1vLFCzwEq1.jpg",
+   "genre": "中式民俗恐怖互动影游（AI 动画）",
+   "id": "BV1vLFCzwEq1",
+   "kind": "updated",
+   "name": "黑水镇",
+   "note": "Seed BV1vLFCzwEq1 登录态复核：播放 9052｜点赞 111｜评论 28｜收藏 43｜投币 20｜分享 8。",
+   "status": "Demo（Steam 试玩：惊变夜，已做到第三章）"
+  },
   {
    "competitor": false,
    "cover": "covers/BV1CxaW6sE8B.jpg",
@@ -259,6 +319,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1hta36vEsb.jpg",
+   "genre": "武侠模拟RPG（DLC）",
+   "id": "BV1hta36vEsb",
+   "kind": "updated",
+   "name": "太吾绘卷",
+   "note": "合计（本批核验相关的 5 条，含播放前五+官方PV）：播放 395.3万｜点赞 9.9万｜投币 8.6万｜收藏 4.9万｜转发 4367｜评论 9987｜弹幕 25668。赞播比 2.5%｜收藏播放比",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1yNhE66Ev9.jpg",
    "genre": "墓场模拟经营",
    "id": "BV1yNhE66Ev9",
@@ -269,6 +339,16 @@
   },
   {
    "competitor": false,
+   "cover": "",
+   "genre": "45°等距民俗恐怖冒险解谜",
+   "id": "***",
+   "kind": "updated",
+   "name": "***",
+   "note": "***Story：相对昨日档案无新 commit（HEAD 仍为 Revert 故事创作台验收）。",
+   "status": "开发中（Demo）"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1Rsh86xEiW.jpg",
    "genre": "文物收集手游",
    "id": "BV1Rsh86xEiW",
@@ -276,6 +356,16 @@
    "name": "小小收藏家",
    "note": "团队与靠谱程度（看图+评论证据）",
    "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1rdYy6EEY5.jpg",
+   "genre": "国产推理AVG",
+   "id": "BV1rdYy6EEY5",
+   "kind": "updated",
+   "name": "异病侦探",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 12.8万｜点赞 3262｜投币 618｜收藏 3706｜转发 921｜评论 421｜弹幕 303。赞播比 2.5%｜收藏播放比 2.9%｜",
+   "status": "即将发售"
   },
   {
    "competitor": false,
@@ -296,6 +386,16 @@
    "name": "怪物猎人：旅人",
    "note": "综合评价（其他项目·批次3）",
    "status": "首曝"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1zHYd63EKA.jpg",
+   "genre": "战国策略RPG",
+   "id": "BV1zHYd63EKA",
+   "kind": "updated",
+   "name": "战国立志传",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 27.1万｜点赞 3110｜投币 1034｜收藏 2658｜转发 448｜评论 615｜弹幕 1748。赞播比 1.1%｜收藏播放比 1.0",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -359,6 +459,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1xnYt6uEva.jpg",
+   "genre": "开放世界二游",
+   "id": "BV1xnYt6uEva",
+   "kind": "updated",
+   "name": "未眠野",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 2106.3万｜点赞 47.1万｜投币 14.8万｜收藏 16.4万｜转发 8.7万｜评论 38011｜弹幕 17036。赞播比 2.2%｜",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1QMh466E16.jpg",
    "genre": "凉屋新作",
    "id": "BV1QMh466E16",
@@ -419,6 +529,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1nh8R6vEKw.jpg",
+   "genre": "米哈游新作",
+   "id": "BV1nh8R6vEKw",
+   "kind": "updated",
+   "name": "源初之结",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 1229.4万｜点赞 53.8万｜投币 18.0万｜收藏 12.5万｜转发 31.3万｜评论 119279｜弹幕 57443。赞播比 4.4",
+   "status": "首曝"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1UKe86JEYj.jpg",
    "genre": "修仙文字RPG",
    "id": "BV1UKe86JEYj",
@@ -426,6 +546,16 @@
    "name": "灵劫变",
    "note": "综合评价（其他项目·批次3）",
    "status": "已发售"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1nMpM6JEEF.jpg",
+   "genre": "多人开店经营",
+   "id": "BV1nMpM6JEEF",
+   "kind": "updated",
+   "name": "烤肉！！！",
+   "note": "合计（本批核验相关的 1 条，含播放前五+官方PV）：播放 2.8万｜点赞 676｜投币 34｜收藏 459｜转发 848｜评论 109｜弹幕 12。赞播比 2.4%｜收藏播放比 1.6%｜评论/万播",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -519,6 +649,16 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1szec6NE1b.jpg",
+   "genre": "开放世界二次元",
+   "id": "BV1szec6NE1b",
+   "kind": "updated",
+   "name": "蓝色星原：旅谣",
+   "note": "合计（本批核验相关的 5 条，含播放前五+官方PV）：播放 1448.1万｜点赞 45.9万｜投币 17.3万｜收藏 9.9万｜转发 27.7万｜评论 66111｜弹幕 43192。赞播比 3.2%｜",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1rDeG6xE77.jpg",
    "genre": "推理/叙事",
    "id": "BV1rDeG6xE77",
@@ -556,6 +696,16 @@
    "name": "迪姆雷斯",
    "note": "综合评价（其他项目·批次4）",
    "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1vmpF6SE3p.jpg",
+   "genre": "经营模拟",
+   "id": "BV1vmpF6SE3p",
+   "kind": "updated",
+   "name": "迪诺世界物语",
+   "note": "合计（本批核验相关的 5 条，含播放前五+官方PV）：播放 2.6万｜点赞 500｜投币 98｜收藏 502｜转发 102｜评论 66｜弹幕 34。赞播比 1.9%｜收藏播放比 1.9%｜评论/万播放",
+   "status": "开发中"
   },
   {
    "competitor": false,
@@ -636,6 +786,16 @@
    "name": "麒麟刀",
    "note": "团队与靠谱程度（看图+评论证据）",
    "status": "开发中"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1rLbK6tESL.jpg",
+   "genre": "半即时卡牌爬塔",
+   "id": "BV1rLbK6tESL",
+   "kind": "updated",
+   "name": "黄金星漩",
+   "note": "合计（本批核验相关的 6 条，含播放前五+官方PV）：播放 91.2万｜点赞 3.9万｜投币 939｜收藏 1.3万｜转发 2335｜评论 1049｜弹幕 776。赞播比 4.3%｜收藏播放比 1.4",
+   "status": "已发售"
   },
   {
    "competitor": false,

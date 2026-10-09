@@ -2,6 +2,30 @@
  {
   "baseline": false,
   "date": "2026-10-09",
+  "id": "2026-10-09-v2-comments",
+  "image_count": 4,
+  "images": [
+   "frames/BV1vLFCzwEq1_02.jpg",
+   "frames/BV1LVNS6LEEH_04.jpg",
+   "frames/BV17Jap6rEjm_v01.jpg",
+   "covers/BV1S7LR6VEKc.jpg"
+  ],
+  "new": "",
+  "sections": [
+   "这次做了什么",
+   "热度排行（仅计相关视频）",
+   "从全部评论里看到的玩家口味（跨游戏共性）",
+   "黑水镇纠错",
+   "另外两处素材纠错",
+   "采集缺口（如实标注）"
+  ],
+  "summary": "用 B 站登录态重采 20 个竞品「播放前五 + 官方 PV」共 105 条视频的评论与弹幕，20 份竞品档案新增关注度数据、按口味主题整理的玩家原话、看图后的综合评价；纠正黑水镇（RDR2/仙剑污染）、诡偶（Steam 同名作污染）、请神（封面污染）三处素材错误，剔除 18 条同名无关视频。",
+  "title": "2026-10-09 竞品登录态评论全量入库 + 黑水镇纠错 + 关注度分析",
+  "updated": ""
+ },
+ {
+  "baseline": false,
+  "date": "2026-10-09",
   "id": "2026-10-09-revision",
   "image_count": 0,
   "images": [],

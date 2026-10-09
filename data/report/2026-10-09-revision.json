@@ -8,12 +8,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": true,
-   "cover": "covers/BV18v411a7Mf.jpg",
-   "id": "BV18v411a7Mf",
-   "name": "黑水镇"
-  },
-  {
    "competitor": false,
    "cover": "",
    "id": "***",

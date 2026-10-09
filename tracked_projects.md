@@ -12,12 +12,12 @@
 | ⚠️ 你就是缘由 | 中式县城校园心理恐怖 | 未知（未知） | 即将Demo | 2026-10-09 | https://www.bilibili.com/video/BV1NVH96SETa | 652 | 2019亚文化像素RPG，demo 10-23 |
 | ⚠️ 请勿与七号患者约会 | 恋爱+恐怖剧情 | 未知（未知（归澜游戏）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1Taa861EDN | 1.8万 | 精神病院不可靠认知 |
 | ⚠️ 声探疑云 | 寻声探案解谜 | 未知（未知（疑案追声原团队）） | 开发中 | 2026-10-09 | https://www.bilibili.com/video/BV1g9ad64EZj | 2.7万 | 进入配音阶段 |
-| ⚠️ 黑水镇 | 中式民俗恐怖互动影游 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV18v411a7Mf | 12.7万 | 清溪村试玩前三章 |
+| ⚠️ 黑水镇 | 中式民俗恐怖互动影游（AI 动画） | 个人（小黑与鹿鹿） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1vLFCzwEq1 | 9052 | 中元夜尸变；全 AI 画面；2026-10-09 纠错（原 RDR2/仙剑素材作废） |
 | ⚠️ 随侯珠 | 南方民俗视觉小说 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1o7ht6pEgQ | 6580 | 蛇神民俗百合 |
 | ⚠️ 妄生 | 国产民俗志怪 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1RAeV67Ed9 | 39.5万 | 志怪短篇合集 |
 | ⚠️ 泯灭 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV14HHq6uEX5 | 10.4万 | 新婚夫妻凶宅 |
 | ⚠️ 南亭湖 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1RVH86hEBF | 2613 | 老机械厂分尸案 |
-| ⚠️ 诡偶 | 中式民俗解谜恐怖 | 未知（未知（勾陈一）） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV17Jap6rEjm | 2.6万 | 木偶旧案 |
+| ⚠️ 诡偶 | 中式民俗解谜恐怖 | 未知（未知（勾陈一）） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV17Jap6rEjm | 2.6万 | 勾陈一竖屏解谜（TapTap/小程序）；原 Steam 同名作素材已纠错 |
 | ⚠️ 重启：工作日 | 悬疑恐怖 AI互动影游 | 未知（未知（NOXlabs）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1GhHS6QECw | 7150 | 七日循环上班 |
 | ⚠️ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⚠️ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |

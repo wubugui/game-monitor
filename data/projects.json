@@ -67,25 +67,26 @@
  },
  {
   "competitor": true,
-  "cover": "covers/BV18v411a7Mf.jpg",
+  "cover": "covers/BV1vLFCzwEq1.jpg",
   "dev_type": "未知",
-  "developer": "未知",
+  "developer": "小黑与鹿鹿（个人开发者）",
   "found": "2026-10-09",
-  "genre": "中式民俗恐怖互动影游",
+  "genre": "中式民俗恐怖互动影游（AI 动画）",
   "genre_tags": [
    "竞品",
    "恐怖",
    "民俗/国风",
-   "互动影游"
+   "互动影游",
+   "AI 驱动"
   ],
-  "id": "BV18v411a7Mf",
-  "link": "https://www.bilibili.com/video/BV18v411a7Mf",
+  "id": "BV1vLFCzwEq1",
+  "link": "https://www.bilibili.com/video/BV1vLFCzwEq1",
   "name": "黑水镇",
-  "note": "清溪村试玩前三章",
+  "note": "中元夜尸变；全 AI 画面；2026-10-09 纠错（原 RDR2/仙剑素材作废）",
   "source": "B站",
-  "status": "Demo",
+  "status": "Demo（Steam 试玩：惊变夜，已做到第三章）",
   "status_inferred": null,
-  "summary": "⚠️ 黑水镇 档案 - 类型：中式民俗恐怖互动影游 - 开发者：未知（开发者类型：未知） - 状态：Demo - 平台：Steam - 一句话：清溪村试玩前三章 - 代表视频播放：12.7万；B站相关视频覆盖播放（本次抓到的）：约42.4万，共19条 官方/代表视频简介（原文摘录） 盲猜一波评论区：“UP主凭什么说自己",
+  "summary": "⚠️ 黑水镇 档案 - 类型：中式民俗恐怖互动影游（AI 生成的动画风格画面 + 选项分支） - 开发者：小黑与鹿鹿（B站 2267 粉；招募视频自述「一个人独立开发」） - 状态：Steam 试玩版「惊变夜」已开放（2026-07），开发者 9 月称 Demo「已经做到第三章」，正在招募真实玩家试玩反馈 - 平台：S",
   "update_count": 1,
   "updated": "2026-10-09"
  },
@@ -563,7 +564,7 @@
  },
  {
   "competitor": true,
-  "cover": "covers/BV1gE411y7q8.jpg",
+  "cover": "covers/BV1S7LR6VEKc.jpg",
   "dev_type": "未知",
   "developer": "未知（Largeland）",
   "found": "2026-10-09",
@@ -623,7 +624,7 @@
   "id": "BV17Jap6rEjm",
   "link": "https://www.bilibili.com/video/BV17Jap6rEjm",
   "name": "诡偶",
-  "note": "木偶旧案",
+  "note": "勾陈一竖屏解谜（TapTap/小程序）；原 Steam 同名作素材已纠错",
   "source": "B站",
   "status": "已发售",
   "status_inferred": null,
@@ -1865,7 +1866,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "每日任务对照基准；详见 state/***.md",
-  "update_count": 0,
+  "update_count": 1,
   "updated": "2026-10-09"
  },
  {
@@ -1890,7 +1891,7 @@
   "status": "开发中（Demo）",
   "status_inferred": null,
   "summary": "***（***档案） 本档案是竞品「综合评价」的唯一对照基准。每日任务启动时必须先 git fetch/pull 刷新 ***Story + ***（只读），再改写本文件。禁止对这两个仓库 commit / push / PR / issue / 触发 Actions。 一句话 民国川东***",
-  "update_count": 1,
+  "update_count": 2,
   "updated": "2026-10-09"
  },
  {

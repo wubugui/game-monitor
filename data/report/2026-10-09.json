@@ -89,12 +89,6 @@
    "name": "隔离区"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1o7ht6pEgQ.jpg",
-   "id": "BV1o7ht6pEgQ",
-   "name": "随侯珠"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1V8hE6WErH.jpg",
    "id": "BV1V8hE6WErH",
@@ -125,18 +119,6 @@
    "name": "针影裁梦"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1vmpF6SE3p.jpg",
    "id": "BV1vmpF6SE3p",
@@ -162,33 +144,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1gE411y7q8.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1Taa861EDN.jpg",
    "id": "BV1Taa861EDN",
    "name": "请勿与七号患者约会"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": false,
    "cover": "covers/BV1wiaU6REqS.jpg",
    "id": "BV1wiaU6REqS",
    "name": "记忆重现局"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1J6eb6MEhr.jpg",
-   "id": "BV1J6eb6MEhr",
-   "name": "见诡"
   },
   {
    "competitor": false,
@@ -251,12 +215,6 @@
    "name": "箱庭"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1gMhi6aEgH.jpg",
    "id": "BV1gMhi6aEgH",
@@ -299,12 +257,6 @@
    "name": "烤肉！！！"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1ZYak6aELT.jpg",
-   "id": "BV1ZYak6aELT",
-   "name": "烟雨山异闻"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1UKe86JEYj.jpg",
    "id": "BV1UKe86JEYj",
@@ -327,12 +279,6 @@
    "cover": "covers/BV1tSYx66EvP.jpg",
    "id": "BV1tSYx66EvP",
    "name": "流浪地球：望日"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
   },
   {
    "competitor": false,
@@ -497,22 +443,10 @@
    "name": "小小收藏家"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV1yNhE66Ev9.jpg",
    "id": "BV1yNhE66Ev9",
    "name": "守墓人2"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RAeV67Ed9.jpg",
-   "id": "BV1RAeV67Ed9",
-   "name": "妄生"
   },
   {
    "competitor": false,
@@ -555,12 +489,6 @@
    "cover": "covers/BV1b2eu6aEs9.jpg",
    "id": "BV1b2eu6aEs9",
    "name": "外星来信"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1g9ad64EZj.jpg",
-   "id": "BV1g9ad64EZj",
-   "name": "声探疑云"
   },
   {
    "competitor": false,
@@ -647,22 +575,10 @@
    "name": "修仙风云"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
    "competitor": false,
    "cover": "covers/BV18Wt26nEaL.jpg",
    "id": "BV18Wt26nEaL",
    "name": "仙乡小千金"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1SXYj6mE1g.jpg",
-   "id": "BV1SXYj6mE1g",
-   "name": "京门之下"
   },
   {
    "competitor": false,
@@ -675,12 +591,6 @@
    "cover": "covers/BV1XpYL6EEXx.jpg",
    "id": "BV1XpYL6EEXx",
    "name": "九阴真经（新作）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1mSa76yEor.jpg",
-   "id": "BV1mSa76yEor",
-   "name": "乌合之众"
   },
   {
    "competitor": false,

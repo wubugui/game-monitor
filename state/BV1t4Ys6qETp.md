@@ -24,7 +24,7 @@ images:
   - frames/BV1t4Ys6qETp_10.jpg
   - frames/BV1t4Ys6qETp_11.jpg
   - frames/BV1t4Ys6qETp_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「叙事游戏 独立游戏」；种子视频「与仿生人相爱相杀？赛博悬疑RPG《坠入昨日》叙事表现力很强」· UP 全球球变冷 · BV1t4Ys6qETp · 2026-09-10 · 播放 8.0万"

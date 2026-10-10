@@ -30,7 +30,7 @@ images:
   - frames/BV14HHq6uEX5_s2_04.jpg
   - images/xhs/minmie-banana.jpg
   - images/xhs/minmie-yueban.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [泯灭 demo, 《泯灭》]
 discovery_platform: B站
 discovery: "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「以千禧年真实事件改编？全新中式梦核恐游！新婚夫妻惨遭虐杀！凶宅闹鬼不断！《泯灭》demo」· UP 阿虚-Kurv · BV14HHq6uEX5 · 2026-10-03 · 播放 10.5万"

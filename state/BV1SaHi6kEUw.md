@@ -24,7 +24,7 @@ images:
   - frames/BV1SaHi6kEUw_10.jpg
   - frames/BV1SaHi6kEUw_11.jpg
   - frames/BV1SaHi6kEUw_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「视觉小说 独立游戏」；种子视频「我的青梅竹马交女朋友了，但是我无法祝福他...蔷薇向游戏《箱庭》」· UP Pilokio · BV1SaHi6kEUw · 2026-10-07 · 播放 6.3万"

@@ -24,7 +24,7 @@ images:
   - frames/BV1wYHU6hEED_10.jpg
   - frames/BV1wYHU6hEED_11.jpg
   - frames/BV1wYHU6hEED_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「首曝PV 游戏」「galgame 独立游戏」；种子视频「在科研之外，我们还想留下些什么｜北大学生团队原创galgame《心渊光谱》首曝 OP&PV」· UP MIRRORSofficial · BV1wYHU6hEED · 2026-10-08 · 播放 1.7万"

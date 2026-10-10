@@ -23,7 +23,7 @@ images:
   - frames/BV1emHx6QEVi_fx08.jpg
   - frames/BV1emHx6QEVi_fx09.jpg
   - frames/BV1emHx6QEVi_fx10.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「生存游戏 独立游戏」「像素游戏 独立游戏」；种子视频「为了躲避怪物，人类逃进了一具巨大的尸体里...【独立游戏demo】」· UP 嗜千儿 · BV1emHx6QEVi · 2026-10-05 · 播放 1.9万"

@@ -19,7 +19,7 @@ images:
   - frames/BV1b2eu6aEs9_05.jpg
   - frames/BV1b2eu6aEs9_06.jpg
   - frames/BV1b2eu6aEs9_07.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「解谜游戏 独立游戏」；种子视频「语言学游戏《外星来信》宣传片」· UP ArtlessGames · BV1b2eu6aEs9 · 2026-09-17 · 播放 6.9万"

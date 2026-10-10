@@ -30,7 +30,7 @@ images:
   - frames/BV1CdH66kE1G_v08.jpg
   - frames/BV17Jap6rEjm_s1_01.jpg
   - frames/BV17Jap6rEjm_s2_01.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [诡偶 游戏, 《诡偶》]
 discovery_platform: B站
 discovery: "B站相关视频滚雪（由 BV1kbem6tEnc 的相关推荐发现）；种子视频「最新中式民俗解谜恐怖游戏《诡偶》全流程实况解说」· UP 我叫李期安 · BV17Jap6rEjm · 2026-09-29 · 播放 2.6万"

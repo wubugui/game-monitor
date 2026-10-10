@@ -29,7 +29,7 @@ images:
   - frames/BV1RAeV67Ed9_s2_03.jpg
   - frames/BV1RAeV67Ed9_s2_04.jpg
   - images/xhs/wangsheng-maomao.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [妄生]
 discovery_platform: B站
 discovery: "B站搜索关键词「志怪 独立游戏」；种子视频「国产民俗志怪佳作《妄生》全配音-剧情解说」· UP 半支烟sama · BV1RAeV67Ed9 · 2026-09-15 · 播放 39.5万"

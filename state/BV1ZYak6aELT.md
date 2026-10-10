@@ -28,7 +28,7 @@ images:
   - frames/BV1ZYak6aELT_s2_02.jpg
   - frames/BV1ZYak6aELT_s2_03.jpg
   - frames/BV1ZYak6aELT_s2_04.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [烟雨山异闻]
 discovery_platform: B站
 discovery: "B站搜索关键词「中式民俗恐怖 独立游戏」（每日发现 2026-10-10）；种子视频「【中式民俗/悬疑】父子意外坠崖，却意外发现诡异洞府？-《烟雨山异闻》Demo配音试玩实况」· UP 爱讲故事的陈同学 · BV1ZYak6aELT · 2026-10-02 · 播放 1618"

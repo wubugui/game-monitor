@@ -28,7 +28,7 @@ images:
   - frames/BV1RVH86hEBF_s2_02.jpg
   - frames/BV1RVH86hEBF_s2_03.jpg
   - frames/BV1RVH86hEBF_s2_04.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [南亭湖]
 discovery_platform: B站
 discovery: "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「【中式恐怖/剧情】相传这座工厂中有冤魂索命。-《南亭湖》Demo试玩实况」· UP 爱讲故事的陈同学 · BV1RVH86hEBF · 2026-10-03 · 播放 2613"

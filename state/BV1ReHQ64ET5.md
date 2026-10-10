@@ -24,7 +24,7 @@ images:
   - frames/BV1ReHQ64ET5_10.jpg
   - frames/BV1ReHQ64ET5_11.jpg
   - frames/BV1ReHQ64ET5_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站相关视频滚雪（由 BV1Taa861EDN 的相关推荐发现）；种子视频「深山洋馆免费留宿，帮忙工作七天还能拿到报酬，失业旅人以为终于可以安心休息，却发现每晚进入梦境的光正在改变自己｜《七日之馆》完整剧情与十五种结局」· UP 小返不说谎 · BV1ReHQ64ET5 · 2026-10-08 · 播放 2.9万"

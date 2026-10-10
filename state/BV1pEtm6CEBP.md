@@ -24,7 +24,7 @@ images:
   - frames/BV1pEtm6CEBP_steam04.jpg
   - frames/BV1pEtm6CEBP_steam05.jpg
   - frames/BV1pEtm6CEBP_steam06.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [棺门]
 discovery_platform: B站
 discovery: "途径未知（种子为 B站视频）；种子视频「国产第一人称民俗恐怖游戏《棺门》先导pv Steam页面已公开」· UP 阿棍灬 · BV1pEtm6CEBP · 2026-09-05 · 播放 7072"

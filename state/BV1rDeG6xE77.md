@@ -19,7 +19,7 @@ images:
   - frames/BV1rDeG6xE77_05.jpg
   - frames/BV1rDeG6xE77_06.jpg
   - frames/BV1rDeG6xE77_07.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「定档 独立游戏」；种子视频「【螺旋起证】Steam商店页面宣传&定档PV」· UP 犬声绘色Studio · BV1rDeG6xE77 · 2026-09-15 · 播放 1.7万"

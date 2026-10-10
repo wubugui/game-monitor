@@ -24,7 +24,7 @@ images:
   - frames/BV1LiYN6fE1X_10.jpg
   - frames/BV1LiYN6fE1X_11.jpg
   - frames/BV1LiYN6fE1X_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「视觉小说 独立游戏」「文字冒险 独立游戏」；种子视频「心理恐怖文字冒险《爱之巢~V0.098~》PV ❤ 9月28日开放游玩！」· UP 莲花池池 · BV1LiYN6fE1X · 2026-09-10 · 播放 8.2万"

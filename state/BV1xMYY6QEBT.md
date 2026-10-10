@@ -27,7 +27,7 @@ images:
   - frames/BV1xMYY6QEBT_s2_01.jpg
   - frames/BV1xMYY6QEBT_s2_02.jpg
   - frames/BV1xMYY6QEBT_s2_03.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [小先生：终南长鸣, 小先生]
 discovery_platform: B站
 discovery: "B站搜索关键词「恐怖游戏 独立游戏」「中式恐怖 独立游戏」；种子视频「深夜被超市老板喊去处理怪事《小先生》中式恐怖游戏速通！」· UP 蓝若羽 · BV1xMYY6QEBT · 2026-09-13 · 播放 18.4万"

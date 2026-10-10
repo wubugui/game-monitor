@@ -31,7 +31,7 @@ images:
   - images/xhs/jiangu-demo.jpg
   - images/xhs/jiangu-pv.jpg
   - images/xhs/jiangu-art.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [见诡]
 discovery_platform: B站
 discovery: "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「携手双胞胎兄弟追溯上世纪冤案…中式民俗恐怖游戏《见诡》demo试玩」· UP 捏个黏糕 · BV1J6eb6MEhr · 2026-09-19 · 播放 2.6万"

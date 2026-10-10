@@ -24,7 +24,7 @@ images:
   - frames/BV1rdYy6EEY5_10.jpg
   - frames/BV1rdYy6EEY5_11.jpg
   - frames/BV1rdYy6EEY5_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「定档 独立游戏」「解谜游戏 独立游戏」「视觉小说 独立游戏」；种子视频「国产推理AVG《异病侦探》定档11月5日 | 只要杀人不被发现，就能成神」· UP 异病侦探 · BV1rdYy6EEY5 · 2026-09-15 · 播放 3.1万"

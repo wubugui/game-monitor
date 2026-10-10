@@ -87,7 +87,7 @@ images:
   - frames/BV1f4Lq6VE65_steam06.jpg
   - frames/BV1f4Lq6VE65_steam07.jpg
   - frames/BV1f4Lq6VE65_steam08.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [论道聊斋]
 discovery_platform: B站
 discovery: "B站搜索关键词「志怪 独立游戏」（每日发现 2026-10-10，命中视频「中式恐怖游戏《论道聊斋》这是一段尚在打磨中的开篇，也是一场正在成形的聊斋之梦。」· UP 馨苑六少 · BV1SD4C63EZu）；种子视频「未知」· UP 未知 · BV1f4Lq6VE65 · 未知 · 播放 未知"

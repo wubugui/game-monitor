@@ -98,7 +98,7 @@ images:
   - frames/BV15ZijeREHG_v3_04.jpg
   - frames/BV15ZijeREHG_v3_05.jpg
   - frames/BV15ZijeREHG_v3_06.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [镇邪2]
 discovery_platform: B站
 discovery: "途径未知（种子为 B站视频 BV15ZijeREHG）"

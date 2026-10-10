@@ -24,7 +24,7 @@ images:
   - frames/BV1FSh265Ee8_10.jpg
   - frames/BV1FSh265Ee8_11.jpg
   - frames/BV1FSh265Ee8_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「视觉小说 独立游戏」；种子视频「无家可归的我被收留之后，接受了她“毁灭世界”的邀请。|《Rain98》Demo」· UP 皂君SOAP · BV1FSh265Ee8 · 2026-09-25 · 播放 3.5万"

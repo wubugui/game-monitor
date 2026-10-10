@@ -267,7 +267,7 @@ def load_tracked():
         pid = col(row, "ID", "id") or bv or slug(clean_name(name))
         projects[pid] = dict(
             id=pid, name=clean_name(name),
-            competitor=("⚠" in name) or truthy(col(row, "竞品")),
+            competitor=("⚠" in name) or truthy(col(row, "收藏", "\u7ade\u54c1")),
             genre=col(row, "类型", "genre"), developer=col(row, "开发者类型", "开发者", "developer"),
             found=(DATE_RE.search(col(row, "发现日期", "发现", "found")) or [None, ""])[1] if DATE_RE.search(col(row, "发现日期", "发现", "found")) else "",
             updated=(DATE_RE.search(col(row, "最后更新", "更新")).group(1) if DATE_RE.search(col(row, "最后更新", "更新")) else ""),
@@ -305,8 +305,8 @@ def load_state(projects):
                 p[k_dst] = meta[k_src] if not isinstance(meta[k_src], list) else ", ".join(meta[k_src])
         if name:
             p["name"] = name
-        if "competitor" in meta or "竞品" in meta:
-            p["competitor"] = truthy(meta.get("competitor", meta.get("竞品")))
+        if "competitor" in meta or "收藏" in meta or "\u7ade\u54c1" in meta:
+            p["competitor"] = truthy(meta.get("competitor", meta.get("收藏", meta.get("\u7ade\u54c1"))))
         if meta.get("tags"):
             p["tags"] = meta["tags"] if isinstance(meta["tags"], list) else split_list(meta["tags"])
         if meta.get("images"):
@@ -463,7 +463,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
             rev_txt = ""
             if latest_report:
                 rev_txt = (latest_report.get("title") or "") + " " + (latest_report.get("summary") or "")
-            rev_competitors = bool(re.search(r"竞品", rev_txt))
+            rev_competitors = bool(re.search("收藏|\u7ade\u54c1", rev_txt))
             # Do not use hist_today here: the revision pass stamped ## DATE 修订 on
             # nearly every dossier, which would flood the homepage again.
             keep = (
@@ -500,7 +500,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
             if self_proj:
                 notes = ["***档案更新"]
             elif p.get("competitor") and latest <= baseline_report:
-                notes = ["竞品档案修订（正文化 + 评价）"]
+                notes = ["收藏档案修订（正文化 + 评价）"]
             elif is_new:
                 notes = ["新建档"]
             elif hist_today:
@@ -521,7 +521,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
             if self_proj:
                 note = "***档案更新"
             elif p.get("competitor") and latest <= baseline_report:
-                note = "竞品档案修订（正文化 + 评价）"
+                note = "收藏档案修订（正文化 + 评价）"
             elif is_new:
                 note = "新建档"
             else:
@@ -534,7 +534,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
 
     banner = ""
     if latest <= baseline_report and items:
-        banner = f"{latest} 与基线同日，首页只列最新日报涉及/竞品修订/自研共 {len(items)} 项；其余见项目库。"
+        banner = f"{latest} 与基线同日，首页只列最新日报涉及/收藏修订/自研共 {len(items)} 项；其余见项目库。"
 
     items.sort(key=lambda x: (not x["competitor"], 0 if x["kind"] == "new" else 1, x["name"]))
     return items, banner

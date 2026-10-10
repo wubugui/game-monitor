@@ -24,7 +24,7 @@ images:
   - frames/BV18JHz6EEyz_10.jpg
   - frames/BV18JHz6EEyz_11.jpg
   - frames/BV18JHz6EEyz_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站相关视频滚雪（由 BV1g9ad64EZj 的相关推荐发现）；种子视频「【散人】开局团灭 高速列车大火 真凶是谁？《雾雨谜宫》p2」· UP 逍遥散人 · BV18JHz6EEyz · 2026-10-04 · 播放 21.1万"

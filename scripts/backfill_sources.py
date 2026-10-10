@@ -88,7 +88,7 @@ for path in sorted(glob.glob('state/*.md')):
     # discovery
     plat, how = '未知', '未知'
     if pid=='***': plat,how='用户指定','用户自研项目（***Story / *** 仓库）'
-    elif pid=='jianguilu-yinhunjie': plat,how='B站','B站同名核验滚雪：在竞品《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档'
+    elif pid=='jianguilu-yinhunjie': plat,how='B站','B站同名核验滚雪：在收藏《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档'
     elif seed:
         mm=meta.get(seed,{})
         desc=f"种子视频「{mm.get('title','未知')}」· UP {mm.get('up','未知')} · {seed} · {mm.get('date','未知')} · 播放 {wan(mm.get('play','未知'))}"

@@ -28,7 +28,7 @@ images:
   - frames/BV1o7ht6pEgQ_steam01.jpg
   - frames/BV1o7ht6pEgQ_steam02.jpg
   - frames/BV1o7ht6pEgQ_steam03.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [随侯珠]
 discovery_platform: B站
 discovery: "途径未知（种子为 B站视频）；种子视频「【福建民俗百合】在偏僻山镇与女人共历命运的蛇异常《随侯珠》demo全流程配音口播实况【已完结】」· UP 一池周啾 · BV1o7ht6pEgQ · 2026-09-23 · 播放 6623"

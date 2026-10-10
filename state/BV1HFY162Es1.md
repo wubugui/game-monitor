@@ -24,7 +24,7 @@ images:
   - frames/BV1HFY162Es1_10.jpg
   - frames/BV1HFY162Es1_11.jpg
   - frames/BV1HFY162Es1_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「demo 试玩 游戏」；种子视频「无限流游戏《万象之环》新版demo发布，提供20+小时游戏时长，欢迎前来品鉴和批评！」· UP 万象之环 · BV1HFY162Es1 · 2026-09-14 · 播放 5.4万"

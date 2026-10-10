@@ -105,7 +105,7 @@ images:
   - frames/BV1rAbp66EV1_steam05.jpg
   - frames/BV1rAbp66EV1_steam06.jpg
   - frames/BV1rAbp66EV1_steam07.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [镇尸, 规则怪谈之镇尸]
 discovery_platform: B站
 discovery: "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10）；种子视频「来了宝宝 今天我们速通中式找异常恐怖游戏《镇尸》」· UP 南译丷 · BV1rAbp66EV1 · 2026-09-06 · 播放 122.6万"

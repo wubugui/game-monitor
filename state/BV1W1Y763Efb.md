@@ -50,7 +50,7 @@ images:
   - frames/BV1W1Y763Efb_steam06.jpg
   - frames/BV1W1Y763Efb_steam07.jpg
   - frames/BV1W1Y763Efb_steam08.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「发售 独立游戏」「视觉小说 独立游戏」「galgame 独立游戏」；种子视频「独立开发GAL《心象天仪本线》正式发售｜在列车上与文学少女畅谈星空吧」· UP 10lulu · BV1W1Y763Efb · 2026-09-11 · 播放 1.3万"

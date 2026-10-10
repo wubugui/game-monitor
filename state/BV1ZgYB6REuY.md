@@ -24,7 +24,7 @@ images:
   - frames/BV1ZgYB6REuY_10.jpg
   - frames/BV1ZgYB6REuY_11.jpg
   - frames/BV1ZgYB6REuY_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「解谜游戏 独立游戏」；种子视频「一台旧电脑，牵扯出两个家庭的悲剧——《桌面探索者》究竟讲了什么？」· UP 夜浮獭 · BV1ZgYB6REuY · 2026-09-14 · 播放 1.5万"

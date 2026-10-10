@@ -24,7 +24,7 @@ images:
   - frames/BV1ygYd6UEui_10.jpg
   - frames/BV1ygYd6UEui_11.jpg
   - frames/BV1ygYd6UEui_12.jpg
-tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
+tags: [叙事/解谜/恐怖(非收藏)/视觉小说]
 aliases: []
 discovery_platform: B站
 discovery: "B站搜索关键词「解谜游戏 独立游戏」；种子视频「这游戏只要改一个字，就能改写整个世界？！」· UP 飘飘微风 · BV1ygYd6UEui · 2026-09-12 · 播放 6.3万"

@@ -26,7 +26,7 @@ images:
   - frames/BV1GhHS6QECw_steam04.jpg
   - frames/BV1GhHS6QECw_steam05.jpg
   - frames/BV1GhHS6QECw_steam06.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [重启：工作日]
 discovery_platform: B站
 discovery: "B站搜索关键词「互动影游 AI」（每日发现 2026-10-10）；种子视频「悬疑恐怖AI互动影游《重启：工作日》首曝PV」· UP NOXlabs · BV1GhHS6QECw · 2026-10-08 · 播放 7172"
@@ -67,7 +67,7 @@ discovery_date: "2026-10-09"
 
 ### 设定/玩法/美术（据视频与商店页归纳）
 
-NOXlabs 出品的 AI 互动影视叙事：时间循环上班日常。代表简介自称「专注于AI互动影视游戏叙事」。B站相关约58条，覆盖播放约354万，是竞品池里声量最高之一。
+NOXlabs 出品的 AI 互动影视叙事：时间循环上班日常。代表简介自称「专注于AI互动影视游戏叙事」。B站相关约58条，覆盖播放约354万，是收藏池里声量最高之一。
 
 <!-- added:2026-10-09 -->
 

@@ -28,7 +28,7 @@ images:
   - frames/BV1Taa861EDN_steam02.jpg
   - frames/BV1Taa861EDN_steam03.jpg
   - frames/BV1Taa861EDN_steam04.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [请勿与七号患者约会]
 discovery_platform: B站
 discovery: "B站搜索关键词「首曝PV 游戏」「视觉小说 独立游戏」「galgame 独立游戏」；种子视频「恋爱恐怖×精神病院｜国G《请勿与七号患者约会》首曝PV」· UP 归澜游戏 · BV1Taa861EDN · 2026-09-27 · 播放 1.8万"

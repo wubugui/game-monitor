@@ -71,7 +71,7 @@ images:
   - frames/BV1WGqhYdEjx_steam04.jpg
   - frames/BV1WGqhYdEjx_steam05.jpg
   - frames/BV1WGqhYdEjx_steam06.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [无人]
 discovery_platform: B站
 discovery: "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「“你可以回到过去，但这里已经空无一人”中式梦核找异常恐怖游戏《无人》」· UP 弥层 · BV1dYh36MEhV）；种子视频「未知」· UP 未知 · BV1WGqhYdEjx · 未知 · 播放 未知"

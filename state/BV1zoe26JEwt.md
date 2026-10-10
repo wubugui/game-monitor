@@ -31,7 +31,7 @@ images:
   - images/xhs/tongnian-lanruoyu.jpg
   - images/xhs/tongnian-xiaofan.jpg
   - images/xhs/tongnian-king17.jpg
-tags: [竞品]
+tags: [收藏]
 aliases: [童年诡事录]
 discovery_platform: B站
 discovery: "途径未知（种子为 B站视频）；种子视频「《童年诡事录》试玩版」· UP king17__老了 · BV1zoe26JEwt · 2026-09-18 · 播放 246.1万"
@@ -364,7 +364,7 @@ Demo试玩与开发相关视频为主；画面多见传统宅门与室内生活�
 
 ## 小红书（登录态首扫 2026-10-10）
 
-本轮是竞品里**小红书声量最高**的一档。口径高度一致：千禧/梦核、农村怀旧、中式恐怖、写实、Steam demo。头部笔记互动远高于同池其他竞品。
+本轮是收藏里**小红书声量最高**的一档。口径高度一致：千禧/梦核、农村怀旧、中式恐怖、写实、Steam demo。头部笔记互动远高于同池其他收藏。
 
 **代表笔记（进过详情）**
 

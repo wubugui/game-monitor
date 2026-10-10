@@ -2,11 +2,32 @@
  "baseline": false,
  "date": "2026-10-10",
  "id": "2026-10-10",
- "image_count": 0,
- "images": [],
- "md": "# 2026-10-10 日报\n\n<!-- added:2026-10-10 -->\n\n对照基准：`state/***.md`（本轮 Step0 已刷新：*** HEAD `b83be931` WorkbenchHub 接线；***Story 无新 commit）。B 站登录有效（`ydttteng`）。本文件为**主日报骨架**；同日非收藏深挖见 `reports/2026-10-10-z-batch*.md`（勿删）。\n\n## 今日结论速览\n\n- **新增项目：10**（写入 `tracked_projects.md` + `state/`，`found=2026-10-10`）\n- **热度显著更新：3**（追境、太渊无朔、你就是缘由 state 追加「2026-10-10 关注度」）\n- **多数收藏相对昨日持平**（见下表）\n- **小红书**：日间已登录态首扫并入库（`reports/2026-10-10-xhs.md`，9 份收藏档案已补节）；新发现档案多为初建，评论/弹幕/Steam 深挖仍有缺口\n\n---\n\n## 【收藏专区】\n\n<!-- added:2026-10-10 -->\n\n### 热度差分（登录态 view，相对档案/总表旧值）\n\n数据源：`tmp/heat_delta_2026-10-10.tsv`（并参考父代理 `tmp/heat_2026-10-10.tsv`）。**已剔除同名污染**：请神 BV1gE411y7q8=「打鬼请神」动画重置版（非游戏）；重启相关 BV1EAHX6qErs=《坠落男孩》；你就是缘由 BV1kpep6xEkz=歌曲；乌合之众部分「群体心理学」书评条未计入游戏热度。见诡录代表高播是 Z贤者等实况（约443万级），官号发售帖 BV1rBX6Y9Euf 仅约4828——父代理 TSV 里的见诡录 seed 低播数是官帖，不是热度塌陷。\n\n| 收藏 | 核对结论 | 明细（核验后相关条） |\n|---|---|---|\n| ⚠️ 追境 | **显著升温（相对）** | 官方 PV 201→**351**（+74.6%） |\n| ⚠️ 太渊无朔 | **显著升温（相对）** | 代表条 2474→**3117**（+26%）；更新说明片 +2.2% |\n| ⚠️ 你就是缘由 | **小幅升温** | 宣发条 652→**792**（+21.5%）；Demo≈10-23 |\n| ⚠️ 童年诡事录 | 持平略增 | king17 试玩 246.1万≈持平；歪芙芙/橪韭等次条 +0.5%～1.4% |\n| ⚠️ 请神（游戏） | 持平 | 核验后相关：笨尼尼子≈38.0万、配音实况≈6.2万、万字精讲≈5.5万；污染条「打鬼请神」269万不计入 |\n| ⚠️ 乌合之众 | 持平 | 定档解说≈1.49万；游戏向定档讨论约5.6万；昆兰叔解说约202万仍在 |\n| ⚠️ 京门之下 | 持平略降 | 首曝 PV 2.18万（约 -0.9%） |\n| ⚠️ 黑水镇 | 持平 | 官方实机演示 9052 不变；仍受 RDR2/仙剑同名污染 |\n| ⚠️ 见诡录：阴魂街 | 持平 | 前五实况合计仍约千万级；官帖≈4828 |\n| ⚠️ 随侯珠 / 声探疑云 / 七号患者 / 棺门 / 烟雨山 / 见诡 / 小先生 / 妄生 / 诡偶 / 泯灭 / 南亭湖 | 持平或 ±3% 内微动 | 详见 tsv |\n\n**热度亮点（3–5）**\n\n1. **追境** 官方 PV 一日内相对涨幅最大（仍绝对低热）。\n2. **太渊无朔** 代表实机 +26%，个人民俗 ARPG 小圈仍在动。\n3. **你就是缘由** 临近 Demo 窗口小幅爬升。\n4. **童年诡事录** 仍是民俗池绝对高热，但头部试玩评论密度依旧极低（流量≠讨论）。\n5. **新发现《镇尸》《无人》《阴界诡录：尸语公寓》** 单条实况即破百万/七十万，找异常赛道继续挤占「中式恐怖」推荐位。\n\n完整差分写入：`state/BV15GHX6hEjk.md`、`state/BV1btHC6bEVr.md`、`state/BV1NVH96SETa.md`（`## 2026-10-10 关注度`）。\n\n### 今日新增收藏向（摘要）\n\n| 名称 | 代表播 | 一句话 | 档案 |\n|---|---|---|---|\n| ⚠️ 镇尸 | 122.6万 | 中式找异常；南译速通爆 | `state/BV1rAbp66EV1.md` |\n| ⚠️ 无人 | 110.2万 | 中式梦核找异常；C菌全流程 | `state/BV1WGqhYdEjx.md` |\n| ⚠️ 镇邪2 | 110.5万 | 联机抓鬼炼尸摸金宣传片 | `state/BV15ZijeREHG.md` |\n| ⚠️ 阴界诡录：尸语公寓 | 71.0万 | 公寓找异常系列 | `state/BV1E3NgzWEVh.md` |\n| ⚠️ 萦回 / 冥娘引 / 别眨眼 / 论道聊斋 | 低热 | 民俗/梦核 Demo 或即将发售 | 对应 state |\n\n初建档案已标明评论/Steam/官方信息**缺口**，未编造评价。\n\n---\n\n## 【B站】\n\n<!-- added:2026-10-10 -->\n\n### 发现方法\n\n关键词（pubdate）：中式民俗恐怖独立游戏 / 中式恐怖 Demo / 志怪独立游戏 / 互动影游 AI / 梦核恐怖 / 找异常 中式恐怖 等。登录 cookie 有效。\n\n### 今日无「全站随机新类型」爆款以外\n\n民俗/恐怖池内新增以**找异常**与**低热 Demo**为主；动作/二游高热项多已在昨日总表（见 batch 报告）。若只论「昨日总表未收录」：上表 10 项已入库。\n\n### 同名污染备忘（今日再确认）\n\n- 请神 / 黑水镇 / 随侯珠 / 诡偶 / 镇尸 / 萦回 / 冥娘引 / 别眨眼：搜索必须带游戏名全称+「游戏/Demo」，否则电影、歌曲、他作会污染热度。\n\n---\n\n## 【小红书】\n\n<!-- added:2026-10-10 -->\n\n日间补扫：登录态只读完成。详见独立报告 `reports/2026-10-10-xhs.md`。收藏档案已追加「小红书」节（童年诡事录 / 见诡 / 见诡录阴魂街 / 请神 / 京门之下 / 黑水镇 / 泯灭 / 妄生 / 乌合之众）。*****无确认讨论。** 原跳过记录保留于 `xhs/2026-10-10-skip.txt`（已过时）。\n\n---\n\n## 【AI】\n\n<!-- added:2026-10-10 -->\n\n- **1999保密协议**：暖铁互动 /《天命重启》原班，AI 互动影游，Steam 商店页已挂（低热宣发）。档案：`state/BV1uiao6oEmy.md`\n- **Duola Mage**：开发者自称 CodexAI/UGC 编辑器开发、无站外宣发上架；B 站自述帖约 7698 播。档案：`state/BV1xZHW6TE9n.md`\n- 既有池《京门之下》《重启：工作日》《黑水镇》今日热度持平——AI 影游供给增、单作热度未必涨。\n\n---\n\n## 【X】\n\n<!-- added:2026-10-10 -->\n\n要点摘自 `x/2026-10-10-notes.md`（公开检索，非 @wubuguiqqq 主时间线），并补一轮 indiedev 近况检索：\n\n- **反 AI / 盗作焦虑**：Belfrost 推迟恐怖作官宣；大模型反编译 Unity/Godot 独立作讨论升温。\n- **AI 制作样本**：木马人假期做黑神话味武侠 ARPG 拟小红书售卖；Tripo+Three.js 浏览器 F1 Demo；Finn 三人天跑通解压小游戏全流程。\n- **发售信号**：《恐迫症》(Obsessive) 和风视线逃脱 Steam 发售；《Duola Mage》无宣发上架叙事。\n- **海外 indie horror 碎片**：公寓心理恐怖（可交互微波炉）、Dendrophobia 酒店挖过去、Urbexia 1998 发售、Detour: Amygdala 预告等——中式民俗收藏在本轮英文圈检索里弱于通用 horror/AI 话题。\n\n对《***》：海外负面焦点在「AI 可复制」，与自研「AI 素材+质检纪律」同赛道不同立场；国内发现侧则是**找异常中式恐怖继续分流实况流量**。\n\n---\n\n## 附录：文件与阻塞\n\n| 项 | 状态 |\n|---|---|\n| 主日报 | 本文件 |\n| 热度明细 | `tmp/heat_delta_2026-10-10.tsv` / `tmp/heat_refresh_2026-10-10.json` |\n| 父代理热度种子 | `tmp/heat_2026-10-10.tsv`（已交叉核验污染） |\n| X 笔记 | `x/2026-10-10-notes.md` |\n| 小红书 | 已入库（`reports/2026-10-10-xhs.md`） |\n| publish.sh | 本轮由执行子代理发布小红书入库 |\n| *** / ***Story | 只读，无 commit |\n\n",
+ "image_count": 21,
+ "images": [
+  "covers/x-hariti.jpg",
+  "covers/x-emberbound.jpg",
+  "covers/x-dreadflats.jpg",
+  "covers/x-soulcake.jpg",
+  "covers/x-rubbings.jpg",
+  "covers/x-chulingguan.jpg",
+  "covers/x-nextdawn.jpg",
+  "covers/x-burningsword.jpg"
+ ],
+ "md": "# 2026-10-10 日报\n\n<!-- added:2026-10-10 -->\n\n对照基准：`state/***.md`（本轮 Step0 已刷新：*** HEAD `b83be931` WorkbenchHub 接线；***Story 无新 commit）。B 站登录有效（`ydttteng`）。本文件为**主日报骨架**；同日非收藏深挖见 `reports/2026-10-10-z-batch*.md`（勿删）。\n\n## 今日结论速览\n\n- **新增项目：10**（写入 `tracked_projects.md` + `state/`，`found=2026-10-10`）\n- **热度显著更新：3**（追境、太渊无朔、你就是缘由 state 追加「2026-10-10 关注度」）\n- **多数收藏相对昨日持平**（见下表）\n- **小红书**：日间已登录态首扫并入库（`reports/2026-10-10-xhs.md`，9 份收藏档案已补节）；新发现档案多为初建，评论/弹幕/Steam 深挖仍有缺口\n\n---\n\n## 【收藏专区】\n\n<!-- added:2026-10-10 -->\n\n### 热度差分（登录态 view，相对档案/总表旧值）\n\n数据源：`tmp/heat_delta_2026-10-10.tsv`（并参考父代理 `tmp/heat_2026-10-10.tsv`）。**已剔除同名污染**：请神 BV1gE411y7q8=「打鬼请神」动画重置版（非游戏）；重启相关 BV1EAHX6qErs=《坠落男孩》；你就是缘由 BV1kpep6xEkz=歌曲；乌合之众部分「群体心理学」书评条未计入游戏热度。见诡录代表高播是 Z贤者等实况（约443万级），官号发售帖 BV1rBX6Y9Euf 仅约4828——父代理 TSV 里的见诡录 seed 低播数是官帖，不是热度塌陷。\n\n| 收藏 | 核对结论 | 明细（核验后相关条） |\n|---|---|---|\n| ⚠️ 追境 | **显著升温（相对）** | 官方 PV 201→**351**（+74.6%） |\n| ⚠️ 太渊无朔 | **显著升温（相对）** | 代表条 2474→**3117**（+26%）；更新说明片 +2.2% |\n| ⚠️ 你就是缘由 | **小幅升温** | 宣发条 652→**792**（+21.5%）；Demo≈10-23 |\n| ⚠️ 童年诡事录 | 持平略增 | king17 试玩 246.1万≈持平；歪芙芙/橪韭等次条 +0.5%～1.4% |\n| ⚠️ 请神（游戏） | 持平 | 核验后相关：笨尼尼子≈38.0万、配音实况≈6.2万、万字精讲≈5.5万；污染条「打鬼请神」269万不计入 |\n| ⚠️ 乌合之众 | 持平 | 定档解说≈1.49万；游戏向定档讨论约5.6万；昆兰叔解说约202万仍在 |\n| ⚠️ 京门之下 | 持平略降 | 首曝 PV 2.18万（约 -0.9%） |\n| ⚠️ 黑水镇 | 持平 | 官方实机演示 9052 不变；仍受 RDR2/仙剑同名污染 |\n| ⚠️ 见诡录：阴魂街 | 持平 | 前五实况合计仍约千万级；官帖≈4828 |\n| ⚠️ 随侯珠 / 声探疑云 / 七号患者 / 棺门 / 烟雨山 / 见诡 / 小先生 / 妄生 / 诡偶 / 泯灭 / 南亭湖 | 持平或 ±3% 内微动 | 详见 tsv |\n\n**热度亮点（3–5）**\n\n1. **追境** 官方 PV 一日内相对涨幅最大（仍绝对低热）。\n2. **太渊无朔** 代表实机 +26%，个人民俗 ARPG 小圈仍在动。\n3. **你就是缘由** 临近 Demo 窗口小幅爬升。\n4. **童年诡事录** 仍是民俗池绝对高热，但头部试玩评论密度依旧极低（流量≠讨论）。\n5. **新发现《镇尸》《无人》《阴界诡录：尸语公寓》** 单条实况即破百万/七十万，找异常赛道继续挤占「中式恐怖」推荐位。\n\n完整差分写入：`state/BV15GHX6hEjk.md`、`state/BV1btHC6bEVr.md`、`state/BV1NVH96SETa.md`（`## 2026-10-10 关注度`）。\n\n### 今日新增收藏向（摘要）\n\n| 名称 | 代表播 | 一句话 | 档案 |\n|---|---|---|---|\n| ⚠️ 镇尸 | 122.6万 | 中式找异常；南译速通爆 | `state/BV1rAbp66EV1.md` |\n| ⚠️ 无人 | 110.2万 | 中式梦核找异常；C菌全流程 | `state/BV1WGqhYdEjx.md` |\n| ⚠️ 镇邪2 | 110.5万 | 联机抓鬼炼尸摸金宣传片 | `state/BV15ZijeREHG.md` |\n| ⚠️ 阴界诡录：尸语公寓 | 71.0万 | 公寓找异常系列 | `state/BV1E3NgzWEVh.md` |\n| ⚠️ 萦回 / 冥娘引 / 别眨眼 / 论道聊斋 | 低热 | 民俗/梦核 Demo 或即将发售 | 对应 state |\n\n初建档案已标明评论/Steam/官方信息**缺口**，未编造评价。\n\n---\n\n## 【B站】\n\n<!-- added:2026-10-10 -->\n\n### 发现方法\n\n关键词（pubdate）：中式民俗恐怖独立游戏 / 中式恐怖 Demo / 志怪独立游戏 / 互动影游 AI / 梦核恐怖 / 找异常 中式恐怖 等。登录 cookie 有效。\n\n### 今日无「全站随机新类型」爆款以外\n\n民俗/恐怖池内新增以**找异常**与**低热 Demo**为主；动作/二游高热项多已在昨日总表（见 batch 报告）。若只论「昨日总表未收录」：上表 10 项已入库。\n\n### 同名污染备忘（今日再确认）\n\n- 请神 / 黑水镇 / 随侯珠 / 诡偶 / 镇尸 / 萦回 / 冥娘引 / 别眨眼：搜索必须带游戏名全称+「游戏/Demo」，否则电影、歌曲、他作会污染热度。\n\n---\n\n## 【小红书】\n\n<!-- added:2026-10-10 -->\n\n日间补扫：登录态只读完成。详见独立报告 `reports/2026-10-10-xhs.md`。收藏档案已追加「小红书」节（童年诡事录 / 见诡 / 见诡录阴魂街 / 请神 / 京门之下 / 黑水镇 / 泯灭 / 妄生 / 乌合之众）。*****无确认讨论。** 原跳过记录保留于 `xhs/2026-10-10-skip.txt`（已过时）。\n\n---\n\n## 【AI】\n\n<!-- added:2026-10-10 -->\n\n- **1999保密协议**：暖铁互动 /《天命重启》原班，AI 互动影游，Steam 商店页已挂（低热宣发）。档案：`state/BV1uiao6oEmy.md`\n- **Duola Mage**：开发者自称 CodexAI/UGC 编辑器开发、无站外宣发上架；B 站自述帖约 7698 播。档案：`state/BV1xZHW6TE9n.md`\n- 既有池《京门之下》《重启：工作日》《黑水镇》今日热度持平——AI 影游供给增、单作热度未必涨。\n\n---\n\n## 【X】\n\n<!-- added:2026-10-10 -->\n\n要点摘自 `x/2026-10-10-notes.md`（公开检索，非 @wubuguiqqq 主时间线），并补一轮 indiedev 近况检索：\n\n- **反 AI / 盗作焦虑**：Belfrost 推迟恐怖作官宣；大模型反编译 Unity/Godot 独立作讨论升温。\n- **AI 制作样本**：木马人假期做黑神话味武侠 ARPG 拟小红书售卖；Tripo+Three.js 浏览器 F1 Demo；Finn 三人天跑通解压小游戏全流程。\n- **发售信号**：《恐迫症》(Obsessive) 和风视线逃脱 Steam 发售；《Duola Mage》无宣发上架叙事。\n- **海外 indie horror 碎片**：公寓心理恐怖（可交互微波炉）、Dendrophobia 酒店挖过去、Urbexia 1998 发售、Detour: Amygdala 预告等——中式民俗收藏在本轮英文圈检索里弱于通用 horror/AI 话题。\n\n对《***》：海外负面焦点在「AI 可复制」，与自研「AI 素材+质检纪律」同赛道不同立场；国内发现侧则是**找异常中式恐怖继续分流实况流量**。\n\n---\n\n## 附录：文件与阻塞\n\n| 项 | 状态 |\n|---|---|\n| 主日报 | 本文件 |\n| 热度明细 | `tmp/heat_delta_2026-10-10.tsv` / `tmp/heat_refresh_2026-10-10.json` |\n| 父代理热度种子 | `tmp/heat_2026-10-10.tsv`（已交叉核验污染） |\n| X 笔记 | `x/2026-10-10-notes.md` |\n| 小红书 | 已入库（`reports/2026-10-10-xhs.md`） |\n| publish.sh | 本轮由执行子代理发布小红书入库 |\n| *** / ***Story | 只读，无 commit |\n\n\n<!-- added:2026-10-10 -->\n\n## 【X 深挖补充】新增 21 个条目（2026-10-10）\n\n发现方法：X API 检索 #indiehorror #horrorgame #indiedev #screenshotsaturday #visualnovel wuxia/xianxia、Chinese horror/folk/taoist、独立游戏/民俗恐怖/恐怖遊戲 等 + 种子帖 conversation 回复拉取 + 开发者账号滚雪球；每条均配 Steam 封面与 7–8 张商店截图（已目视核对）。另给已有条目《请神》(The Unleaving) 与《黑水镇》补了 X 段落。\n\n### ⭐ 收藏 · 鬼子母 Hariti\n\n![cover](covers/x-hariti.jpg)\n\n- 第一人称中式心理恐怖｜小团队（Ghostcase，《凶寓》《恶意》开发方）｜已发售（2026-08-11）｜X 相关帖 37 条，单帖最高赞 2144｜档案：state/x-hariti.md\n\n### ⭐ 收藏 · 未烬之约 EMBERBOUND\n\n![cover](covers/x-emberbound.jpg)\n\n- 兽人题材现代日常视觉小说｜小团队（Fluffore Studio）｜开发中（Patreon 第二章测试；Demo 即将）｜X 相关帖 3 条，单帖最高赞 1173｜档案：state/x-emberbound.md\n\n### ⭐ 收藏 · 凶寓 Dread Flats\n\n![cover](covers/x-dreadflats.jpg)\n\n- 第一人称中式怪谈恐怖｜小团队（Ghostcase）｜已发售（2025-07-10）｜X 相关帖 26 条，单帖最高赞 105｜档案：state/x-dreadflats.md\n\n### ⭐ 收藏 · 灵魂甜品 Soulcake\n\n![cover](covers/x-soulcake.jpg)\n\n- 女性向奇幻恋爱探索 AVG（百合/GB）｜小团队（自己的房间 Room of One's Own，2 人）｜开发中（2027 年；itch 免费 Demo，Steam Demo 即将）｜X 相关帖 1 条，单帖最高赞 4｜档案：state/x-soulcake.md\n\n### ⭐ 收藏 · 诡拓 Rubbings\n\n![cover](covers/x-rubbings.jpg)\n\n- 中式民俗微恐悬疑推理｜小团队（午夜说书人；发行 Erabit）｜已发售（2025-04-24）｜X 相关帖 1 条，单帖最高赞 2｜档案：state/x-rubbings.md\n\n### ⭐ 收藏 · 除靈館 Haunted House\n\n![cover](covers/x-chulingguan.jpg)\n\n- AI 美术叙事解谜恐怖（理解怨灵、无战斗）｜小团队（改變娛樂工作室 / 哈皮，台湾）｜开发中（Steam 页，2026 Q4）｜X 相关帖 32 条，单帖最高赞 2｜档案：state/x-chulingguan.md\n\n### 致下一个黎明 To the next dawn\n\n![cover](covers/x-nextdawn.jpg)\n\n- 日系二次元魔法战斗 ARPG｜个人（兔狐喵菇工作室 / WaterKiNoKo；发行糕薯科技）｜开发中（Steam 页）｜X 相关帖 8 条，单帖最高赞 568｜档案：state/x-nextdawn.md\n\n### Burning Sword: Death Sun\n\n![cover](covers/x-burningsword.jpg)\n\n- 南宋武侠硬核动作+Roguelite｜小团队（Nomadic Games；发行 Rising Tide）｜新 Demo（2026-10）｜X 相关帖 13 条，单帖最高赞 122｜档案：state/x-burningsword.md\n\n### Vivere Retro\n\n![cover](covers/x-vivere.jpg)\n\n- 心理生存恐怖（越肩战斗）｜个人（Vidas Salavejus，已做近 50 款）｜已发售（2026-08-20）｜X 相关帖 1 条，单帖最高赞 112｜档案：state/x-vivere.md\n\n### DEEPWARD\n\n![cover](covers/x-deepward.jpg)\n\n- 1920 年代恐怖 FPS Roguelite（小队切换）｜小团队（Echofall Games）｜Demo（正式 2027 Q1）｜X 相关帖 3 条，单帖最高赞 70｜档案：state/x-deepward.md\n\n### Deadtale\n\n![cover](covers/x-deadtale.jpg)\n\n- 程序生成末日 FPS Roguelike｜个人（Sinfool）｜开发中｜X 相关帖 7 条，单帖最高赞 67｜档案：state/x-deadtale.md\n\n### 幼神 Infant God\n\n![cover](covers/x-infantgod.jpg)\n\n- AI 养成叙事（和网民对线塑造 AI 人格）｜个人（colsalley；发行 Wave Games）｜开发中（2027 Q1；Demo 9 月）｜X 相关帖 4 条，单帖最高赞 34｜档案：state/x-infantgod.md\n\n### No Return Address\n\n![cover](covers/x-noreturn.jpg)\n\n- 分拣中心夜班找异常恐怖｜小团队（ASK GAMES）｜即将发售（2026-10-28）｜X 相关帖 8 条，单帖最高赞 25｜档案：state/x-noreturn.md\n\n### Rookie Raiders\n\n![cover](covers/x-rookieraiders.jpg)\n\n- 自动战斗 Roguelite RPG（组队构筑）｜小团队（Team Neverending）｜开发中（2027-02）｜X 相关帖 1 条，单帖最高赞 23｜档案：state/x-rookieraiders.md\n\n### Coldline: Disconnect\n\n![cover](covers/x-coldline.jpg)\n\n- 像素潜伏维修解谜/谍战叙事｜小团队（Grawire Studio）｜开发中（Steam 页+Demo）｜X 相关帖 3 条，单帖最高赞 15｜档案：state/x-coldline.md\n\n### Parasomnia: No REM\n\n![cover](covers/x-parasomnia.jpg)\n\n- 梦游主题心理恐怖解谜｜小团队（BELS Games）｜新 Demo（2026-10）｜X 相关帖 2 条，单帖最高赞 8｜档案：state/x-parasomnia.md\n\n### HAIGLA\n\n![cover](covers/x-haigla.jpg)\n\n- 轮椅视角医院心理恐怖｜个人（THOs Dev）｜Demo（2026 Q4）｜X 相关帖 1 条，单帖最高赞 7｜档案：state/x-haigla.md\n\n### STARCULT: Night Twisted Age\n\n![cover](covers/x-starcult.jpg)\n\n- 黑暗乙女视觉小说（邪教/操纵人心）｜小团队（NOT A CAT STUDIOS）｜Demo（2026 Q4）｜X 相关帖 1 条，单帖最高赞 7｜档案：state/x-starcult.md\n\n### 呪縛 Jubaku\n\n![cover](covers/x-jubaku.jpg)\n\n- 日式心理恐怖（调查闹鬼屋，多结局）｜小团队（BabGamesStudio）｜Demo（2027 Q1）｜X 相关帖 2 条，单帖最高赞 5｜档案：state/x-jubaku.md\n\n### Seventh Seal\n\n![cover](covers/x-seventhseal.jpg)\n\n- 第三人称生存恐怖动作｜小团队（Renderready, LLC）｜Demo｜X 相关帖 1 条，单帖最高赞 4｜档案：state/x-seventhseal.md\n\n### 山海：神话起源 Shan Hai: Mythic Origins\n\n![cover](covers/x-shanhai.jpg)\n\n- 山海经动作肉鸽（最多 4 人合作）｜个人（Honglizi，自称独立开发者）｜开发中（有 Demo）｜X 相关帖 1 条，单帖最高赞 0｜档案：state/x-shanhai.md\n\n",
  "new": "",
  "projects": [
+  {
+   "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "id": "p-af2615f3bf",
+   "name": "鬼子母 Hariti"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-chulingguan.jpg",
+   "id": "p-787dd22ae5",
+   "name": "除靈館 Haunted House"
+  },
   {
    "competitor": true,
    "cover": "covers/BV1E3NgzWEVh.jpg",
@@ -21,15 +42,57 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-rubbings.jpg",
+   "id": "p-b4beba7e64",
+   "name": "诡拓 Rubbings"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1SjeP62EMn.jpg",
    "id": "BV1SjeP62EMn",
    "name": "萦回"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-nextdawn.jpg",
+   "id": "p-c18d4869b6",
+   "name": "致下一个黎明 To the next dawn"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
    "cover": "covers/BV1WGqhYdEjx.jpg",
    "id": "BV1WGqhYdEjx",
    "name": "无人"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-infantgod.jpg",
+   "id": "p-f92dc62ade",
+   "name": "幼神 Infant God"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-shanhai.jpg",
+   "id": "p-f36883ad51",
+   "name": "山海：神话起源 Shan Hai: Mythic Origins"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "id": "p-72baee6fce",
+   "name": "呪縛 Jubaku"
   },
   {
    "competitor": true,
@@ -39,15 +102,87 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1AtYE6kESe.jpg",
    "id": "BV1AtYE6kESe",
    "name": "冥娘引"
   },
   {
    "competitor": false,
+   "cover": "covers/x-vivere.jpg",
+   "id": "p-8bddd9fc25",
+   "name": "Vivere Retro"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-seventhseal.jpg",
+   "id": "p-d717075a1a",
+   "name": "Seventh Seal"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-starcult.jpg",
+   "id": "p-4d8e0781b0",
+   "name": "STARCULT: Night Twisted Age"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-rookieraiders.jpg",
+   "id": "p-0df3af90b3",
+   "name": "Rookie Raiders"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-parasomnia.jpg",
+   "id": "p-57496764b1",
+   "name": "Parasomnia: No REM"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-noreturn.jpg",
+   "id": "p-21c485f157",
+   "name": "No Return Address"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-haigla.jpg",
+   "id": "HAIGLA",
+   "name": "HAIGLA"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1xZHW6TE9n.jpg",
    "id": "BV1xZHW6TE9n",
    "name": "Duola Mage"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-deadtale.jpg",
+   "id": "Deadtale",
+   "name": "Deadtale"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-deepward.jpg",
+   "id": "DEEPWARD",
+   "name": "DEEPWARD"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "id": "p-95cb3f1758",
+   "name": "Coldline: Disconnect"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-burningsword.jpg",
+   "id": "p-36645fe205",
+   "name": "Burning Sword: Death Sun"
   },
   {
    "competitor": false,
@@ -99,7 +234,8 @@
   "【小红书】",
   "【AI】",
   "【X】",
-  "附录：文件与阻塞"
+  "附录：文件与阻塞",
+  "【X 深挖补充】新增 21 个条目（2026-10-10）"
  ],
  "summary": "收藏热度差分 + 新发现10项 + X AI/反AI；小红书登录态首扫已入库（见 2026-10-10-xhs）。",
  "title": "2026-10-10 日报",

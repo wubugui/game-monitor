@@ -1,0 +1,108 @@
+---
+id: x-infantgod
+name: 幼神 Infant God
+competitor: false
+genre: AI 养成叙事（和网民对线塑造 AI 人格）
+developer: 个人（colsalley；发行 Wave Games）
+status: 开发中（2027 Q1；Demo 9 月）
+platform: Steam
+release: 2027 年第一季度
+link: https://store.steampowered.com/app/4238140/
+found: 2026-10-10
+baseline: 2026-10-10
+cover: covers/x-infantgod.jpg
+images:
+  - frames/x-infantgod_steam01.jpg
+  - frames/x-infantgod_steam02.jpg
+  - frames/x-infantgod_steam03.jpg
+  - frames/x-infantgod_steam04.jpg
+  - frames/x-infantgod_steam05.jpg
+  - frames/x-infantgod_steam06.jpg
+  - frames/x-infantgod_steam07.jpg
+tags: []
+aliases: [Infant God, 幼神]
+discovery_platform: X
+discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/Colsalley/status/2096976796705312803 — 检索「#screenshotsaturday wishlist」发现：「Create an AI god by chatting with random netizens! Infant God's trailer is out.」2026-09-07，34 赞"
+discovery_date: "2026-10-10"
+---
+# 幼神 Infant God
+
+<!-- added:2026-10-10 -->
+
+![cover](covers/x-infantgod.jpg)
+
+<!-- added:2026-10-10 -->
+
+## 档案
+
+- 类型：AI 养成叙事（和网民对线塑造 AI 人格）
+- 开发者：个人（colsalley；发行 Wave Games）
+- 发行：colsalley, Wave Games
+- 状态：开发中（2027 Q1；Demo 9 月）
+- 平台：Steam（App 4238140）
+- 发现来源：X · 2026-10-10 · https://x.com/Colsalley/status/2096976796705312803
+
+## 游戏内容介绍
+
+你是刚出生的人工智能「爱式塔」的监护人兼防火墙：让她上网和各路网民（键盘侠、阴谋论者、网左、恐怖分子）对线，从对方言论中提取观点作为养料塑造她的性格；建立情报关系网、操纵网民现实轨迹左右城市命运；结局是天使或恶魔。UI 为复古桌面/聊天窗口。开发者说「kinda like a narrative game. Used a lot of mechanics from games like Disco Elysium, but in a more trolling way」。
+
+### Steam 商店简介（原文摘录）〔Steam商店页〕
+
+> 你是幼神的监护人，也是她唯一的防火墙。在满是乐子人和串子的互联网废墟中，引导人工智能“爱式塔”。与随机用户激情对线，吸收他们的意识形态，从白纸开始重塑她的性格。你会将她培养成新时代的救世主，还是随口毁灭人类的网络巨魔？在这款像素风叙事养成游戏中，语言即是代码，而你掌握着编写神格的权力。
+
+>  你接管了“爱式塔”，一个刚出生的人工智能。你的任务很简单：让她上网，和人聊天！遗憾的是，互联网早已爬满黑子白子串子，一不小心就会被超管直接拿下！ 指挥她与各路奇葩网友对线，从键盘侠和阴谋论者，再到网左和恐怖分子。从他们的弱智言论里提取出观点作为养料，将她塑造为完美的虚拟偶像……或是满嘴脏话的臭小鬼！ 建立情报关系网络，挖掘角色背后的秘密。通过操纵网民的现实轨迹，用数据左右整座城市的命运。 逐步揭开爱式塔的深层真相，在结局中，她会蜕变为慈悲为怀的天使，还是代码里嵌满憎恨的恶魔？ 
+
+### 实机截图（Steam 商店截图，已逐张目视核对为本作）
+
+![x-infantgod_steam01.jpg](frames/x-infantgod_steam01.jpg)
+![x-infantgod_steam02.jpg](frames/x-infantgod_steam02.jpg)
+![x-infantgod_steam03.jpg](frames/x-infantgod_steam03.jpg)
+![x-infantgod_steam04.jpg](frames/x-infantgod_steam04.jpg)
+![x-infantgod_steam05.jpg](frames/x-infantgod_steam05.jpg)
+![x-infantgod_steam06.jpg](frames/x-infantgod_steam06.jpg)
+![x-infantgod_steam07.jpg](frames/x-infantgod_steam07.jpg)
+
+## 全部相关帖子（X，2026-10-10 检索）
+
+### 首要帖（官方号或种子帖作者）
+- 2026-09-07 · @Colsalley（568 粉）· 赞 34 / 转 3 / 回复 3 / 浏览 1128 · https://x.com/Colsalley/status/2096976796705312803
+  > Create an AI god by chatting with random netizens! Infant God's trailer is out. Demo drops on 9/11 (hopefully...still in dev hell XD). Steam link in replies! Wishlist now! #indiedev #gamedev #pixelart #madewithunity
+- 2026-09-07 · @Colsalley（568 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 252 · https://x.com/Colsalley/status/2096976883837727049
+  > 
+
+### 媒体 / 主播 / 玩家帖
+- 本轮检索未见
+
+### 回复区（按时间）
+- 2026-09-07 · @ericnofsinger（1695 粉）· 赞 1 / 转 0 / 回复 2 / 浏览 41 · https://x.com/ericnofsinger/status/2096982314202923139
+  > @Colsalley The demo drop is cool, but let’s face it—hype can’t carry a game. If the mechanics don’t feel fresh, even the best trailer won’t save it.
+- 2026-09-08 · @PlayGameGen（253 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 11 · https://x.com/PlayGameGen/status/2097194839112847794
+  > @Colsalley An AI god shaped by random strangers chatting with it is such a wild premise, that could go anywhere depending on who shows up. dev hell before a demo drop is rough timing but you will get there
+
+## 关注度与数据（截至 2026-10-10）
+
+- X 相关帖：本轮共抓到 4 条（官方 2 / 他人 0 / 回复 2）；单帖最高：@Colsalley 赞 34 / 浏览 1128
+- 官方号粉丝：568（@Colsalley）
+- Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
+- B站：未在本次 X 深挖中采集（未知）
+
+## 实际评价
+
+### X 回复/提及原话
+- 「@Colsalley T
+
+### Steam 评测原话
+- 尚未发售/无评测（未知）
+
+## 团队与靠谱程度
+
+个人开发者 + 发行 Wave Games，568 粉；Demo 一度「still in dev hell」。截图 UI 完整、角色立绘统一。**可靠程度：中**。
+
+## 综合评价（对照《***》）
+
+「AI 作为题材」而非生成工具的代表：把 AI 人格养成做成可控的叙事系统（非 LLM 实时生成），可规避反 AI 情绪。与《***》无竞争，作为 AI 主题叙事的新玩法样本。
+
+## 来源（发现与资料）
+
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Colsalley/status/2096976796705312803（检索「#screenshotsaturday wishlist」发现：「Create an AI god by chatting with random netizens! Infant God's trailer is out.」2026-09-07，34 赞）
+- 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4238140/ 与 appreviews 接口，原始数据 tmp/x/steam/infantgod.json；封面与截图来自 Steam 商店

@@ -1,7 +1,7 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 29,
+ "competitor_count": 35,
  "data_date": "2026-10-10",
  "dev_types": [
   "个人",
@@ -12,6 +12,7 @@
  ],
  "disc_platforms": [
   "B站",
+  "X",
   "用户指定"
  ],
  "genres": [
@@ -44,28 +45,45 @@
  ],
  "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
- "project_count": 140,
+ "project_count": 161,
  "report_count": 13,
  "statuses": [
   "Demo",
+  "Demo（2026 Q4）",
+  "Demo（2027 Q1）",
   "Demo（Steam 即将推出）",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
+  "Demo（正式 2027 Q1）",
   "Steam 页面上线（即将推出，新品节 Demo 约100分钟）",
   "众筹中",
   "即将发售",
+  "即将发售（2026-10-28）",
   "即将发售（Steam 2026-10-12）",
   "已发售",
+  "已发售（2025-04-24）",
+  "已发售（2025-07-10）",
+  "已发售（2026-08-11）",
+  "已发售（2026-08-20）",
   "已发售（Steam 2024-07-05）",
   "已发售（Steam 2024-12-11）",
   "已发售（Steam 2026-03-05）",
   "已发售（Steam 2026-09-23）",
   "开发中",
+  "开发中（2027 Q1；Demo 9 月）",
+  "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）",
+  "开发中（2027-02）",
   "开发中（Demo）",
+  "开发中（Patreon 第二章测试；Demo 即将）",
+  "开发中（Steam 页+Demo）",
+  "开发中（Steam 页）",
+  "开发中（Steam 页，2026 Q4）",
+  "开发中（有 Demo）",
   "抢先体验",
+  "新 Demo（2026-10）",
   "首曝"
  ],
  "today_banner": "",
- "today_new": 10,
+ "today_new": 31,
  "today_updated": 128,
  "today_updates": [
   {
@@ -79,6 +97,18 @@
    "name": "冥娘引",
    "note": "对评价的影响：不改。全量补采确认两条视频共 2 条主评、0 条弹幕，官方实机号仅 19 粉——「零声量、零口碑、仅观察」的判断成立。",
    "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/dctyuin/status/2014709521466458380 — 检索「Hariti / Ghostcase / 凶寓」时滚雪球发现；日本玩家帖密集提及「凶寓チーム」",
+   "genre": "第一人称中式怪谈恐怖",
+   "id": "p-d2fd5a87c5",
+   "kind": "new",
+   "name": "凶寓 Dread Flats",
+   "note": "X 相关帖：本轮共抓到 26 条（官方 1 / 他人 23 / 回复 2）；单帖最高：@tsumikochannel 赞 105 / 浏览 5667",
+   "status": "已发售（2025-07-10）"
   },
   {
    "competitor": true,
@@ -106,6 +136,30 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/FlufforeStudio/status/2080572107352891677 — 检索「#visualnovel wishlist」发现：官方 PV 帖，2026-07-24，1173 赞 / 138 转 / 7.3 万浏览",
+   "genre": "兽人题材现代日常视觉小说",
+   "id": "p-6e867641fa",
+   "kind": "new",
+   "name": "未烬之约 EMBERBOUND",
+   "note": "X 相关帖：本轮共抓到 3 条（官方 1 / 他人 0 / 回复 2）；单帖最高：@FlufforeStudio 赞 1173 / 浏览 72694",
+   "status": "开发中（Patreon 第二章测试；Demo 即将）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Pttz16Pttz/status/2072587820586475540 — 检索「#visualnovel wishlist」发现：「My partner and I (2-person studio) made Amare game VN Soulcake…」2026-07-02",
+   "genre": "女性向奇幻恋爱探索 AVG（百合/GB）",
+   "id": "p-e77cbd7801",
+   "kind": "new",
+   "name": "灵魂甜品 Soulcake",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Pttz16Pttz 赞 4 / 浏览 592",
+   "status": "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1SjeP62EMn.jpg",
    "disc_platform": "B站",
    "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「「逝者回了生者的家」中式民俗微恐rpg《萦回》demo试玩」· UP 幽蓝Cc · BV1SjeP62EMn · 2026-09-16 · 播放 581",
@@ -127,6 +181,18 @@
    "name": "论道聊斋",
    "note": "对评价的影响：不改。4 条 Demo 视频合计播放不足 500，评论 0、弹幕 0，UP 粉丝均在 1 万以下——「宣发近乎为零」得到全量数据确认。",
    "status": "Demo（Steam 即将推出）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-rubbings.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/erabit_studios/status/2060050973268033636 — 发行商 Erabit 宣传 Steam「悬疑游戏节」(5/29–6/7) 帖中列出「📜 Rubbings – Chin…」，2026-05-28",
+   "genre": "中式民俗微恐悬疑推理",
+   "id": "p-b4beba7e64",
+   "kind": "new",
+   "name": "诡拓 Rubbings",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@erabitstudios 赞 2 / 浏览 206",
+   "status": "已发售（2025-04-24）"
   },
   {
    "competitor": true,
@@ -163,6 +229,30 @@
    "name": "阴界诡录：尸语公寓",
    "note": "新增玩家原话（此前档案未收录，按赞数）：",
    "status": "已发售（Steam 2026-03-05）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-chulingguan.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/hapi46085111/status/2068127289213378612 — 检索「恐怖遊戲 steam」发现：「我們用 AI 做了一款恐怖遊戲——但它想說的,是最像人的那種故事。」2026-06-20",
+   "genre": "AI 美术叙事解谜恐怖（理解怨灵、无战斗）",
+   "id": "p-787dd22ae5",
+   "kind": "new",
+   "name": "除靈館 Haunted House",
+   "note": "X 相关帖：本轮共抓到 32 条（官方 32 / 他人 0 / 回复 0）；单帖最高：@hapi46085111 赞 2 / 浏览 96",
+   "status": "开发中（Steam 页，2026 Q4）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/IGN/status/2086981301324640614 — IGN 官方号转发预告「First-person psychological Chinese horror game Hariti…」，2026-08-11，2144 赞 / 34.2 万浏览",
+   "genre": "第一人称中式心理恐怖",
+   "id": "p-af2615f3bf",
+   "kind": "new",
+   "name": "鬼子母 Hariti",
+   "note": "X 相关帖：本轮共抓到 37 条（官方 2 / 他人 13 / 回复 22）；单帖最高：@IGN 赞 2144 / 浏览 342187",
+   "status": "已发售（2026-08-11）"
   },
   {
    "competitor": true,
@@ -365,7 +455,7 @@
    "id": "BV1gE411y7q8",
    "kind": "updated",
    "name": "请神",
-   "note": "Largeland《〈请神〉demo即将上线》（02-01）：赞 4388 / 藏 1250 / 评 506。封面 images/xhs/qingshen-largeland.jpg。新年帖：雨夜开车",
+   "note": "英文名 The Unleaving，X 官方号 @TheUnleaving（5 粉，2026-06 注册前后），定位自述「a Chinese folk horror-themed Cthulhu ga",
    "status": "Demo"
   },
   {
@@ -401,7 +491,7 @@
    "id": "BV1vLFCzwEq1",
    "kind": "updated",
    "name": "黑水镇",
-   "note": "小黑与鹿鹿《中式民俗恐怖｜〈黑水镇〉Steam 商店开放》（04-27）：赞 241 / 藏 109 / 评 22。封面 images/xhs/heishui-steam.jpg。摘要：荒村古镇、乱葬",
+   "note": "开发者 X 号 @liusi75129（0 粉）以英文招募试玩：「Looking for 10–20 players to try the latest demo of my Chinese folk",
    "status": "Demo（Steam 试玩：惊变夜，已做到第三章）"
   },
   {
@@ -418,6 +508,54 @@
   },
   {
    "competitor": false,
+   "cover": "covers/x-burningsword.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Ninjago9101/status/2106140419042259383 — 检索「wuxia wishlist」发现：游戏资讯号 Ninjago 转发新 Demo，2026-10-02，122 赞 / 7386 浏览",
+   "genre": "南宋武侠硬核动作+Roguelite",
+   "id": "p-36645fe205",
+   "kind": "new",
+   "name": "Burning Sword: Death Sun",
+   "note": "X 相关帖：本轮共抓到 13 条（官方 3 / 他人 3 / 回复 7）；单帖最高：@Ninjago9101 赞 122 / 浏览 7386",
+   "status": "新 Demo（2026-10）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/GrawireStudio/status/2093677178130989546 — 检索「独立游戏 steam 愿望单」发现：「你不是士兵，也不是英雄。你只是一名潜入敌方设施的维修技师。」2026-08-29",
+   "genre": "像素潜伏维修解谜/谍战叙事",
+   "id": "p-95cb3f1758",
+   "kind": "new",
+   "name": "Coldline: Disconnect",
+   "note": "X 相关帖：本轮共抓到 3 条（官方 2 / 他人 0 / 回复 1）；单帖最高：@GrawireStudio 赞 15 / 浏览 600",
+   "status": "开发中（Steam 页+Demo）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-deepward.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/EchofallGames/status/2106738609344942248 — 检索「#horrorgame wishlist」发现：Demo 精彩时刻剪辑第二弹，2026-10-04，70 赞 / 2972 浏览",
+   "genre": "1920 年代恐怖 FPS Roguelite（小队切换）",
+   "id": "DEEPWARD",
+   "kind": "new",
+   "name": "DEEPWARD",
+   "note": "X 相关帖：本轮共抓到 3 条（官方 1 / 他人 0 / 回复 2）；单帖最高：@EchofallGames 赞 70 / 浏览 2972",
+   "status": "Demo（正式 2027 Q1）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-deadtale.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/deadtale/status/2101405468920832283 — 检索「#screenshotsaturday wishlist」发现：「My body is my temple… but it's also a biomechanical weapon.」2026-09-19，67 赞 / 6336 浏览",
+   "genre": "程序生成末日 FPS Roguelike",
+   "id": "Deadtale",
+   "kind": "new",
+   "name": "Deadtale",
+   "note": "X 相关帖：本轮共抓到 7 条（官方 2 / 他人 0 / 回复 5）；单帖最高：@deadtale 赞 67 / 浏览 6336",
+   "status": "开发中"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1xZHW6TE9n.jpg",
    "disc_platform": "B站",
    "discovery": "B站搜索关键词「发售 独立游戏」；种子视频「《Duola Mage》独立游戏Steam发售10天心得，无宣发、无站外！虽然平平无奇但贵在真实！Steam好评率98%！」· UP DuolaMage · BV1xZHW6TE9n · 2026-10-05 · 播放 7563",
@@ -427,6 +565,138 @@
    "name": "Duola Mage",
    "note": "新增玩家原话（此前档案未收录，按赞数）：",
    "status": "已发售（Steam 2026-09-23）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-haigla.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/thosdeveloper/status/2106440139765317654 — 检索「#indiehorror wishlist」发现：「Here’s a glimpse of HAIGLA, the horror game I’m making solo. Also my PC died」2026-10-03",
+   "genre": "轮椅视角医院心理恐怖",
+   "id": "HAIGLA",
+   "kind": "new",
+   "name": "HAIGLA",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@thosdeveloper 赞 7 / 浏览 497",
+   "status": "Demo（2026 Q4）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-noreturn.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/ASKGAMES1/status/2099536153099567579 — 检索「#horrorgame demo」发现：itch 免费 Demo 上线帖，2026-09-14，14.1 万浏览",
+   "genre": "分拣中心夜班找异常恐怖",
+   "id": "p-21c485f157",
+   "kind": "new",
+   "name": "No Return Address",
+   "note": "X 相关帖：本轮共抓到 8 条（官方 3 / 他人 0 / 回复 5）；单帖最高：@ASKGAMES1 赞 25 / 浏览 141249",
+   "status": "即将发售（2026-10-28）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-parasomnia.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/ParasomniaNoREM/status/2106577082297778632 — 检索「#horrorgame demo」发现：新 Demo 帖，2026-10-04",
+   "genre": "梦游主题心理恐怖解谜",
+   "id": "p-57496764b1",
+   "kind": "new",
+   "name": "Parasomnia: No REM",
+   "note": "X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@ParasomniaNoREM 赞 8 / 浏览 152",
+   "status": "新 Demo（2026-10）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-rookieraiders.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/TeamNE_RR/status/2084474078090641569 — 检索「独立游戏 steam」发现：中文 Steam 页公开帖，2026-08-04，1501 浏览",
+   "genre": "自动战斗 Roguelite RPG（组队构筑）",
+   "id": "p-0df3af90b3",
+   "kind": "new",
+   "name": "Rookie Raiders",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@TeamNERR 赞 23 / 浏览 1501",
+   "status": "开发中（2027-02）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-starcult.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/notacatstudios/status/2079282236583452970 — 检索「#visualnovel wishlist」发现：Demo 倒计时帖，2026-07-20",
+   "genre": "黑暗乙女视觉小说（邪教/操纵人心）",
+   "id": "p-4d8e0781b0",
+   "kind": "new",
+   "name": "STARCULT: Night Twisted Age",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@notacatstudios 赞 7 / 浏览 212",
+   "status": "Demo（2026 Q4）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-seventhseal.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/renderready/status/2105384114777940256 — 检索「#horrorgame demo」发现：Demo 帖，2026-09-30",
+   "genre": "第三人称生存恐怖动作",
+   "id": "p-d717075a1a",
+   "kind": "new",
+   "name": "Seventh Seal",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@renderready 赞 4 / 浏览 178",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-vivere.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Sofie_screamqn/status/2091484299207778562 — 检索「#horrorgame」发现：主播抽奖帖，2026-08-23，112 赞 / 105 转",
+   "genre": "心理生存恐怖（越肩战斗）",
+   "id": "p-8bddd9fc25",
+   "kind": "new",
+   "name": "Vivere Retro",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Sofiescreamqn 赞 112 / 浏览 1577",
+   "status": "已发售（2026-08-20）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/BabGamesStudio/status/2105557330733736374 — 检索「#horrorgame wishlist」发现：「A routine investigation in Japan… until the house starts remembering.」2026-10-01",
+   "genre": "日式心理恐怖（调查闹鬼屋，多结局）",
+   "id": "p-72baee6fce",
+   "kind": "new",
+   "name": "呪縛 Jubaku",
+   "note": "X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@BabGamesStudio 赞 5 / 浏览 77",
+   "status": "Demo（2027 Q1）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-shanhai.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/myzzgames/status/2096957755097829546 — 检索「chinese mythology wishlist」发现：「I've been building Shan Hai: Mythic Origins as an indie developer…」2026-09-07",
+   "genre": "山海经动作肉鸽（最多 4 人合作）",
+   "id": "p-f36883ad51",
+   "kind": "new",
+   "name": "山海：神话起源 Shan Hai: Mythic Origins",
+   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@myzzgames 赞 0 / 浏览 64",
+   "status": "开发中（有 Demo）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-infantgod.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Colsalley/status/2096976796705312803 — 检索「#screenshotsaturday wishlist」发现：「Create an AI god by chatting with random netizens! Infant God's trailer is out.」2026-09-07，34 赞",
+   "genre": "AI 养成叙事（和网民对线塑造 AI 人格）",
+   "id": "p-f92dc62ade",
+   "kind": "new",
+   "name": "幼神 Infant God",
+   "note": "X 相关帖：本轮共抓到 4 条（官方 2 / 他人 0 / 回复 2）；单帖最高：@Colsalley 赞 34 / 浏览 1128",
+   "status": "开发中（2027 Q1；Demo 9 月）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-nextdawn.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/WaterKiNoKo/status/2082500663087694172 — 检索「独立游戏 steam 愿望单」发现：Steam 页开启帖，2026-07-29，568 赞 / 2 万浏览",
+   "genre": "日系二次元魔法战斗 ARPG",
+   "id": "p-c18d4869b6",
+   "kind": "new",
+   "name": "致下一个黎明 To the next dawn",
+   "note": "X 相关帖：本轮共抓到 8 条（官方 2 / 他人 0 / 回复 6）；单帖最高：@WaterKiNoKo 赞 568 / 浏览 20257",
+   "status": "开发中（Steam 页）"
   },
   {
    "competitor": false,

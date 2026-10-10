@@ -141,3 +141,24 @@
 | Duola Mage | 二次元动作肉鸽（AI开发） | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1xZHW6TE9n | 7698 | 自称无站外宣发；AI/UGC编辑器开发 |
 | ⚠️ 镇邪2 | 中式民俗联机抓鬼 | 未知（未知） | 首发宣传 | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | 110.5万 | 多人联机+抓鬼炼尸+画符+下墓摸金 |
 | ⚠️ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；扮道士单元剧 |
+| ⚠️ 鬼子母 Hariti | 第一人称中式心理恐怖 | 小团队（Ghostcase，《凶寓》《恶意》开发方） | 已发售（2026-08-11） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4018740/ ；X 单帖最高赞 2144；档案 state/x-hariti.md |
+| ⚠️ 未烬之约 EMBERBOUND | 兽人题材现代日常视觉小说 | 小团队（Fluffore Studio） | 开发中（Patreon 第二章测试；Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4634770/ ；X 单帖最高赞 1173；档案 state/x-emberbound.md |
+| ⚠️ 凶寓 Dread Flats | 第一人称中式怪谈恐怖 | 小团队（Ghostcase） | 已发售（2025-07-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3114900/ ；X 单帖最高赞 105；档案 state/x-dreadflats.md |
+| ⚠️ 灵魂甜品 Soulcake | 女性向奇幻恋爱探索 AVG（百合/GB） | 小团队（自己的房间 Room of One's Own，2 人） | 开发中（2027 年；itch 免费 Demo，Steam Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4792160/ ；X 单帖最高赞 4；档案 state/x-soulcake.md |
+| ⚠️ 诡拓 Rubbings | 中式民俗微恐悬疑推理 | 小团队（午夜说书人；发行 Erabit） | 已发售（2025-04-24） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2819030/ ；X 单帖最高赞 2；档案 state/x-rubbings.md |
+| ⚠️ 除靈館 Haunted House | AI 美术叙事解谜恐怖（理解怨灵、无战斗） | 小团队（改變娛樂工作室 / 哈皮，台湾） | 开发中（Steam 页，2026 Q4） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2708920/ ；X 单帖最高赞 2；档案 state/x-chulingguan.md |
+| 致下一个黎明 To the next dawn | 日系二次元魔法战斗 ARPG | 个人（兔狐喵菇工作室 / WaterKiNoKo；发行糕薯科技） | 开发中（Steam 页） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4981440/ ；X 单帖最高赞 568；档案 state/x-nextdawn.md |
+| Burning Sword: Death Sun | 南宋武侠硬核动作+Roguelite | 小团队（Nomadic Games；发行 Rising Tide） | 新 Demo（2026-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2561460/ ；X 单帖最高赞 122；档案 state/x-burningsword.md |
+| Vivere Retro | 心理生存恐怖（越肩战斗） | 个人（Vidas Salavejus，已做近 50 款） | 已发售（2026-08-20） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4303290/ ；X 单帖最高赞 112；档案 state/x-vivere.md |
+| DEEPWARD | 1920 年代恐怖 FPS Roguelite（小队切换） | 小团队（Echofall Games） | Demo（正式 2027 Q1） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4709270/ ；X 单帖最高赞 70；档案 state/x-deepward.md |
+| Deadtale | 程序生成末日 FPS Roguelike | 个人（Sinfool） | 开发中 | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4864370/ ；X 单帖最高赞 67；档案 state/x-deadtale.md |
+| 幼神 Infant God | AI 养成叙事（和网民对线塑造 AI 人格） | 个人（colsalley；发行 Wave Games） | 开发中（2027 Q1；Demo 9 月） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4238140/ ；X 单帖最高赞 34；档案 state/x-infantgod.md |
+| No Return Address | 分拣中心夜班找异常恐怖 | 小团队（ASK GAMES） | 即将发售（2026-10-28） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4786800/ ；X 单帖最高赞 25；档案 state/x-noreturn.md |
+| Rookie Raiders | 自动战斗 Roguelite RPG（组队构筑） | 小团队（Team Neverending） | 开发中（2027-02） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4708780/ ；X 单帖最高赞 23；档案 state/x-rookieraiders.md |
+| Coldline: Disconnect | 像素潜伏维修解谜/谍战叙事 | 小团队（Grawire Studio） | 开发中（Steam 页+Demo） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4667970/ ；X 单帖最高赞 15；档案 state/x-coldline.md |
+| Parasomnia: No REM | 梦游主题心理恐怖解谜 | 小团队（BELS Games） | 新 Demo（2026-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3255330/ ；X 单帖最高赞 8；档案 state/x-parasomnia.md |
+| HAIGLA | 轮椅视角医院心理恐怖 | 个人（THOs Dev） | Demo（2026 Q4） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4501960/ ；X 单帖最高赞 7；档案 state/x-haigla.md |
+| STARCULT: Night Twisted Age | 黑暗乙女视觉小说（邪教/操纵人心） | 小团队（NOT A CAT STUDIOS） | Demo（2026 Q4） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4517570/ ；X 单帖最高赞 7；档案 state/x-starcult.md |
+| 呪縛 Jubaku | 日式心理恐怖（调查闹鬼屋，多结局） | 小团队（BabGamesStudio） | Demo（2027 Q1） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4911730/ ；X 单帖最高赞 5；档案 state/x-jubaku.md |
+| Seventh Seal | 第三人称生存恐怖动作 | 小团队（Renderready, LLC） | Demo | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4023230/ ；X 单帖最高赞 4；档案 state/x-seventhseal.md |
+| 山海：神话起源 Shan Hai: Mythic Origins | 山海经动作肉鸽（最多 4 人合作） | 个人（Honglizi，自称独立开发者） | 开发中（有 Demo） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3540450/ ；X 单帖最高赞 0；档案 state/x-shanhai.md |

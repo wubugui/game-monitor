@@ -27,7 +27,22 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/GrawireStudio/sta
 discovery_date: "2026-10-10"
 ---
 # Coldline: Disconnect
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**像素潜伏维修解谜/谍战叙事 · 小团队（Grawire Studio） · 开发中（Steam 页+Demo）** · 热度：采集反馈 1 条
+
+- **玩家关注什么**：按关键词粗分，评论最集中的话题是催更期待（100.0%）。 「Demo 提交了！」〔X·@GrawireStudio〕
+- **在讨论什么**：高频词：Demo、提交。
+- **喜欢什么**：好评占比 约 0.0%（关键词粗估）。
+- **厌恶什么**：差评占比 约 0.0%（关键词粗估），没有找到明确的负面意见。
+- **希望什么**：约 0.0% 的评论在表达期待、催更或提建议。
+
+> 样本只有 1 条，以上仅供参考。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-coldline.jpg)
@@ -132,6 +147,8 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 <!-- feedback:end -->
+
+
 
 
 

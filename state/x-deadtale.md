@@ -27,7 +27,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/deadtale/status/2
 discovery_date: "2026-10-10"
 ---
 # Deadtale
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**程序生成末日 FPS Roguelike · 个人（Sinfool） · 开发中** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-deadtale.jpg)

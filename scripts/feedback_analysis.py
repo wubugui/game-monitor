@@ -513,6 +513,11 @@ def project_summary(pid, md, a):
     if E and len(pos) < 2: pos = [c for c in allc if lab(c) == 'pos']
     if E and len(neg) < 2: neg = [c for c in allc if lab(c) == 'neg']
     hope = [c for c in allc if HOPE.search(c['text'])]
+    if not E:  # 未复核时，引文只取措辞明确的条目，避免关键词误判
+        SP = re.compile(r'好玩|不错|喜欢|惊艳|好评|推荐|好看|精致|用心|神作|佳作|爱了|绝了|上头|真香')
+        SN = re.compile(r'垃圾|失望|劝退|差评|退款|无聊|粗糙|难玩|不好玩|拉胯|拉跨|ai味|AI味|bug|BUG|优化差|优化烂|别买|换皮|缝合|圈钱|难绷|尴尬|出戏')
+        pos = [c for c in allc if SP.search(c['text']) and not SN.search(c['text']) and not re.search(r'[不没]\S{0,2}(好玩|喜欢|推荐|好看)', c['text'])]
+        neg = [c for c in allc if SN.search(c['text']) and not SP.search(c['text'])]
     kw = keywords([c['text'] for c in allc], 6)
     dkw = collections.Counter(t.strip() for t in a['dm_all'] if 2 <= len(t.strip()) <= 16).most_common(2)
     parts = []

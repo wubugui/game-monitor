@@ -26,7 +26,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/tenukibozu/status
 discovery_date: "2026-10-10"
 ---
 # 門 GATE
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**昭和日式第一人称恐怖探索（诅咒道具+战斗） · 小团队（OYONE Studio） · Demo（2026 Q4）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-gate.jpg)

@@ -270,7 +270,7 @@ discovery_date: "2026-10-09"
 | 小红书 | 9 |
 | B站弹幕 | 79 |
 
-涉及 B站视频 5 个：BV1SXYj6mE1g、BV1pHYq6bE6N、BV1we5N6xEpP、BV15VNKziEA7、BV1DShi6YEwE
+涉及 B站视频 5 个：BV1SXYj6mE1g、BV1DShi6YEwE、BV1pHYq6bE6N、BV15VNKziEA7、BV1we5N6xEpP
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

@@ -330,7 +330,7 @@ discovery_date: "2026-10-09"
 | 其他来源 | 2 |
 | B站弹幕 | 16947 |
 
-涉及 B站视频 14 个：BV1iY5vzmE1d、BV1w97fzAEdP、BV12MLzz5EXu、BV15b3M61ELA、BV1s2RBYtEgS、BV1rBX6Y9Euf、BV1d2QpYhEys、BV1Jjd5Y9EBc、BV1xoEq6eESw、BV1FBdPYfEpY、BV1WudWYnEc8、BV1gEjJ6SEQt…
+涉及 B站视频 14 个：BV1iY5vzmE1d、BV1w97fzAEdP、BV1rBX6Y9Euf、BV1d2QpYhEys、BV1s2RBYtEgS、BV12MLzz5EXu、BV1Jjd5Y9EBc、BV1xoEq6eESw、BV1FBdPYfEpY、BV15b3M61ELA、BV1WudWYnEc8、BV1gEjJ6SEQt…
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

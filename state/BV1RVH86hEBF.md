@@ -280,7 +280,7 @@ Demo菜单与湖景梦核宣传为主，另有烧纸等民俗交互实机。
 | B站楼中楼 | 36 |
 | B站弹幕 | 152 |
 
-涉及 B站视频 9 个：BV1RVH86hEBF、BV1uSpN69E39、BV1FgHi6ZEhq、BV1kjHJ6UE5P、BV1SmHk6dEFE、BV1f2Ha62Ekp、BV1HFHR67ERh、BV1ofHs6sEVN、BV1qWH76KEeL
+涉及 B站视频 9 个：BV1RVH86hEBF、BV1uSpN69E39、BV1FgHi6ZEhq、BV1SmHk6dEFE、BV1f2Ha62Ekp、BV1HFHR67ERh、BV1kjHJ6UE5P、BV1ofHs6sEVN、BV1qWH76KEeL
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

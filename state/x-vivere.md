@@ -27,7 +27,22 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/Sofie_screamqn/st
 discovery_date: "2026-10-10"
 ---
 # Vivere Retro
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**心理生存恐怖（越肩战斗） · 个人（Vidas Salavejus，已做近 50 款） · 已发售（2026-08-20）** · 热度：采集反馈 3 条
+
+- **玩家关注什么**：按关键词粗分，评论最集中的话题是AI争议（33.3%）、催更期待（33.3%）。 「I genuinely loved this game. I have played nea…」（2赞）〔Steam评测〕
+- **在讨论什么**：高频词：you、with、in、have、one、The。 「https://youtu.be/48jgiMY7iD4 fun game, a bit c…」（4赞）〔Steam评测〕
+- **喜欢什么**：好评占比 约 100.0%（关键词粗估）。
+- **厌恶什么**：差评占比 约 0.0%（关键词粗估），没有找到明确的负面意见。
+- **希望什么**：约 0.0% 的评论在表达期待、催更或提建议。
+
+> 样本只有 3 条，以上仅供参考。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-vivere.jpg)

@@ -27,7 +27,22 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/takaworks_9999/st
 discovery_date: "2026-10-10"
 ---
 # The Devil is in the Details
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**找异常 × 生存恐怖解谜 · 小团队（HideWorks，2 人；《Liminal Point》开发方） · 已发售（2024-09-30，$12.99）** · 热度：B站 1 个相关视频合计播放 654；采集反馈 5 条
+
+- **玩家关注什么**：按关键词粗分，评论最集中的话题是AI争议（40.0%）、氛围恐怖（20.0%）。 「The Devil is in the Details, developed and pub…」〔Steam评测〕
+- **在讨论什么**：高频词：that、its、can、The、in、players。 「What an overlooked title! I had so much fun pl…」〔Steam评测〕
+- **喜欢什么**：好评占比 约 80.0%（关键词粗估）。
+- **厌恶什么**：差评占比 约 0.0%（关键词粗估），没有找到明确的负面意见。
+- **希望什么**：约 0.0% 的评论在表达期待、催更或提建议。
+
+> 样本只有 5 条，以上仅供参考。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-devildetails.jpg)

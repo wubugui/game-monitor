@@ -27,7 +27,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/notacatstudios/st
 discovery_date: "2026-10-10"
 ---
 # STARCULT: Night Twisted Age
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**黑暗乙女视觉小说（邪教/操纵人心） · 小团队（NOT A CAT STUDIOS） · Demo（2026 Q4）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-starcult.jpg)

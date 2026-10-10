@@ -612,7 +612,7 @@ def main():
         _ps = re.search(r"<!-- psum:start -->(.*?)<!-- psum:end -->", p.get("_raw_body") or "", re.S)
         if _ps:  # 「项目总结」前几行用作卡片/首页摘要
             _lines = [l for l in _ps.group(1).split("\n") if l.strip() and not l.startswith(("#", "<!--", ">"))]
-            _txt = " ".join(strip_md(re.sub(r"〔[^〕]*〕|「[^」]*」(（\d+赞）)?", "", l)).strip() for l in _lines[:3])
+            _txt = " ".join(strip_md(re.sub(r"「[^」]*」(（\d+赞）)?\s*〔[^〕]*〕|〔[^〕]*〕", "", l)).strip().lstrip("- ") for l in _lines[:3])
             p["summary"] = re.sub(r"\s+", " ", _txt)[:220]
             p["psum_md"] = _ps.group(1).strip()
         if not p.get("summary"):

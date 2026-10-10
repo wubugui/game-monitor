@@ -26,7 +26,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/TeamNE_RR/status/
 discovery_date: "2026-10-10"
 ---
 # Rookie Raiders
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**自动战斗 Roguelite RPG（组队构筑） · 小团队（Team Neverending） · 开发中（2027-02）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-rookieraiders.jpg)

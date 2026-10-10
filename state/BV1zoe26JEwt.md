@@ -292,7 +292,7 @@ Demo试玩与开发相关视频为主；画面多见传统宅门与室内生活�
 | 其他来源 | 1 |
 | B站弹幕 | 2454 |
 
-涉及 B站视频 10 个：BV1zoe26JEwt、BV1Qtht61EiG、BV145Yq6PENk、BV16SYP6cEML、BV1t6HL62ECy、BV16Veq6ZEDe、BV1PKHi6hEES、BV1Z6YX6hEAe、BV15deJ6KEqR、BV1nMev6WEJ2
+涉及 B站视频 10 个：BV1zoe26JEwt、BV1Qtht61EiG、BV145Yq6PENk、BV1t6HL62ECy、BV16Veq6ZEDe、BV1PKHi6hEES、BV1Z6YX6hEAe、BV15deJ6KEqR、BV16SYP6cEML、BV1nMev6WEJ2
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

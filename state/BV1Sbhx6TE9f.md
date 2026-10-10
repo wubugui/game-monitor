@@ -13,6 +13,40 @@ baseline: 2026-10-09
 cover: covers/BV1Sbhx6TE9f.jpg
 images:
   - frames/BV1Sbhx6TE9f_01.jpg
+  - frames/BV1Sbhx6TE9f_fx00.jpg
+  - frames/BV1Sbhx6TE9f_fx01.jpg
+  - frames/BV1Sbhx6TE9f_fx02.jpg
+  - frames/BV1Sbhx6TE9f_fx03.jpg
+  - frames/BV1Sbhx6TE9f_fx04.jpg
+  - frames/BV1Sbhx6TE9f_fx05.jpg
+  - frames/BV1Sbhx6TE9f_fx06.jpg
+  - frames/BV1Sbhx6TE9f_fx07.jpg
+  - frames/BV1Sbhx6TE9f_fx08.jpg
+  - frames/BV1Sbhx6TE9f_fx09.jpg
+  - frames/BV1Sbhx6TE9f_fx10.jpg
+  - frames/BV1Sbhx6TE9f_fx11.jpg
+  - frames/BV1Sbhx6TE9f_fx12.jpg
+  - frames/BV1Sbhx6TE9f_fx13.jpg
+  - frames/BV1Sbhx6TE9f_fx14.jpg
+  - frames/BV1Sbhx6TE9f_fx15.jpg
+  - frames/BV1Sbhx6TE9f_fx16.jpg
+  - frames/BV1Sbhx6TE9f_fx17.jpg
+  - frames/BV1Sbhx6TE9f_fx18.jpg
+  - frames/BV1Sbhx6TE9f_fx19.jpg
+  - frames/BV1Sbhx6TE9f_fx20.jpg
+  - frames/BV1Sbhx6TE9f_fx21.jpg
+  - frames/BV1Sbhx6TE9f_fx22.jpg
+  - frames/BV1Sbhx6TE9f_fx23.jpg
+  - frames/BV1Sbhx6TE9f_fx24.jpg
+  - frames/BV1Sbhx6TE9f_v0_01.jpg
+  - frames/BV1Sbhx6TE9f_steam01.jpg
+  - frames/BV1Sbhx6TE9f_steam02.jpg
+  - frames/BV1Sbhx6TE9f_steam03.jpg
+  - frames/BV1Sbhx6TE9f_steam04.jpg
+  - frames/BV1Sbhx6TE9f_steam05.jpg
+  - frames/BV1Sbhx6TE9f_steam06.jpg
+  - frames/BV1Sbhx6TE9f_steam07.jpg
+  - frames/BV1Sbhx6TE9f_steam08.jpg
 tags: [模拟经营/休闲/种田]
 aliases: []
 discovery_platform: B站
@@ -212,6 +246,13 @@ discovery_date: "2026-10-09"
 - 登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧至约 1 张；重写关注度/原话评价/综合评价。
 - 统计：相关视频 6｜去重评论≈101｜弹幕XML≈36｜前五+PV合计播放 3.9万。
 
+
+<!-- added:2026-10-10 -->
+
+## 图片补齐说明（2026-10-10）
+
+实机图从 2 张补到 26 张：PV 全片抽帧 10 张、5 条 B 站相关视频（官方 PV、3DM、A9VG、Will游戏堂、开发者 Blood_roc 的自述）的封面和 videoshot 关键帧、Steam 商店截图 10 张（AppID 4928080）。逐张目检过，都是本作的 Q 版房车公路画面；剔除了 1 张纯 Logo 黑屏帧。〔B站·videoshot/封面；Steam·商店截图〕
+
 <!-- added:meta -->
 
 ## 来源（发现与资料）
@@ -229,3 +270,9 @@ discovery_date: "2026-10-09"
   - 【互坑新游】4人联机驾车搞笑冒险 摇摇晃晃去旅行测试开启 · Will游戏堂 · BV1WFaa6LE3S · 2026-09-28 · 播放 3183
   - 多人合作房车公路旅行新作《摇摇晃晃去旅行》今日正式公布 · A9VG · BV1eKaq61Ed3 · 2026-09-28 · 播放 2626
 - Steam：商店页/评测（AppID 4928080）
+
+## 补图说明（2026-10-10 二次）
+
+<!-- added:2026-10-10 -->
+
+补入 Steam 商店（App 4928080，ACE Entertainment，2026 Q4）8 张截图：小妖角色在海滩秋千、篝火夜景、房车露营、岩石攀爬。B 站同名搜索结果多为真人旅行 vlog 和别的机甲游戏，已剔除。〔Steam·商店截图〕

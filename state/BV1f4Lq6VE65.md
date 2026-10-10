@@ -2,16 +2,91 @@
 id: BV1f4Lq6VE65
 name: 论道聊斋
 competitor: true
-genre: 国风志怪剧情独立
-developer: 未知
-status: Demo
-platform: 未知
-release: 未知
+genre: 国风志怪章节式剧情（以《聊斋》为蓝本）
+developer: 破界游戏
+status: Demo（Steam 即将推出）
+platform: Steam
+release: 即将推出
 link: https://www.bilibili.com/video/BV1f4Lq6VE65
 found: 2026-10-10
 baseline: 2026-10-10
-cover: 
-images: []
+cover: covers/BV1f4Lq6VE65.jpg
+images:
+  - frames/BV1f4Lq6VE65_fx00.jpg
+  - frames/BV1f4Lq6VE65_fx01.jpg
+  - frames/BV1f4Lq6VE65_fx02.jpg
+  - frames/BV1f4Lq6VE65_fx03.jpg
+  - frames/BV1f4Lq6VE65_fx04.jpg
+  - frames/BV1f4Lq6VE65_fx05.jpg
+  - frames/BV1f4Lq6VE65_fx06.jpg
+  - frames/BV1f4Lq6VE65_fx07.jpg
+  - frames/BV1f4Lq6VE65_fx08.jpg
+  - frames/BV1f4Lq6VE65_fx09.jpg
+  - frames/BV1f4Lq6VE65_fx10.jpg
+  - frames/BV1f4Lq6VE65_fx11.jpg
+  - frames/BV1f4Lq6VE65_fx12.jpg
+  - frames/BV1f4Lq6VE65_fx13.jpg
+  - frames/BV1f4Lq6VE65_fx14.jpg
+  - frames/BV1f4Lq6VE65_fx15.jpg
+  - frames/BV1f4Lq6VE65_fx16.jpg
+  - frames/BV1f4Lq6VE65_fx17.jpg
+  - frames/BV1f4Lq6VE65_fx18.jpg
+  - frames/BV1f4Lq6VE65_fx19.jpg
+  - frames/BV1f4Lq6VE65_fx20.jpg
+  - frames/BV1f4Lq6VE65_fx21.jpg
+  - frames/BV1f4Lq6VE65_fx22.jpg
+  - frames/BV1f4Lq6VE65_fx23.jpg
+  - frames/BV1f4Lq6VE65_fx24.jpg
+  - frames/BV1f4Lq6VE65_fx25.jpg
+  - frames/BV1f4Lq6VE65_fx26.jpg
+  - frames/BV1f4Lq6VE65_fx27.jpg
+  - frames/BV1f4Lq6VE65_fx28.jpg
+  - frames/BV1f4Lq6VE65_fx29.jpg
+  - frames/BV1f4Lq6VE65_fx30.jpg
+  - frames/BV1f4Lq6VE65_fx31.jpg
+  - frames/BV1f4Lq6VE65_fx32.jpg
+  - frames/BV1f4Lq6VE65_fx33.jpg
+  - frames/BV1f4Lq6VE65_fx34.jpg
+  - frames/BV1f4Lq6VE65_fx35.jpg
+  - frames/BV1f4Lq6VE65_fx36.jpg
+  - frames/BV1f4Lq6VE65_fx37.jpg
+  - frames/BV1f4Lq6VE65_fx38.jpg
+  - frames/BV1f4Lq6VE65_fx39.jpg
+  - frames/BV1f4Lq6VE65_fx40.jpg
+  - frames/BV1f4Lq6VE65_fx41.jpg
+  - frames/BV1f4Lq6VE65_fx42.jpg
+  - frames/BV1f4Lq6VE65_fx43.jpg
+  - frames/BV1f4Lq6VE65_fx44.jpg
+  - frames/BV1f4Lq6VE65_fx45.jpg
+  - frames/BV1f4Lq6VE65_fx46.jpg
+  - frames/BV1f4Lq6VE65_fx47.jpg
+  - frames/BV1f4Lq6VE65_fx48.jpg
+  - frames/BV1f4Lq6VE65_fx49.jpg
+  - frames/BV1f4Lq6VE65_fx50.jpg
+  - frames/BV1f4Lq6VE65_fx51.jpg
+  - frames/BV1f4Lq6VE65_fx52.jpg
+  - frames/BV1f4Lq6VE65_v0_01.jpg
+  - frames/BV1f4Lq6VE65_v0_02.jpg
+  - frames/BV1f4Lq6VE65_v0_03.jpg
+  - frames/BV1f4Lq6VE65_v0_04.jpg
+  - frames/BV1f4Lq6VE65_v0_05.jpg
+  - frames/BV1f4Lq6VE65_v0_06.jpg
+  - frames/BV1f4Lq6VE65_v0_07.jpg
+  - frames/BV1f4Lq6VE65_v0_08.jpg
+  - frames/BV1f4Lq6VE65_v3_01.jpg
+  - frames/BV1f4Lq6VE65_v3_02.jpg
+  - frames/BV1f4Lq6VE65_v3_03.jpg
+  - frames/BV1f4Lq6VE65_v3_04.jpg
+  - frames/BV1f4Lq6VE65_v3_05.jpg
+  - frames/BV1f4Lq6VE65_v3_06.jpg
+  - frames/BV1f4Lq6VE65_steam01.jpg
+  - frames/BV1f4Lq6VE65_steam02.jpg
+  - frames/BV1f4Lq6VE65_steam03.jpg
+  - frames/BV1f4Lq6VE65_steam04.jpg
+  - frames/BV1f4Lq6VE65_steam05.jpg
+  - frames/BV1f4Lq6VE65_steam06.jpg
+  - frames/BV1f4Lq6VE65_steam07.jpg
+  - frames/BV1f4Lq6VE65_steam08.jpg
 tags: [竞品]
 aliases: [论道聊斋]
 discovery_platform: B站
@@ -24,22 +99,51 @@ discovery_date: "2026-10-10"
 
 ## 档案
 
-- 类型：国风志怪剧情向独立游戏
-- 开发者：未知
-- 状态：Demo
-- 平台：未知
-- 一句话：以《聊斋志异》为蓝本，扮演道士游历单元剧
-- 代表：BV1f4Lq6VE65｜179播放（2026-10-10）
+- 类型：国风志怪章节式剧情（以《聊斋》为蓝本）
+- 开发者：破界游戏
+- 状态：Demo（Steam 即将推出）
+- 平台：Steam
+- 发售：即将推出
+- Steam：论道聊斋（AppID 4548450）｜未定价｜评测 0 条（No user reviews）〔Steam·商店页〕
 
-## 关注度
+## 游戏内容
 
+《论道聊斋》是以《聊斋志异》为蓝本的中国志怪剧情游戏，玩家扮演道士游历聊斋世界，每章是一个独立的聊斋故事，靠文字对话、事件触发和剧情推进来玩，Steam 页面写的是「走入充满人心、执念与因果的东方怪谈世界」〔Steam·商店页〕。开发者署名「破界游戏」，Steam 即将推出；B 站有 4 条 Demo 实况（2026-05 到 09），播放分别是 265、179、23、22，全部 0 评论。
 
-〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕
+## 看图与画面
 
+看图结论：Steam 截图和实况帧一致，是写实厚涂风格的 2D 场景，有古寺、渡船、雨夜灯笼、书生、道士、白发女鬼、老者特写、符纸卡牌 UI 和古卷文本框，整体是青灰和昏黄色调，**非常明显的 AI 生成插画质感**（人物光影很统一，细节有 AI 特征），配上对话 UI。演出形式接近视觉小说。（本档封面与实机图均已逐张目检，确认是本作画面；同名污染图已剔除）
 
-〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕
+## 关注度与数据（2026-10-10 登录态采集）
 
-低热。缺口：全面。观察项。
+| 类别 | 视频 | UP（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 转发 | 评论 | 弹幕 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 实况/试玩 | 【论道聊斋】游戏流程 Demo 试玩版 完结（BV1hxLK6CEQn） | 月飘雪里（8905） | 2026-05-19 | 265 | 13 | 2 | 2 | 0 | 0 | 0 |
+| 实况/试玩 | 国风志怪剧情向独立游戏《论道聊斋》demo 试玩，以《聊斋志异》为蓝本，扮演道士（BV1f4Lq6VE65） | 学吉他的獭宝儿otter（1079） | 2026-05-22 | 179 | 5 | 0 | 3 | 0 | 0 | 0 |
+| 评测/整活 | 中式恐怖游戏《论道聊斋》这是一段尚在打磨中的开篇，也是一场正在成形的聊斋之梦。（BV1SD4C63EZu） | 馨苑六少（4826） | 2026-09-03 | 23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 实况/试玩 | PC 论道聊斋 Demo（BV14ZLt6wEc3） | 钢把撸（1275） | 2026-05-21 | 22 | 3 | 0 | 0 | 0 | 0 | 0 |
+
+**合计**（4 条相关视频）：播放 489，点赞 28（赞播比 5.7%），收藏 5（藏播比 1.0%），评论 0，弹幕 0。这是首次全量采集，作为之后对比涨跌的基线。〔B站·view/stat 接口；UP 粉丝来自 relation/stat〕
+
+## 实际评价（登录态评论/楼中楼/弹幕 + Steam）
+
+**玩家喜欢什么**：
+
+- 没有玩家评论（4 条视频合计约 490 播放，0 评论 0 弹幕；Steam 无评测）
+
+**玩家吐槽什么**：
+
+- 没有玩家评论
+
+## 团队与靠谱程度
+
+**靠谱程度：中低**。依据：有 Steam 页面、能玩的 Demo，Demo 实况长的有 80 分钟，内容量不算少；美术基本靠 AI 插画，成本低、能出货，但辨识度一般。没有官方账号运营，声量近乎为零。
+
+## 综合评价
+
+**综合评价**：「AI 插画+聊斋单元剧+道士主角」的低成本叙事游戏，题材非常对国内胃口，但宣发几乎是零。值得关注的是它代表了一类「AI 美术量产的国风叙事游戏」，未来会越来越多，会挤占中式志怪叙事的曝光。
+
+**与《***》对照**：最接近的地方是「道士+民俗怪谈+叙事、不靠战斗」，而且同样大量用 AI 美术。**警示**：如果《***》的 AI 美术看起来和这类作品一样（统一厚涂、AI 质感），玩家会把它归进「AI 量产」那一堆；你的等距 45° 场景、严格质检和民国川东的具体物件，是拉开差距的关键，宣传素材要优先展示这些「不像 AI 能随手出的」细节。
 
 <!-- added:meta -->
 
@@ -48,4 +152,10 @@ discovery_date: "2026-10-10"
 - **发现来源**：〔B站〕B站搜索关键词「志怪 独立游戏」（每日发现 2026-10-10，命中视频「中式恐怖游戏《论道聊斋》这是一段尚在打磨中的开篇，也是一场正在成形的聊斋之梦。」· UP 馨苑六少 · BV1SD4C63EZu）；种子视频「未知」· UP 未知 · BV1f4Lq6VE65 · 未知 · 播放 未知；入库日 2026-10-10
 
 **资料来源**：
-- B站视频（采用 0 条；另 1 条为已剔除同名/弱相关或无元数据，正文已列明）：
+
+- 〔B站〕【论道聊斋】游戏流程 Demo 试玩版 完结 · UP 月飘雪里 · BV1hxLK6CEQn · 2026-05-19（评论 0 条主评+楼中楼、弹幕 0 条，登录态采集 2026-10-10）
+- 〔B站〕国风志怪剧情向独立游戏《论道聊斋》demo 试玩，以《聊斋志异》为蓝本，扮演道士游历聊斋世界，体验单 · UP 学吉他的獭宝儿otter · BV1f4Lq6VE65 · 2026-05-22（评论 0 条主评+楼中楼、弹幕 0 条，登录态采集 2026-10-10）
+- 〔B站〕中式恐怖游戏《论道聊斋》这是一段尚在打磨中的开篇，也是一场正在成形的聊斋之梦。 · UP 馨苑六少 · BV1SD4C63EZu · 2026-09-03（评论 0 条主评+楼中楼、弹幕 0 条，登录态采集 2026-10-10）
+- 〔B站〕PC 论道聊斋 Demo · UP 钢把撸 · BV14ZLt6wEc3 · 2026-05-21（评论 0 条主评+楼中楼、弹幕 0 条，登录态采集 2026-10-10）
+- 〔Steam〕商店页与评测 · AppID 4548450（截图用作实机图）
+- 〔图片〕封面与实机帧：B站视频封面、videoshot 关键帧、Steam 商店截图；逐张目检

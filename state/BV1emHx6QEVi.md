@@ -12,6 +12,17 @@ found: 2026-10-09
 baseline: 2026-10-09
 cover: covers/BV1emHx6QEVi.jpg
 images:
+  - frames/BV1emHx6QEVi_fx00.jpg
+  - frames/BV1emHx6QEVi_fx01.jpg
+  - frames/BV1emHx6QEVi_fx02.jpg
+  - frames/BV1emHx6QEVi_fx03.jpg
+  - frames/BV1emHx6QEVi_fx04.jpg
+  - frames/BV1emHx6QEVi_fx05.jpg
+  - frames/BV1emHx6QEVi_fx06.jpg
+  - frames/BV1emHx6QEVi_fx07.jpg
+  - frames/BV1emHx6QEVi_fx08.jpg
+  - frames/BV1emHx6QEVi_fx09.jpg
+  - frames/BV1emHx6QEVi_fx10.jpg
 tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
 aliases: []
 discovery_platform: B站
@@ -188,6 +199,13 @@ discovery_date: "2026-10-09"
 
 - 登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧至约 既有 张；重写关注度/原话评价/综合评价。
 - 统计：相关视频 1｜去重评论≈47｜弹幕XML≈2｜前五+PV合计播放 1.9万。
+
+
+<!-- added:2026-10-10 -->
+
+## 图片补齐说明（2026-10-10）
+
+实机图从 1 张补到 11 张，但**这款游戏公开画面确实极少**：B 站以「受肉症」「受肉症 游戏」检索，只有作者嗜千儿的这一条 15 秒 Demo 快剪（其余结果都不含游戏名）；Steam、小红书都没搜到。补的 10 张来自这条视频：videoshot 4 帧加视频全片按时间均匀抽帧 6 张，内容是血红色调的肉质洞窟、骨头建筑、羊皮纸菜单和角色立绘。剔除了 1 张 videoshot 拼图错位产生的无关风景帧和 2 张纯黑帧。〔B站·videoshot/封面；Steam·商店截图〕
 
 <!-- added:meta -->
 

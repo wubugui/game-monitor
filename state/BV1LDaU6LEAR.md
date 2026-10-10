@@ -15,6 +15,15 @@ images:
   - frames/BV1LDaU6LEAR_01.jpg
   - frames/BV1LDaU6LEAR_02.jpg
   - frames/BV1LDaU6LEAR_03.jpg
+  - frames/BV1LDaU6LEAR_v0_01.jpg
+  - frames/BV1LDaU6LEAR_v0_02.jpg
+  - frames/BV1LDaU6LEAR_v1_01.jpg
+  - frames/BV1LDaU6LEAR_v2_02.jpg
+  - frames/BV1LDaU6LEAR_v2_03.jpg
+  - frames/BV1LDaU6LEAR_v2_04.jpg
+  - frames/BV1LDaU6LEAR_v2_05.jpg
+  - frames/BV1LDaU6LEAR_v3_01.jpg
+  - frames/BV1LDaU6LEAR_v3_02.jpg
 tags: [模拟经营/休闲/种田]
 aliases: []
 discovery_platform: B站
@@ -187,3 +196,9 @@ discovery_date: "2026-10-09"
   - 中式恐怖 我在他们最幸福的那天杀死了他们 · 你是Nana的小可爱吗 · BV193ax6kEbE · 2026-09-27 · 播放 1.7万
   - 【墓后营生/Grave Mistakes】STEAM四人联机开黑店！这次的黑店也太特别了！ · 乐天不良蛙 · BV1DJpP6sE1c · 2026-10-06 · 播放 2.0万
 - Steam：商店页/评测（AppID 4635290）
+
+## 补图说明（2026-10-10 二次）
+
+<!-- added:2026-10-10 -->
+
+补入 B 站相关实况 videoshot 帧：殡仪馆菜单板（TONIGHT'S MENU）、教堂式告别厅、秋景墓园、停尸台。〔B站·videoshot〕

@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-09"
+  "2026-10-09",
+  "2026-10-10"
  ],
  "baseline": "2026-10-09",
  "bvid": "BV1GpYf6MECB",
@@ -19,6 +20,12 @@
  ],
  "history": [
   {
+   "date": "2026-10-10",
+   "kind": "state",
+   "md": "<!-- added:2026-10-10 -->\n\n补入 Steam 商店（App 5155860《第三阵营》，ASCII Interactions，2027-01-18）截图：冷战背景文字界面、电报与预算面板、火箭发射 ASCII 画面。B 站同名视频多为《矮人要塞》历史讲解和另一款等距射击游戏，已剔除。〔Steam·商店截图〕",
+   "title": "补图说明（ 二次）"
+  },
+  {
    "date": "2026-10-09",
    "kind": "state",
    "md": "- 登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。\n- 统计：相关视频 6｜去重评论≈553｜弹幕XML≈20｜前五+PV合计播放 9.6万。\n\n<!-- added:meta -->",
@@ -32,6 +39,15 @@
   "frames/BV1GpYf6MECB_02.jpg",
   "frames/BV1GpYf6MECB_03.jpg",
   "frames/BV1GpYf6MECB_v0_01.jpg",
+  "frames/BV1GpYf6MECB_steam01.jpg",
+  "frames/BV1GpYf6MECB_steam02.jpg",
+  "frames/BV1GpYf6MECB_steam03.jpg",
+  "frames/BV1GpYf6MECB_steam04.jpg",
+  "frames/BV1GpYf6MECB_steam05.jpg",
+  "frames/BV1GpYf6MECB_steam06.jpg",
+  "frames/BV1GpYf6MECB_steam07.jpg",
+  "frames/BV1GpYf6MECB_steam08.jpg",
+  "frames/BV1GpYf6MECB_steamhdr.jpg",
   "frames/BV1GpYf6MECB_v1_01.jpg",
   "frames/BV1GpYf6MECB_v1_02.jpg",
   "frames/BV1GpYf6MECB_v1_03.jpg",
@@ -64,6 +80,6 @@
  "tags": [
   "策略/RPG/卡牌"
  ],
- "update_count": 1,
- "updated": "2026-10-09"
+ "update_count": 2,
+ "updated": "2026-10-10"
 }

@@ -9,15 +9,15 @@
  "projects": [
   {
    "competitor": false,
-   "cover": "covers/BV1YyHd6KEeK.jpg",
-   "id": "BV1YyHd6KEeK",
-   "name": "魔王诛杀"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1nnHh61E5v.jpg",
    "id": "BV1nnHh61E5v",
    "name": "天火行动"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1YyHd6KEeK.jpg",
+   "id": "BV1YyHd6KEeK",
+   "name": "魔王诛杀"
   },
   {
    "competitor": false,

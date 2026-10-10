@@ -2,16 +2,100 @@
 id: BV1E3NgzWEVh
 name: 阴界诡录：尸语公寓
 competitor: true
-genre: 中式找异常恐怖
-developer: 未知
-status: 已发售
-platform: Steam（待核）
-release: 未知
+genre: 中式找异常恐怖（小说IP联动）
+developer: Gameloop / 隐书大宅（与《见诡录：阴魂街》同一制作组）
+status: 已发售（Steam 2026-03-05）
+platform: Steam
+release: 2026-03-05
 link: https://www.bilibili.com/video/BV1E3NgzWEVh
 found: 2026-10-10
 baseline: 2026-10-10
-cover: 
-images: []
+cover: covers/BV1E3NgzWEVh.jpg
+images:
+  - frames/BV1E3NgzWEVh_fx00.jpg
+  - frames/BV1E3NgzWEVh_fx01.jpg
+  - frames/BV1E3NgzWEVh_fx02.jpg
+  - frames/BV1E3NgzWEVh_fx03.jpg
+  - frames/BV1E3NgzWEVh_fx04.jpg
+  - frames/BV1E3NgzWEVh_fx05.jpg
+  - frames/BV1E3NgzWEVh_fx06.jpg
+  - frames/BV1E3NgzWEVh_fx07.jpg
+  - frames/BV1E3NgzWEVh_fx08.jpg
+  - frames/BV1E3NgzWEVh_fx09.jpg
+  - frames/BV1E3NgzWEVh_fx10.jpg
+  - frames/BV1E3NgzWEVh_fx11.jpg
+  - frames/BV1E3NgzWEVh_fx12.jpg
+  - frames/BV1E3NgzWEVh_fx13.jpg
+  - frames/BV1E3NgzWEVh_fx14.jpg
+  - frames/BV1E3NgzWEVh_fx15.jpg
+  - frames/BV1E3NgzWEVh_fx16.jpg
+  - frames/BV1E3NgzWEVh_fx17.jpg
+  - frames/BV1E3NgzWEVh_fx18.jpg
+  - frames/BV1E3NgzWEVh_fx19.jpg
+  - frames/BV1E3NgzWEVh_fx20.jpg
+  - frames/BV1E3NgzWEVh_fx21.jpg
+  - frames/BV1E3NgzWEVh_fx22.jpg
+  - frames/BV1E3NgzWEVh_fx23.jpg
+  - frames/BV1E3NgzWEVh_fx24.jpg
+  - frames/BV1E3NgzWEVh_fx25.jpg
+  - frames/BV1E3NgzWEVh_fx26.jpg
+  - frames/BV1E3NgzWEVh_fx27.jpg
+  - frames/BV1E3NgzWEVh_fx28.jpg
+  - frames/BV1E3NgzWEVh_fx29.jpg
+  - frames/BV1E3NgzWEVh_fx30.jpg
+  - frames/BV1E3NgzWEVh_fx31.jpg
+  - frames/BV1E3NgzWEVh_fx32.jpg
+  - frames/BV1E3NgzWEVh_fx33.jpg
+  - frames/BV1E3NgzWEVh_fx34.jpg
+  - frames/BV1E3NgzWEVh_fx35.jpg
+  - frames/BV1E3NgzWEVh_fx36.jpg
+  - frames/BV1E3NgzWEVh_fx37.jpg
+  - frames/BV1E3NgzWEVh_fx38.jpg
+  - frames/BV1E3NgzWEVh_fx39.jpg
+  - frames/BV1E3NgzWEVh_fx40.jpg
+  - frames/BV1E3NgzWEVh_fx41.jpg
+  - frames/BV1E3NgzWEVh_fx42.jpg
+  - frames/BV1E3NgzWEVh_fx43.jpg
+  - frames/BV1E3NgzWEVh_fx44.jpg
+  - frames/BV1E3NgzWEVh_fx45.jpg
+  - frames/BV1E3NgzWEVh_fx46.jpg
+  - frames/BV1E3NgzWEVh_fx47.jpg
+  - frames/BV1E3NgzWEVh_fx48.jpg
+  - frames/BV1E3NgzWEVh_fx49.jpg
+  - frames/BV1E3NgzWEVh_fx50.jpg
+  - frames/BV1E3NgzWEVh_fx51.jpg
+  - frames/BV1E3NgzWEVh_fx52.jpg
+  - frames/BV1E3NgzWEVh_fx53.jpg
+  - frames/BV1E3NgzWEVh_fx54.jpg
+  - frames/BV1E3NgzWEVh_fx55.jpg
+  - frames/BV1E3NgzWEVh_v0_01.jpg
+  - frames/BV1E3NgzWEVh_v0_02.jpg
+  - frames/BV1E3NgzWEVh_v1_01.jpg
+  - frames/BV1E3NgzWEVh_v1_02.jpg
+  - frames/BV1E3NgzWEVh_v1_03.jpg
+  - frames/BV1E3NgzWEVh_v1_04.jpg
+  - frames/BV1E3NgzWEVh_v1_05.jpg
+  - frames/BV1E3NgzWEVh_v1_06.jpg
+  - frames/BV1E3NgzWEVh_v2_01.jpg
+  - frames/BV1E3NgzWEVh_v2_02.jpg
+  - frames/BV1E3NgzWEVh_v2_03.jpg
+  - frames/BV1E3NgzWEVh_v2_04.jpg
+  - frames/BV1E3NgzWEVh_v2_05.jpg
+  - frames/BV1E3NgzWEVh_v2_06.jpg
+  - frames/BV1E3NgzWEVh_v3_01.jpg
+  - frames/BV1E3NgzWEVh_v3_02.jpg
+  - frames/BV1E3NgzWEVh_v3_03.jpg
+  - frames/BV1E3NgzWEVh_v3_04.jpg
+  - frames/BV1E3NgzWEVh_v3_05.jpg
+  - frames/BV1E3NgzWEVh_v3_06.jpg
+  - frames/BV1E3NgzWEVh_steam01.jpg
+  - frames/BV1E3NgzWEVh_steam02.jpg
+  - frames/BV1E3NgzWEVh_steam03.jpg
+  - frames/BV1E3NgzWEVh_steam04.jpg
+  - frames/BV1E3NgzWEVh_steam05.jpg
+  - frames/BV1E3NgzWEVh_steam06.jpg
+  - frames/BV1E3NgzWEVh_steam07.jpg
+  - frames/BV1E3NgzWEVh_steam08.jpg
 tags: [竞品]
 aliases: [阴界诡录：尸语公寓]
 discovery_platform: B站
@@ -24,35 +108,90 @@ discovery_date: "2026-10-10"
 
 ## 档案
 
-- 类型：中式找异常恐怖（公寓/轮回）
-- 开发者：未知（系列还有《诡宅观测记录》）
-- 状态：已有正式版实况
-- 平台：待核
-- 一句话：无限轮回中式恐怖公寓找异常
-- 代表高播：BV1E3NgzWEVh｜俄洛伊小迷妹ee｜70.99万播放｜4.3万赞（2026-10-10）
+- 类型：中式找异常恐怖（小说IP联动）
+- 开发者：Gameloop / 隐书大宅（与《见诡录：阴魂街》同一制作组）
+- 状态：已发售（Steam 2026-03-05）
+- 平台：Steam
+- 发售：2026-03-05
+- Steam：阴界诡录·尸语公寓（AppID 3941850）｜¥ 22.00｜评测 59 条（Mostly Positive）〔Steam·商店页〕
 
-## 内容简介
+## 游戏内容
 
-「阴界诡录」系列找异常作；本篇场景为老式居民楼/公寓。检索可见正式版全结局实况与 demo 试玩并存。勿与《见诡录》系列混淆。
+《阴界诡录·尸语公寓》是一款中式「找异常」步行恐怖游戏：主角被困在一栋老式居民楼无限循环的楼道里，每一轮都要判断楼道和房间有没有异常，逐层往下走（-13 层、-16 层、-24 层），同时揭开公寓背后的鬼娃娃故事〔Steam·商店页〕。它跟小说 IP 联动，评论里有人说「小说来的」「第三结局高海，原著主角」，Steam 评测里也有「书友来支持一手」。开发者是 Gameloop 和隐书大宅，跟已入库的《见诡录：阴魂街》是同一个制作组〔B站·BV1roPHztEgp评论「是的一个制作组」〕。Steam 售价 ¥22，2026-03-05 发售。
 
-## 关注度与数据（2026-10-10 初建）
+## 看图与画面
 
+看图结论：实机帧是黄墙绿漆的老式居民楼走廊、红色涂鸦小人、写着楼层的墙面（「负16层」）、手电筒光圈、铁门、旧自行车和红色塑料凳，场景很写实，有明显的 90 年代、千禧年中国筒子楼特征，跟 Steam 截图一致。氛围靠暗光和手电，素材质量中上。（本档封面与实机图均已逐张目检，确认是本作画面；同名污染图已剔除）
 
-〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕
+## 关注度与数据（2026-10-10 登录态采集）
 
+| 类别 | 视频 | UP（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 转发 | 评论 | 弹幕 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 实况/试玩 | 中式找异常恐怖游戏《尸语公寓》速通（BV1z2jg6zEgG） | 南译丷（41.0万） | 2026-06-16 | 255.2万 | 6.7万 | 3969 | 54293 | 98 | 115 | 1105 |
+| 其他 | 【阴界诡录】下次别再关门了（BV1E3NgzWEVh） | 俄洛伊小迷妹ee（149.0万） | 2026-03-08 | 71.0万 | 4.3万 | 371 | 4393 | 244 | 240 | 85 |
+| 其他 | 阴界诡录：尸语公寓！（BV1S8q5BUE65） | 小黄蜂游戏解说（20.8万） | 2025-12-17 | 21.3万 | 815 | 64 | 506 | 22 | 53 | 163 |
+| 实况/试玩 | 中式恐怖找异常，被困老式居民楼《阴界诡录.尸语公寓》正式版全结局通关实况！（BV1roPHztEgp） | 星空梦-YO梦（5.6万） | 2026-03-06 | 9.4万 | 1680 | 267 | 1340 | 118 | 51 | 466 |
+| 其他 | 最新国产恐怖找异常游戏《阴界诡录·尸语公寓》（BV1YnNgz7EWq） | 李大废柴呀（6.9万） | 2026-03-08 | 8.9万 | 2449 | 668 | 1189 | 115 | 249 | 412 |
 
-〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕
+**合计**（5 条相关视频）：播放 365.7万，点赞 11.5万（赞播比 3.2%），收藏 6.2万（藏播比 1.7%），评论 708，弹幕 2231。这是首次全量采集，作为之后对比涨跌的基线。〔B站·view/stat 接口；UP 粉丝来自 relation/stat〕
 
-| 视频 | UP | 播放 | 点赞 | 评论 |
-|---|---|---|---|---|
-| 【阴界诡录】下次别再关门了 | 俄洛伊小迷妹ee | 71.0万 | 4.3万 | 240 |
-| 阴界诡录：尸语公寓！ | 小黄蜂游戏解说 | 21.3万 | 815 | 53 |
+## 实际评价（登录态评论/楼中楼/弹幕 + Steam）
 
-热度等级：**高热/中高热**。缺口：官方 PV、完整 top5、评论原话、Steam。
+**玩家喜欢什么**：
 
-## 实际评价 / 团队 / 综合评价
+- 氛围被认为是同类里最好之一：「这次的找异常算是我见过的恐怖氛围塑造的最好的一个了」
+- 剧情有钩子：「诡异挟持一对夫妻给自己当父母？主角是什么身份？」，评论区有人认真科普鬼娃娃剧情
+- Steam：「符合折扣四块钱的价格，氛围感挺好的，突脸有但不多」；英文评测「sticks to actual anomalies」
 
-缺口：评论深挖未做。与《***》玩法差异大，但是「中式恐怖」流量池直接竞品；系列化找异常正在扎堆。
+**玩家吐槽什么**：
+
+- 品类疲劳：「现在恐怖游戏全是这种找异常，都没一点创新了」「老是抄八番出口」
+- 环境太黑、会卡住：「环境有点黑，我让dsh玩她卡住了」
+- Steam 评价「多半好评」，59 条里 43 好评、16 差评（约 73%），比《见诡录：阴魂街》低
+
+**代表性原话**：
+
+- 「主播对我这种人菜瘾大的太友好了。。。或许也可以考虑出一个初见实况系列，很好奇主播初见什么样」（789赞）〔B站·BV1z2jg6zEgG评论〕
+  - ↳ 「不知道UP主会不会考虑直播做初见实况，我也不知道会不会开直播（刚关注），说实话，如果直播做初见实况的话我还挺期待的」〔B站·BV1z2jg6zEgG楼中楼〕
+  - ↳ 「是呢，我也好期待[打call][打call]」〔B站·BV1z2jg6zEgG楼中楼〕
+- 「喜欢up……就喜欢大晚上看，然后刚刚好可以睡觉，挺适合哄睡」（473赞）〔B站·BV1z2jg6zEgG评论〕
+  - ↳ 「你也被up哄睡着了吗」〔B站·BV1z2jg6zEgG楼中楼〕
+  - ↳ 「回复 @狆刄 :哎呦我不行了[笑哭]」〔B站·BV1z2jg6zEgG楼中楼〕
+- 「ee真不胖，很好看的，之前那个雪中拍的照片找不到了，巨巨巨好看」（319赞）〔B站·BV1E3NgzWEVh评论〕
+  - ↳ 「听到ee的声音，我总喜欢把她的样子联想成她的头像」〔B站·BV1E3NgzWEVh楼中楼〕
+  - ↳ 「回复 @nekoi滴滴嘟 :一样」〔B站·BV1E3NgzWEVh楼中楼〕
+- 「up宝贝，如果基于判断做了相反/错误的决定，会怎么样呢？」（305赞）〔B站·BV1z2jg6zEgG评论〕
+  - ↳ 「就会像up一样熟练」〔B站·BV1z2jg6zEgG楼中楼〕
+  - ↳ 「回复 @果子狸倌 :哈哈哈哈哈」〔B站·BV1z2jg6zEgG楼中楼〕
+- 「感觉现在恐怖游戏都不够劲啊，我想设计一个满是黑色斑点的走廊，进去之后直接锁门然后每一个黑色斑点往外爬蟑螂，密密麻麻直接铺满地面，角色走路音效增加那种蟑螂被踩扁的爆浆声，任务要求在走廊迷宫里提交多个道具最后拿到出口的钥匙，但是在走廊中停留时间超过一分钟将会有蟑螂爬进你的鞋子，降低你的移动速度；超过两分钟将会有蟑螂爬进你的」（222赞）〔B站·BV1E3NgzWEVh评论〕
+  - ↳ 「然后最好在有些不太怕虫子的玩家适应之后，觉得这也没啥了，再来个脸上爬满蟑螂的腐尸突脸[doge]」〔B站·BV1E3NgzWEVh楼中楼〕
+  - ↳ 「我昨天晚上刚做梦到一个森林里短袖短裤光脚踩着地面，地面上全是那种蚰蜒，顺着脚爬来爬去还有臭虫，记忆深刻，我是真的极其害怕虫子」〔B站·BV1E3NgzWEVh楼中楼〕
+- 「打码真的好评，适合我这种胆小还瘾大的[笑哭][笑哭][笑哭]」（148赞）〔B站·BV1z2jg6zEgG评论〕
+- 「好奇剧情，诡异挟持一对夫妻给自己当父母吗？主角是什么身份？这对夫妻怎么死的？」（141赞）〔B站·BV1z2jg6zEgG评论〕
+  - ↳ 「对，但不完全对，一个叫鬼娃娃的诡异挑选一男一女当他的父母，但这两人各有自己的孩子，女方的女儿就是你看到在游戏过程中充当被迫害的对象被杀，男方的儿子可能存活。后面两个问题涉及故事原作，刺猬猫上的的小说隐书大宅写的《我的二次」〔B站·BV1z2jg6zEgG楼中楼〕
+  - ↳ 「回复 @超高校级的sos团员 :感谢科普，小说是原著吗？」〔B站·BV1z2jg6zEgG楼中楼〕
+- 「阿婆声音真的真的真的真的真的特别特别特别特别温柔啊啊啊啊啊啊[星星眼]」（110赞）〔B站·BV1z2jg6zEgG评论〕
+
+**弹幕高频**（共采 2219 条）：「[前方高能]」×50 / 「我们真棒！」×17 / 「弹幕护体」×16 / 「我们真棒」×13 / 「咕↑咕↓嘎↑嘎↓！咕↑咕↑嘎↓嘎↓！」×11 / 「护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体护体」×9 / 「没用的ee」×6 / 「你说你有点难追」×5〔B站弹幕〕
+
+**Steam 评测摘录**：
+
+- 👍（1h）「还不错吧，符合折扣四块钱的价格，氛围感挺好的，突脸有但不多，只有必要剧情和主动去靠近怪物才会触发，胆子比较小的玩家不用太担心，可以提前应对，但是有突然噪音，闪烁。  第12层转阶段漆黑之后移动会有跳脸缺点的话，鬼叫的声音怪不掉。你就算把游戏内所有音量调成0，依旧会有鬼叫声，后面逃生模式中每次开局都会」〔Steam·评测〕
+- 👍（1h）「4块钱算是支持一下吧，还有环境有点黑，我让dsh玩她卡住了」〔Steam·评测〕
+- 👍（3h）「书友，至少书很不错，恐怖游戏之后再玩，医院呢」〔Steam·评测〕
+- 👍（1h）「Nice Anomaly Horror Game with some unexpected twists. I liked that this one sticks to actual anomalies and doesn't have you count every small item in」〔Steam·评测〕
+- 👍（1h）「That was very good. Very impressed. Well done.」〔Steam·评测〕
+- 👍（0h）「不赖 书友来支持一手」〔Steam·评测〕
+
+## 团队与靠谱程度
+
+**靠谱程度：中高（已经连续交付）**。依据：同一个制作组已经发售《见诡录：阴魂街》，这是又一款已发售作品，加上 IP 联动说明有稳定的产出节奏；看图场景质量稳定。不足：有借小说 IP 和流水线式产品的味道，评测数量少，转化一般。
+
+## 综合评价
+
+**综合评价**：热度主要来自头部 UP 的速通和切片（南译 255 万、ee 71 万），游戏本身的转化很一般（Steam 59 条评测）。它说明「中式找异常」这个品类已经进入流水线阶段：同一个团队、同一套框架快速换皮出新作。
+
+**与《***》对照**：品类不同（找异常步行对叙事解谜），但同属中式民俗恐怖，抢的是同一批看恐怖实况的观众。**启示**：①B 站爆点在头部 UP 的「打码友好、哄睡」类实况（南译这条有 5.4 万收藏），《***》以后找 UP 推广，可以考虑「低突脸、能当睡前看」的定位，跟你「静的怕」一致；②筒子楼和千禧年怀旧场景很能引起共鸣，***码头的市井细节也可以往这个方向使劲。
 
 <!-- added:meta -->
 
@@ -61,5 +200,11 @@ discovery_date: "2026-10-10"
 - **发现来源**：〔B站〕B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「中式找异常恐怖游戏《阴界诡录：尸语公寓》」· UP 水原夢乃 · BV1BpMc6REGy）；种子视频「未知」· UP 未知 · BV1E3NgzWEVh · 未知 · 播放 未知；入库日 2026-10-10
 
 **资料来源**：
-- B站视频（采用 0 条；另 1 条为已剔除同名/弱相关或无元数据，正文已列明）：
-- Steam：商店页/评测（正文中引用）
+
+- 〔B站〕中式找异常恐怖游戏《尸语公寓》速通 · UP 南译丷 · BV1z2jg6zEgG · 2026-06-16（评论 71 条主评+楼中楼、弹幕 1105 条，登录态采集 2026-10-10）
+- 〔B站〕【阴界诡录】下次别再关门了 · UP 俄洛伊小迷妹ee · BV1E3NgzWEVh · 2026-03-08（评论 100 条主评+楼中楼、弹幕 85 条，登录态采集 2026-10-10）
+- 〔B站〕阴界诡录：尸语公寓！ · UP 小黄蜂游戏解说 · BV1S8q5BUE65 · 2025-12-17（评论 43 条主评+楼中楼、弹幕 163 条，登录态采集 2026-10-10）
+- 〔B站〕中式恐怖找异常，被困老式居民楼《阴界诡录.尸语公寓》正式版全结局通关实况！ · UP 星空梦-YO梦 · BV1roPHztEgp · 2026-03-06（评论 30 条主评+楼中楼、弹幕 454 条，登录态采集 2026-10-10）
+- 〔B站〕最新国产恐怖找异常游戏《阴界诡录·尸语公寓》 · UP 李大废柴呀 · BV1YnNgz7EWq · 2026-03-08（评论 100 条主评+楼中楼、弹幕 412 条，登录态采集 2026-10-10）
+- 〔Steam〕商店页与评测 · AppID 3941850（截图用作实机图）
+- 〔图片〕封面与实机帧：B站视频封面、videoshot 关键帧、Steam 商店截图；逐张目检

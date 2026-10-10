@@ -14,6 +14,42 @@ cover: covers/BV1W1Y763Efb.jpg
 images:
   - frames/BV1W1Y763Efb_01.jpg
   - frames/BV1W1Y763Efb_02.jpg
+  - frames/BV1W1Y763Efb_fx00.jpg
+  - frames/BV1W1Y763Efb_fx01.jpg
+  - frames/BV1W1Y763Efb_fx02.jpg
+  - frames/BV1W1Y763Efb_fx03.jpg
+  - frames/BV1W1Y763Efb_fx04.jpg
+  - frames/BV1W1Y763Efb_fx05.jpg
+  - frames/BV1W1Y763Efb_fx06.jpg
+  - frames/BV1W1Y763Efb_fx07.jpg
+  - frames/BV1W1Y763Efb_fx08.jpg
+  - frames/BV1W1Y763Efb_fx09.jpg
+  - frames/BV1W1Y763Efb_fx10.jpg
+  - frames/BV1W1Y763Efb_fx11.jpg
+  - frames/BV1W1Y763Efb_fx12.jpg
+  - frames/BV1W1Y763Efb_fx13.jpg
+  - frames/BV1W1Y763Efb_fx14.jpg
+  - frames/BV1W1Y763Efb_fx15.jpg
+  - frames/BV1W1Y763Efb_fx16.jpg
+  - frames/BV1W1Y763Efb_fx17.jpg
+  - frames/BV1W1Y763Efb_fx18.jpg
+  - frames/BV1W1Y763Efb_fx19.jpg
+  - frames/BV1W1Y763Efb_fx20.jpg
+  - frames/BV1W1Y763Efb_v1_01.jpg
+  - frames/BV1W1Y763Efb_v2_01.jpg
+  - frames/BV1W1Y763Efb_v2_02.jpg
+  - frames/BV1W1Y763Efb_v2_03.jpg
+  - frames/BV1W1Y763Efb_v2_04.jpg
+  - frames/BV1W1Y763Efb_v2_05.jpg
+  - frames/BV1W1Y763Efb_v2_06.jpg
+  - frames/BV1W1Y763Efb_steam01.jpg
+  - frames/BV1W1Y763Efb_steam02.jpg
+  - frames/BV1W1Y763Efb_steam03.jpg
+  - frames/BV1W1Y763Efb_steam04.jpg
+  - frames/BV1W1Y763Efb_steam05.jpg
+  - frames/BV1W1Y763Efb_steam06.jpg
+  - frames/BV1W1Y763Efb_steam07.jpg
+  - frames/BV1W1Y763Efb_steam08.jpg
 tags: [叙事/解谜/恐怖(非竞品)/视觉小说]
 aliases: []
 discovery_platform: B站
@@ -248,6 +284,13 @@ discovery_date: "2026-10-09"
 - 登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。
 - 统计：相关视频 6｜去重评论≈880｜弹幕XML≈114｜前五+PV合计播放 15.5万。
 
+
+<!-- added:2026-10-10 -->
+
+## 图片补齐说明（2026-10-10）
+
+实机图从 3 张补到 23 张：前导 PV、试玩版预告、定档 PV、正式发售 PV 和樱无彩音试玩的封面加关键帧，以及 Steam 商店截图 8 张（AppID 3664060，2026-09-11 发售，¥42，175 条评测）。剔除了 OST 试听视频的线稿 BGM 图和黑屏帧。〔B站·videoshot/封面；Steam·商店截图〕
+
 <!-- added:meta -->
 
 ## 来源（发现与资料）
@@ -268,3 +311,9 @@ discovery_date: "2026-10-09"
   - 《心象天仪本线》ED合集 · 10lulu · BV1ZTeM6uEYD · 2026-09-17 · 播放 4167
   - 这群少女的都市日常，好像不太对劲｜《环之塔物语》首支PV · Tamill · BV1uoYE6XECf · 2026-09-08 · 播放 7.8万
 - Steam：商店页/评测（AppID 3664060）
+
+## 补图说明（2026-10-10 二次）
+
+<!-- added:2026-10-10 -->
+
+补入 Steam 商店（App 3664060，特别好评 152 篇）8 张截图与 PV 帧：列车、星空、校园天台、钢琴房等 galgame 立绘+背景。〔Steam·商店截图；B站·videoshot〕

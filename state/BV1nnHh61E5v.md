@@ -12,6 +12,26 @@ found: 2026-10-09
 baseline: 2026-10-09
 cover: covers/BV1nnHh61E5v.jpg
 images:
+  - frames/BV1nnHh61E5v_fx00.jpg
+  - frames/BV1nnHh61E5v_fx01.jpg
+  - frames/BV1nnHh61E5v_fx02.jpg
+  - frames/BV1nnHh61E5v_fx03.jpg
+  - frames/BV1nnHh61E5v_fx04.jpg
+  - frames/BV1nnHh61E5v_fx05.jpg
+  - frames/BV1nnHh61E5v_fx06.jpg
+  - frames/BV1nnHh61E5v_fx07.jpg
+  - frames/BV1nnHh61E5v_fx08.jpg
+  - frames/BV1nnHh61E5v_fx09.jpg
+  - frames/BV1nnHh61E5v_v1_01.jpg
+  - frames/BV1nnHh61E5v_v1_02.jpg
+  - frames/BV1nnHh61E5v_v1_03.jpg
+  - frames/BV1nnHh61E5v_v1_04.jpg
+  - frames/BV1nnHh61E5v_v1_05.jpg
+  - frames/BV1nnHh61E5v_v1_06.jpg
+  - frames/BV1nnHh61E5v_v3_01.jpg
+  - frames/BV1nnHh61E5v_v3_02.jpg
+  - frames/BV1nnHh61E5v_v3_05.jpg
+  - frames/BV1nnHh61E5v_v3_06.jpg
 tags: [动作/肉鸽/射击]
 aliases: []
 discovery_platform: B站
@@ -204,6 +224,13 @@ discovery_date: "2026-10-09"
 - 登录态重采播放前五+官方PV评论/弹幕；核验同名污染；补帧；重写关注度/原话评价/团队靠谱/综合评价。
 - 统计：相关视频 5｜去重评论≈194｜弹幕XML≈27｜前五+PV合计播放 5.5万。
 
+
+<!-- added:2026-10-10 -->
+
+## 图片补齐说明（2026-10-10）
+
+实机图从 1 张补到 10 张：初中生开发者「阿泽哥-独立游戏开发」的 3 条《天火行动》视频（13 岁初中生独立开发游戏的「新伊迅」篇、2025-09 的最新更新、2026-10 的持续更新）的封面和关键帧，内容是机甲角色模型、武器建模、城市白模和 UI。**这款游戏公开画面很少**：B 站同名高播放视频是《变形金刚》解说和《堡垒之夜》天火行动活动，都已剔除；Steam 没搜到。〔B站·videoshot/封面；Steam·商店截图〕
+
 <!-- added:meta -->
 
 ## 来源（发现与资料）
@@ -218,3 +245,9 @@ discovery_date: "2026-10-09"
   - 初中生自学编程、设计、美术并独立开发游戏《天火行动》 生无可恋的感觉真好 · 阿泽哥-独立游戏开发 · BV1594gz3Emw · 2025-10-12 · 播放 5934
   - 初中生独立开发游戏《天火行动》最新视频，欢迎各位评论建议 · 阿泽哥-独立游戏开发 · BV1pkn8zZEJn · 2025-09-26 · 播放 5003
   - 细思极恐！温馨校园下潜伏着专抓小学生的变态！恐怖RPG游戏《捉迷藏》 · 荒木木aliki · BV1LzAJzuEYn · 2026-03-20 · 播放 42.2万
+
+## 补图说明（2026-10-10 二次）
+
+<!-- added:2026-10-10 -->
+
+补入实机/开发视频帧：太空舰船、机甲车间、Unity 开发界面与标题画面。剔除了同名搜索里的真实火箭发动机科普片段。〔B站·videoshot〕

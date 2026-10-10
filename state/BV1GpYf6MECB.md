@@ -15,6 +15,15 @@ images:
   - frames/BV1GpYf6MECB_01.jpg
   - frames/BV1GpYf6MECB_02.jpg
   - frames/BV1GpYf6MECB_03.jpg
+  - frames/BV1GpYf6MECB_v0_01.jpg
+  - frames/BV1GpYf6MECB_steam01.jpg
+  - frames/BV1GpYf6MECB_steam02.jpg
+  - frames/BV1GpYf6MECB_steam03.jpg
+  - frames/BV1GpYf6MECB_steam04.jpg
+  - frames/BV1GpYf6MECB_steam05.jpg
+  - frames/BV1GpYf6MECB_steam06.jpg
+  - frames/BV1GpYf6MECB_steam07.jpg
+  - frames/BV1GpYf6MECB_steam08.jpg
 tags: [策略/RPG/卡牌]
 aliases: []
 discovery_platform: B站
@@ -273,3 +282,9 @@ discovery_date: "2026-10-09"
   - 《LocoMo》中文 Steam 页面现已上线！更新版中文预告片公开 · Locomogame · BV1o5Nk6hErY · 2026-07-13 · 播放 2.6万
   - 《文字游戏》将于2022年1月21日发售！ · 文字游戏_Team9 · BV1ua411k7nr · 2021-12-21 · 播放 50.9万
 - Steam：商店页/评测（AppID 5155860）
+
+## 补图说明（2026-10-10 二次）
+
+<!-- added:2026-10-10 -->
+
+补入 Steam 商店（App 5155860《第三阵营》，ASCII Interactions，2027-01-18）截图：冷战背景文字界面、电报与预算面板、火箭发射 ASCII 画面。B 站同名视频多为《矮人要塞》历史讲解和另一款等距射击游戏，已剔除。〔Steam·商店截图〕

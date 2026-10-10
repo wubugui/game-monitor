@@ -15,6 +15,24 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SjeP62EMn.jpg",
+   "id": "BV1SjeP62EMn",
+   "name": "萦回"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
@@ -26,34 +44,16 @@
    "name": "冥娘引"
   },
   {
-   "competitor": true,
-   "cover": "",
-   "id": "BV1rAbp66EV1",
-   "name": "⚠️缺图 镇尸"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1SjeP62EMn.jpg",
-   "id": "BV1SjeP62EMn",
-   "name": "⚠️缺图 萦回"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "id": "BV1WGqhYdEjx",
-   "name": "⚠️缺图 无人"
-  },
-  {
    "competitor": false,
-   "cover": "",
+   "cover": "covers/BV1xZHW6TE9n.jpg",
    "id": "BV1xZHW6TE9n",
-   "name": "⚠️缺图 Duola Mage"
+   "name": "Duola Mage"
   },
   {
    "competitor": false,
-   "cover": "",
+   "cover": "covers/BV1uiao6oEmy.jpg",
    "id": "BV1uiao6oEmy",
-   "name": "⚠️缺图 1999保密协议"
+   "name": "1999保密协议"
   },
   {
    "competitor": true,

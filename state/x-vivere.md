@@ -84,7 +84,65 @@ discovery_date: "2026-10-10"
 - B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
+<!-- feedback:start -->
+<!-- added:2026-10-10 -->
 
+### 玩家反馈分析
+
+#### 总结
+
+共分析 3 条文字反馈，好评 100.0%、差评 0.0%，整体偏正面。讨论最集中的是AI争议、催更期待；点赞最高的一条说「https://youtu.be/48jgiMY7iD4 fun game, a bit challenging at …」（4 赞）。喜欢的点主要是：「I genuinely loved this game. I have played nearly …」。从讨论内容看，受众主要是对 AI 内容敏感的玩家和已加愿望单、在等消息的潜在买家。对《***》的启示：AI 话题会被放大审视，《***》若有 AI 参与的素材要提前想好口径，避免成为评论区主战场。样本只有 3 条，以上判断仅供参考。
+
+#### 统计分布
+
+**样本量（全部已采集数据）**
+
+| 来源 | 条数 |
+|---|---:|
+| Steam评测 | 3 |
+
+**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**
+
+| 倾向 | 条数 | 占比 | |
+|---|---:|---:|---|
+| 好评 | 3 | 100.0% | `████████████████████` |
+| 中性 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 差评 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+
+**按点赞加权**（每条权重 = 赞数+1）：好评 100.0% · 中性 0.0% · 差评 0.0%
+
+**话题分布**（一条可属多个话题；未命中任何话题的 2 条不计）
+
+| 话题 | 条数 | 占比 | | 其中差评 |
+|---|---:|---:|---|---:|
+| AI争议 | 1 | 33.3% | `███████░░░░░░░░░░░░░` | 0.0% |
+| 催更期待 | 1 | 33.3% | `███████░░░░░░░░░░░░░` | 0.0% |
+
+**评论高频词**：you(11) · with(6) · in(4) · have(4) · one(4) · The(4) · was(4) · his(4) · games(4) · that(4) · challenging(3) · played(3) · Vidas(3) · new(3) · sound(3)
+
+**最高赞反馈说了什么**
+
+| 赞 | 倾向 | 话题 | 内容 | 来源 |
+|---:|---|---|---|---|
+| 4 | 好评 | — | https://youtu.be/48jgiMY7iD4 fun game, a bit challenging at points, wi… | Steam评测 |
+| 2 | 好评 | AI争议/催更期待 | I genuinely loved this game. I have played nearly every game Vidas has… | Steam评测 |
+| 1 | 好评 | — | I really enjoyed this game and the challenges that came with it. Even … | Steam评测 |
+
+#### 代表性评论
+
+**好评**
+
+- 「https://youtu.be/48jgiMY7iD4 有趣的游戏，在某些时候有点挑战性，希望能在拉弓时移动，而且我喜欢游戏的设计和配音。我也喜欢怪物的设计。（原文：https://youtu.be/48jgiMY7iD4 fun game, a bit challenging at points, wish u could move with the bow drawn tho, and I liked the design and voice acting in the game. I liked the monster designs too）」（4赞） 〔Steam评测〕
+- 「我真的很喜欢这款游戏。我几乎玩过Vidas制作的所有游戏（差不多有50个了？），而这款游戏尤其给我留下了深刻印象。肩上视角的战斗在Vidas Games的宇宙中是一次全新的体验，……（原文：I genuinely loved this game. I have played nearly every game Vidas has made (almost 50 now?), and this one particularly impressed me. The over-the-shoulder combat was a brand new experience in the Vidas Games mythos, and…）」（2赞） 〔Steam评测〕
+- 「我真的很享受这款游戏以及随之而来的挑战。即便是在普通难度下，它也不算是轻松的散步。我真正喜欢的事情之一就是Boss战；它们由于……感觉非常怀旧。（原文：I really enjoyed this game and the challenges that came with it. Even on normal, it wasn't exactly a walk in the park. One of the things I did really enjoy were the boss fights; they felt very nostalgic due to their, lac…）」（1赞） 〔Steam评测〕
+
+> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+
+<!-- feedback:end -->
+<!-- added:meta -->
+<details><summary>全部原文（4 条）</summary>
+
+<!-- added:2026-10-10 -->
 ### X 回复/提及原话
 - X 上暂无实质玩家评论（未知）
 
@@ -92,6 +150,11 @@ discovery_date: "2026-10-10"
 - 👍（英语，游玩 2.9h，有用 4）「好玩，有些地方有点难，希望拉弓时还能移动，我喜欢游戏里的设计和配音，怪物设计也喜欢」（原文："https://youtu.be/48jgiMY7iD4  fun game, a bit challenging at points, wish u could move with the bow drawn tho, and I liked the design and voice acting in the game. I liked the monster designs too"） 〔Steam评测〕
 - 👍（英语，游玩 2.0h，有用 2）「我真心很爱这款游戏。Vidas 做的游戏我几乎都玩过（现在快 50 款了吧？），这款特别让我印象深刻。越肩视角战斗在 Vidas Games 系列里是全新体验，而且出奇地契合他的风格。我……」（原文："I genuinely loved this game. I have played nearly every game Vidas has made (almost 50 now?), and this one particularly impressed me. The over-the-shoulder combat was a brand new experience in the Vidas Games mythos, and fit his style surprisingly perfectly. I"） 〔Steam评测〕
 - 👍（英语，游玩 1.9h，有用 1）「我很喜欢这款游戏和它带来的挑战。即使是普通难度也不算轻松。我特别喜欢的一点是 Boss 战；由于它们（找不到更好的词）重复性的特点，感觉非常怀旧，……」（原文："I really enjoyed this game and the challenges that came with it. Even on normal, it wasn't exactly a walk in the park. One of the things I did really enjoy were the boss fights; they felt very nostalgic due to their, lack of a better word, repetitive nature, w"） 〔Steam评测〕
+
+<!-- added:meta -->
+</details>
+
+<!-- added:2026-10-10 -->
 
 ## 团队与靠谱程度
 

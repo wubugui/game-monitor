@@ -132,7 +132,57 @@ discovery_date: "2026-10-10"
 - B站：登录态全量采集 2026-10-10，相关视频 1 条、合计播放约 654；最高《蛊惑人心的恶魔判官！恐怖游戏《细节决定成败 Th》654（详见下方「B站数据」）
 
 ## 实际评价
+<!-- feedback:start -->
+<!-- added:2026-10-10 -->
 
+### 玩家反馈分析
+
+#### 总结
+
+共分析 3 条文字反馈，好评 100.0%、差评 0.0%，整体偏正面。讨论最集中的是AI争议、氛围恐怖。喜欢的点主要是：「What an overlooked title! I had so much fun playin…」。从讨论内容看，受众主要是对 AI 内容敏感的玩家和恐怖氛围向玩家（含「云玩家」）。对《***》的启示：AI 话题会被放大审视，《***》若有 AI 参与的素材要提前想好口径，避免成为评论区主战场。样本只有 3 条，以上判断仅供参考。
+
+#### 统计分布
+
+**样本量（全部已采集数据）**
+
+| 来源 | 条数 |
+|---|---:|
+| Steam评测 | 3 |
+
+**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**
+
+| 倾向 | 条数 | 占比 | |
+|---|---:|---:|---|
+| 好评 | 3 | 100.0% | `████████████████████` |
+| 中性 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 差评 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+
+**按点赞加权**（每条权重 = 赞数+1）：好评 100.0% · 中性 0.0% · 差评 0.0%
+
+**话题分布**（一条可属多个话题；未命中任何话题的 1 条不计）
+
+| 话题 | 条数 | 占比 | | 其中差评 |
+|---|---:|---:|---|---:|
+| AI争议 | 2 | 66.7% | `█████████████░░░░░░░` | 0.0% |
+| 氛围恐怖 | 1 | 33.3% | `███████░░░░░░░░░░░░░` | 0.0% |
+
+**评论高频词**：that(15) · its(12) · can(9) · The(8) · in(8) · players(8) · puzzle(7) · experience(7) · with(6) · are(6) · more(6) · an(5) · on(5) · as(5) · not(5)
+
+#### 代表性评论
+
+**好评**
+
+- 「《细节中的魔鬼》由 HideWorks 开发和发行，是一款将基于记忆的谜题设计与心理恐怖巧妙融合的游戏，它把本来轻松的类型变得紧张且令人不安……（原文：The Devil is in the Details, developed and published by HideWorks, is a cleverly twisted blend of memory-based puzzle design and psychological horror that turns a normally relaxed genre into something tense and unsettlin…）」 〔Steam评测〕
+- 「多么被忽视的佳作！我在玩这个游戏时玩得非常开心，它并不是你平常见到的那种找异常游戏，虽然描述里提到了这一点，但这个游戏加入了许多独特的变化，使其变得有趣、富有挑战性，并且内容丰富……（原文：What an overlooked title! I had so much fun playing this, its not your run of the mill spot the anomaly game though that is in the description but this has so many unique twists to make it fun, difficult and packed with …）」 〔Steam评测〕
+- 「好，找到异常游戏。（原文：good find the anomaly game）」 〔Steam评测〕
+
+> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+
+<!-- feedback:end -->
+<!-- added:meta -->
+<details><summary>全部原文（4 条）</summary>
+
+<!-- added:2026-10-10 -->
 ### X 回复/提及原话
 - 「@BudhaLovesB
 
@@ -140,6 +190,11 @@ discovery_date: "2026-10-10"
 - 👍（英语，游玩 10.1h，有用 0）「《The Devil is in the Details》由 HideWorks 开发并发行，巧妙地把记忆型解谜和心理恐怖拧在一起，把一个通常很轻松的类型变得紧张又让人不安。它采用了大家熟悉的找……」（原文："The Devil is in the Details, developed and published by HideWorks, is a cleverly twisted blend of memory-based puzzle design and psychological horror that turns a normally relaxed genre into something tense and unsettling. It takes the familiar idea of spottin"） 〔Steam评测〕
 - 👍（英语，游玩 8.4h，有用 0）「多么被低估的作品！我玩得超开心，它不是那种千篇一律的找异常游戏（虽然简介里是这么写的），而是有很多独特的变化，让它有趣、有难度，还塞满了扎实的 Jump Scare。还挺幽默」（原文："What an overlooked title! I had so much fun playing this, its not your run of the mill spot the anomaly game though that is in the description but this has so many unique twists to make it fun, difficult and packed with solid jump scares.  Includes good humor "） 〔Steam评测〕
 - 👍（英语，游玩 2.2h，有用 0）「不错的找异常游戏」（原文："good find the anomaly game"） 〔Steam评测〕
+
+<!-- added:meta -->
+</details>
+
+<!-- added:2026-10-10 -->
 
 ## 团队与靠谱程度
 

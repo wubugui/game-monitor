@@ -625,7 +625,7 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             json.dump(obj, f, ensure_ascii=False, indent=1, sort_keys=True)
 
-    card_keys = ["id", "name", "competitor", "genre", "genre_tags", "developer", "dev_type", "status",
+    card_keys = ["id", "feedback", "name", "competitor", "genre", "genre_tags", "developer", "dev_type", "status",
                  "status_inferred", "found", "updated", "cover", "link", "source", "summary", "note", "update_count", "missing_images", "disc_platform", "discovery"]
     dump(f"{OUT}/projects.json", [{k: p.get(k) for k in card_keys} for p in plist])
     for p in plist:

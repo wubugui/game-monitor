@@ -90,13 +90,71 @@ discovery_date: "2026-10-10"
 - B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
+<!-- feedback:start -->
+<!-- added:2026-10-10 -->
 
+### 玩家反馈分析
+
+#### 总结
+
+共分析 2 条文字反馈，好评 100.0%、差评 0.0%，整体偏正面。讨论最集中的是AI争议；点赞最高的一条说「In it's current state it's definitely worthy of positive rei…」（1 赞）。从讨论内容看，受众主要是对 AI 内容敏感的玩家。对《***》的启示：AI 话题会被放大审视，《***》若有 AI 参与的素材要提前想好口径，避免成为评论区主战场。样本只有 2 条，以上判断仅供参考。
+
+#### 统计分布
+
+**样本量（全部已采集数据）**
+
+| 来源 | 条数 |
+|---|---:|
+| Steam评测 | 2 |
+
+**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**
+
+| 倾向 | 条数 | 占比 | |
+|---|---:|---:|---|
+| 好评 | 2 | 100.0% | `████████████████████` |
+| 中性 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 差评 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
+
+**按点赞加权**（每条权重 = 赞数+1）：好评 100.0% · 中性 0.0% · 差评 0.0%
+
+**话题分布**（一条可属多个话题；未命中任何话题的 1 条不计）
+
+| 话题 | 条数 | 占比 | | 其中差评 |
+|---|---:|---:|---|---:|
+| AI争议 | 1 | 50.0% | `██████████░░░░░░░░░░` | 0.0% |
+
+**评论高频词**：current(2) · definitely(2) · worthy(2) · ve(2) · played(2) · with(2) · honestly(2) · in(2) · all(2) · them(2) · square(2) · just(2) · here(2) · rating(2) · Act(2)
+
+**最高赞反馈说了什么**
+
+| 赞 | 倾向 | 话题 | 内容 | 来源 |
+|---:|---|---|---|---|
+| 1 | 好评 | AI争议 | In it's current state it's definitely worthy of positive reiews - I've… | Steam评测 |
+
+#### 代表性评论
+
+**好评**
+
+- 「它目前的状态绝对值得好评 —  — 我和朋友一起玩过无数种合作逃脱房间游戏，老实说，这款游戏绝对轻松地属于更易上手且有趣的类别……（原文：In it's current state it's definitely worthy of positive reiews - I've played countless titles of coop room escape with a mate, and honestly this is definitely and easily in the more accessible and enjoyable bracket acro…）」（1赞） 〔Steam评测〕
+
+> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+
+<!-- feedback:end -->
+<!-- added:meta -->
+<details><summary>全部原文（3 条）</summary>
+
+<!-- added:2026-10-10 -->
 ### X 回复/提及原话
 - X 上暂无实质玩家评论（未知）
 
 ### Steam 评测原话
 - 👍（英语，游玩 1.1h，有用 1）「以目前的状态，它绝对配得上好评——我和朋友玩过无数合作密室逃脱，老实说这款绝对、轻松地属于最容易上手、最好玩的那一档。可能我们比较有经验，」（原文："In it's current state it's definitely worthy of positive reiews - I've played countless titles of coop room escape with a mate, and honestly this is definitely and easily in the more accessible and enjoyable bracket across all of them. Maybe we're experienced,"） 〔Steam评测〕
 - 👍（简体中文，游玩 0.8h，有用 0）「差的要死。」 〔Steam评测〕
+
+<!-- added:meta -->
+</details>
+
+<!-- added:2026-10-10 -->
 
 ## 团队与靠谱程度
 

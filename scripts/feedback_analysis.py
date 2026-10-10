@@ -93,7 +93,7 @@ def load_bili_full(slug):
                     t2 = (sc.get('msg') or '').strip()
                     if t2: cs.setdefault((b, t2), dict(text=t2, like=int(sc.get('like') or 0), src=f'B站·{b}楼中楼', kind='bili'))
             dms[b] = [(None, x if isinstance(x, str) else x.get('text', '')) for x in v.get('danmaku') or []]
-            views[b] = {'title': v.get('title', '')}
+            views[b] = {'title': v.get('title', ''), 'stat': {'view': v.get('play') or (v.get('stat') or {}).get('view', 0)}}
         return list(cs.values()), dms, views, list(vids)
     return None
 
@@ -219,8 +219,20 @@ def analyze(pid, md):
     own = OWN_BV
     bvs = project_bvs(pid, body, own)
     cs, dms, views = [], {}, {}
+    names = [x for x in [fm.get('name', '')] + re.findall(r'[^\[\],\s][^\[\],]*', fm.get('aliases', '')) if x]
+    keys = set()
+    for x in names:
+        x = x.strip().strip('"\'《》')
+        if len(x) >= 3: keys.add(x.lower())
+        elif len(x) == 2: keys.add('《' + x.lower() + '》')  # 两字名太泛，要求书名号
+        for part in re.split(r'[：:（）()\s/|·《》]+', x):
+            if len(part) >= (3 if re.search(r'[\u4e00-\u9fff]', part) else 4): keys.add(part.lower())
     for b in bvs:
+        v = (jl(f'{CM}/{b}_view.json') or {}).get('data') or {}
+        t = (v.get('title', '') + ' ' + v.get('desc', '')[:200]).lower()
+        if b != pid and keys and v and not any(k in t for k in keys): continue  # 视频与本项目无关（对照/相关推荐）
         c, d, v = load_bili(b); cs += c; dms[b] = d; views[b] = v
+    bvs = [b for b in bvs if b in views]
     if pid.startswith('x-'):
         bf = load_bili_full(pid[2:])
         if bf:
@@ -258,18 +270,20 @@ def estimates(pid, a):
     if not lab: return None
     import feedback_label as FL
     U, W, D = FL.sample(pid, a, NU, NW, ND)
-    def lb(t): return lab.get(FL.h(t))
+    def lb(t):
+        l = lab.get(FL.h(t))
+        return l if l and l.get('rev') else None  # 只用人工复核过的标签
     # 回写 LLM 标签到条目（供代表性评论分组）
     for c in a['allc']:
         l = lb(c['text'])
-        if l: c['s'], c['t'], c['llm'] = l['s'], l['t'] or c['t'], True
+        if l: c['s'], c['llm'] = l['s'], True
     def dist(items):
         ls = [lb(t) for t in items]; ls = [l for l in ls if l]
         n = len(ls); cnt = collections.Counter(l['s'] for l in ls)
         tc = collections.Counter(t for l in ls for t in l['t'])
         return dict(n=n, s={k: ci(cnt[k], n) for k in ('pos', 'neu', 'neg')}, t={k: ci(v, n) for k, v in tc.most_common()},
-                    tneg={k: ci(sum(1 for l in ls if k in l['t'] and l['s'] == 'neg'), v) for k, v in tc.items()})
-    e = dict(U=dist([c['text'] for c in U]), W=dist([c['text'] for c in W]), D=dist(D))
+                    tneg={})
+    e = dict(U=dist([c['text'] for c in U]), W=dist([c['text'] for c in W]), D=dist(D), R=lab.get('_review') or {})
     return e if e['U']['n'] >= 20 else None
 NU, NW, ND = 120, 60, 80
 
@@ -322,7 +336,7 @@ def render(a, date):
     E = a.get('est')
     if E:  # LLM 抽样估计：比例来自均匀随机样本
         u = E['U']; sc = {k: u['s'][k][0] for k in ('pos', 'neu', 'neg')}; n_ = 100
-        tc = collections.Counter({k: v[0] for k, v in u['t'].items()})
+        tc = collections.Counter(t for c in allc for t in c['t'])
     else:
         sc = collections.Counter(sentiment(c) if c.get('llm') else c['s'] for c in allc); n_ = n
         tc = collections.Counter(t for c in allc for t in c['t'])
@@ -336,7 +350,7 @@ def render(a, date):
     negq = pick([c for c in allc if c['s'] == 'neg'], 1, used, 8)
     posq = pick([c for c in allc if c['s'] == 'pos'], 1, used, 8)
     S = []
-    S.append(f"共分析 {n} 条文字反馈" + (f"和 {ndm} 条弹幕" if ndm else '') + (f"，按 {E['U']['n']} 条随机抽样的模型判断估计好评 {pp}%、差评 {ng}%（±{max(E['U']['s']['pos'][1], E['U']['s']['neg'][1])} 个百分点），{tone}。" if E else f"，关键词粗估好评 {pp}%、差评 {ng}%，{tone}。"))
+    S.append(f"共分析 {n} 条文字反馈" + (f"和 {ndm} 条弹幕" if ndm else '') + (f"，按 {E['U']['n']} 条随机抽样（人工复核）估计好评 {pp}%、差评 {ng}%（±{max(E['U']['s']['pos'][1], E['U']['s']['neg'][1])} 个百分点），{tone}。" if E else f"，关键词粗估好评 {pp}%、差评 {ng}%，{tone}。"))
     if tops: S.append(f"讨论最集中的是{'、'.join(tops[:3])}" + (f"；点赞最高的一条说「{clean(toplike[0]['text'], 60)}」（{toplike[0]['like']} 赞）" if toplike and toplike[0]['like'] else '') + '。')
     if posq: S.append(f"喜欢的点主要是：「{clean(posq[0]['text'], 50)}」。")
     if negq: S.append(f"不满集中在{'、'.join([t for t, _ in collections.Counter(t for c in allc if c['s']=='neg' for t in c['t']).most_common(2)]) or '零散问题'}，例如「{clean(negq[0]['text'], 50)}」。")
@@ -355,15 +369,18 @@ def render(a, date):
     if E:
         u, w, d = E['U'], E['W'], E['D']
         def row(lbl, x): return f"| {lbl} | {x['n']} | " + ' | '.join(f"{x['s'][k][0]}% ±{x['s'][k][1]}" for k in ('pos', 'neu', 'neg')) + ' |'
-        L.append('\n**情感分布（抽样 + 模型逐条判断，95% 置信区间）**\n\n| 口径 | 样本 | 好评 | 中性 | 差评 |\n|---|---:|---:|---:|---:|')
+        R = E.get('R') or {}
+        L.append(f"\n**情感分布（抽样估计，已复核 {R.get('n', 0)} 条：模型初判后人工逐条复核，改正 {R.get('corrected', 0)} 条、人工直接标注 {R.get('self_labeled', 0)} 条；± 为 95% 置信区间）**")
+        L.append('\n| 口径 | 样本 | 好评 | 中性 | 差评 |\n|---|---:|---:|---:|---:|')
         L.append(row('评论（均匀随机）', u))
         if w['n']: L.append(row('评论（按赞加权抽样）', w))
         if d['n']: L.append(row('弹幕（均匀随机）', d))
         L.append('\n| 倾向（评论随机样本） | 占比 | |\n|---|---:|---|')
         for k in ('pos', 'neu', 'neg'): L.append(f"| {SENT_ZH[k]} | {u['s'][k][0]}% | `{bar(u['s'][k][0])}` |")
-        L.append(f"\n**话题分布**（评论随机样本 {u['n']} 条，一条可属多个话题）\n\n| 话题 | 占比 ±95% | | 该话题内差评 |\n|---|---:|---|---:|")
-        for t, (v, m) in u['t'].items():
-            L.append(f"| {t} | {v}% ±{m} | `{bar(v)}` | {u['tneg'][t][0]}% |")
+        kt = collections.Counter(t for c in allc for t in topics(c['text']))
+        L.append('\n**话题分布（粗略：关键词匹配全部评论，一条可属多个话题）**\n\n| 话题 | 条数 | 占比 | |\n|---|---:|---:|---|')
+        for t, v in kt.most_common():
+            L.append(f"| {t} | {v} | {pct(v, n)}% | `{bar(pct(v, n))}` |")
     else:
         L.append('\n**情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**\n\n| 倾向 | 条数 | 占比 | |\n|---|---:|---:|---|')
         for k in ('pos', 'neu', 'neg'): L.append(f"| {SENT_ZH[k]} | {sc[k]} | {pct(sc[k], n)}% | `{bar(pct(sc[k], n))}` |")
@@ -415,6 +432,8 @@ def render(a, date):
         if not q: continue
         L.append(f'**{g}**\n'); L += [qfmt(c) for c in q]; L.append('')
     if E:
+        L.append(f"> 方法：每个项目随机抽样评论（均匀 {NU} 条 + 按赞加权 {NW} 条），先由免费大模型初判，再由 Grok Bot 逐条人工复核改正，只有复核过的标签进入统计；比例为样本估计，± 为 95% 置信区间。话题分布仍是关键词粗分。数据截至 {date}。")
+        return '\n'.join(L)
         L.append(f"> 方法：每个项目随机抽样评论（均匀 {NU} 条 + 按赞加权 {NW} 条）和弹幕 {NU and ND} 条，由大模型逐条判断态度与话题（标注缓存 `tmp/feedback_labels/`，日更只标新条目），比例为样本估计，± 为 95% 置信区间。人工逐条复核 140 条模型标签，一致率约 85%（关键词规则只有约 65%）；主要分歧是把对剧情人物、案件原型的愤怒当成对游戏的差评。数据截至 {date}。")
         return '\n'.join(L)
     L.append(f"> 分类方法（粗略）：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 {date}。")
@@ -453,6 +472,77 @@ def apply(path, a, date, dry=False):
     if not dry: open(path, 'w', encoding='utf-8').write(new)
     return new
 
+HOPE = re.compile(r'希望|期待|什么时候|啥时候|求求|建议|能不能|可不可以|快点|赶紧|出个|加个|等.{0,3}(正式|试玩|demo|发售)|愿望单', re.I)
+PROSE = 'scripts/summary_prose.json'
+
+def wan(n):
+    return f'{n/10000:.1f}万' if n >= 10000 else str(n)
+
+def short(c, n=46):
+    return f"「{clean(c['text'], n)}」{'（' + str(c['like']) + '赞）' if c['like'] else ''}〔{c['src']}〕"
+
+def project_summary(pid, md, a):
+    fm, _ = front(md)
+    prose = (jl(PROSE) or {}).get(pid, {})
+    ident = [fm.get('genre') or '类型未知', fm.get('developer') or '团队未知', fm.get('status') or '状态未知']
+    heat = []
+    if a:
+        play = sum(int(((v or {}).get('stat') or {}).get('view') or 0) for v in a['views'].values())
+        if play: heat.append(f"B站 {len(a['bvs'])} 个相关视频合计播放 {wan(play)}")
+        heat.append(f"采集反馈 {len(a['allc'])} 条" + (f"、弹幕 {len(a['dm_all'])} 条" if a['dm_all'] else ''))
+    L = ['## 项目总结', '', f"**{' · '.join(ident)}** · 热度：{'；'.join(heat) or '未知（暂无可用的玩家反馈数据）'}", '']
+    if prose.get('一句话'): L += [prose['一句话'], '']
+    if not a or len(a['allc']) == 0:
+        L.append('暂无可分析的玩家反馈，五项总结待数据补齐后生成。')
+        return '\n'.join(L)
+    allc, n, E = a['allc'], len(a['allc']), a.get('est')
+    small = n < 30
+    used = set()
+    def q(cands, k=1, minlen=6):
+        r = pick(cands, k, used, minlen); return '；'.join(short(c) for c in r)
+    tc = collections.Counter(t for c in allc for t in topics(c['text']))
+    tops = tc.most_common(3)
+    if E:
+        sp = {k: f"{E['U']['s'][k][0]}%（±{E['U']['s'][k][1]}，复核样本 {E['U']['n']} 条）" for k in ('pos', 'neg')}
+    else:
+        sc = collections.Counter(c['s'] for c in allc)
+        sp = {k: f"约 {pct(sc[k], n)}%（关键词粗估）" for k in ('pos', 'neg')}
+    def lab(c): return c['s']
+    pos = [c for c in allc if lab(c) == 'pos' and (c.get('llm') or not E)]
+    neg = [c for c in allc if lab(c) == 'neg' and (c.get('llm') or not E)]
+    if E and len(pos) < 2: pos = [c for c in allc if lab(c) == 'pos']
+    if E and len(neg) < 2: neg = [c for c in allc if lab(c) == 'neg']
+    hope = [c for c in allc if HOPE.search(c['text'])]
+    kw = keywords([c['text'] for c in allc], 6)
+    dkw = collections.Counter(t.strip() for t in a['dm_all'] if 2 <= len(t.strip()) <= 16).most_common(2)
+    parts = []
+    t1 = '、'.join(f"{t}（{pct(v, n)}%）" for t, v in tops) or '暂无明显集中话题'
+    parts.append(('玩家关注什么', prose.get('关注') or f"按关键词粗分，评论最集中的话题是{t1}。", q([c for c in allc if tops and tops[0][0] in topics(c['text'])])))
+    parts.append(('在讨论什么', prose.get('讨论') or (f"高频词：{'、'.join(w for w, _ in kw)}" + (f"；弹幕刷得最多的是{'、'.join('「' + clean(w, 12) + '」' for w, _ in dkw)}" if dkw else '') + '。'), q(sorted(allc, key=lambda c: -c['like'])[:20])))
+    parts.append(('喜欢什么', prose.get('喜欢') or f"好评占比 {sp['pos']}。", q(pos, 1 if small else 2)))
+    parts.append(('厌恶什么', prose.get('厌恶') or (f"差评占比 {sp['neg']}。" if neg else f"差评占比 {sp['neg']}，没有找到明确的负面意见。"), q(neg, 1 if small else 2, 4)))
+    parts.append(('希望什么', prose.get('希望') or f"约 {pct(len(hope), n)}% 的评论在表达期待、催更或提建议。", q(hope, 1 if small else 2)))
+    pk = {'玩家关注什么': '关注', '在讨论什么': '讨论', '喜欢什么': '喜欢', '厌恶什么': '厌恶', '希望什么': '希望'}
+    parts = [(k, t, '' if prose.get(pk[k]) else qs) for k, t, qs in parts]  # 人工撰写的段落自带引文
+    for k, txt, qs in parts:
+        L.append(f"- **{k}**：{txt}" + (f" {qs}" if qs else ''))
+    if small: L.append(f"\n> 样本只有 {n} 条，以上仅供参考。")
+    return '\n'.join(L)
+
+def apply_summary(path, pid, a, date, dry=False):
+    md = open(path, encoding='utf-8').read()
+    md = re.sub(r'\n?<!-- psum:start -->.*?<!-- psum:end -->\n?', '\n', md, flags=re.S)
+    block = project_summary(pid, md, a)
+    m = re.search(r'^# .*$', md, re.M)
+    hdr_end = md.index('\n---', 3) + 4 if md.startswith('---') else 0
+    ins = m.end() if m else hdr_end
+    prev = last_marker(md[:ins])
+    sec = f"\n<!-- psum:start -->\n<!-- added:{date} -->\n\n{block}\n\n<!-- added:{prev} -->\n<!-- psum:end -->\n"
+    new = md[:ins] + sec + md[ins:]
+    new = re.sub(r'<!-- added:[^>]*-->\s*<!-- psum:end -->\s*(<!-- added:[^>]*-->)', r'<!-- psum:end -->\n\1', new)
+    if not dry: open(path, 'w', encoding='utf-8').write(new)
+    return block
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--only', default='all'); ap.add_argument('--ids', default='')
@@ -472,8 +562,10 @@ def main():
         if o.only == 'others' and comp: continue
         a = analyze(pid, md)
         if not a:
+            apply_summary(f, pid, None, o.date, o.dry)
             stats[pid] = dict(comp=comp, n=0, dm=0, note='无任何玩家反馈数据'); print(pid, 'NO DATA'); continue
         apply(f, a, o.date, o.dry)
+        apply_summary(f, pid, a, o.date, o.dry)
         sc = collections.Counter(c['s'] for c in a['allc'])
         stats[pid] = dict(comp=comp, n=len(a['allc']), bili=len(a['cs']), steam=len(a['st']), md=len(a['mq']),
                           dm=len(a['dm_all']), bvs=len(a['bvs']), pos=sc['pos'], neu=sc['neu'], neg=sc['neg'])

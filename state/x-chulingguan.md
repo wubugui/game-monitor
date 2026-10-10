@@ -27,7 +27,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/hapi46085111/stat
 discovery_date: "2026-10-10"
 ---
 # ⚠️ 除靈館 Haunted House
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**AI 美术叙事解谜恐怖（理解怨灵、无战斗） · 小团队（改變娛樂工作室 / 哈皮，台湾） · 开发中（Steam 页，2026 Q4）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-chulingguan.jpg)

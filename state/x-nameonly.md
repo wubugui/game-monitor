@@ -27,7 +27,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/stat
 discovery_date: "2026-10-10"
 ---
 # ⚠️ 只有她知晓光辉的名字 The Name Only She Knew
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**手绘逐格动画奇幻视觉小说 · 小团队（紳士帽動畫製作組，香港） · 即将发售（2026-10-12）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-nameonly.jpg)

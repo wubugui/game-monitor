@@ -25,7 +25,20 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/stat
 discovery_date: "2026-10-10"
 ---
 # ⚠️ What Acts up
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） · 小团队（Rebirth Studio） · Demo（Steam）** · 热度：B站 4 个相关视频合计播放 1.1万；采集反馈 48 条、弹幕 6 条
+
+- **玩家关注什么**：样本少（48 条），社恐主题引起了共鸣，评论在分享自己的社恐经历。「我就是社恐[笑哭]我都不敢自己出去买东西…」（23赞）〔B站·BV1Z1Tq6QEPU评论〕
+- **在讨论什么**：讨论围绕上线时间和 Demo 获取渠道（TapTap）。
+- **喜欢什么**：题材贴近现实、氛围到位。「哇哇哇，好有感觉[doge]，加油啊啊…」（14赞）〔B站·BV1Qr1QBLEfG评论〕
+- **厌恶什么**：没有明显的负面意见。
+- **希望什么**：希望尽快放出 playtest。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-whatactsup.jpg)
@@ -168,6 +181,9 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 <!-- feedback:end -->
+
+
+
 
 
 

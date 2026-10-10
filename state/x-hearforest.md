@@ -25,7 +25,16 @@ discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/podoba_interact/s
 discovery_date: "2026-10-10"
 ---
 # ⚠️ I Hear the Forest
+<!-- psum:start -->
+<!-- added:2026-10-10 -->
 
+## 项目总结
+
+**2000 年代复古风慢热民俗恐怖（护林员） · 小团队（Podoba Interactive，乌克兰） · 开发中（2027 年）** · 热度：未知（暂无可用的玩家反馈数据）
+
+暂无可分析的玩家反馈，五项总结待数据补齐后生成。
+
+<!-- psum:end -->
 <!-- added:2026-10-10 -->
 
 ![cover](covers/x-hearforest.jpg)

@@ -111,9 +111,8 @@ discovery_date: "2026-10-10"
 
 - 「期待！（≧∇≦）[Paradox Live_有灵感了]」 〔B站·BV1AtYE6kESe评论〕
 
-> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判，比例看趋势即可。数据截至 2026-10-10。
+> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
 
-<!-- added:2026-10-10 -->
 <!-- feedback:end -->
 <!-- added:meta -->
 <details><summary>全部原文（4 条）</summary>

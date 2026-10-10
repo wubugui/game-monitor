@@ -97,12 +97,13 @@ def steam_reviews(appids, slug):
     return list(out.values())
 
 QRE = re.compile(r'「([^」\n]{4,600})」([^〔\n]{0,40})〔([^〕\n]{1,80})〕')
-def md_quotes(body):
+def md_quotes(body, bili=False):
     out = []
     for t, mid, tag in QRE.findall(body):
-        if tag.startswith('B站') or 'B站' in tag[:4]: continue
+        isb = tag.startswith('B站') or 'B站' in tag[:4]
+        if isb != bili: continue
         m = re.search(r'(\d+)\s*赞', mid)
-        kind = 'xhs' if '小红书' in tag else 'x' if re.match(r'X|推特|@', tag) or 'X' in tag[:3] else 'steam' if 'Steam' in tag else 'other'
+        kind = 'bili' if isb else 'xhs' if '小红书' in tag else 'x' if re.match(r'X|推特|@', tag) or 'X' in tag[:3] else 'steam' if 'Steam' in tag else 'other'
         out.append(dict(text=t, like=int(m.group(1)) if m else 0, src=tag, kind=kind))
     seen = set(); res = []
     for q in out:
@@ -111,7 +112,7 @@ def md_quotes(body):
     return res
 
 # ---------------- classification ----------------
-POS = '好玩 喜欢 期待 好评 不错 很棒 牛 厉害 神作 惊艳 优秀 精致 好看 舒服 支持 买了 已购 入了 冲 爱了 感动 绝了 可以的 有意思 有趣 用心 良心 推荐 好耶 吊打 真香 佳作 惊喜 赞 加油 想玩 美 氛围好 太强 顶 给力 漂亮 满分 好听 上头 必买 愿望单 已关注 关注了 还行 好爽 可以啊 顺眼 开心 想要 等不及 好帅 帅 可爱 喜欢这 心动 牛逼 nb 666 太好了 好棒 有味道 有感觉 质量高 高质量 good great love amazing beautiful'.split()
+POS = '好玩 喜欢 期待 好评 不错 很棒 牛 厉害 神作 惊艳 优秀 精致 好看 舒服 支持 买了 已购 入了 爱了 感动 绝了 可以的 有意思 有趣 用心 良心 推荐 好耶 吊打 真香 佳作 惊喜 赞 加油 想玩 氛围好 太强 给力 漂亮 满分 好听 上头 必买 愿望单 已关注 关注了 还行 好爽 可以啊 顺眼 开心 想要 等不及 好帅 帅 可爱 喜欢这 心动 牛逼 nb 666 太好了 好棒 有味道 有感觉 质量高 高质量 good great love amazing beautiful'.split()
 NEG = '垃圾 难玩 失望 无聊 劝退 差评 退款 退了 抄袭 缝合 粗糙 拉胯 拉跨 一般 不行 烂 割韭菜 圈钱 骗 恶心 难看 卡顿 闪退 bug BUG 太贵 不值 尬 敷衍 弃了 弃坑 没意思 摆烂 跑路 换皮 ai味 AI味 广告 别买 坑 雷 毁了 退钱 下头 劣质 失败 不好玩 不推荐 逆天 依托 答辩 算了 差远 不如 没兴趣 一般般 太吵 换皮 又是 不会又 毫无 无感 难绷 绷不住 糊弄 劣 丑 太丑 难受 恶心 不想玩 骗钱 失败 吐槽 槽点 吃相 不期待 毫无吸引 bad boring refund trash'.split()
 NEGATORS = '不 没 别 无'
 TOPICS = collections.OrderedDict([
@@ -120,11 +121,11 @@ TOPICS = collections.OrderedDict([
  ('氛围恐怖', '恐怖 吓 害怕 氛围 诡异 阴森 怕 jump 惊悚 毛骨悚然 渗人 瘆 鬼 心理恐怖 胆小'.split()),
  ('玩法系统', '玩法 操作 解谜 谜题 战斗 手感 机制 难度 关卡 探索 系统 打击 节奏 引导 存档 地图 肉鸽 卡牌'.split()),
  ('优化Bug', '优化 bug BUG 卡顿 闪退 掉帧 配置 帧数 崩溃 显卡 加载 报错 黑屏'.split()),
- ('价格售卖', '价格 定价 多少钱 元 打折 免费 贵 便宜 史低 首发 售价 涨价 dlc DLC 内购'.split()),
+ ('价格售卖', '价格 定价 多少钱 块钱 打折 免费 贵 便宜 史低 首发 售价 涨价 dlc DLC 内购'.split()),
  ('AI争议', 'AI ai Ai 人工智能 生成 AIGC 机器 ai味 AI味'.split()),
- ('对比其他', '像 抄 借鉴 致敬 黑神话 纸嫁衣 港诡 烟火 三伏 女鬼桥 寂静岭 生化 港 灵笼 原神 类似 同类 比'.split()),
- ('催更期待', '什么时候 啥时候 发售 上线 期待 催 等 愿望单 demo Demo DEMO 试玩 跳票 正式版 更新'.split()),
- ('题材民俗', '民俗 中式 中国 国产 传统 道士 风水 祭祀 纸人 冥婚 鬼节 香火 符 湘西 民国 中元 阴阳 志怪 神话'.split()),
+ ('对比其他', '像 抄 借鉴 致敬 黑神话 纸嫁衣 港诡 烟火 三伏 女鬼桥 寂静岭 生化 灵笼 原神 类似 同类 比起 不如'.split()),
+ ('催更期待', '什么时候 啥时候 发售 上线 期待 催 愿望单 demo Demo DEMO 试玩 跳票 正式版 更新'.split()),
+ ('题材民俗', '民俗 中式 中国 国产 传统 道士 风水 祭祀 纸人 冥婚 鬼节 香火 符咒 湘西 民国 中元 阴阳 志怪 神话'.split()),
  ('配音音乐', '配音 声优 音乐 音效 BGM bgm 配乐 声音 CV'.split()),
  ('开发团队', '制作人 开发者 团队 工作室 独立 个人开发 一个人 厂商 发行 官方 制作组'.split()),
 ])
@@ -210,6 +211,9 @@ def analyze(pid, md):
     mq = md_quotes(body)
     # drop md-quoted Steam lines if raw Steam present (avoid double count)
     if st: mq = [q for q in mq if q['kind'] != 'steam']
+    if not cs:  # 原始 JSON 未落盘（如 X 来源项目）：退回档案里已带来源标签的 B站原话
+        cs = md_quotes(body, bili=True)
+        for q in cs: q['src'] += '（档案摘录）'
     allc = cs + st + mq
     ndm = sum(len(v) for v in dms.values())
     if not allc and ndm == 0: return None
@@ -341,7 +345,7 @@ def render(a, date):
         q = pick(cands, 3, used)
         if not q: continue
         L.append(f'**{g}**\n'); L += [qfmt(c) for c in q]; L.append('')
-    L.append(f"> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判，比例看趋势即可。数据截至 {date}。")
+    L.append(f"> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 {date}。")
     return '\n'.join(L)
 
 REV_H = re.compile(r'^## (?!综合)[^\n]*(实际评价|玩家评价|评价原话|评论原话|玩家口碑)[^\n]*$', re.M)
@@ -373,6 +377,7 @@ def apply(path, a, date, dry=False):
             last = last_marker(new[:s1])
             wrapped = (f"\n<!-- added:meta -->\n<details><summary>全部原文（{nq} 条）</summary>\n\n<!-- added:{prev} -->\n{raw.strip()}\n\n<!-- added:meta -->\n</details>\n\n<!-- added:{last} -->\n\n")
             new = new[:s0] + wrapped + new[s1:]
+    new = re.sub(r'<!-- added:[^>]*-->\s*<!-- feedback:end -->\s*<!-- added:meta -->', '<!-- feedback:end -->\n<!-- added:meta -->', new)
     if not dry: open(path, 'w', encoding='utf-8').write(new)
     return new
 

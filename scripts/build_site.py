@@ -336,6 +336,9 @@ def load_state(projects):
         p["entries"] = entries
         full_md = body  # already path-fixed; includes intro + ## history headings text
         p["added_dates"] = sorted(collect_added_dates(full_md))
+        _fb = re.search(r"共分析 (\d+) 条文字反馈(?:和 (\d+) 条弹幕)?，好评 ([\d.]+)%、差评 ([\d.]+)%", full_md)
+        if _fb:  # 玩家反馈分析（scripts/feedback_analysis.py）摘要，供列表/卡片使用
+            p["feedback"] = {"n": int(_fb.group(1)), "dm": int(_fb.group(2) or 0), "pos": float(_fb.group(3)), "neg": float(_fb.group(4))}
         p["_raw_body"] = full_md  # for today_updates notes; stripped before dump
 
 

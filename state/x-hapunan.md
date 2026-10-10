@@ -91,7 +91,107 @@ discovery_date: "2026-10-10"
 - B站：登录态全量采集 2026-10-10，相关视频 19 条、合计播放约 40.8万；最高《邻家女孩都是犯罪团伙的一份子！！【Hapunan》20.9万（详见下方「B站数据」）
 
 ## 实际评价
+<!-- feedback:start -->
+<!-- added:2026-10-10 -->
 
+### 玩家反馈分析
+
+#### 总结
+
+共分析 62 条文字反馈，好评 24.2%、差评 4.8%，整体偏正面。讨论最集中的是剧情叙事、氛围恐怖、催更期待；点赞最高的一条说「作者能做出自己的国家文化很棒，看样子都是自学的，虽说剧情给我看笑了（尤其是大叔背后有人没死开枪打他的那刻真的太典了），但…」（198 赞）。喜欢的点主要是：「【点赞满1000催更下期】[UPOWER_3546737390127250_打Call]这期游戏我挺…」。不满集中在零散问题，例如「毛蛋，也叫凤凰蛋，也叫眼珠子，我个人非常喜欢吃，也是属于那种喜欢的人特别喜欢，讨厌的人看到我就恶心那…」。从讨论内容看，受众主要是重剧情、爱考据的叙事向玩家和恐怖氛围向玩家（含「云玩家」）。对《***》的启示：叙事向观众会深挖设定，***与***的身份反转是《***》最该提前埋钩子的点。
+
+#### 统计分布
+
+**样本量（全部已采集数据）**
+
+| 来源 | 条数 |
+|---|---:|
+| B站楼中楼 | 37 |
+| B站评论 | 20 |
+| Steam评测 | 5 |
+
+**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**
+
+| 倾向 | 条数 | 占比 | |
+|---|---:|---:|---|
+| 好评 | 15 | 24.2% | `█████░░░░░░░░░░░░░░░` |
+| 中性 | 44 | 71.0% | `██████████████░░░░░░` |
+| 差评 | 3 | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
+
+**按点赞加权**（每条权重 = 赞数+1）：好评 37.5% · 中性 57.9% · 差评 4.6%
+
+**话题分布**（一条可属多个话题；未命中任何话题的 48 条不计）
+
+| 话题 | 条数 | 占比 | | 其中差评 |
+|---|---:|---:|---|---:|
+| 剧情叙事 | 4 | 6.5% | `█░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 氛围恐怖 | 3 | 4.8% | `█░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 催更期待 | 2 | 3.2% | `█░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 对比其他 | 2 | 3.2% | `█░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 玩法系统 | 2 | 3.2% | `█░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 开发团队 | 1 | 1.6% | `░░░░░░░░░░░░░░░░░░░░` | 0.0% |
+| 画面美术 | 1 | 1.6% | `░░░░░░░░░░░░░░░░░░░░` | 0.0% |
+
+**评论高频词**：游戏(11) · 喜欢(9) · 珠子(7) · that(7) · 作者(6) · It(6) · 东南亚(5) · 鸡蛋(5) · 菲律宾(5) · for(5) · UPOWER(4) · 老张(4) · 非常(4) · 尤其(3) · 恐游(3)
+
+**最高赞反馈说了什么**
+
+| 赞 | 倾向 | 话题 | 内容 | 来源 |
+|---:|---|---|---|---|
+| 198 | 好评 | 剧情叙事 | 作者能做出自己的国家文化很棒，看样子都是自学的，虽说剧情给我看笑了（尤其是大叔背后有人没死开枪打他的那刻真的太典了），但能了解到作者的周边生… | B站·BV1ncKPenEdZ评论·@Fleiss_XVII（档案摘录）（档案摘录）（档案摘录） |
+| 110 | 中性 | — | 🥚 东南亚著名小吃：Balut 这是“巴鲁特”最广为人知的含义，尤其在菲律宾被誉为“国菜”之一。 指孵化了约14至21天的受精鸭蛋（也有用鸡… | B站·BV1HEXMBZEmn评论·@HAAVK效能部长哈德森（档案摘录） |
+| 86 | 中性 | 玩法系统 | 这个游戏有一种我的世界玩家自制地图上传的味道，很有点本土特色是一方面，还有这种穷人谋生的环境啊… | B站·BV1ncKPenEdZ评论·@跃动生活精彩（档案摘录） |
+| 77 | 中性 | 剧情叙事 | 这个结局真好 | B站·BV1ncKPenEdZ评论·@LoveisGOOO（档案摘录）（档案摘录）（档案摘录） |
+| 76 | 好评 | 催更期待 | 【点赞满1000催更下期】[UPOWER_3546737390127250_打Call]这期游戏我挺喜欢的，少见的东南亚有趣恐游，游戏作者访… | B站·BV1ncKPenEdZ评论·@莫里斯IsHere（档案摘录）（档案摘录）（档案摘录） |
+
+#### 代表性评论
+
+**好评**
+
+- 「作者能做出自己的国家文化很棒，看样子都是自学的，虽说剧情给我看笑了（尤其是大叔背后有人没死开枪打他的那刻真的太典了），但能了解到作者的周边生活也蛮值得一看的╮(￣▽￣)╭」（198赞） 〔B站·BV1ncKPenEdZ评论·@Fleiss_XVII（档案摘录）（档案摘录）（档案摘录）〕
+- 「【点赞满1000催更下期】[UPOWER_3546737390127250_打Call]这期游戏我挺喜欢的，少见的东南亚有趣恐游，游戏作者访谈地址在简介，有小伙伴说没法打开我就全屏截图啦！保存下载图片可以放大看[UPOWER_3546737390127250_给点吧]假高能和剧透弹幕都会被我拉黑删除，有遗漏欢迎点举报，希望你看的开心～」（76赞） 〔B站·BV1ncKPenEdZ评论·@莫里斯IsHere（档案摘录）（档案摘录）（档案摘录）〕
+- 「老张可以试试这款游戏吗宣传片看着还不错」（29赞） 〔B站·BV1HEXMBZEmn评论·@一只汉堡Y（档案摘录）（档案摘录）〕
+
+**差评 / 反对意见**
+
+- 「毛蛋，也叫凤凰蛋，也叫眼珠子，我个人非常喜欢吃，也是属于那种喜欢的人特别喜欢，讨厌的人看到我就恶心那种食物」（29赞） 〔B站·BV1ncKPenEdZ评论·@草草蛇（档案摘录）（档案摘录）（档案摘录）〕
+- 「这游戏有点东西的，我记得作者之前做的是一个送水的恐游 马克看bro吐槽」（21赞） 〔B站·BV1ncKPenEdZ评论·@U·018（档案摘录）（档案摘录）（档案摘录）〕
+- 「又一款通过繁琐任务人为延长时长的恐怖游戏。我明白开发者为什么这么做：他们想阻止玩家对短时长游戏申请退款。但我无法忍受这种每30秒……的游戏循环。（原文：Yet another horror game that artificially pads its runtime with busywork. I understand why developers do it: it's to discourage refunds for short titles. But I can't stand this gameplay loop where, for every 30 seconds o…）」 〔Steam评测〕
+
+**话题：剧情叙事**
+
+- 「这个结局真好」（77赞） 〔B站·BV1ncKPenEdZ评论·@LoveisGOOO（档案摘录）（档案摘录）（档案摘录）〕
+- 「主角算是非法贩卖炸猪皮吗？还是说算是巴鲁特的一个佐料来卖呢🤔」（32赞） 〔B站·BV1ncKPenEdZ评论·@LanC3y（档案摘录）（档案摘录）（档案摘录）〕
+- 「想到主角是为家庭生计，只能买鸡蛋的穷苦人，就很不希望出什么事。」（26赞） 〔B站·BV1ncKPenEdZ评论·@青衫鱼叩（档案摘录）（档案摘录）（档案摘录）〕
+
+**话题：氛围恐怖**
+
+- 「这种恐怖游戏一般来说就是：小作坊下料就是猛，你可以说他质量不高，但他肯定好玩，并且里面的人都是一惊一乍，突然窜出来的，吓你一大跳[doge]」（41赞） 〔B站·BV1HEXMBZEmn评论·@愉快的达哥（档案摘录）（档案摘录）（档案摘录）〕
+- 「那个老太太吓得我直接叫出声我的天。。」（23赞） 〔B站·BV1ncKPenEdZ评论·@aysutnao（档案摘录）（档案摘录）（档案摘录）〕
+- 「Hapunan真是个惊喜！我玩过不少令人毛骨悚然的工作模拟器，但这款游戏充满了严肃的戏剧性。情感场景、震惊事件、甜蜜友谊、揭开的秘密、噩梦……这款游戏应有尽有。Th…（原文：Hapunan is a real treat! I've played quite a few creepy job simulators but this one packs some serious drama. Emotional scenes, shocking events, sweet friendships, unveiled secrets, nightmares... this game has it all. Th…）」（6赞） 〔Steam评测〕
+
+**话题：催更期待**
+
+- 「【点赞满1000催更下期】[UPOWER_3546737390127250_打Call]这期游戏我挺喜欢的，少见的东南亚有趣恐游，游戏作者访谈地址在简介[UPOWER_3546737390127250_给点吧]假高能和剧透弹幕都会被我拉黑删除，有遗漏欢迎点举报，希望你看的开心～」（28赞） 〔B站·BV1ncKPenEdZ评论·@莫里斯IsHere（档案摘录）（档案摘录）（档案摘录）〕
+
+**话题：对比其他**
+
+- 「但好像是好人」（1赞） 〔B站·BV1ncKPenEdZ楼中楼·@aysutnao（档案摘录）（档案摘录）（档案摘录）〕
+- 「是不是活珠子好像是哪个地方的特产，我这没见过一个人吃」 〔B站·BV1ncKPenEdZ楼中楼·@YuanZz829（档案摘录）（档案摘录）（档案摘录）〕
+
+**B站以外（X / 小红书 / Steam）**
+
+- 「故事很棒！结尾有点突兀，我不得不这么说，但其余部分非常精彩！这是我玩过的最好的菲律宾独立游戏之一。强烈推荐 https://youtu.be/sZ3ID7l4dS0（原文：Great story! Ending was a bit abrupt I have to say, but the rest of the games was awesome! One of the best Filipino Indie Games I have played. Definitely recommend https://youtu.be/sZ3ID7l4dS0）」（1赞） 〔Steam评测〕
+- 「我会把它形容为非常可爱的“屎”但带菲律宾味！这不是贬义，而是说我本来期待更糟的，结果却是一颗珍珠。可惜 Jaeyna！（原文：Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!）」（1赞） 〔Steam评测〕
+- 「我绝对爱上了这款游戏！它有很多内容。有那么多不同的任务和那么多有趣的事情。我喜欢你可以选择自己想要去的方向，从而改变自己的命运。我喜欢它以…结束的方式。（原文：I absolutely loved this game! It had so much to it. So many different tasks and so many fun things to it. I like how you can choose which direction you want to go in, changing your fate. I like that it ended the way it d…）」 〔Steam评测〕
+
+> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+
+<!-- feedback:end -->
+<!-- added:meta -->
+<details><summary>全部原文（6 条）</summary>
+
+<!-- added:2026-10-10 -->
 ### X 回复/提及原话
 - 「This Filipin
 
@@ -101,6 +201,11 @@ discovery_date: "2026-10-10"
 - 👍（意大利语，游玩 2.9h，有用 1）「我会说它是一坨很可爱的菲律宾屎！这不是贬义，意思是我本来预期更差，结果是颗大珍珠。Jaeyna 太可惜了！」（原文："Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!"） 〔Steam评测〕
 - 👎（英语，游玩 1.9h，有用 0）「又一款用琐碎杂活硬凑时长的恐怖游戏。我理解开发者为什么这么做：为了防止短篇游戏被退款。但我受不了这种循环：每 30 秒剧情，就得先干 10 分钟……」（原文："Yet another horror game that artificially pads its runtime with busywork. I understand why developers do it: it's to discourage refunds for short titles. But I can't stand this gameplay loop where, for every 30 seconds of story, you have to go through 10 minut"） 〔Steam评测〕
 - 👍（英语，游玩 6.0h，有用 0）「我超爱这款游戏！内容很丰富，有很多不同的任务和好玩的东西。我喜欢你可以选择往哪个方向走、改变命运。我喜欢它那样结尾——对我来说。我想是因为我选了……」（原文："I absolutely loved this game! It had so much to it. So many different tasks and so many fun things to it. I like how you can choose which direction you want to go in, changing your fate. I like that it ended the way it did -- for me. I think because I chose th"） 〔Steam评测〕
+
+<!-- added:meta -->
+</details>
+
+<!-- added:2026-10-10 -->
 
 ## 团队与靠谱程度
 

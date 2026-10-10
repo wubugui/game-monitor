@@ -75,6 +75,28 @@ def load_bili(bv):
     view = (jl(f'{CM}/{bv}_view.json') or {}).get('data') or {}
     return list(cs.values()), load_dm(bv), view
 
+def load_bili_full(slug):
+    """X 来源项目的 B站全量数据：tmp/bili_full/<slug>.json（优先）或 tmp/bili_x/<slug>.json；结构 {all:[video{bvid,title,comments[{msg,like,sub[]}],danmaku[str]}], top:[...]}"""
+    for p in (f'tmp/bili_full/{slug}.json', f'tmp/bili_x/{slug}.json'):
+        d = jl(p)
+        if not d: continue
+        vids = {}
+        for v in (d.get('all') or []) + (d.get('top') or []):
+            if isinstance(v, dict) and v.get('bvid') and (v.get('comments') or v.get('danmaku')): vids.setdefault(v['bvid'], v)
+        if not vids: continue
+        cs, dms, views = {}, {}, {}
+        for b, v in vids.items():
+            for c in v.get('comments') or []:
+                t = (c.get('msg') or '').strip()
+                if t: cs[(b, t)] = dict(text=t, like=int(c.get('like') or 0), src=f'B站·{b}评论', kind='bili')
+                for sc in c.get('sub') or []:
+                    t2 = (sc.get('msg') or '').strip()
+                    if t2: cs.setdefault((b, t2), dict(text=t2, like=int(sc.get('like') or 0), src=f'B站·{b}楼中楼', kind='bili'))
+            dms[b] = [(None, x if isinstance(x, str) else x.get('text', '')) for x in v.get('danmaku') or []]
+            views[b] = {'title': v.get('title', '')}
+        return list(cs.values()), dms, views, list(vids)
+    return None
+
 def steam_reviews(appids, slug):
     out = {}; files = []
     if slug: files.append(f'tmp/x/steam/{slug}.json')
@@ -185,18 +207,12 @@ AUD = {'题材民俗': '中式民俗/志怪题材爱好者', '氛围恐怖': '�
        '玩法系统': '在意手感与机制的核心玩家', '画面美术': '看美术和画风下单的视觉党', 'AI争议': '对 AI 内容敏感的玩家',
        '价格售卖': '价格敏感的 Steam 玩家', '催更期待': '已加愿望单、在等消息的潜在买家', '对比其他': '玩过同类作品、习惯拿来对比的老玩家',
        '优化Bug': '已上手实际游玩的玩家', '配音音乐': '在意视听演出的玩家', '开发团队': '关注开发者本身的支持型观众'}
-FD = {'题材民俗': '民俗题材本身就是这批观众的买点，《***》的民国川东、背尸、喊魂、伏煞设定可以更早、更具体地亮出来',
-      '氛围恐怖': '观众买的是「怕」的体验，《***》无战斗、靠规矩与撤退的设计要在 PV 里直接演出压迫感',
-      '剧情叙事': '叙事向观众会深挖设定，***与***的身份反转是《***》最该提前埋钩子的点',
-      '玩法系统': '玩家会盯手感和机制，《***》的解谜与「准备—临场操作—撤退」循环需要实机片段证明，不能只靠美术',
-      '画面美术': '第一眼美术决定点击，《***》的 45° 等距画面需要高质量关键帧做封面',
-      'AI争议': 'AI 话题会被放大审视，《***》若有 AI 参与的素材要提前想好口径，避免成为评论区主战场',
-      '价格售卖': '定价讨论多，说明《***》上线时价格与体量说明要写清楚',
-      '优化Bug': '技术问题直接拉低口碑，《***》Demo（Electron 壳）发布前要优先保证稳定',
-      '催更期待': '催更多说明早曝光能积累等待人群，《***》可以考虑更早开愿望单',
-      '对比其他': '观众习惯拿名作对标，《***》需要一句话讲清和同类的差异',
-      '配音音乐': '视听演出被单独讨论，《***》的音效与川渝方言配音可以作为差异点',
-      '开发团队': '观众愿意支持开发者本人，《***》作为个人项目可以多做开发日志'}
+FD = {'题材民俗': '民俗题材本身就是这批观众的买点', '氛围恐怖': '观众买的是「怕」的体验，压迫感演出直接影响口碑',
+      '剧情叙事': '叙事向观众会深挖设定，剧情钩子是传播点', '玩法系统': '玩家会盯手感和机制，只靠美术不够',
+      '画面美术': '第一眼美术决定点击', 'AI争议': 'AI 话题会被放大审视，容易成为评论区主战场',
+      '价格售卖': '价格与体量是购买决策的重要因素', '优化Bug': '技术问题直接拉低口碑',
+      '催更期待': '早曝光能积累等待人群', '对比其他': '观众习惯拿名作对标，差异点需要讲清',
+      '配音音乐': '视听演出被单独讨论，可作为差异点', '开发团队': '观众愿意支持开发者本人，开发日志有价值'}
 
 def analyze(pid, md):
     fm, body = front(md)
@@ -205,6 +221,10 @@ def analyze(pid, md):
     cs, dms, views = [], {}, {}
     for b in bvs:
         c, d, v = load_bili(b); cs += c; dms[b] = d; views[b] = v
+    if pid.startswith('x-'):
+        bf = load_bili_full(pid[2:])
+        if bf:
+            cs, dms, views, bvs = bf
     appids = set(re.findall(r'store\.steampowered\.com/app/(\d+)', md))
     slug = pid[2:] if pid.startswith('x-') else None
     st = steam_reviews(appids, slug)
@@ -223,7 +243,35 @@ def analyze(pid, md):
         pass
     dm_all = [t for v in dms.values() for _, t in v]
     dm_s = collections.Counter(sentiment({'text': t}) for t in dm_all)
+    res = dict(pid=pid, fm=fm, bvs=bvs, cs=cs, st=st, mq=mq, allc=allc, dms=dms, dm_all=dm_all, dm_s=dm_s, views=views)
+    res['est'] = estimates(pid, res)
+    return res
     return dict(pid=pid, fm=fm, bvs=bvs, cs=cs, st=st, mq=mq, allc=allc, dms=dms, dm_all=dm_all, dm_s=dm_s, views=views)
+
+def ci(k, n):
+    if not n: return 0, 0
+    p = k / n; return round(100 * p, 1), round(100 * 1.96 * math.sqrt(p * (1 - p) / n), 1)
+
+def estimates(pid, a):
+    """读取 tmp/feedback_labels/<pid>.json（LLM 标注缓存），按与 feedback_label.py 相同的抽样重建样本并估计分布。"""
+    lab = jl(f'tmp/feedback_labels/{pid}.json')
+    if not lab: return None
+    import feedback_label as FL
+    U, W, D = FL.sample(pid, a, NU, NW, ND)
+    def lb(t): return lab.get(FL.h(t))
+    # 回写 LLM 标签到条目（供代表性评论分组）
+    for c in a['allc']:
+        l = lb(c['text'])
+        if l: c['s'], c['t'], c['llm'] = l['s'], l['t'] or c['t'], True
+    def dist(items):
+        ls = [lb(t) for t in items]; ls = [l for l in ls if l]
+        n = len(ls); cnt = collections.Counter(l['s'] for l in ls)
+        tc = collections.Counter(t for l in ls for t in l['t'])
+        return dict(n=n, s={k: ci(cnt[k], n) for k in ('pos', 'neu', 'neg')}, t={k: ci(v, n) for k, v in tc.most_common()},
+                    tneg={k: ci(sum(1 for l in ls if k in l['t'] and l['s'] == 'neg'), v) for k, v in tc.items()})
+    e = dict(U=dist([c['text'] for c in U]), W=dist([c['text'] for c in W]), D=dist(D))
+    return e if e['U']['n'] >= 20 else None
+NU, NW, ND = 120, 60, 80
 
 def pct(a, n): return 0 if not n else round(100 * a / n, 1)
 
@@ -271,26 +319,31 @@ def render(a, date):
     for c in a['st']: src['Steam评测'] += 1
     for c in a['mq']: src[{'xhs': '小红书', 'x': 'X 回复/提及', 'steam': 'Steam评测(档案摘录)', 'other': '其他来源'}[c['kind']]] += 1
     ndm = len(a['dm_all'])
-    sc = collections.Counter(c['s'] for c in allc)
-    tc = collections.Counter(t for c in allc for t in c['t'])
+    E = a.get('est')
+    if E:  # LLM 抽样估计：比例来自均匀随机样本
+        u = E['U']; sc = {k: u['s'][k][0] for k in ('pos', 'neu', 'neg')}; n_ = 100
+        tc = collections.Counter({k: v[0] for k, v in u['t'].items()})
+    else:
+        sc = collections.Counter(sentiment(c) if c.get('llm') else c['s'] for c in allc); n_ = n
+        tc = collections.Counter(t for c in allc for t in c['t'])
     L = []
     # ---- summary
     tops = [t for t, _ in tc.most_common(4)]
-    pp, ng = pct(sc['pos'], n), pct(sc['neg'], n)
+    pp, ng = pct(sc['pos'], n_), pct(sc['neg'], n_)
     tone = '整体偏正面' if pp >= ng * 1.8 and pp >= 20 else '整体偏负面' if ng > pp else '褒贬并存、以中性讨论为主'
     used = set()
     toplike = pick(allc, 1, used)
     negq = pick([c for c in allc if c['s'] == 'neg'], 1, used, 8)
     posq = pick([c for c in allc if c['s'] == 'pos'], 1, used, 8)
     S = []
-    S.append(f"共分析 {n} 条文字反馈" + (f"和 {ndm} 条弹幕" if ndm else '') + f"，好评 {pp}%、差评 {ng}%，{tone}。")
+    S.append(f"共分析 {n} 条文字反馈" + (f"和 {ndm} 条弹幕" if ndm else '') + (f"，按 {E['U']['n']} 条随机抽样的模型判断估计好评 {pp}%、差评 {ng}%（±{max(E['U']['s']['pos'][1], E['U']['s']['neg'][1])} 个百分点），{tone}。" if E else f"，关键词粗估好评 {pp}%、差评 {ng}%，{tone}。"))
     if tops: S.append(f"讨论最集中的是{'、'.join(tops[:3])}" + (f"；点赞最高的一条说「{clean(toplike[0]['text'], 60)}」（{toplike[0]['like']} 赞）" if toplike and toplike[0]['like'] else '') + '。')
     if posq: S.append(f"喜欢的点主要是：「{clean(posq[0]['text'], 50)}」。")
     if negq: S.append(f"不满集中在{'、'.join([t for t, _ in collections.Counter(t for c in allc if c['s']=='neg' for t in c['t']).most_common(2)]) or '零散问题'}，例如「{clean(negq[0]['text'], 50)}」。")
     aud = [AUD[t] for t in tops[:2] if t in AUD]
     if aud: S.append(f"从讨论内容看，受众主要是{'和'.join(aud)}。")
     fdk = [t for t in tops if t in FD][:1]
-    if fdk: S.append(f"对《***》的启示：{FD[fdk[0]]}。")
+    if fdk: S.append(f"市场信号：{FD[fdk[0]]}。")
     if n < 30: S.append(f"样本只有 {n} 条，以上判断仅供参考。")
     L.append('#### 总结\n\n' + ''.join(S[:6]) + '\n')
     # ---- samples
@@ -299,19 +352,31 @@ def render(a, date):
     for k, v in src.most_common(): L.append(f'| {k} | {v} |')
     if ndm: L.append(f'| B站弹幕 | {ndm} |')
     if a['bvs']: L.append(f"\n涉及 B站视频 {len(a['bvs'])} 个：" + '、'.join(a['bvs'][:12]) + ('…' if len(a['bvs']) > 12 else ''))
-    L.append('\n**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**\n\n| 倾向 | 条数 | 占比 | |\n|---|---:|---:|---|')
-    for k in ('pos', 'neu', 'neg'): L.append(f"| {SENT_ZH[k]} | {sc[k]} | {pct(sc[k], n)}% | `{bar(pct(sc[k], n))}` |")
-    if ndm:
-        d = a['dm_s']; L.append(f"\n弹幕情感：好评 {pct(d['pos'], ndm)}% · 中性 {pct(d['neu'], ndm)}% · 差评 {pct(d['neg'], ndm)}%")
-    # likes weighted
-    W = collections.Counter(); 
-    for c in allc: W[c['s']] += c['like'] + 1
-    wt = sum(W.values())
-    L.append(f"\n**按点赞加权**（每条权重 = 赞数+1）：好评 {pct(W['pos'], wt)}% · 中性 {pct(W['neu'], wt)}% · 差评 {pct(W['neg'], wt)}%")
-    L.append('\n**话题分布**（一条可属多个话题；未命中任何话题的 ' + str(sum(1 for c in allc if not c['t'])) + ' 条不计）\n\n| 话题 | 条数 | 占比 | | 其中差评 |\n|---|---:|---:|---|---:|')
-    for t, v in tc.most_common():
-        negv = sum(1 for c in allc if t in c['t'] and c['s'] == 'neg')
-        L.append(f"| {t} | {v} | {pct(v, n)}% | `{bar(pct(v, n))}` | {pct(negv, v)}% |")
+    if E:
+        u, w, d = E['U'], E['W'], E['D']
+        def row(lbl, x): return f"| {lbl} | {x['n']} | " + ' | '.join(f"{x['s'][k][0]}% ±{x['s'][k][1]}" for k in ('pos', 'neu', 'neg')) + ' |'
+        L.append('\n**情感分布（抽样 + 模型逐条判断，95% 置信区间）**\n\n| 口径 | 样本 | 好评 | 中性 | 差评 |\n|---|---:|---:|---:|---:|')
+        L.append(row('评论（均匀随机）', u))
+        if w['n']: L.append(row('评论（按赞加权抽样）', w))
+        if d['n']: L.append(row('弹幕（均匀随机）', d))
+        L.append('\n| 倾向（评论随机样本） | 占比 | |\n|---|---:|---|')
+        for k in ('pos', 'neu', 'neg'): L.append(f"| {SENT_ZH[k]} | {u['s'][k][0]}% | `{bar(u['s'][k][0])}` |")
+        L.append(f"\n**话题分布**（评论随机样本 {u['n']} 条，一条可属多个话题）\n\n| 话题 | 占比 ±95% | | 该话题内差评 |\n|---|---:|---|---:|")
+        for t, (v, m) in u['t'].items():
+            L.append(f"| {t} | {v}% ±{m} | `{bar(v)}` | {u['tneg'][t][0]}% |")
+    else:
+        L.append('\n**情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**\n\n| 倾向 | 条数 | 占比 | |\n|---|---:|---:|---|')
+        for k in ('pos', 'neu', 'neg'): L.append(f"| {SENT_ZH[k]} | {sc[k]} | {pct(sc[k], n)}% | `{bar(pct(sc[k], n))}` |")
+        if ndm:
+            dd = a['dm_s']; L.append(f"\n弹幕情感（粗略）：好评 {pct(dd['pos'], ndm)}% · 中性 {pct(dd['neu'], ndm)}% · 差评 {pct(dd['neg'], ndm)}%")
+        Wc = collections.Counter()
+        for c in allc: Wc[c['s']] += c['like'] + 1
+        wt = sum(Wc.values())
+        L.append(f"\n**按点赞加权（粗略）**（每条权重 = 赞数+1）：好评 {pct(Wc['pos'], wt)}% · 中性 {pct(Wc['neu'], wt)}% · 差评 {pct(Wc['neg'], wt)}%")
+        L.append('\n**话题分布（粗略：关键词）**（一条可属多个话题；未命中任何话题的 ' + str(sum(1 for c in allc if not c['t'])) + ' 条不计）\n\n| 话题 | 条数 | 占比 | | 其中差评 |\n|---|---:|---:|---|---:|')
+        for t, v in tc.most_common():
+            negv = sum(1 for c in allc if t in c['t'] and c['s'] == 'neg')
+            L.append(f"| {t} | {v} | {pct(v, n)}% | `{bar(pct(v, n))}` | {pct(negv, v)}% |")
     kw = keywords([c['text'] for c in allc])
     if kw: L.append('\n**评论高频词**：' + ' · '.join(f'{w}({c})' for w, c in kw))
     dkw = collections.Counter(t.strip() for t in a['dm_all'] if 2 <= len(t.strip()) <= 20).most_common(12)
@@ -321,6 +386,7 @@ def render(a, date):
     for b, d in sorted(a['dms'].items(), key=lambda kv: -len(kv[1]))[:3]:
         if len(d) < 30: continue
         bins = collections.defaultdict(list)
+        if d[0][0] is None: continue  # 无时间轴（bili_full 只存文本）
         for s, t in d: bins[int(s // 10)].append(t)
         avg = len(d) / max(1, len(bins))
         for k, ts in sorted(bins.items(), key=lambda kv: -len(kv[1]))[:3]:
@@ -342,10 +408,16 @@ def render(a, date):
     nonbili = [c for c in allc if c['kind'] != 'bili']
     if nonbili: groups.append(('B站以外（X / 小红书 / Steam）', nonbili))
     for g, cands in groups:
+        if E and not g.startswith('B站以外'):
+            lc = [c for c in cands if c.get('llm')]
+            if len(lc) >= 2: cands = lc  # 有模型标签时只用模型判过的条目分组
         q = pick(cands, 3, used)
         if not q: continue
         L.append(f'**{g}**\n'); L += [qfmt(c) for c in q]; L.append('')
-    L.append(f"> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 {date}。")
+    if E:
+        L.append(f"> 方法：每个项目随机抽样评论（均匀 {NU} 条 + 按赞加权 {NW} 条）和弹幕 {NU and ND} 条，由大模型逐条判断态度与话题（标注缓存 `tmp/feedback_labels/`，日更只标新条目），比例为样本估计，± 为 95% 置信区间。人工逐条复核 140 条模型标签，一致率约 85%（关键词规则只有约 65%）；主要分歧是把对剧情人物、案件原型的愤怒当成对游戏的差评。数据截至 {date}。")
+        return '\n'.join(L)
+    L.append(f"> 分类方法（粗略）：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 {date}。")
     return '\n'.join(L)
 
 REV_H = re.compile(r'^## (?!综合)[^\n]*(实际评价|玩家评价|评价原话|评论原话|玩家口碑)[^\n]*$', re.M)
@@ -387,7 +459,7 @@ def main():
     ap.add_argument('--date', default=__import__('datetime').date.today().isoformat()); ap.add_argument('--dry', action='store_true')
     ap.add_argument('--stats', default='tmp/feedback_stats.json')
     o = ap.parse_args()
-    files = sorted(f for f in glob.glob('state/*.md') if '***' not in f)
+    files = sorted(f for f in glob.glob('state/*.md'))
     global OWN_BV; OWN_BV = {os.path.basename(f)[:-3] for f in files if os.path.basename(f).startswith('BV')}
     ids = set(filter(None, o.ids.split(',')))
     stats = jl(o.stats) or {}

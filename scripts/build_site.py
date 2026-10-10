@@ -453,7 +453,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
         added_dates = set(p.get("added_dates") or [])
         added_today = latest in added_dates
         incremental = added_today and found and found < latest
-        self_proj = bool(p.get("self_project")) or p.get("id") == "***"
+        self_proj = False
 
         # Normal day (after baseline calendar date): new / incremental added / dated history
         if latest > baseline_report:
@@ -496,12 +496,12 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
                     if len(bt) >= 8 and bt not in notes:
                         notes.insert(0, bt[:100])
                         break
-        prefer = ("综合评价", "实际评价", "团队与靠谱", "相关视频正文", "修订", "自研")
+        prefer = ("综合评价", "实际评价", "团队与靠谱", "相关视频正文", "修订")
         ranked = sorted(notes, key=lambda n: (0 if any(k in n for k in prefer) else 1, notes.index(n) if n in notes else 99))
         notes = ranked or notes
         if not notes:
             if self_proj:
-                notes = ["***档案更新"]
+                notes = ["档案有更新"]
             elif p.get("competitor") and latest <= baseline_report:
                 notes = ["收藏档案修订（正文化 + 评价）"]
             elif is_new:
@@ -515,14 +515,14 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
                        "相关视频正文摘要（正文化，免点链接）", "相关视频正文摘要", "资料来源"}
         note = next((n for n in notes if n and n not in skip_labels), None)
         # Prefer concrete evaluation headings when present
-        for pref in ("综合评价", "实际评价", "团队与靠谱程度", "***"):
+        for pref in ("综合评价", "实际评价", "团队与靠谱程度"):
             hit = next((n for n in notes if pref in n), None)
             if hit:
                 note = hit
                 break
         if not note or note in skip_labels:
             if self_proj:
-                note = "***档案更新"
+                note = "档案有更新"
             elif p.get("competitor") and latest <= baseline_report:
                 note = "收藏档案修订（正文化 + 评价）"
             elif is_new:
@@ -537,7 +537,7 @@ def build_today_updates(plist, latest_report, latest, baseline_report, baseline_
 
     banner = ""
     if latest <= baseline_report and items:
-        banner = f"{latest} 与基线同日，首页只列最新日报涉及/收藏修订/自研共 {len(items)} 项；其余见项目库。"
+        banner = f"{latest} 与基线同日，首页只列最新日报涉及/收藏修订共 {len(items)} 项；其余见项目库。"
 
     items.sort(key=lambda x: (not x["competitor"], 0 if x["kind"] == "new" else 1, x["name"]))
     return items, banner
@@ -571,7 +571,7 @@ def main():
         real_imgs = [x for x in p["images"] if re.match(r"^https?:", x) or (os.path.exists(x) and os.path.getsize(x) > 2000)]
         if not p.get("cover") and p["images"]:
             p["cover"] = p["images"][0]
-        if p["id"] != "***" and "***" not in str(p["name"]) and (not real_cover or len(real_imgs) < 4):
+        if (not real_cover or len(real_imgs) < 4):
             p["missing_images"] = True
             warn(f"缺图: {p['id']} {p['name']} cover={'ok' if real_cover else 'NONE'} images={len(real_imgs)}")
             if not str(p["name"]).startswith("⚠️缺图"):
@@ -614,6 +614,7 @@ def main():
         p["update_count"] = len([e for e in p["history"] if e["kind"] != "found"])
 
     plist = sorted(projects.values(), key=lambda p: (p["updated"], p["found"], p["name"]), reverse=True)
+    plist = [p for p in plist if not p.get("self_project")]
 
     # write output (regenerate data/ from scratch => idempotent)
     if os.path.isdir(OUT):
@@ -658,6 +659,12 @@ def main():
                 dev_types=[d for d in DEV_TYPES if any(p["dev_type"] == d for p in plist)],
                 statuses=sorted({p["status"] for p in plist}))
     dump(f"{OUT}/meta.json", meta)
+    _pf = os.path.expanduser("~/private/publish_terms.re")
+    if os.path.exists(_pf):
+        _rx = re.compile(open(_pf, encoding="utf-8").read().strip())
+        _bad = [fp for fp in glob.glob(f"{OUT}/**/*.json", recursive=True) if _rx.search(open(fp, encoding="utf-8").read())]
+        if _bad:
+            sys.exit("build aborted: restricted terms in " + ", ".join(_bad[:10]))
     # drop private fields from per-project dumps (already written above — scrub before was wrong order)
     if not os.path.exists(".nojekyll"):
         open(".nojekyll", "w").close()

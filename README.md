@@ -127,14 +127,13 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 1. 读 `data/meta.json` 的 `latest_report_date`（最新日报日期）。
 2. 扫每个 `state/<ID>.md` 里的 `<!-- added:YYYY-MM-DD -->` 标记，以及 `found` / `## YYYY-MM-DD` 历史条目。
 3. **正常日**（日期晚于基线）：`found == 当天` → 新增；当天有新的 `added` 标记或 state 历史条目 → 更新。
-4. **基线日 / 与基线同日的修订**：不把 100+ 份建档全堆上首页；只列最新日报涉及项、***、以及（若日报是收藏修订）全部收藏。
+4. **基线日 / 与基线同日的修订**：不把 100+ 份建档全堆上首页；
 5. 结果写入 `meta.json` 的 `today_updates`（收藏优先）、`today_new` / `today_updated`、`today_banner`；`assets/app.js` 首页置顶渲染。
 
 日常写档案时：只给**当天新写入**的块打 `<!-- added:当天日期 -->`；旧块不要改日期。这样第二天首页自然只高亮 diff。
 
 ## 每日任务硬规则（2026-10-09 修订）
 
-1. **Step 0 必做**：启动后先只读刷新 `wubugui/***Story` 与 `wubugui/***`（`git fetch`/`pull`，**禁止**对这两仓 commit/push/PR/issue/触发 Actions），更新 `state/***.md`，再写任何收藏「综合评价」。
 2. **只写 public 仓**：所有写入、提交、推送只针对 `wubugui/game-monitor`。
 3. **档案正文化**：完整档案必须在正文里讲清楚内容；禁止用「去点这个链接」代替实质信息。链接最多当脚注。
 4. **玩家评价**：必须有代表性原话与具体主题；禁止只用「好评/中评/差评」空标签。

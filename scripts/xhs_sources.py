@@ -45,7 +45,6 @@ for path in sorted(glob.glob('state/*.md')):
       nt=norm(n['title'])
       rel=key and (key in norm(n['sec']) or key in nt)
       hit=(len(nt)>=6 and nt[:10] in nb) or (xs and rel and n['author'] and norm(n['author']) in nx and len(norm(n['author']))>=2)
-      if path.endswith('***.md'): hit= n['sec'].startswith('***')
       if hit and (n['title'],n['author']) not in [(u['title'],u['author']) for u in used]: used.append(n)
   lines=t.split('\n'); out=[]
   for ln in lines:

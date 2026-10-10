@@ -87,8 +87,7 @@ for path in sorted(glob.glob('state/*.md')):
     seed=pid if pid.startswith('BV') else (re.search(r'BV\w{10}',link) or [None])[0] if re.search(r'BV\w{10}',link) else None
     # discovery
     plat, how = '未知', '未知'
-    if pid=='***': plat,how='用户指定','用户自研项目（***Story / *** 仓库）'
-    elif pid=='jianguilu-yinhunjie': plat,how='B站','B站同名核验滚雪：在收藏《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档'
+    if pid=='jianguilu-yinhunjie': plat,how='B站','B站同名核验滚雪：在收藏《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档'
     elif seed:
         mm=meta.get(seed,{})
         desc=f"种子视频「{mm.get('title','未知')}」· UP {mm.get('up','未知')} · {seed} · {mm.get('date','未知')} · 播放 {wan(mm.get('play','未知'))}"
@@ -148,7 +147,6 @@ for path in sorted(glob.glob('state/*.md')):
     if sa or 'Steam' in body: lines.append('- Steam：商店页/评测' + (f'（AppID {", ".join(sa)}）' if sa else '（正文中引用）'))
     if '小红书' in body: lines.append('- 小红书：登录态搜索笔记（标题/作者/日期/赞见正文「小红书」小节）')
     
-    if pid=='***': lines.append('- GitHub：***Story / *** 提交记录（只读）')
     if len(lines)==8: lines.append('- 未知')
     body=body+'\n'+'\n'.join(lines)+'\n'
     open(path,'w').write(f'---\n{fm2.strip()}\n---\n'+body.lstrip('\n') if m else body)

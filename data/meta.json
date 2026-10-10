@@ -12,8 +12,7 @@
  ],
  "disc_platforms": [
   "B站",
-  "X",
-  "用户指定"
+  "X"
  ],
  "genres": [
   "AI 驱动",
@@ -40,12 +39,11 @@
   "民俗/国风",
   "策略",
   "策略/RPG/卡牌",
-  "肉鸽/构筑",
-  "自研"
+  "肉鸽/构筑"
  ],
  "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
- "project_count": 182,
+ "project_count": 180,
  "report_count": 13,
  "statuses": [
   "Demo",
@@ -87,7 +85,6 @@
   "开发中（2027 年，PC）",
   "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）",
   "开发中（2027-02）",
-  "开发中（Demo）",
   "开发中（Patreon 第二章测试；Demo 即将）",
   "开发中（Steam 页+Demo）",
   "开发中（Steam 页）",
@@ -101,7 +98,7 @@
  ],
  "today_banner": "",
  "today_new": 52,
- "today_updated": 129,
+ "today_updated": 128,
  "today_updates": [
   {
    "competitor": true,
@@ -1434,18 +1431,6 @@
    "name": "守墓人2",
    "note": "实际评价（登录态评论+弹幕，具体原话）",
    "status": "已发售"
-  },
-  {
-   "competitor": false,
-   "cover": "",
-   "disc_platform": "用户指定",
-   "discovery": "用户自研项目（***Story / *** 仓库）",
-   "genre": "45°等距民俗恐怖冒险解谜",
-   "id": "***",
-   "kind": "updated",
-   "name": "***",
-   "note": "小红书提及（ 首扫）",
-   "status": "开发中（Demo）"
   },
   {
    "competitor": false,

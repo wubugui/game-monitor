@@ -7,7 +7,6 @@ python3 scripts/build_site.py
 missing=$(python3 - <<'PY'
 import re,glob,os
 for f in sorted(glob.glob('state/*.md')):
-  if '***' in f: continue
   h=open(f,encoding='utf-8').read().split('\n---',1)[0]
   c=(re.search(r'^cover:[ \t]*(\S*)',h,re.M) or [None,''])[1]
   seg=h.split('images:',1)[1] if 'images:' in h else ''
@@ -26,6 +25,16 @@ fi
 paths=()
 for p in tracked_projects.md state reports covers frames sheets x xhs images data .nojekyll README.md index.html assets scripts; do [ -e "$p" ] && paths+=("$p"); done
 git add -A -- "${paths[@]}"
+# 隐私闸：暂存内容出现内部词汇则中止
+PRIV_FILE="$HOME/private/publish_terms.re"
+[ -s "$PRIV_FILE" ] || { echo "!!! 发布中止：缺少本地词表 $PRIV_FILE !!!" >&2; git reset -q; exit 1; }
+PRIV_RE="$(cat "$PRIV_FILE")"
+if git diff --cached --name-only | grep -E '^private/' >/dev/null || git diff --cached -U0 | grep '^+' | grep -v '^+++' | grep -E "$PRIV_RE" >/dev/null; then
+  echo "!!! 发布中止：暂存内容含受限词汇，请清理后重试 !!!" >&2
+  git diff --cached -U0 | grep '^+' | grep -v '^+++' | grep -noE "$PRIV_RE" | head -20 >&2
+  git reset -q
+  exit 1
+fi
 if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
 git commit -m "${1:-$(date +%F) 日报数据更新}"
 git pull --rebase --autostash

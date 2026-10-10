@@ -22,7 +22,7 @@
 - 每档用 Read 打开封面+若干实机帧写 vision，再结合高赞原话写 judgments → `rewrite.py`。
 - 同名污染：`烤肉！！！` 美食视频已剔除仅留1条游戏Demo；`战国立志传` 账面含大量光荣《信长之野望·创造 战国立志传》旧作，档案帧与种子日志为国产仿太阁 Demo，报告与综合评价已标明缺口。
 - `迪诺世界物语` 种子 BV1vmpF6SE3p 曾未写入 per-game scraped，已从 summary 补回后重跑。
-- 不写入 *** / ***Story；本批不做 git commit/push。
+- 本批不做 git commit/push。
 
 ## 亮点摘要
 

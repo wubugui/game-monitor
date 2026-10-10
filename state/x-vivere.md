@@ -91,7 +91,7 @@ discovery_date: "2026-10-10"
 
 #### 总结
 
-共分析 3 条文字反馈，好评 100.0%、差评 0.0%，整体偏正面。讨论最集中的是AI争议、催更期待；点赞最高的一条说「https://youtu.be/48jgiMY7iD4 fun game, a bit challenging at …」（4 赞）。喜欢的点主要是：「I genuinely loved this game. I have played nearly …」。从讨论内容看，受众主要是对 AI 内容敏感的玩家和已加愿望单、在等消息的潜在买家。对《***》的启示：AI 话题会被放大审视，《***》若有 AI 参与的素材要提前想好口径，避免成为评论区主战场。样本只有 3 条，以上判断仅供参考。
+共分析 3 条文字反馈，关键词粗估好评 100.0%、差评 0.0%，整体偏正面。讨论最集中的是AI争议、催更期待；点赞最高的一条说「https://youtu.be/48jgiMY7iD4 fun game, a bit challenging at …」（4 赞）。喜欢的点主要是：「I genuinely loved this game. I have played nearly …」。从讨论内容看，受众主要是对 AI 内容敏感的玩家和已加愿望单、在等消息的潜在买家。市场信号：AI 话题会被放大审视，容易成为评论区主战场。样本只有 3 条，以上判断仅供参考。
 
 #### 统计分布
 
@@ -101,7 +101,7 @@ discovery_date: "2026-10-10"
 |---|---:|
 | Steam评测 | 3 |
 
-**情感分布（文字反馈，规则词典分类；Steam 按推荐/不推荐）**
+**情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 
 | 倾向 | 条数 | 占比 | |
 |---|---:|---:|---|
@@ -109,9 +109,9 @@ discovery_date: "2026-10-10"
 | 中性 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
 | 差评 | 0 | 0.0% | `░░░░░░░░░░░░░░░░░░░░` |
 
-**按点赞加权**（每条权重 = 赞数+1）：好评 100.0% · 中性 0.0% · 差评 0.0%
+**按点赞加权（粗略）**（每条权重 = 赞数+1）：好评 100.0% · 中性 0.0% · 差评 0.0%
 
-**话题分布**（一条可属多个话题；未命中任何话题的 2 条不计）
+**话题分布（粗略：关键词）**（一条可属多个话题；未命中任何话题的 2 条不计）
 
 | 话题 | 条数 | 占比 | | 其中差评 |
 |---|---:|---:|---|---:|
@@ -136,7 +136,7 @@ discovery_date: "2026-10-10"
 - 「我真的很喜欢这款游戏。我几乎玩过Vidas制作的所有游戏（差不多有50个了？），而这款游戏尤其给我留下了深刻印象。肩上视角的战斗在Vidas Games的宇宙中是一次全新的体验，……（原文：I genuinely loved this game. I have played nearly every game Vidas has made (almost 50 now?), and this one particularly impressed me. The over-the-shoulder combat was a brand new experience in the Vidas Games mythos, and…）」（2赞） 〔Steam评测〕
 - 「我真的很享受这款游戏以及随之而来的挑战。即便是在普通难度下，它也不算是轻松的散步。我真正喜欢的事情之一就是Boss战；它们由于……感觉非常怀旧。（原文：I really enjoyed this game and the challenges that came with it. Even on normal, it wasn't exactly a walk in the park. One of the things I did really enjoy were the boss fights; they felt very nostalgic due to their, lac…）」（1赞） 〔Steam评测〕
 
-> 分类方法：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+> 分类方法（粗略）：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
 
 <!-- feedback:end -->
 <!-- added:meta -->
@@ -160,7 +160,7 @@ discovery_date: "2026-10-10"
 
 高产个人开发者（玩家称「Vidas 做的游戏我几乎都玩过（现在快 50 款了吧？）」（原文："nearly every game Vidas has made (almost 50 now?)"））。**可靠程度：高（量产型）**。
 
-## 综合评价（对照《***》）
+## 综合评价
 
 高产 solo 恐怖作者的模式样本：靠主播抽奖做发售传播。
 

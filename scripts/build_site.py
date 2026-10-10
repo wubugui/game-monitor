@@ -568,7 +568,7 @@ def main():
         real_imgs = [x for x in p["images"] if re.match(r"^https?:", x) or (os.path.exists(x) and os.path.getsize(x) > 2000)]
         if not p.get("cover") and p["images"]:
             p["cover"] = p["images"][0]
-        if p["id"] != "***" and (not real_cover or len(real_imgs) < 4):
+        if p["id"] != "***" and "***" not in str(p["name"]) and (not real_cover or len(real_imgs) < 4):
             p["missing_images"] = True
             warn(f"缺图: {p['id']} {p['name']} cover={'ok' if real_cover else 'NONE'} images={len(real_imgs)}")
             if not str(p["name"]).startswith("⚠️缺图"):

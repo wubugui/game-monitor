@@ -80,6 +80,12 @@
    "name": "诡偶"
   },
   {
+   "competitor": false,
+   "cover": "",
+   "id": "p-082fe23aab",
+   "name": "***（***）"
+  },
+  {
    "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",

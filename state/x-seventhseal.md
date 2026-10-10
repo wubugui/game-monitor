@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-30 · @renderready（1080 粉）· 赞 4 / 转 1 / 回复 0 / 浏览 178 · https://x.com/renderready/status/2105384114777940256
-  > This is Seventh Seal: third-person combat, limited resources, puzzles, bosses, and a building that feels alive. Try the Steam demo and wishlist to support the game.    #WishlistOnSteam #SteamGames #HorrorGame #IndieHorror #MadeWithUnity
+  > 「这就是《Seventh Seal》：第三人称战斗、有限资源、谜题、Boss，还有一栋仿佛活着的建筑。试玩 Steam Demo，加愿望单支持这款游戏。」（原文："This is Seventh Seal: third-person combat, limited resources, puzzles, bosses, and a building that feels alive. Try the Steam demo and wishlist to support the game.    #WishlistOnSteam #SteamGames #HorrorGame #IndieHorror #MadeWithUnity"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -110,25 +110,25 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@renderready；该时段原创帖 14 条（不含转推）
 - 2026-10-04 · 54 赞 / 8 转 / 1 回 / 2981 浏览 · https://x.com/renderready/status/2106856435631964580
-  > When we talked afterward, I told Autumn something I'd been honest about from the start.  The voices in Seventh Seal were AI scratch tracks - they were never meant to stay.  Then she asked if she could send me a read.  xXAutumnIvyXx  #voiceacting #indiedev #gamedev https://t.co/vu 〔X·@renderready〕
+  > 「后来聊天时，我跟 Autumn 说了一件我从一开始就坦白的事：《Seventh Seal》里的配音是 AI 临时音轨——从来没打算保留。然后她问能不能给我寄一段她的试读。xXAutumnIvyXx」（原文："When we talked afterward, I told Autumn something I'd been honest about from the start.  The voices in Seventh Seal were AI scratch tracks - they were never meant to stay.  Then she asked if she could send me a read.  xXAutumnIvyXx  #voiceacting #indiedev #gamedev https://t.co/vu"） 〔X·@renderready〕
 - 2026-10-07 · 32 赞 / 9 转 / 1 回 / 485 浏览 · https://x.com/renderready/status/2107920817858244658
-  > Please don’t scroll past this one. Seventh Seal is a passion project—single-player, action-heavy survival horror. Sharing or wishlisting it is $0, but it can save an entire game.  https://t.co/WIPgLccV8M  #WishlistOnSteam #HorrorGame #IndieDev #SurvivalHorror #IndieHorror https:/ 〔X·@renderready〕
+  > 「请别划走这条。《Seventh Seal》是一个用爱发电的项目——单人、重动作的生存恐怖。转发或加愿望单不花一分钱，但可能拯救一整款游戏。」（原文："Please don’t scroll past this one. Seventh Seal is a passion project—single-player, action-heavy survival horror. Sharing or wishlisting it is $0, but it can save an entire game.  https://t.co/WIPgLccV8M  #WishlistOnSteam #HorrorGame #IndieDev #SurvivalHorror #IndieHorror https:/"） 〔X·@renderready〕
 - 2026-10-06 · 22 赞 / 4 转 / 5 回 / 461 浏览 · https://x.com/renderready/status/2107555773559582968
-  > Well, shit.  2,000 wishlists.  Thank you to everyone who's been following The Seventh Seal and watching this thing grow. There's a LOT more coming, and I'm having an absolute blast building it.  Next stop: 3,000.  #HorrorGame #IndieDev #SurvivalHorror #GameDev https://t.co/nNoI62 〔X·@renderready〕
+  > 「卧槽，2000 个愿望单了。感谢每一位关注《The Seventh Seal》、看着它成长的人。后面还有大量内容，我做得超开心。下一站：3000。」（原文："Well, shit.  2,000 wishlists.  Thank you to everyone who's been following The Seventh Seal and watching this thing grow. There's a LOT more coming, and I'm having an absolute blast building it.  Next stop: 3,000.  #HorrorGame #IndieDev #SurvivalHorror #GameDev https://t.co/nNoI62"） 〔X·@renderready〕
 - 2026-10-07 · 19 赞 / 3 转 / 3 回 / 528 浏览 · https://x.com/renderready/status/2107930254098461007
-  > A WEEK of Photoshop.  Hundreds of texture tweaks.  Several moments of questioning my life choices.  Worth it.  Seventh Seal 0.3.10 is live and it seriously feels like a new game.  Streamers, come give it hell.  https://t.co/WIPgLccV8M  #IndieHorror #HorrorGames https://t.co/ow4ab 〔X·@renderready〕
+  > 「整整一周的 Photoshop。上百处贴图调整。好几次怀疑人生。值了。《Seventh Seal》0.3.10 上线，感觉真的像一款新游戏。主播们，来狠狠玩它吧。」（原文："A WEEK of Photoshop.  Hundreds of texture tweaks.  Several moments of questioning my life choices.  Worth it.  Seventh Seal 0.3.10 is live and it seriously feels like a new game.  Streamers, come give it hell.  https://t.co/WIPgLccV8M  #IndieHorror #HorrorGames https://t.co/ow4ab"） 〔X·@renderready〕
 - 2026-10-08 · 18 赞 / 2 转 / 4 回 / 469 浏览 · https://x.com/renderready/status/2108302118260191426
-  > I just had to know... I had to see... I know the anti-AI/DLSS5 hate... but like... I have no words. Is... it... possible? #DLSS5 #RTXON #IndieDev #ScreenshotSaturday #HorrorGames https://t.co/8E4D8nVTTa 〔X·@renderready〕
+  > 「我就是想知道……想亲眼看看……我知道反 AI/DLSS5 的骂声……但是……我无话可说。这……可能吗？」（原文："I just had to know... I had to see... I know the anti-AI/DLSS5 hate... but like... I have no words. Is... it... possible? #DLSS5 #RTXON #IndieDev #ScreenshotSaturday #HorrorGames https://t.co/8E4D8nVTTa"） 〔X·@renderready〕
 - 2026-10-09 · 17 赞 / 5 转 / 2 回 / 426 浏览 · https://x.com/renderready/status/2108642950603276765
-  > Sometimes one piece of feedback changes EVERYTHING.  Someone suggested I revisit the textures. So I spent a week in Photoshop doing exactly that.  The difference is insane.  Seventh Seal 0.3.10 is live! Who's streaming it?  https://t.co/WIPgLccV8M  #IndieHorror #HorrorGames https 〔X·@renderready〕
+  > 「有时候一条反馈能改变一切。有人建议我重做贴图。于是我在 Photoshop 里泡了一周干这件事。差别大得离谱。《Seventh Seal》0.3.10 上线了！谁来直播？」（原文："Sometimes one piece of feedback changes EVERYTHING.  Someone suggested I revisit the textures. So I spent a week in Photoshop doing exactly that.  The difference is insane.  Seventh Seal 0.3.10 is live! Who's streaming it?  https://t.co/WIPgLccV8M  #IndieHorror #HorrorGames https"） 〔X·@renderready〕
 - 2026-10-08 · 16 赞 / 1 转 / 1 回 / 406 浏览 · https://x.com/renderready/status/2108288868394926322
-  > Turns out all Seventh Seal needed was a little Photoshop, some Brusheezy, water stains, cracks and a whole lot of dirt.  And voilà... brand new game.  0.3.10 is live now.  https://t.co/WIPgLccV8M  #ScreenshotSaturday #IndieHorror #HorrorGames #GameDev https://t.co/kcBECagR7c 〔X·@renderready〕
+  > 「原来《Seventh Seal》缺的只是一点 Photoshop、一些 Brusheezy 素材、水渍、裂缝和一大堆污垢。然后，瞧……一款全新的游戏。0.3.10 现已上线。」（原文："Turns out all Seventh Seal needed was a little Photoshop, some Brusheezy, water stains, cracks and a whole lot of dirt.  And voilà... brand new game.  0.3.10 is live now.  https://t.co/WIPgLccV8M  #ScreenshotSaturday #IndieHorror #HorrorGames #GameDev https://t.co/kcBECagR7c"） 〔X·@renderready〕
 - 2026-10-05 · 14 赞 / 3 转 / 2 回 / 401 浏览 · https://x.com/renderready/status/2107193393839325545
-  > Violet survives her first trial only to discover that there's no convenient doorway back home.  Instead, she ends up here.  Underground. Lost. Hunted.  #HorrorGame #IndieDev #SurvivalHorror #Apocalypse #GameDev https://t.co/DgMQz66PUh 〔X·@renderready〕
+  > 「Violet 挺过了第一场试炼，却发现根本没有方便的回家之门。她最终来到了这里。地下。迷失。被猎杀。」（原文："Violet survives her first trial only to discover that there's no convenient doorway back home.  Instead, she ends up here.  Underground. Lost. Hunted.  #HorrorGame #IndieDev #SurvivalHorror #Apocalypse #GameDev https://t.co/DgMQz66PUh"） 〔X·@renderready〕
 
 ### 更新帖下的玩家回复原话
 
-- 「@renderready that's such a good sign, actors wanting in after hearing the scratch track means the writing is landing before a single real take exists」 〔X·@gamelawless〕
+- 「这是个很好的信号：演员听了临时音轨后想加入，说明还没录一条真正的配音，剧本就已经打动人了」（原文："@renderready that's such a good sign, actors wanting in after hearing the scratch track means the writing is landing before a single real take exists"） 〔X·@gamelawless〕
 
 <!-- added:2026-10-10 -->
 

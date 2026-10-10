@@ -68,27 +68,27 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-28 · @AtelierSento（5671 粉）· 赞 42 / 转 12 / 回复 1 / 浏览 1710 · https://x.com/AtelierSento/status/2104568972905763088
-  > 14 DAYS before release of our cozy/horror game The Doll Shop! \O_O/ Wishlist on Steam >>   #indiegame #horrorgame #TheDollShop #AtelierSento #visualnovel #インディーゲーム #ホラーゲーム #ノベルゲーム
+  > 「距离我们的治愈／恐怖游戏《The Doll Shop》发售还有 14 天！\O_O/ Steam 加愿望单 >>」（原文："14 DAYS before release of our cozy/horror game The Doll Shop! \O_O/ Wishlist on Steam >>   #indiegame #horrorgame #TheDollShop #AtelierSento #visualnovel #インディーゲーム #ホラーゲーム #ノベルゲーム"）
 - 2026-10-04 · @AtelierSento（5671 粉）· 赞 85 / 转 12 / 回复 2 / 浏览 6531 · https://x.com/AtelierSento/status/2106708279451853017
-  > 🏮8 days until release of #TheDollShop! 🏮 We finished the game, it’s currently in test phase and we correct the bugs.  Wishlist on Steam >    #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム
+  > 「🏮距离发售还有 8 天！🏮游戏已经做完，目前在测试阶段修 Bug。Steam 加愿望单 >」（原文："🏮8 days until release of #TheDollShop! 🏮 We finished the game, it’s currently in test phase and we correct the bugs.  Wishlist on Steam >    #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム"）
 - 2026-10-05 · @AtelierSento（5671 粉）· 赞 18 / 转 1 / 回复 0 / 浏览 376 · https://x.com/AtelierSento/status/2107037687832064443
-  > 😱ONLY 1 WEEK until release of #TheDollShop!  Today, we are working on the success icons for Steam, it's fun to do! ^_^   Wishlist on Steam >   #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム
+  > 「😱距离发售只剩 1 周！今天我们在做 Steam 成就图标，挺好玩的！^_^ Steam 加愿望单 >」（原文："😱ONLY 1 WEEK until release of #TheDollShop!  Today, we are working on the success icons for Steam, it's fun to do! ^_^   Wishlist on Steam >   #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム"）
 - 2026-10-09 · @AtelierSento（5671 粉）· 赞 40 / 转 4 / 回复 4 / 浏览 1066 · https://x.com/AtelierSento/status/2108473614500868462
-  > The Doll Shop release on Monday and we’ve just reached 15.000 wishlists on Steam! 🥳 Thank you everyone for your messages and support! Wishlist on Steam ->   #indiegame #cozyhorrorgame #gamedev #ateliersento #インディーゲーム #visualnovel #ノベルゲーム
+  > 「《The Doll Shop》周一发售，Steam 愿望单刚刚突破 15000！🥳 感谢大家的留言和支持！Steam 加愿望单 ->」（原文："The Doll Shop release on Monday and we’ve just reached 15.000 wishlists on Steam! 🥳 Thank you everyone for your messages and support! Wishlist on Steam ->   #indiegame #cozyhorrorgame #gamedev #ateliersento #インディーゲーム #visualnovel #ノベルゲーム"）
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-09-21 · @horrorvisuals（156023 粉）· 赞 192 / 转 23 / 回复 3 / 浏览 7098 · https://x.com/horrorvisuals/status/2102063771288055918
-  > The Doll Shop is a hand-drawn narrative horror game set in a snowbound Japanese village.  You play as a quiet dollmaker repairing creepy dolls, exploring the countryside, and reconnecting with a childhood friend.  Part romance, part horror, and it has multiple endings!
+  > 「《The Doll Shop》是一款手绘叙事恐怖游戏，舞台是一座被大雪封住的日本村庄。你扮演一位沉默的人偶师，修复诡异的人偶、探索乡间，并和儿时的朋友重新建立联系。一半恋爱，一半恐怖，还有多结局！」（原文："The Doll Shop is a hand-drawn narrative horror game set in a snowbound Japanese village.  You play as a quiet dollmaker repairing creepy dolls, exploring the countryside, and reconnecting with a childhood friend.  Part romance, part horror, and it has multiple endings!"）
 
 ### 回复区（按时间）
 - 2026-10-09 · @ToxicPeachGames（73 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 15 · https://x.com/ToxicPeachGames/status/2108484764684476870
-  > @AtelierSento Congratulations! That's major :)
+  > 「恭喜！这可是大事 :)」（原文："@AtelierSento Congratulations! That's major :)"）
 - 2026-10-09 · @Chez_Bruno（2717 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 20 · https://x.com/Chez_Bruno/status/2108495617668346116
   > @AtelierSento 👏👏👏
 - 2026-10-09 · @YuriTashima（103 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 6 · https://x.com/YuriTashima/status/2108579979835404525
-  > @AtelierSento I need it to be Monday already!!!
+  > 「我等不及周一了！！！」（原文："@AtelierSento I need it to be Monday already!!!"）
 - 2026-10-09 · @HomeBearStudio（1749 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 9 · https://x.com/HomeBearStudio/status/2108631779296850214
-  > @AtelierSento Man, this looks awesome😮Great job guys!
+  > 「哇，看起来太棒了😮干得漂亮！」（原文："@AtelierSento Man, this looks awesome😮Great job guys!"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -111,7 +111,7 @@ discovery_date: "2026-10-10"
 
 ## 综合评价（对照《***》）
 
-「温馨 × 恐怖」的乡村民俗叙事，1.5 万愿望单是小团队手绘叙事恐怖的标杆。回复原话：「Repairing the dolls rather than running from them is the choice that makes this」，玩家喜欢的是「修复/理解」而不是逃跑，和《***》用规矩、不战斗的理念同向。
+「温馨 × 恐怖」的乡村民俗叙事，1.5 万愿望单是小团队手绘叙事恐怖的标杆。回复原话：「修人偶而不是逃离人偶，正是这个选择让它与众不同」（原文："Repairing the dolls rather than running from them is the choice that makes this"），玩家喜欢的是「修复/理解」而不是逃跑，和《***》用规矩、不战斗的理念同向。
 
 ## 来源（发现与资料）
 
@@ -124,28 +124,28 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@AtelierSento；该时段原创帖 29 条（不含转推）
 - 2026-10-07 · 158 赞 / 22 转 / 4 回 / 4977 浏览 · https://x.com/AtelierSento/status/2107747051698114619
-  > 🏮5 DAYS left before release of our cozy horror game #TheDollShop! 🏮 Wishlist on Steam &gt; https://t.co/EvjU3yq5RZ  #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/FEiXjEIsm3 〔X·@AtelierSento〕
+  > 「🏮距离我们的治愈恐怖游戏发售还剩 5 天！🏮 Steam 加愿望单 >」（原文："🏮5 DAYS left before release of our cozy horror game #TheDollShop! 🏮 Wishlist on Steam &gt; https://t.co/EvjU3yq5RZ  #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/FEiXjEIsm3"） 〔X·@AtelierSento〕
 - 2026-10-04 · 85 赞 / 12 转 / 2 回 / 6531 浏览 · https://x.com/AtelierSento/status/2106708279451853017
-  > 🏮8 days until release of #TheDollShop! 🏮 We finished the game, it’s currently in test phase and we correct the bugs.  Wishlist on Steam &gt; https://t.co/EvjU3yqDHx   #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/jyoBEOOg 〔X·@AtelierSento〕
+  > 「🏮距离发售还有 8 天！🏮游戏已经做完，目前在测试阶段修 Bug。Steam 加愿望单 >」（原文："🏮8 days until release of #TheDollShop! 🏮 We finished the game, it’s currently in test phase and we correct the bugs.  Wishlist on Steam &gt; https://t.co/EvjU3yqDHx   #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/jyoBEOOg"） 〔X·@AtelierSento〕
 - 2026-09-28 · 42 赞 / 12 转 / 1 回 / 1712 浏览 · https://x.com/AtelierSento/status/2104568972905763088
-  > 14 DAYS before release of our cozy/horror game The Doll Shop! \O_O/ Wishlist on Steam &gt;&gt; https://t.co/EvjU3yqDHx  #indiegame #horrorgame #TheDollShop #AtelierSento #visualnovel #インディーゲーム #ホラーゲーム #ノベルゲーム https://t.co/Txf1dQtFG3 〔X·@AtelierSento〕
+  > 「距离我们的治愈／恐怖游戏《The Doll Shop》发售还有 14 天！\O_O/ Steam 加愿望单 >>」（原文："14 DAYS before release of our cozy/horror game The Doll Shop! \O_O/ Wishlist on Steam &gt;&gt; https://t.co/EvjU3yqDHx  #indiegame #horrorgame #TheDollShop #AtelierSento #visualnovel #インディーゲーム #ホラーゲーム #ノベルゲーム https://t.co/Txf1dQtFG3"） 〔X·@AtelierSento〕
 - 2026-10-09 · 40 赞 / 4 转 / 4 回 / 1071 浏览 · https://x.com/AtelierSento/status/2108473614500868462
-  > The Doll Shop release on Monday and we’ve just reached 15.000 wishlists on Steam! 🥳 Thank you everyone for your messages and support! Wishlist on Steam -&gt; https://t.co/EvjU3yqDHx  #indiegame #cozyhorrorgame #gamedev #ateliersento #インディーゲーム #visualnovel #ノベルゲーム https://t.co/9hg 〔X·@AtelierSento〕
+  > 「《The Doll Shop》周一发售，Steam 愿望单刚刚突破 15000！🥳 感谢大家的留言和支持！Steam 加愿望单 ->」（原文："The Doll Shop release on Monday and we’ve just reached 15.000 wishlists on Steam! 🥳 Thank you everyone for your messages and support! Wishlist on Steam -&gt; https://t.co/EvjU3yqDHx  #indiegame #cozyhorrorgame #gamedev #ateliersento #インディーゲーム #visualnovel #ノベルゲーム https://t.co/9hg"） 〔X·@AtelierSento〕
 - 2026-10-06 · 29 赞 / 3 转 / 2 回 / 595 浏览 · https://x.com/AtelierSento/status/2107387160642916744
-  > 🏮6 DAYS left before release of our cozy horror game #TheDollShop! 🏮 We can't wait to reveal the full game to you! Wishlist on Steam &gt; https://t.co/EvjU3yq5RZ  #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/CBCLddVcQo 〔X·@AtelierSento〕
+  > 「🏮距离我们的治愈恐怖游戏发售还剩 6 天！🏮迫不及待想把完整游戏展示给大家！Steam 加愿望单 >」（原文："🏮6 DAYS left before release of our cozy horror game #TheDollShop! 🏮 We can't wait to reveal the full game to you! Wishlist on Steam &gt; https://t.co/EvjU3yq5RZ  #indiegame #cozyhorrorgame #horrorgame #ateliersento #インディーゲーム #ホラーゲーム #visualnovel #ノベルゲーム https://t.co/CBCLddVcQo"） 〔X·@AtelierSento〕
 - 2026-09-27 · 28 赞 / 5 转 / 0 回 / 1736 浏览 · https://x.com/AtelierSento/status/2104133855024414970
-  > Today, we celebrate 10.000 wishlists! 🥳And #TheDollShop just entered the Personal Calendar on Steam. Thank you everyone for your support! ♥   &gt; https://t.co/ATaluUvs2k  #indiegame #horrorgame #AtelierSento #VisualNovel #cozyhorror #インディーゲーム #ホラーゲーム https://t.co/1KgBoqRtRw 〔X·@AtelierSento〕
+  > 「今天我们庆祝愿望单突破 10000！🥳 还刚刚进入了 Steam 个人日历。感谢大家的支持！♥ >」（原文："Today, we celebrate 10.000 wishlists! 🥳And #TheDollShop just entered the Personal Calendar on Steam. Thank you everyone for your support! ♥   &gt; https://t.co/ATaluUvs2k  #indiegame #horrorgame #AtelierSento #VisualNovel #cozyhorror #インディーゲーム #ホラーゲーム https://t.co/1KgBoqRtRw"） 〔X·@AtelierSento〕
 - 2026-09-29 · 27 赞 / 3 转 / 2 回 / 1212 浏览 · https://x.com/AtelierSento/status/2104906426401620372
-  > Thanks for the pictures @BMazerolles ! It was such an unexpected commission! We really enjoyed working on the illustration for the tram of the city of Lyon (where Cecile was born!) . ^^ https://t.co/uQZyzOnwYJ 〔X·@AtelierSento〕
+  > 「谢谢拍照！这是个完全没想到的委托！我们很享受为里昂（Cecile 的出生地！）的有轨电车绘制插画。^^」（原文："Thanks for the pictures @BMazerolles ! It was such an unexpected commission! We really enjoyed working on the illustration for the tram of the city of Lyon (where Cecile was born!) . ^^ https://t.co/uQZyzOnwYJ"） 〔X·@AtelierSento〕
 - 2026-10-04 · 23 赞 / 1 转 / 0 回 / 522 浏览 · https://x.com/AtelierSento/status/2106661213237387291
-  > Merci @invinciblejane d'avoir présenté The Doll Shop dans ce podcast sur les jeux qui n'utilisent pas l'IA générative sur @RFI ! \^_^/  Contents d'être aux côtés des copains de @novabox !  &gt;&gt; https://t.co/8VunVIYsQd  #noAI #indiegame https://t.co/3EvbhwD441 〔X·@AtelierSento〕
+  > 「感谢在这期介绍「不使用生成式 AI 的游戏」的播客里介绍《The Doll Shop》！\^_^/ 很高兴和小伙伴们并列！>>」（原文："Merci @invinciblejane d'avoir présenté The Doll Shop dans ce podcast sur les jeux qui n'utilisent pas l'IA générative sur @RFI ! \^_^/  Contents d'être aux côtés des copains de @novabox !  &gt;&gt; https://t.co/8VunVIYsQd  #noAI #indiegame https://t.co/3EvbhwD441"） 〔X·@AtelierSento〕
 
 ### 更新帖下的玩家回复原话
 
-- 「@AtelierSento The art is awesome!」 〔X·@Brutalnoobi〕
-- 「@AtelierSento Didn't know about it, I'll take a look!」 〔X·@_aelinar_〕
-- 「@AtelierSento Counting down the days! I need this」 〔X·@YuriTashima〕
-- 「@AtelierSento 5 days to go!! cozy horror is such a perfect combo, good luck on the home stretch」 〔X·@theSushiexe〕
+- 「美术太棒了！」（原文："@AtelierSento The art is awesome!"） 〔X·@Brutalnoobi〕
+- 「之前不知道这款，我去看看！」（原文："@AtelierSento Didn't know about it, I'll take a look!"） 〔X·@_aelinar_〕
+- 「在倒数日子了！我需要它」（原文："@AtelierSento Counting down the days! I need this"） 〔X·@YuriTashima〕
+- 「还有 5 天！！治愈+恐怖真是完美组合，最后冲刺加油」（原文："@AtelierSento 5 days to go!! cozy horror is such a perfect combo, good luck on the home stretch"） 〔X·@theSushiexe〕
 
 <!-- added:2026-10-10 -->
 

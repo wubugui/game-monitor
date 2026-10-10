@@ -68,14 +68,14 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-01 · @BabGamesStudio（60 粉）· 赞 5 / 转 2 / 回复 1 / 浏览 77 · https://x.com/BabGamesStudio/status/2105557330733736374
-  > A routine investigation in Japan… until the house starts remembering. 📷  Play the free JUBAKU Demo on Steam & wishlist the full game.   #indiegame #indiedev #gamedev #horrorgame #psychologicalhorror #indiehorror #japanesegame #horrorgames #steamgames #madewithunreal
+  > 「日本一次例行调查……直到那栋房子开始「记起」往事。📷 在 Steam 免费玩《JUBAKU》（咒缚）Demo，并把完整版加入愿望单。」（原文："A routine investigation in Japan… until the house starts remembering. 📷  Play the free JUBAKU Demo on Steam & wishlist the full game.   #indiegame #indiedev #gamedev #horrorgame #psychologicalhorror #indiehorror #japanesegame #horrorgames #steamgames #madewithunreal"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-10-01 · @TooAngryToClean（60 粉）· 赞 1 / 转 1 / 回复 1 / 浏览 17 · https://x.com/TooAngryToClean/status/2105576971786912068
-  > @BabGamesStudio A house that starts remembering is a strong Japanese horror hook. Demo already on Steam?
+  > 「一栋开始「记起往事」的房子，这是个很强的日式恐怖钩子。Demo 已经上 Steam 了吗？」（原文："@BabGamesStudio A house that starts remembering is a strong Japanese horror hook. Demo already on Steam?"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -102,7 +102,7 @@ discovery_date: "2026-10-10"
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/BabGamesStudio/status/2105557330733736374（检索「#horrorgame wishlist」发现：「A routine investigation in Japan… until the house starts remembering.」2026-10-01）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/BabGamesStudio/status/2105557330733736374（检索「#horrorgame wishlist」发现：「日本一次例行调查……直到那栋房子开始「记起」往事。」（原文："A routine investigation in Japan… until the house starts remembering."）2026-10-01）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4911730/ 与 appreviews 接口，原始数据 tmp/x/steam/jubaku.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -111,21 +111,21 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@BabGamesStudio；该时段原创帖 13 条（不含转推）
 - 2026-09-25 · 10 赞 / 6 转 / 2 回 / 78 浏览 · https://x.com/BabGamesStudio/status/2103446869724787043
-  > THE JUBAKU DEMO IS LIVE!! 📼 Investigate 📷 Document the paranormal 🕯️ Make your choices 👁️ Try to survive The demo is FREE to play now. 🎮 Play the demo &amp; Wishlist JUBAKU on Steam: https://t.co/Y52PmUZ8KQ #Jubaku #IndieGame #HorrorGame #PsychologicalHorror #Steam https://t.co/K 〔X·@BabGamesStudio〕
+  > 「《JUBAKU》Demo 上线了！！📼 调查 📷 记录灵异现象 🕯️ 做出选择 👁️ 设法活下来。Demo 现在免费玩。🎮 试玩 Demo 并在 Steam 加《JUBAKU》愿望单：」（原文："THE JUBAKU DEMO IS LIVE!! 📼 Investigate 📷 Document the paranormal 🕯️ Make your choices 👁️ Try to survive The demo is FREE to play now. 🎮 Play the demo &amp; Wishlist JUBAKU on Steam: https://t.co/Y52PmUZ8KQ #Jubaku #IndieGame #HorrorGame #PsychologicalHorror #Steam https://t.co/K"） 〔X·@BabGamesStudio〕
 - 2026-09-19 · 7 赞 / 3 转 / 0 回 / 1042 浏览 · https://x.com/BabGamesStudio/status/2101396275828756600
-  > THE FIRST OFFICIAL TRAILER FOR JUBAKU IS HERE. A house. A story waiting to be uncovered. And something that was never meant to be found. 🎥 WATCH THE FULL TRAILER ON YOUTUBE NOW! 🔴 DEMO,SEPTEMBER 25, 2026  Wishlist now on Steam. https://t.co/Y52PmUZ8KQ  #horror #games #steam https 〔X·@BabGamesStudio〕
+  > 「《JUBAKU》首支官方预告来了。一栋房子。一个等待被揭开的故事。还有某个本不该被发现的东西。🎥 现在去 YouTube 看完整预告！🔴 Demo：2026 年 9 月 25 日。现在在 Steam 加愿望单。」（原文："THE FIRST OFFICIAL TRAILER FOR JUBAKU IS HERE. A house. A story waiting to be uncovered. And something that was never meant to be found. 🎥 WATCH THE FULL TRAILER ON YOUTUBE NOW! 🔴 DEMO,SEPTEMBER 25, 2026  Wishlist now on Steam. https://t.co/Y52PmUZ8KQ  #horror #games #steam https"） 〔X·@BabGamesStudio〕
 - 2026-10-07 · 6 赞 / 2 转 / 1 回 / 51 浏览 · https://x.com/BabGamesStudio/status/2107856513884954751
-  > These are screenshots from our game called Jubaku! The Demo is out right now ^^ https://t.co/xYaPrTb1b2 〔X·@BabGamesStudio〕
+  > 「这些是我们的游戏《Jubaku》的截图！Demo 现已推出 ^^」（原文："These are screenshots from our game called Jubaku! The Demo is out right now ^^ https://t.co/xYaPrTb1b2"） 〔X·@BabGamesStudio〕
 - 2026-10-08 · 5 赞 / 1 转 / 1 回 / 62 浏览 · https://x.com/BabGamesStudio/status/2108183472707960999
-  > Watching people play JUBAKU for the first time has honestly been one of our favorite parts of making this game. We know the jumpscare is coming... they don't 😭  #JUBAKU #IndieHorror #HorrorGames #IndieArtists  #horrorgaming  #GameDev https://t.co/PUbXiEnrev 〔X·@BabGamesStudio〕
+  > 「看大家第一次玩《JUBAKU》，老实说是做这款游戏最喜欢的环节之一。我们知道 Jump Scare 要来了……他们不知道 😭」（原文："Watching people play JUBAKU for the first time has honestly been one of our favorite parts of making this game. We know the jumpscare is coming... they don't 😭  #JUBAKU #IndieHorror #HorrorGames #IndieArtists  #horrorgaming  #GameDev https://t.co/PUbXiEnrev"） 〔X·@BabGamesStudio〕
 - 2026-10-01 · 5 赞 / 2 转 / 1 回 / 77 浏览 · https://x.com/BabGamesStudio/status/2105557330733736374
-  > A routine investigation in Japan… until the house starts remembering. 📷  Play the free JUBAKU Demo on Steam &amp; wishlist the full game.   #indiegame #indiedev #gamedev #horrorgame #psychologicalhorror #indiehorror #japanesegame #horrorgames #steamgames #madewithunreal https://t 〔X·@BabGamesStudio〕
+  > 「日本一次例行调查……直到那栋房子开始「记起」往事。📷 在 Steam 免费玩《JUBAKU》Demo，并把完整版加入愿望单。」（原文："A routine investigation in Japan… until the house starts remembering. 📷  Play the free JUBAKU Demo on Steam &amp; wishlist the full game.   #indiegame #indiedev #gamedev #horrorgame #psychologicalhorror #indiehorror #japanesegame #horrorgames #steamgames #madewithunreal https://t"） 〔X·@BabGamesStudio〕
 - 2026-09-30 · 5 赞 / 2 转 / 2 回 / 57 浏览 · https://x.com/BabGamesStudio/status/2105298583230791808
-  > What Unfolds Ahead? - - - Indie game, horror,psychological, atmospheric, story rich, game dev https://t.co/UrPl4DQnj8 〔X·@BabGamesStudio〕
+  > 「前方会发生什么？——独立游戏、恐怖、心理、氛围、剧情丰富、游戏开发」（原文："What Unfolds Ahead? - - - Indie game, horror,psychological, atmospheric, story rich, game dev https://t.co/UrPl4DQnj8"） 〔X·@BabGamesStudio〕
 - 2026-10-04 · 4 赞 / 2 转 / 0 回 / 38 浏览 · https://x.com/BabGamesStudio/status/2106668734987563123
-  > Some things in the Tanaka Residence are better left undocumented 👁️📹  Not every picture tells the whole story…:)  A good psychological horror game doesn’t need to chase you to get inside your head 🖤  #indiehorror #horror #indiegames #gaming #indiedev #psychologicalhorror https:// 〔X·@BabGamesStudio〕
+  > 「田中宅里有些东西最好别记录下来 👁️📹 不是每张照片都讲出了全部故事……:) 好的心理恐怖游戏不需要追着你跑，也能钻进你的脑子 🖤」（原文："Some things in the Tanaka Residence are better left undocumented 👁️📹  Not every picture tells the whole story…:)  A good psychological horror game doesn’t need to chase you to get inside your head 🖤  #indiehorror #horror #indiegames #gaming #indiedev #psychologicalhorror https://"） 〔X·@BabGamesStudio〕
 - 2026-09-28 · 4 赞 / 3 转 / 0 回 / 49 浏览 · https://x.com/BabGamesStudio/status/2104600424208867333
-  > If you like Chilla's art Games and Fears To Fathom Then we present to you "JUBAKU' wishlist now on Steam ^^ link in bio- https://t.co/07KUVqPdPz 〔X·@BabGamesStudio〕
+  > 「如果你喜欢 Chilla's Art 的游戏和《Fears To Fathom》，那我们向你推荐《JUBAKU》，现在在 Steam 加愿望单 ^^ 链接在简介里——」（原文："If you like Chilla's art Games and Fears To Fathom Then we present to you "JUBAKU' wishlist now on Steam ^^ link in bio- https://t.co/07KUVqPdPz"） 〔X·@BabGamesStudio〕
 
 <!-- added:2026-10-10 -->
 

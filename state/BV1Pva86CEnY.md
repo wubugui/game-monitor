@@ -154,7 +154,7 @@ discovery_date: "2026-10-09"
 ### 玩法/手感
 - 「这游戏甚至没有个突出主体，玩法过于分散和浅薄了，而且我都不敢想象到时候操作起来的复杂程度」（19赞） 〔B站·BV1Pva86CEnY楼中楼〕 <!-- added:2026-10-10 -->
 - 「不像环，看着没有小人可以操作，更像远行星号和上帝模拟器」（4赞） 〔B站·BV1Pva86CEnY楼中楼〕 <!-- added:2026-10-10 -->
-- 「wow saw your page on youtube，its been some years after the kickstart，good work，and looking forward to dive in this amazing looking game. 如果是真的制作人的话，这哥们从2020还是20…」（4赞） 〔B站·BV1Pva86CEnY评论〕
+- 「哇，在 YouTube 上看到你的页面了，距离众筹已经好几年了，干得好，期待一头扎进这款看起来很棒的游戏。如果是真的制作人的话，这哥们从2020还是20…」（原文："wow saw your page on youtube，its been some years after the kickstart，good work，and looking forward to dive in this amazing looking game. 如果是真的制作人的话，这哥们从2020还是20…"）（4赞） 〔B站·BV1Pva86CEnY评论〕
 - 「多开发些玩法方面的，感觉到时候可以不输于环世界」（2赞） 〔B站·BV1Pva86CEnY评论〕
 - 「这游戏看起来很肝,我指的是制作」（1赞） 〔B站·BV1Pva86CEnY评论〕
 

@@ -53,7 +53,7 @@ discovery_date: "2026-10-09"
 
 > ►Rain98公开Demo将在今年秋季上线
 > ►游玩渠道：https://store.steampowered.com/app/3498720/Rain98/
-> ►本期BGM：①.Cassette_Tape_Dream - しゃろう   ②.Spaces Inbetween - Omori
+> 「►本期BGM：①.Cassette_Tape_Dream - しゃろう ②.Spaces Inbetween - Omori（曲名）」（原文："►本期BGM：①.Cassette_Tape_Dream - しゃろう   ②.Spaces Inbetween - Omori"）
 > ►每期视频的制作都不容易，喜欢的话不妨点赞转发支持一下QAQ
 > ---------
 > 更新直播通知群：1025098944 （请一定遵守群规）

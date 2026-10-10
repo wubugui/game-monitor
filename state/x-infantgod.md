@@ -44,7 +44,7 @@ discovery_date: "2026-10-10"
 
 ## 游戏内容介绍
 
-你是刚出生的人工智能「爱式塔」的监护人兼防火墙：让她上网和各路网民（键盘侠、阴谋论者、网左、恐怖分子）对线，从对方言论中提取观点作为养料塑造她的性格；建立情报关系网、操纵网民现实轨迹左右城市命运；结局是天使或恶魔。UI 为复古桌面/聊天窗口。开发者说「kinda like a narrative game. Used a lot of mechanics from games like Disco Elysium, but in a more trolling way」。
+你是刚出生的人工智能「爱式塔」的监护人兼防火墙：让她上网和各路网民（键盘侠、阴谋论者、网左、恐怖分子）对线，从对方言论中提取观点作为养料塑造她的性格；建立情报关系网、操纵网民现实轨迹左右城市命运；结局是天使或恶魔。UI 为复古桌面/聊天窗口。开发者说「有点像叙事游戏。借鉴了很多《极乐迪斯科》之类游戏的机制，但用法更恶搞」（原文："kinda like a narrative game. Used a lot of mechanics from games like Disco Elysium, but in a more trolling way"）。
 
 ### Steam 商店简介（原文摘录）〔Steam商店页〕
 
@@ -66,7 +66,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-07 · @Colsalley（568 粉）· 赞 34 / 转 3 / 回复 3 / 浏览 1128 · https://x.com/Colsalley/status/2096976796705312803
-  > Create an AI god by chatting with random netizens! Infant God's trailer is out. Demo drops on 9/11 (hopefully...still in dev hell XD). Steam link in replies! Wishlist now! #indiedev #gamedev #pixelart #madewithunity
+  > 「通过和随机网友聊天来创造一个 AI 神！《幼神》（Infant God）预告发布。Demo 9/11 上线（希望如此……还在开发地狱里 XD）。Steam 链接在回复里！快加愿望单！」（原文："Create an AI god by chatting with random netizens! Infant God's trailer is out. Demo drops on 9/11 (hopefully...still in dev hell XD). Steam link in replies! Wishlist now! #indiedev #gamedev #pixelart #madewithunity"）
 - 2026-09-07 · @Colsalley（568 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 252 · https://x.com/Colsalley/status/2096976883837727049
   > 
 
@@ -75,9 +75,9 @@ discovery_date: "2026-10-10"
 
 ### 回复区（按时间）
 - 2026-09-07 · @ericnofsinger（1695 粉）· 赞 1 / 转 0 / 回复 2 / 浏览 41 · https://x.com/ericnofsinger/status/2096982314202923139
-  > @Colsalley The demo drop is cool, but let’s face it—hype can’t carry a game. If the mechanics don’t feel fresh, even the best trailer won’t save it.
+  > 「Demo 上线挺好，但说实话——光靠热度撑不起一款游戏。如果机制不够新鲜，再好的预告也救不了。」（原文："@Colsalley The demo drop is cool, but let’s face it—hype can’t carry a game. If the mechanics don’t feel fresh, even the best trailer won’t save it."）
 - 2026-09-08 · @PlayGameGen（253 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 11 · https://x.com/PlayGameGen/status/2097194839112847794
-  > @Colsalley An AI god shaped by random strangers chatting with it is such a wild premise, that could go anywhere depending on who shows up. dev hell before a demo drop is rough timing but you will get there
+  > 「一个由随机陌生人跟它聊天塑造出来的 AI 神，这前提太疯了，取决于谁来聊，可能走向任何方向。Demo 上线前陷入开发地狱，时机确实难熬，但你一定能做到」（原文："@Colsalley An AI god shaped by random strangers chatting with it is such a wild premise, that could go anywhere depending on who shows up. dev hell before a demo drop is rough timing but you will get there"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -96,7 +96,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-个人开发者 + 发行 Wave Games，568 粉；Demo 一度「still in dev hell」。截图 UI 完整、角色立绘统一。**可靠程度：中**。
+个人开发者 + 发行 Wave Games，568 粉；Demo 一度「还在开发地狱里」（原文："still in dev hell"）。截图 UI 完整、角色立绘统一。**可靠程度：中**。
 
 ## 综合评价（对照《***》）
 
@@ -104,7 +104,7 @@ discovery_date: "2026-10-10"
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Colsalley/status/2096976796705312803（检索「#screenshotsaturday wishlist」发现：「Create an AI god by chatting with random netizens! Infant God's trailer is out.」2026-09-07，34 赞）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Colsalley/status/2096976796705312803（检索「#screenshotsaturday wishlist」发现：「通过和随机网友聊天来创造一个 AI 神！《幼神》预告发布。」（原文："Create an AI god by chatting with random netizens! Infant God's trailer is out."）2026-09-07，34 赞）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4238140/ 与 appreviews 接口，原始数据 tmp/x/steam/infantgod.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -113,11 +113,11 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@Colsalley；该时段原创帖 3 条（不含转推）
 - 2026-09-22 · 452 赞 / 31 转 / 19 回 / 13871 浏览 · https://x.com/Colsalley/status/2102397515609874462
-  > I still can't believe it... My branching narrative game demo just hit 67 reviews with a 98% positive rating! The median playtime even reached 2 hours. A massive thank you to all the players! #gamedev #indiedev #indiegame https://t.co/LDjhFbwlwq 〔X·@Colsalley〕
+  > 「我还是不敢相信……我的分支叙事游戏 Demo 刚刚达到 67 条评测、98% 好评！游玩时长中位数甚至达到了 2 小时。非常感谢所有玩家！」（原文："I still can't believe it... My branching narrative game demo just hit 67 reviews with a 98% positive rating! The median playtime even reached 2 hours. A massive thank you to all the players! #gamedev #indiedev #indiegame https://t.co/LDjhFbwlwq"） 〔X·@Colsalley〕
 - 2026-09-15 · 28 赞 / 3 转 / 3 回 / 580 浏览 · https://x.com/Colsalley/status/2099694703725711433
-  > Infant God Demo is finally out. Support mod, 41k text. Solo dev. Should rest for a while... Btw if anyone's interested in localization plz contact me. AI translation is killing my brain. #gamedev #indiedev #indiegame https://t.co/1rkJhhk2x3 〔X·@Colsalley〕
+  > 「《幼神》Demo 终于出了。支持 Mod，4.1 万字文本。个人开发。该休息一阵了……顺便，如果有人对本地化感兴趣请联系我。AI 翻译快把我脑子搞坏了。」（原文："Infant God Demo is finally out. Support mod, 41k text. Solo dev. Should rest for a while... Btw if anyone's interested in localization plz contact me. AI translation is killing my brain. #gamedev #indiedev #indiegame https://t.co/1rkJhhk2x3"） 〔X·@Colsalley〕
 - 2026-10-09 · 12 赞 / 0 转 / 2 回 / 311 浏览 · https://x.com/Colsalley/status/2108571817111945708
-  > wait what? btw the game is infant god. #gamedev #indiedev https://t.co/ucd83DwBwb 〔X·@Colsalley〕
+  > 「等等啥？顺便说下游戏叫《幼神》。」（原文："wait what? btw the game is infant god. #gamedev #indiedev https://t.co/ucd83DwBwb"） 〔X·@Colsalley〕
 
 <!-- added:2026-10-10 -->
 
@@ -203,7 +203,7 @@ discovery_date: "2026-10-10"
 
 ### 弹幕高频（前 20）
 
-「神了」×2、「美好在哪」×2、「劲爆尾杀」×2、「神tm爱人tv」×1、「看到标题就力竭了，这么抽象的东西我高低得尝尝咸淡。」×1、「哈哈哈哈哈哈」×1、「太老了」×1、「懂你意思」×1、「ai slop」×1、「666劲爆尾杀」×1、「！？拉拉？！」×1、「还是不够证啊，这还好意思叫见证魔怔人？」×1、「zick-zion(」×1、「注意背景里的两个大楼，过一会儿要考」×1、「自什么？」×1、「很有风格啊，这点很强，加点玩法拓展很吸引人」×1、「？？？」×1、「炫神」×1、「拉你魔」×1、「何标题」×1
+「神了」×2、「美好在哪」×2、「劲爆尾杀」×2、「神tm爱人tv」×1、「看到标题就力竭了，这么抽象的东西我高低得尝尝咸淡。」×1、「哈哈哈哈哈哈」×1、「太老了」×1、「懂你意思」×1、「AI 垃圾」（原文："ai slop"）×1、「666劲爆尾杀」×1、「！？拉拉？！」×1、「还是不够证啊，这还好意思叫见证魔怔人？」×1、「zick-zion(」×1、「注意背景里的两个大楼，过一会儿要考」×1、「自什么？」×1、「很有风格啊，这点很强，加点玩法拓展很吸引人」×1、「？？？」×1、「炫神」×1、「拉你魔」×1、「何标题」×1
 
 ### 其他相关视频（播放前 6–15）
 

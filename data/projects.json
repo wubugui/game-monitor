@@ -178,7 +178,7 @@
   "source": "B站",
   "status": "已发售（Steam 2024-07-05）",
   "status_inferred": null,
-  "summary": "⚠️ 镇尸 档案 - 类型：中式规则怪谈找异常（灵堂+僵尸） - 开发者：星辰工作室 - 状态：已发售（Steam 2024-07-05） - 平台：Steam - 发售：2024-07-05 - Steam：规则怪谈之镇尸（AppID 2991290）｜¥ 6.00｜评测 50 条（Very Positive）〔St",
+  "summary": "⚠️ 镇尸 档案 - 类型：中式规则怪谈找异常（灵堂+僵尸） - 开发者：星辰工作室 - 状态：已发售（Steam 2024-07-05） - 平台：Steam - 发售：2024-07-05 - Steam：规则怪谈之镇尸（AppID 2991290）｜¥ 6.00｜评测 50 条（特别好评）〔Steam·商店页〕 ",
   "update_count": 1,
   "updated": "2026-10-10"
  },
@@ -204,6 +204,31 @@
   "status": "Demo（2026-09-21 起）",
   "status_inferred": null,
   "summary": "⚠️ 遥之境 Far Realm 档案 - 类型：台味叙事 2D 像素冒险（妖怪世界） - 开发者：小团队（高椰菜 Cabbroge，台湾；GameWorks Ventures 协力） - 发行：Cabbroge - 状态：Demo（2026-09-21 起） - 平台：Steam（App 4532450） - 发现来",
+  "update_count": 1,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/x-malice.jpg",
+  "dev_type": "小团队",
+  "developer": "小团队（Nimbus Games，马来西亚；也是《魇 Yan: Parasomnia》的发行商）",
+  "disc_platform": "X",
+  "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nimbusgamesdev/status/2108485543747322347 — X补充三追踪 @nimbusgamesdev 时间线时发现：「Escape: Malice is now available to play with Steam's Friend Pass!」，2026-10-09，8 赞",
+  "found": "2026-10-10",
+  "genre": "双人合作日式宅邸密室逃脱恐怖",
+  "genre_tags": [
+   "恐怖",
+   "多人/合作"
+  ],
+  "id": "x-malice",
+  "link": "https://store.steampowered.com/app/1799220/",
+  "missing_images": null,
+  "name": "逃脱：怨念 Escape: Malice",
+  "note": "",
+  "source": "",
+  "status": "已发售（2022-11-02；2026-07 大更新并改名，Friend Pass 上线）",
+  "status_inferred": null,
+  "summary": "逃脱：怨念 Escape: Malice 档案 - 类型：双人合作日式宅邸密室逃脱恐怖 - 开发者：小团队（Nimbus Games，马来西亚；也是《魇 Yan: Parasomnia》的发行商） - 发行：Nimbus Games - 状态：已发售（2022-11-02；2026-07 大更新并改名，Friend P",
   "update_count": 1,
   "updated": "2026-10-10"
  },
@@ -412,7 +437,7 @@
   "source": "B站",
   "status": "已发售（Steam 2024-12-11）",
   "status_inferred": null,
-  "summary": "⚠️ 无人 档案 - 类型：中式梦核找异常恐怖（相机拍异常+模拟恐怖） - 开发者：HeavyLight Studio - 状态：已发售（Steam 2024-12-11） - 平台：Steam - 发售：2024-12-11 - Steam：无人（AppID 3257490）｜¥ 20.00｜评测 936 条（Ver",
+  "summary": "⚠️ 无人 档案 - 类型：中式梦核找异常恐怖（相机拍异常+模拟恐怖） - 开发者：HeavyLight Studio - 状态：已发售（Steam 2024-12-11） - 平台：Steam - 发售：2024-12-11 - Steam：无人（AppID 3257490）｜¥ 20.00｜评测 936 条（特别好",
   "update_count": 1,
   "updated": "2026-10-10"
  },
@@ -720,6 +745,57 @@
   "updated": "2026-10-10"
  },
  {
+  "competitor": false,
+  "cover": "covers/x-tunedin.jpg",
+  "dev_type": "小团队",
+  "developer": "小团队（Vercors Games，西班牙；Tequila Works 前核心成员）",
+  "disc_platform": "X",
+  "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Sofie_screamqn/status/2103436652647452926 — X补充三追踪 Vivere 开发者 @Sofie_screamqn 时间线时发现：「TUNED IN is an upcoming horror game that has you trapped inside a cursed TV」，2026-09-25，21 赞",
+  "found": "2026-10-10",
+  "genre": "诅咒电视·模拟信号恐怖解谜选集（8 结局序章）",
+  "genre_tags": [
+   "恐怖",
+   "悬疑/解谜",
+   "模拟经营"
+  ],
+  "id": "x-tunedin",
+  "link": "https://store.steampowered.com/app/4692790/",
+  "missing_images": null,
+  "name": "Tuned In（TUNED IN: The Prologue）",
+  "note": "",
+  "source": "",
+  "status": "免费序章已上线；正式版即将推出",
+  "status_inferred": null,
+  "summary": "Tuned In（TUNED IN: The Prologue） 档案 - 类型：诅咒电视·模拟信号恐怖解谜选集（8 结局序章） - 开发者：小团队（Vercors Games，西班牙；Tequila Works 前核心成员） - 发行：Vercors Games - 状态：免费序章已上线；正式版即将推出 - 平台：S",
+  "update_count": 1,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/x-pines.jpg",
+  "dev_type": "个人",
+  "developer": "个人（Studio Abattoir；发行 Silver Lining Interactive）",
+  "disc_platform": "X",
+  "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Ninjago9101/status/2108239487285494198 — X补充三追踪开发者时间线时，在资讯号 @Ninjago9101 发现：「The Pines – Official Trailer」，2026-10-08，1247 赞 / 5.5 万浏览；同日 shinobi602 转发 1823 赞 / 10.6 万浏览",
+  "found": "2026-10-10",
+  "genre": "开放世界心理恐怖 RPG（选择有后果）",
+  "genre_tags": [
+   "恐怖",
+   "RPG"
+  ],
+  "id": "x-pines",
+  "link": "https://store.steampowered.com/app/4271520/",
+  "missing_images": null,
+  "name": "The Pines",
+  "note": "",
+  "source": "",
+  "status": "开发中（2027 年，PC）",
+  "status_inferred": null,
+  "summary": "The Pines 档案 - 类型：开放世界心理恐怖 RPG（选择有后果） - 开发者：个人（Studio Abattoir；发行 Silver Lining Interactive） - 发行：Silver Lining Interactive - 状态：开发中（2027 年，PC） - 平台：Steam（App 4",
+  "update_count": 1,
+  "updated": "2026-10-10"
+ },
+ {
   "competitor": true,
   "cover": "covers/x-dollshop.jpg",
   "dev_type": "小团队",
@@ -743,6 +819,31 @@
   "status_inferred": null,
   "summary": "⚠️ The Doll Shop 档案 - 类型：手绘日式乡村叙事恐怖（人偶匠） - 开发者：小团队（Atelier Sentô，漫画家二人组） - 发行：Atelier Sentô - 状态：即将发售（2026-10-12） - 平台：Steam（App 3851680） - 发现来源：X · 2026-10-10 ",
   "update_count": 2,
+  "updated": "2026-10-10"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/x-devildetails.jpg",
+  "dev_type": "小团队",
+  "developer": "小团队（HideWorks，2 人；《Liminal Point》开发方）",
+  "disc_platform": "X",
+  "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/takaworks_9999/status/2087197681462485028 — X补充三追踪 Liminal Point 开发者 @HideWorksGames 时发现（账号简介写着「Creators of LIMINAL POINT, and The Devil is in the Details」）；X 检索命中推荐帖：「our indie anomaly detection game mixed with survival horror」，2026-08-11",
+  "found": "2026-10-10",
+  "genre": "找异常 × 生存恐怖解谜",
+  "genre_tags": [
+   "恐怖",
+   "悬疑/解谜"
+  ],
+  "id": "x-devildetails",
+  "link": "https://store.steampowered.com/app/2790790/",
+  "missing_images": null,
+  "name": "The Devil is in the Details",
+  "note": "",
+  "source": "",
+  "status": "已发售（2024-09-30，$12.99）",
+  "status_inferred": null,
+  "summary": "The Devil is in the Details 档案 - 类型：找异常 × 生存恐怖解谜 - 开发者：小团队（HideWorks，2 人；《Liminal Point》开发方） - 发行：HideWorks - 状态：已发售（2024-09-30，$12.99） - 平台：Steam（App 2790790）；",
+  "update_count": 1,
   "updated": "2026-10-10"
  },
  {
@@ -1755,7 +1856,7 @@
   "link": "https://www.bilibili.com/video/BV1rBX6Y9Euf",
   "missing_images": null,
   "name": "见诡录：阴魂街",
-  "note": "广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 Very Positive；与《见诡》同名混淆已独立建档",
+  "note": "广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档",
   "source": "B站",
   "status": "已发售",
   "status_inferred": null,
@@ -4109,7 +4210,7 @@
   "source": "B站",
   "status": "首曝",
   "status_inferred": null,
-  "summary": "心渊光谱 档案 - 类型：原创galgame - 开发者：小团队（北大学生）（开发者类型：小团队） - 状态：首曝 - 平台：未知 - 一句话：OP&PV - 代表视频播放：1.4万；B站相关视频覆盖播放（本次抓到的）：约1.4万，共1条 官方/代表视频简介（原文摘录） 『No phenomenon is a phys",
+  "summary": "心渊光谱 档案 - 类型：原创galgame - 开发者：小团队（北大学生）（开发者类型：小团队） - 状态：首曝 - 平台：未知 - 一句话：OP&PV - 代表视频播放：1.4万；B站相关视频覆盖播放（本次抓到的）：约1.4万，共1条 官方/代表视频简介（原文摘录） 「『任何现象在被观测之前都不是物理现象。』」（原",
   "update_count": 1,
   "updated": "2026-10-09"
  },

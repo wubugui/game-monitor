@@ -68,67 +68,67 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2025-04-16 · @nimbusgamesdev（1186 粉）· 赞 135 / 转 22 / 回复 7 / 浏览 14191 · https://x.com/nimbusgamesdev/status/1912503044497109100
-  > "Oh no... there's a ghost! Get out of my way, now!"  Yan: Parasomnia isn’t just about exploring and solving various puzzles. Sometimes, you gotta fight your way out of trouble. Here’s a small glimpse of the combat.   #WishlistWednesday #IndieGameDev  #indiegames
+  > 「「哦不……有鬼！快给我让开！」《Yan: Parasomnia》（魇）不只是探索和解各种谜题。有时候你得一路打出困境。这是战斗的一小段展示。」（原文：""Oh no... there's a ghost! Get out of my way, now!"  Yan: Parasomnia isn’t just about exploring and solving various puzzles. Sometimes, you gotta fight your way out of trouble. Here’s a small glimpse of the combat.   #WishlistWednesday #IndieGameDev  #indiegames"）
 - 2025-04-23 · @nimbusgamesdev（1186 粉）· 赞 31 / 转 8 / 回复 1 / 浏览 731 · https://x.com/nimbusgamesdev/status/1914926244979990677
-  > Yan: Parasomnia is a clone of...  - Obscure - Fatal Frame - Silent Hill - Tormented Souls  #WishlistWednesday #indiegame
+  > 「《Yan: Parasomnia》是……的克隆：- 《Obscure》- 《零》- 《寂静岭》- 《Tormented Souls》」（原文："Yan: Parasomnia is a clone of...  - Obscure - Fatal Frame - Silent Hill - Tormented Souls  #WishlistWednesday #indiegame"）
 - 2025-06-04 · @nimbusgamesdev（1186 粉）· 赞 29 / 转 9 / 回复 2 / 浏览 1347 · https://x.com/nimbusgamesdev/status/1930189604633694313
-  > Here are some environmental screenshots from ACT1 of Yan: Parasomnia  #horrorgame #indiegames #gamedev
+  > 「这是《Yan: Parasomnia》第一幕的一些场景截图」（原文："Here are some environmental screenshots from ACT1 of Yan: Parasomnia  #horrorgame #indiegames #gamedev"）
 
 ### 媒体 / 主播 / 玩家帖
 - 2025-03-06 · @DelkaTsuzuku（400 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 37 · https://x.com/DelkaTsuzuku/status/1897636665751130390
-  > WE FINNA GO LIVE WITH THIS ONE BY @nimbusgamesdev AND ITS YAN PARASOMNIA 🗣️🔥🔥🔥
+  > 「我们要直播这款啦，是 YAN PARASOMNIA 🗣️🔥🔥🔥」（原文："WE FINNA GO LIVE WITH THIS ONE BY @nimbusgamesdev AND ITS YAN PARASOMNIA 🗣️🔥🔥🔥"）
 - 2025-03-07 · @Hondaki_（316 粉）· 赞 8 / 转 3 / 回复 0 / 浏览 329 · https://x.com/Hondaki_/status/1898151657437016323
-  > Its Gonna Be Spooky Sunday this week!! Lets see how they  gonna  spook us!!  The Boba Teashop By @MikeTenDev  Yan Parasomnia By @nimbusgamesdev  Abashed By @supanthapaul
+  > 「本周是恐怖星期天！！看看它们要怎么吓我们！！《The Boba Teashop》《Yan Parasomnia》《Abashed》」（原文："Its Gonna Be Spooky Sunday this week!! Lets see how they  gonna  spook us!!  The Boba Teashop By @MikeTenDev  Yan Parasomnia By @nimbusgamesdev  Abashed By @supanthapaul"）
 - 2025-03-16 · @indiejam_my（439 粉）· 赞 15 / 转 8 / 回复 0 / 浏览 1345 · https://x.com/indiejam_my/status/1901200614589120765
-  > Indie Jam's signature Southeast Asian indie game showcase returns with four exciting titles - Yan Parasomnia, Kooeh: A Timeless Delight, Weyrdlets, and Glyphica: Typing Survival!  Keep watching this space for even more game announcements, coming soon!
+  > 「Indie Jam 标志性的东南亚独立游戏展示回归，带来四款精彩作品——《Yan Parasomnia》《Kooeh: A Timeless Delight》《Weyrdlets》和《Glyphica: Typing Survival》！敬请关注更多游戏公布，即将到来！」（原文："Indie Jam's signature Southeast Asian indie game showcase returns with four exciting titles - Yan Parasomnia, Kooeh: A Timeless Delight, Weyrdlets, and Glyphica: Typing Survival!  Keep watching this space for even more game announcements, coming soon!"）
 - 2025-03-16 · @SEAGamethetic（12164 粉）· 赞 21 / 转 5 / 回复 0 / 浏览 745 · https://x.com/SEAGamethetic/status/1901201388119695388
-  > Indie Jam is return again with four titles from SEA :  Weyrdlets @weyrdlets 🇲🇾 Yan Parasomnia @CerebralGameDev 🇲🇾 Kooeh: A Timeless Delight @tfgames_ 🇲🇾 Glyphica @_aliasBLACK 🇸🇬
+  > 「Indie Jam 再次回归，带来四款东南亚作品：《Weyrdlets》🇲🇾《Yan Parasomnia》🇲🇾《Kooeh: A Timeless Delight》🇲🇾《Glyphica》🇸🇬」（原文："Indie Jam is return again with four titles from SEA :  Weyrdlets @weyrdlets 🇲🇾 Yan Parasomnia @CerebralGameDev 🇲🇾 Kooeh: A Timeless Delight @tfgames_ 🇲🇾 Glyphica @_aliasBLACK 🇸🇬"）
 - 2025-03-20 · @YufiMago（3644 粉）· 赞 7 / 转 3 / 回复 0 / 浏览 362 · https://x.com/YufiMago/status/1902631193339990308
-  > 🕑 𝘵𝘰𝘥𝘢𝘺 𝘴𝘵𝘳𝘦𝘢𝘮♡₊⁺  ⌛09:30pm~      ˹ Yan: Parasomnia ˼  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Tonight exploring our childhood home with @AxelAxotis 👻  ▫️YT┊  ▫️Twitch┊
+  > 「🕑 今日直播♡ ⌛晚上 9:30～ ˹ Yan: Parasomnia ˼ 今晚和👻一起探索我们的童年老家 ▫️YouTube ▫️Twitch」（原文："🕑 𝘵𝘰𝘥𝘢𝘺 𝘴𝘵𝘳𝘦𝘢𝘮♡₊⁺  ⌛09:30pm~      ˹ Yan: Parasomnia ˼  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Tonight exploring our childhood home with @AxelAxotis 👻  ▫️YT┊  ▫️Twitch┊"）
 - 2025-03-25 · @KattThistle（1326 粉）· 赞 7 / 转 4 / 回复 0 / 浏览 313 · https://x.com/KattThistle/status/1904475005360161042
-  > KATT STREM 🔴  The Days of Ramadan Steam Festival continues! Games: A Dance of Fire and Ice + Yan Parasomnia Devs: 7th Beat Games + Cerebral Games  Tags: @proj_orbit @SEAGamethetic
+  > 「直播中 🔴 斋月 Steam 游戏节继续！游戏：《A Dance of Fire and Ice》+《Yan Parasomnia》开发者：7th Beat Games + Cerebral Games」（原文："KATT STREM 🔴  The Days of Ramadan Steam Festival continues! Games: A Dance of Fire and Ice + Yan Parasomnia Devs: 7th Beat Games + Cerebral Games  Tags: @proj_orbit @SEAGamethetic"）
 - 2025-03-27 · @BrueSreasta（3044 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 51 · https://x.com/BrueSreasta/status/1905296185205887000
-  > ✨ Today's games: ① Yan: Parasomnia - @nimbusgamesdev ( ② The Boba Teashop - @MikeTenDev (
+  > 「✨ 今天的游戏：①《Yan: Parasomnia》②《The Boba Teashop》」（原文："✨ Today's games: ① Yan: Parasomnia - @nimbusgamesdev ( ② The Boba Teashop - @MikeTenDev ("）
 - 2025-04-30 · @MagindaraVT（1226 粉）· 赞 3 / 转 2 / 回复 1 / 浏览 443 · https://x.com/MagindaraVT/status/1917534456648290564
-  > 🔴LIVE: Yan Parasomnia (demo), Am I Nima (demo) + REPO with Team Time to Get Sticky  Someone died. I died(?). We all die together.   April 30, 2025 | 7:00 pm  #MagindaraLive
+  > 「🔴直播：《Yan Parasomnia》（Demo）、《Am I Nima》（Demo）+ 和 Team Time to Get Sticky 一起玩《REPO》。有人死了。我死了（？）。我们一起死。2025 年 4 月 30 日 晚 7 点」（原文："🔴LIVE: Yan Parasomnia (demo), Am I Nima (demo) + REPO with Team Time to Get Sticky  Someone died. I died(?). We all die together.   April 30, 2025 | 7:00 pm  #MagindaraLive"）
 - 2025-05-05 · @NateDoesHorror（280 粉）· 赞 5 / 转 0 / 回复 0 / 浏览 74 · https://x.com/NateDoesHorror/status/1919184402225275050
-  > Todays horror games are!:  Pretend It's Not There by Dreadloom Studios & Yan Parasomnia (Demo) by Cerebral Games & Nimbus Games  Watch me curse these games out LIVE on:   See you there!
+  > 「今天的恐怖游戏是！：Dreadloom Studios 的《Pretend It's Not There》和 Cerebral Games & Nimbus Games 的《Yan Parasomnia》（Demo）。来直播间看我边玩边骂！到时见！」（原文："Todays horror games are!:  Pretend It's Not There by Dreadloom Studios & Yan Parasomnia (Demo) by Cerebral Games & Nimbus Games  Watch me curse these games out LIVE on:   See you there!"）
 - 2025-12-09 · @poruchan09（756 粉）· 赞 2 / 转 1 / 回复 1 / 浏览 57 · https://x.com/poruchan09/status/1998312829829665011
-  > 🔴 Live now!  Streaming both demos of Nightmare Circus by @fairplay_games and Yan Parasomnia by @CerebralGameDev   I'm on YT and Twitch    🫰💖
+  > 「🔴 正在直播！两个 Demo：《Nightmare Circus》和《Yan Parasomnia》，YouTube 和 Twitch 同步 🫰💖」（原文："🔴 Live now!  Streaming both demos of Nightmare Circus by @fairplay_games and Yan Parasomnia by @CerebralGameDev   I'm on YT and Twitch    🫰💖"）
 - 2026-05-14 · @NaviGames_es（14541 粉）· 赞 3 / 转 1 / 回复 1 / 浏览 304 · https://x.com/NaviGames_es/status/2054901596270575695
-  > Primeras impresiones de Yan: Parasomnia. Pesadilla para dos. | @nimbusgamesdev   🖋️: @VashWasTaken
+  > 「《Yan: Parasomnia》第一印象。双人噩梦。」（原文："Primeras impresiones de Yan: Parasomnia. Pesadilla para dos. | @nimbusgamesdev   🖋️: @VashWasTaken"）
 - 2026-06-11 · @DevLand95213410（6999 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 10 · https://x.com/DevLand95213410/status/2065036269625696387
-  > co op singleplayer psychological horror Silent Hill meets Yan Parasomnia
+  > 「合作／单人心理恐怖，《寂静岭》遇上《Yan Parasomnia》」（原文："co op singleplayer psychological horror Silent Hill meets Yan Parasomnia"）
 - 2026-06-18 · @Pirat_Nation（358270 粉）· 赞 157 / 转 11 / 回复 9 / 浏览 17151 · https://x.com/Pirat_Nation/status/2067561165064970726
-  > Trailer for Yan魇: Parasomnia, a story-driven horror game inspired by classics like Resident Evil and Fatal Frame, with themes based on Southeast Asian folklore.  During the Hungry Ghost Festival, siblings Wan Zhi Min and Zhi Han are caught in a terrifying mystery involving
+  > 「《Yan魇: Parasomnia》预告，一款受《生化危机》《零》等经典启发的剧情驱动恐怖游戏，主题取材自东南亚民间传说。中元节期间，兄妹温志敏和志汉卷入一桩可怕的谜团，牵涉……」（原文："Trailer for Yan魇: Parasomnia, a story-driven horror game inspired by classics like Resident Evil and Fatal Frame, with themes based on Southeast Asian folklore.  During the Hungry Ghost Festival, siblings Wan Zhi Min and Zhi Han are caught in a terrifying mystery involving"）
 - 2026-06-18 · @zxxkgkillerxxz（218 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 189 · https://x.com/zxxkgkillerxxz/status/2067637930718577142
-  > Trailer for Yan魇: Parasomnia, a story-driven horror game inspired by classics like Resident Evil and Fatal Frame, with themes based on Southeast Asian folklore.  During the Hungry Ghost Festival, siblings Wan Zhi Min and Zhi Han are caught in a terrifying mystery involving
+  > 「《Yan魇: Parasomnia》预告，一款受《生化危机》《零》等经典启发的剧情驱动恐怖游戏，主题取材自东南亚民间传说。中元节期间，兄妹温志敏和志汉卷入一桩可怕的谜团，牵涉……」（原文："Trailer for Yan魇: Parasomnia, a story-driven horror game inspired by classics like Resident Evil and Fatal Frame, with themes based on Southeast Asian folklore.  During the Hungry Ghost Festival, siblings Wan Zhi Min and Zhi Han are caught in a terrifying mystery involving"）
 - 2026-06-18 · @indiehorrorgmr（54 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 9 · https://x.com/indiehorrorgmr/status/2067720397882052679
-  > Coming Soon: Sibling co-op narrative horror, Yan Parasomnia
+  > 「即将推出：兄妹合作叙事恐怖《Yan Parasomnia》」（原文："Coming Soon: Sibling co-op narrative horror, Yan Parasomnia"）
 - 2026-07-01 · @DevLand95213410（6999 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 110 · https://x.com/DevLand95213410/status/2072353900451992032
-  > 【YAN PARASOMNIA release in august】
+  > 「【YAN PARASOMNIA 八月发售】」（原文："【YAN PARASOMNIA release in august】"）
 - 2026-07-15 · @DevLand95213410（6999 粉）· 赞 11 / 转 5 / 回复 0 / 浏览 541 · https://x.com/DevLand95213410/status/2077414887169700299
-  > 2 #indiegames releasing in AUGUST 👀  Yan魇: Parasomnia - co op singleplayer psychological horror  Full release date: 27 august  Make a wish on Steam:    The Last Worlds : Crossed Souls - 3D Action RPG open world like pokemon and Dragon Quest   EARLY ACCESS
+  > 「8 月发售的 2 款 👀《Yan魇: Parasomnia》——合作／单人心理恐怖，正式发售日：8 月 27 日，在 Steam 加愿望单；《The Last Worlds: Crossed Souls》——类似宝可梦和勇者斗恶龙的 3D 开放世界动作 RPG，抢先体验」（原文："2 #indiegames releasing in AUGUST 👀  Yan魇: Parasomnia - co op singleplayer psychological horror  Full release date: 27 august  Make a wish on Steam:    The Last Worlds : Crossed Souls - 3D Action RPG open world like pokemon and Dragon Quest   EARLY ACCESS"）
 - 2026-07-20 · @DevLand95213410（6999 粉）· 赞 13 / 转 1 / 回复 4 / 浏览 817 · https://x.com/DevLand95213410/status/2079244969701786070
-  > Full release in 27 august Yan魇: Parasomnia  Co op single-player psychological horror 👀  Make a wish on Steam:    BETA key:    #indiegames #gaming
+  > 「8 月 27 日正式发售《Yan魇: Parasomnia》合作／单人心理恐怖 👀 在 Steam 加愿望单：测试 Key：」（原文："Full release in 27 august Yan魇: Parasomnia  Co op single-player psychological horror 👀  Make a wish on Steam:    BETA key:    #indiegames #gaming"）
 - 2026-07-27 · @ProRogueBear（1258 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 48 · https://x.com/ProRogueBear/status/2081786961648378061
-  > New video out now 📺   A Family Funeral Becomes a Nightmare - yan: Parasomnia
+  > 「新视频上线 📺 一场家族葬礼变成噩梦——《Yan: Parasomnia》」（原文："New video out now 📺   A Family Funeral Becomes a Nightmare - yan: Parasomnia"）
 - 2026-07-30 · @DevLand95213410（6999 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 276 · https://x.com/DevLand95213410/status/2082925218910126109
-  > Yan: Parasomnia delayed the release date , postponed it with 1 year , means august 2027 🥲🫪  Quality first 🥇👌
+  > 「《Yan: Parasomnia》推迟发售了，延后 1 年，也就是 2027 年 8 月 🥲🫪 质量第一 🥇👌」（原文："Yan: Parasomnia delayed the release date , postponed it with 1 year , means august 2027 🥲🫪  Quality first 🥇👌"）
 
 ### 回复区（按时间）
 - 2025-03-03 · @SEAGamethetic（12164 粉）· 赞 5 / 转 0 / 回复 1 / 浏览 189 · https://x.com/SEAGamethetic/status/1896458491101118657
-  > @writinenin @shamefulGuys @inuracent @makciksimmer @GrammarianLtd @algorocks @WisageniGames @PQubeGames @SeranityEverlyn @hr_simulator @Fuuwafu will play:  Yan Parasomnia @nimbusgamesdev  Cold Abyss @NeonDoctrine
+  > 「将会玩：《Yan Parasomnia》《Cold Abyss》」（原文："@writinenin @shamefulGuys @inuracent @makciksimmer @GrammarianLtd @algorocks @WisageniGames @PQubeGames @SeranityEverlyn @hr_simulator @Fuuwafu will play:  Yan Parasomnia @nimbusgamesdev  Cold Abyss @NeonDoctrine"）
 - 2025-03-06 · @SEAGamethetic（12164 粉）· 赞 3 / 转 1 / 回复 1 / 浏览 243 · https://x.com/SEAGamethetic/status/1897619934756368514
-  > @DelkaTsuzuku will play:  Yan Parasomnia @nimbusgamesdev  Acts of Blood @Fajrul97   [33]
+  > 「将会玩：《Yan Parasomnia》《Acts of Blood》[33]」（原文："@DelkaTsuzuku will play:  Yan Parasomnia @nimbusgamesdev  Acts of Blood @Fajrul97   [33]"）
 - 2025-03-10 · @SEAGamethetic（12164 粉）· 赞 2 / 转 0 / 回复 2 / 浏览 259 · https://x.com/SEAGamethetic/status/1899089185279259027
-  > @OGundam:  DADOO @algorocks  Yan Parasomnia @CerebralGameDev  A Dance of Fire and Ice @adofai   [26]
+  > 「：《DADOO》《Yan Parasomnia》《A Dance of Fire and Ice》[26]」（原文："@OGundam:  DADOO @algorocks  Yan Parasomnia @CerebralGameDev  A Dance of Fire and Ice @adofai   [26]"）
 - 2025-03-17 · @SEAGamethetic（12164 粉）· 赞 3 / 转 1 / 回复 1 / 浏览 159 · https://x.com/SEAGamethetic/status/1901611621371556216
-  > @KarinKishime1:  SIMULACRA @KaiganHQ  Escape from the Cursed Convent by Ais Kacang Studio Yan Parasomnia @CerebralGameDev  Demos from The Days of Ramadan Festival 2025  [19]
+  > 「：《SIMULACRA》、Ais Kacang Studio 的《Escape from the Cursed Convent》、《Yan Parasomnia》——2025 斋月游戏节的 Demo [19]」（原文："@KarinKishime1:  SIMULACRA @KaiganHQ  Escape from the Cursed Convent by Ais Kacang Studio Yan Parasomnia @CerebralGameDev  Demos from The Days of Ramadan Festival 2025  [19]"）
 - 2025-04-27 · @NagasariFerrea（764 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 16 · https://x.com/NagasariFerrea/status/1916340311934275834
-  > @hollow_hanma Yaaaassssasa I loveeeee Yan Parasomnia 🫶
+  > 「耶耶耶我超爱《Yan Parasomnia》🫶」（原文："@hollow_hanma Yaaaassssasa I loveeeee Yan Parasomnia 🫶"）
 - 2025-12-09 · @DevlinBataric（1373 粉）· 赞 2 / 转 0 / 回复 1 / 浏览 98 · https://x.com/DevlinBataric/status/1998410236831609316
-  > @Jingga_ch @SEAGamethetic @VirtualSEAsia @PlayPrimeShow @asosiasigame_id @WMOgame @NekoOdyssey @nimbusgamesdev @rollinggloryjam @mrbuffalo7 @InspiteGames @KaoludKung24 @tfgames_ Wah, Yan Parasomnia sih Bakal merinding disco tuh ✨🥶😱
+  > 「哇，《Yan Parasomnia》啊，肯定会吓得起鸡皮疙瘩 ✨🥶😱」（原文："@Jingga_ch @SEAGamethetic @VirtualSEAsia @PlayPrimeShow @asosiasigame_id @WMOgame @NekoOdyssey @nimbusgamesdev @rollinggloryjam @mrbuffalo7 @InspiteGames @KaoludKung24 @tfgames_ Wah, Yan Parasomnia sih Bakal merinding disco tuh ✨🥶😱"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -147,7 +147,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-马来西亚团队，2025 年起就连续参加 SEA Indie Jam、斋月 Steam 节等东南亚展会，有发行商 Nimbus Games；西语媒体 NaviGames 写过首玩印象。X 消息称发售推迟一年到 2027-08（「Quality first」）。**可靠程度：中高**。
+马来西亚团队，2025 年起就连续参加 SEA Indie Jam、斋月 Steam 节等东南亚展会，有发行商 Nimbus Games；西语媒体 NaviGames 写过首玩印象。X 消息称发售推迟一年到 2027-08（「质量第一」（原文："Quality first"））。**可靠程度：中高**。
 
 ## 综合评价（对照《***》）
 
@@ -155,7 +155,7 @@ discovery_date: "2026-10-10"
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Pirat_Nation/status/2067561165064970726（检索「chinese horror / jiangshi」发现：Pirat_Nation（35.8 万粉）转发预告，2026-06-18，157 赞 / 1.7 万浏览）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Pirat_Nation/status/2067561165064970726（检索「中式恐怖 / 僵尸」（原文："chinese horror / jiangshi"）发现：Pirat_Nation（35.8 万粉）转发预告，2026-06-18，157 赞 / 1.7 万浏览）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/2967220/ 与 appreviews 接口，原始数据 tmp/x/steam/yanparasomnia.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -164,11 +164,11 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@nimbusgamesdev、@CerebralGameDev；该时段原创帖 3 条（不含转推）
 - 2026-09-12 · 14 赞 / 4 转 / 1 回 / 453 浏览 · https://x.com/nimbusgamesdev/status/2098604800049102933
-  > The twelfth night of the ninth month.  The rain has not ceased.  No birds sing beyond the trees, and again I heard footsteps outside the house though no man passed the road.  At dusk, the yatai old man warned me not to follow the lanterns into the village.  I should have https:// 〔X·@nimbusgamesdev〕
+  > 「九月十二日夜。雨仍未停。树林外没有鸟鸣，我又听见屋外有脚步声，尽管路上并无行人。黄昏时，屋台的老人警告我不要跟着灯笼进村。我本该……」（原文："The twelfth night of the ninth month.  The rain has not ceased.  No birds sing beyond the trees, and again I heard footsteps outside the house though no man passed the road.  At dusk, the yatai old man warned me not to follow the lanterns into the village.  I should have https://"） 〔X·@nimbusgamesdev〕
 - 2026-10-09 · 8 赞 / 1 转 / 1 回 / 234 浏览 · https://x.com/nimbusgamesdev/status/2108485543747322347
-  > Misery thrives in the sorrow we share.    Escape: Malice is now available to play with Steam's Friend Pass! Join a friend who owns the game with a room code to experience the perils of the cursed mansion together.  Steam Page Link: https://t.co/Eeqg5etiVr https://t.co/XJVAcAYLcP 〔X·@nimbusgamesdev〕
+  > 「苦难在我们共同的悲伤中滋长。《Escape: Malice》现在支持 Steam 好友通行证！用房间代码加入拥有游戏的好友，一起体验受诅咒宅邸的危险。Steam 页面链接：」（原文："Misery thrives in the sorrow we share.    Escape: Malice is now available to play with Steam's Friend Pass! Join a friend who owns the game with a room code to experience the perils of the cursed mansion together.  Steam Page Link: https://t.co/Eeqg5etiVr https://t.co/XJVAcAYLcP"） 〔X·@nimbusgamesdev〕
 - 2026-09-12 · 3 赞 / 1 转 / 0 回 / 161 浏览 · https://x.com/nimbusgamesdev/status/2098628141510222291
-  > 九月十二日の夜。雨はいまだ止まない。  老人は言った。 「村へ続く提灯を追ってはならない」と。  ……聞くべきだった。  森のはずれの家で、何かが私の名を呼んでいる。  『脱出：怨念』期間限定 60% OFF  夜更けに戸を叩く音がしたら―― 友を呼べ。  https://t.co/sm8qkiIkaR 〔X·@nimbusgamesdev〕
+  > 「九月十二日夜。雨仍未停。老人说：「不要追随通往村子的灯笼。」……我本该听的。在森林边缘的房子里，有什么东西在呼唤我的名字。《脱出：怨念》限时 4 折（60% OFF）。若深夜听到敲门声——叫上朋友。」（原文："九月十二日の夜。雨はいまだ止まない。  老人は言った。 「不要追随通往村子的灯笼」（原文："村へ続く提灯を追ってはならない"）と。  ……聞くべきだった。  森のはずれの家で、何かが私の名を呼んでいる。  『脱出：怨念』期間限定 60% OFF  夜更けに戸を叩く音がしたら―― 友を呼べ。  https://t.co/sm8qkiIkaR"） 〔X·@nimbusgamesdev〕
 
 <!-- added:2026-10-10 -->
 

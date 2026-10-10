@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-07 · @myzzgames（42 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 64 · https://x.com/myzzgames/status/2096957755097829546
-  > I've been building Shan Hai: Mythic Origins as an indie developer, and here's the latest trailer! 🎮  A roguelike inspired by Chinese mythology, featuring Five-Element combat, mythical beast companions, different weapons and builds, and up to 4-player co-op.  There's still a lot
+  > 「我作为独立开发者一直在做《Shan Hai: Mythic Origins》（山海：神话起源），这是最新预告！🎮 一款受中国神话启发的 Roguelike，有五行战斗、神兽伙伴、多种武器和 Build，最多支持 4 人合作。还有很多……」（原文："I've been building Shan Hai: Mythic Origins as an indie developer, and here's the latest trailer! 🎮  A roguelike inspired by Chinese mythology, featuring Five-Element combat, mythical beast companions, different weapons and builds, and up to 4-player co-op.  There's still a lot"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -101,7 +101,7 @@ X 账号 42 粉，帖子互动近零。截图特效丰富但美术风格混杂�
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/myzzgames/status/2096957755097829546（检索「chinese mythology wishlist」发现：「I've been building Shan Hai: Mythic Origins as an indie developer…」2026-09-07）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/myzzgames/status/2096957755097829546（检索「中国神话，愿望单」（原文："chinese mythology wishlist"）发现：「我作为独立开发者一直在做《Shan Hai: Mythic Origins》……」（原文："I've been building Shan Hai: Mythic Origins as an indie developer…"）2026-09-07）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/3540450/ 与 appreviews 接口，原始数据 tmp/x/steam/shanhai.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -110,21 +110,21 @@ X 账号 42 粉，帖子互动近零。截图特效丰富但美术风格混杂�
 
 - 追踪账号：@myzzgames；该时段原创帖 13 条（不含转推）
 - 2026-09-10 · 4 赞 / 0 转 / 0 回 / 159 浏览 · https://x.com/myzzgames/status/2097906456658108635
-  > Cheng Gang + Purple Weapon ⚔️  Slotting in a Wood Orb Fragment. 🌿  Now his skills gain Wood-element damage!  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/xnCQ4KXz9T 〔X·@myzzgames〕
+  > 「程刚 + 紫色武器 ⚔️ 镶入一块木灵珠碎片。🌿 现在他的技能附带木属性伤害了！」（原文："Cheng Gang + Purple Weapon ⚔️  Slotting in a Wood Orb Fragment. 🌿  Now his skills gain Wood-element damage!  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/xnCQ4KXz9T"） 〔X·@myzzgames〕
 - 2026-09-23 · 3 赞 / 0 转 / 1 回 / 128 浏览 · https://x.com/myzzgames/status/2102585874160685084
-  > Another update for the Misty Forest today. I added more fog to make this old forest feel more mysterious.  What do you think about the atmosphere now? #indiegame #ScreenshotSaturday #WishlistWednesday #roguelite #gamedev https://t.co/LkIHoQUP94 〔X·@myzzgames〕
+  > 「今天又更新了迷雾森林。我加了更多雾，让这片古老的森林显得更神秘。你觉得现在的氛围怎么样？」（原文："Another update for the Misty Forest today. I added more fog to make this old forest feel more mysterious.  What do you think about the atmosphere now? #indiegame #ScreenshotSaturday #WishlistWednesday #roguelite #gamedev https://t.co/LkIHoQUP94"） 〔X·@myzzgames〕
 - 2026-09-18 · 3 赞 / 0 转 / 0 回 / 323 浏览 · https://x.com/myzzgames/status/2100748908280590693
-  > Why does my Tripo × GPT-6 Astra result look like this?  Here’s the workflow I used:  1 - started with an image I found online. I believe it’s from the original artist.  2 - used Tripo to generate the 3D models. This step actually turned out pretty well.  3 - used Astra with https 〔X·@myzzgames〕
+  > 「为什么我的 Tripo × GPT-6 Astra 结果长这样？我的流程是：1——从网上找了一张图，应该是原作者画的。2——用 Tripo 生成 3D 模型，这步效果其实挺好。3——用 Astra……」（原文："Why does my Tripo × GPT-6 Astra result look like this?  Here’s the workflow I used:  1 - started with an image I found online. I believe it’s from the original artist.  2 - used Tripo to generate the 3D models. This step actually turned out pretty well.  3 - used Astra with https"） 〔X·@myzzgames〕
 - 2026-09-16 · 3 赞 / 0 转 / 0 回 / 89 浏览 · https://x.com/myzzgames/status/2100051592749998239
-  > Fire Rain and Explosive Fruits are coming! 🔥💥 Explosions everywhere,let’s see who can make it out alive!  #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/3yEuDCkYH8 〔X·@myzzgames〕
+  > 「火雨和爆炸果实来了！🔥💥 到处都在爆炸，看看谁能活着出去！」（原文："Fire Rain and Explosive Fruits are coming! 🔥💥 Explosions everywhere,let’s see who can make it out alive!  #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/3yEuDCkYH8"） 〔X·@myzzgames〕
 - 2026-09-15 · 3 赞 / 0 转 / 1 回 / 128 浏览 · https://x.com/myzzgames/status/2099842070320173489
-  > Fire Rain and Explosive Fruits are coming! 🔥💥 Explosions everywhere,let’s see who can make it out alive!  #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/DkWVYEToj8 〔X·@myzzgames〕
+  > 「火雨和爆炸果实来了！🔥💥 到处都在爆炸，看看谁能活着出去！」（原文："Fire Rain and Explosive Fruits are coming! 🔥💥 Explosions everywhere,let’s see who can make it out alive!  #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/DkWVYEToj8"） 〔X·@myzzgames〕
 - 2026-09-10 · 3 赞 / 1 转 / 1 回 / 114 浏览 · https://x.com/myzzgames/status/2098020188356829218
-  > Same Cheng Gang. Same Purple Weapon. ⚔️🌿  This time, with a Wood Orb Half-Core!  His attacks now gain a special Wood-element effect. Watch what happens to the mythical beasts…  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/1tjPfOdfQy 〔X·@myzzgames〕
+  > 「同样的程刚，同样的紫色武器。⚔️🌿 这次换成木灵珠半核！他的攻击现在带特殊木属性效果。看看神兽们会怎么样……」（原文："Same Cheng Gang. Same Purple Weapon. ⚔️🌿  This time, with a Wood Orb Half-Core!  His attacks now gain a special Wood-element effect. Watch what happens to the mythical beasts…  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/1tjPfOdfQy"） 〔X·@myzzgames〕
 - 2026-09-21 · 2 赞 / 0 转 / 2 回 / 82 浏览 · https://x.com/myzzgames/status/2101888892849049955
-  > The Updated Misty Forest 🌳  I’ve made some new changes to the Misty Forest, adding lots of strange flowers and twisted trees.  What do you think? Does the forest feel more atmospheric now? #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/09ObeF4g9S 〔X·@myzzgames〕
+  > 「更新后的迷雾森林 🌳 我对迷雾森林做了些新改动，加了很多奇怪的花和扭曲的树。你觉得呢？森林是不是更有氛围了？」（原文："The Updated Misty Forest 🌳  I’ve made some new changes to the Misty Forest, adding lots of strange flowers and twisted trees.  What do you think? Does the forest feel more atmospheric now? #indiegame #gamedev #indiedev #ue5 #ShanHaiMythicOrigins https://t.co/09ObeF4g9S"） 〔X·@myzzgames〕
 - 2026-09-15 · 2 赞 / 0 转 / 2 回 / 64 浏览 · https://x.com/myzzgames/status/2099733471119970391
-  > Cheng Gang + Purple Weapon + Full Wood Orb 🌿⚔️  Fragment → Half-Core → Full Orb.  The full power of the Wood element is finally unlocked! 🌿🔥  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/hJhVb6UnqN 〔X·@myzzgames〕
+  > 「程刚 + 紫色武器 + 完整木灵珠 🌿⚔️ 碎片 → 半核 → 完整灵珠。木属性的全部力量终于解锁！🌿🔥」（原文："Cheng Gang + Purple Weapon + Full Wood Orb 🌿⚔️  Fragment → Half-Core → Full Orb.  The full power of the Wood element is finally unlocked! 🌿🔥  #gamedev #indiedev #roguelike #ue5 #ShanHaiMythicOrigins https://t.co/hJhVb6UnqN"） 〔X·@myzzgames〕
 
 <!-- added:2026-10-10 -->
 

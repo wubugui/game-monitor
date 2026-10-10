@@ -68,11 +68,11 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-05 · @nexindie（40185 粉）· 赞 287 / 转 31 / 回复 1 / 浏览 8582 · https://x.com/nexindie/status/2107126623493566468
-  > First public demo now available for 'Inkblood', a hand-drawn occult detective adventure game inspired by Golden Idol, and Strange Horticulture.  Steam page:
+  > 「《Inkblood》首个公开 Demo 现已推出，这是一款受《Golden Idol》和《Strange Horticulture》启发的手绘神秘学侦探冒险游戏。Steam 页面：」（原文："First public demo now available for 'Inkblood', a hand-drawn occult detective adventure game inspired by Golden Idol, and Strange Horticulture.  Steam page:"）
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-10-02 · @TheGamersTemple（4665 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 42 · https://x.com/TheGamersTemple/status/2105844403462140167
-  > The occult detective game Inkblood has released a demo on Steam. #games #indiegames www.​gamerstemple.​com/news/2026/10/01/inkblood-drips-demo
+  > 「神秘学侦探游戏《Inkblood》在 Steam 上发布了 Demo。」（原文："The occult detective game Inkblood has released a demo on Steam. #games #indiegames www.​gamerstemple.​com/news/2026/10/01/inkblood-drips-demo"）
 
 ### 回复区（按时间）
 - 本轮拉取 conversation 未见回复

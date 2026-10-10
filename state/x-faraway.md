@@ -68,22 +68,22 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-30 · @_4rch1t3ct（2299 粉）· 赞 509 / 转 41 / 回复 10 / 浏览 8342 · https://x.com/_4rch1t3ct/status/2105340057104142523
-  > MY BEAUTIFUL FARAWAY random gameplay snippets  Full game releases on October 13th    #indie #gamedev #solodev #godot #liminal #atmospheric #walkingsim #ps2 #psx #retro #horror #psychological #narrative #adventure #mystery #dreamcore
+  > 「《MY BEAUTIFUL FARAWAY》随机实机片段。完整版 10 月 13 日发售」（原文："MY BEAUTIFUL FARAWAY random gameplay snippets  Full game releases on October 13th    #indie #gamedev #solodev #godot #liminal #atmospheric #walkingsim #ps2 #psx #retro #horror #psychological #narrative #adventure #mystery #dreamcore"）
 - 2026-10-01 · @_4rch1t3ct（2299 粉）· 赞 149 / 转 9 / 回复 1 / 浏览 2210 · https://x.com/_4rch1t3ct/status/2105630975782736292
-  > i’m looking for players fluent in 🇯🇵 japanese or 🇨🇳 simplified chinese who’d like to play my game ASAP. dm me please  #indiegame #gamedev #solodev #horror #playtest #japanese #chinese #indie #psx #ps2 #retro #liminal
+  > 「我在找日语 🇯🇵 或简体中文 🇨🇳 流利的玩家，想尽快玩我的游戏。请私信我」（原文："i’m looking for players fluent in 🇯🇵 japanese or 🇨🇳 simplified chinese who’d like to play my game ASAP. dm me please  #indiegame #gamedev #solodev #horror #playtest #japanese #chinese #indie #psx #ps2 #retro #liminal"）
 - 2026-10-06 · @_4rch1t3ct（2299 粉）· 赞 41 / 转 7 / 回复 3 / 浏览 1002 · https://x.com/_4rch1t3ct/status/2107367346180628618
-  > My Beautiful Faraway will officially release on October 13, 2026.  10:00 AM PDT 5:00 PM UTC 7:00 PM CEST 8:00 PM MSK    #gamedev #indiegame #liminal #horror #psychological #godot #solodev #indiedev #indie #atmospheric #retro #psx #ps2 #steam #puzzle
+  > 「《My Beautiful Faraway》将于 2026 年 10 月 13 日正式发售。太平洋时间上午 10:00 / UTC 下午 5:00 / 欧洲中部夏令时晚上 7:00 / 莫斯科时间晚上 8:00（北京时间 10 月 14 日凌晨 1:00）」（原文："My Beautiful Faraway will officially release on October 13, 2026.  10:00 AM PDT 5:00 PM UTC 7:00 PM CEST 8:00 PM MSK    #gamedev #indiegame #liminal #horror #psychological #godot #solodev #indiedev #indie #atmospheric #retro #psx #ps2 #steam #puzzle"）
 - 2026-10-06 · @_4rch1t3ct（2299 粉）· 赞 232 / 转 22 / 回复 6 / 浏览 4407 · https://x.com/_4rch1t3ct/status/2107539258760134837
   > My Beautiful Faraway    #indie #horror #psychedelic #psychological #liminal #atmosphere #godot #gamedev #solodev #indiedev #retro #ps1 #ps2 #psx #retrogame #lowpoly #y2k #puzzlegame
 - 2026-10-07 · @_4rch1t3ct（2299 粉）· 赞 68 / 转 4 / 回复 0 / 浏览 2086 · https://x.com/_4rch1t3ct/status/2107888545902018690
-  > The soundtrack comes free with the game and will be automatically added to your steam library when you buy it
+  > 「原声音乐随游戏免费附赠，购买后会自动添加到你的 Steam 库」（原文："The soundtrack comes free with the game and will be automatically added to your steam library when you buy it"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-10-01 · @eska_faye（182 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 96 · https://x.com/eska_faye/status/2105642453261001196
-  > @_4rch1t3ct Dang, I'm still working on my N3 but wow this is gorgeous!
+  > 「天哪，我还在备考 N3（日语能力考试），但哇这太美了！」（原文："@_4rch1t3ct Dang, I'm still working on my N3 but wow this is gorgeous!"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -110,7 +110,7 @@ solo（Godot），X 2299 粉，帖子 509 赞。**可靠程度：中高**（已�
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/_4rch1t3ct/status/2105340057104142523（检索「AI / Chinese players」时发现：「MY BEAUTIFUL FARAWAY random gameplay snippets」，2026-09-30，509 赞）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/_4rch1t3ct/status/2105340057104142523（检索「AI / 中国玩家」（原文："AI / Chinese players"）时发现：「《MY BEAUTIFUL FARAWAY》随机实机片段」（原文："MY BEAUTIFUL FARAWAY random gameplay snippets"），2026-09-30，509 赞）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4516190/ 与 appreviews 接口，原始数据 tmp/x/steam/faraway.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -119,17 +119,17 @@ solo（Godot），X 2299 粉，帖子 509 赞。**可靠程度：中高**（已�
 
 - 追踪账号：@_4rch1t3ct；该时段原创帖 10 条（不含转推）
 - 2026-09-23 · 6835 赞 / 599 转 / 67 回 / 95913 浏览 · https://x.com/_4rch1t3ct/status/2102553565474566277
-  > Just sent the final build of the game to Steam for review... Can’t believe I actually made it this far...  My Beautiful Faraway releases October 13th.  https://t.co/GusZL6W4MQ  #gamedev #indiegame #liminal #horror #psycological #godot #solodev #indiedev #indie #atmospheric #retro 〔X·@_4rch1t3ct〕
+  > 「刚把游戏最终版本提交给 Steam 审核……真不敢相信我竟然走到了这一步……《My Beautiful Faraway》10 月 13 日发售。」（原文："Just sent the final build of the game to Steam for review... Can’t believe I actually made it this far...  My Beautiful Faraway releases October 13th.  https://t.co/GusZL6W4MQ  #gamedev #indiegame #liminal #horror #psycological #godot #solodev #indiedev #indie #atmospheric #retro"） 〔X·@_4rch1t3ct〕
 - 2026-09-10 · 567 赞 / 43 转 / 4 回 / 9411 浏览 · https://x.com/_4rch1t3ct/status/2097954573633863986
   > My Beautiful Faraway  https://t.co/GusZL6WCCo  #indiegame #liminal #retro #horror #psx #ps2 #gamedev #solodev #indiedev #indie #wip #horror #psychologicalhorror https://t.co/iRvgphmbHe 〔X·@_4rch1t3ct〕
 - 2026-09-30 · 509 赞 / 41 转 / 10 回 / 8342 浏览 · https://x.com/_4rch1t3ct/status/2105340057104142523
-  > MY BEAUTIFUL FARAWAY random gameplay snippets  Full game releases on October 13th  https://t.co/GusZL6W4MQ  #indie #gamedev #solodev #godot #liminal #atmospheric #walkingsim #ps2 #psx #retro #horror #psychological #narrative #adventure #mystery #dreamcore https://t.co/PYuDUtetgv 〔X·@_4rch1t3ct〕
+  > 「《MY BEAUTIFUL FARAWAY》随机实机片段。完整版 10 月 13 日发售」（原文："MY BEAUTIFUL FARAWAY random gameplay snippets  Full game releases on October 13th  https://t.co/GusZL6W4MQ  #indie #gamedev #solodev #godot #liminal #atmospheric #walkingsim #ps2 #psx #retro #horror #psychological #narrative #adventure #mystery #dreamcore https://t.co/PYuDUtetgv"） 〔X·@_4rch1t3ct〕
 - 2026-10-06 · 232 赞 / 22 转 / 6 回 / 4407 浏览 · https://x.com/_4rch1t3ct/status/2107539258760134837
   > My Beautiful Faraway  https://t.co/GusZL6W4MQ  #indie #horror #psychedelic #psychological #liminal #atmosphere #godot #gamedev #solodev #indiedev #retro #ps1 #ps2 #psx #retrogame #lowpoly #y2k #puzzlegame https://t.co/k2pMOW45ve 〔X·@_4rch1t3ct〕
 - 2026-10-01 · 149 赞 / 9 转 / 1 回 / 2210 浏览 · https://x.com/_4rch1t3ct/status/2105630975782736292
-  > i’m looking for players fluent in 🇯🇵 japanese or 🇨🇳 simplified chinese who’d like to play my game ASAP. dm me please  #indiegame #gamedev #solodev #horror #playtest #japanese #chinese #indie #psx #ps2 #retro #liminal https://t.co/RMRNrmA5RN 〔X·@_4rch1t3ct〕
+  > 「我在找日语 🇯🇵 或简体中文 🇨🇳 流利的玩家，想尽快玩我的游戏。请私信我」（原文："i’m looking for players fluent in 🇯🇵 japanese or 🇨🇳 simplified chinese who’d like to play my game ASAP. dm me please  #indiegame #gamedev #solodev #horror #playtest #japanese #chinese #indie #psx #ps2 #retro #liminal https://t.co/RMRNrmA5RN"） 〔X·@_4rch1t3ct〕
 - 2026-10-07 · 68 赞 / 4 转 / 0 回 / 2087 浏览 · https://x.com/_4rch1t3ct/status/2107888545902018690
-  > The soundtrack comes free with the game and will be automatically added to your steam library when you buy it https://t.co/WoL9r0HqKr 〔X·@_4rch1t3ct〕
+  > 「原声音乐随游戏免费附赠，购买后会自动添加到你的 Steam 库」（原文："The soundtrack comes free with the game and will be automatically added to your steam library when you buy it https://t.co/WoL9r0HqKr"） 〔X·@_4rch1t3ct〕
 - 2026-09-15 · 60 赞 / 0 转 / 1 回 / 1322 浏览 · https://x.com/_4rch1t3ct/status/2099984435685028057
   > puzzlesss #gamedev https://t.co/wAjyYpW1b7 〔X·@_4rch1t3ct〕
 - 2026-09-11 · 54 赞 / 0 转 / 1 回 / 1164 浏览 · https://x.com/_4rch1t3ct/status/2098504765558903050
@@ -137,7 +137,7 @@ solo（Godot），X 2299 粉，帖子 509 赞。**可靠程度：中高**（已�
 
 ### 更新帖下的玩家回复原话
 
-- 「@_4rch1t3ct Reminds me of Fears to Fathom, I really like the atmosphere though.」 〔X·@IndieGameWarden〕
+- 「让我想起《Fears to Fathom》，不过我真的很喜欢这个氛围。」（原文："@_4rch1t3ct Reminds me of Fears to Fathom, I really like the atmosphere though."） 〔X·@IndieGameWarden〕
 
 <!-- added:2026-10-10 -->
 

@@ -68,16 +68,16 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-07-24 · @FlufforeStudio（6265 粉）· 赞 1173 / 转 138 / 回复 9 / 浏览 72694 · https://x.com/FlufforeStudio/status/2080572107352891677
-  > The official PV for EMBERBOUND is now live! 🎆  Wishlist the game on Steam:   A playable demo is coming soon.  Thank you for following our journey. We hope to meet you in Andu Town this summer.  #furry #visualnovel #Emberbound
+  > 「《EMBERBOUND》（烬之约）官方 PV 上线了！🎆 在 Steam 上加愿望单：可玩 Demo 即将推出。感谢一路关注我们。希望今年夏天在安渡镇与你相见。」（原文："The official PV for EMBERBOUND is now live! 🎆  Wishlist the game on Steam:   A playable demo is coming soon.  Thank you for following our journey. We hope to meet you in Andu Town this summer.  #furry #visualnovel #Emberbound"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-08-14 · @Mm2loverC43027（6 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 1062 · https://x.com/Mm2loverC43027/status/2088101509036736721
-  > @FlufforeStudio yooo when yall gonna release chapter 2??
+  > 「哟，你们啥时候出第 2 章？？」（原文："@FlufforeStudio yooo when yall gonna release chapter 2??"）
 - 2026-08-26 · @BalioUzumaki（2 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 282 · https://x.com/BalioUzumaki/status/2092693953145721259
-  > @FlufforeStudio Dear Fluffore, Would it be okay if I made and published videos about your game? Thank you in advance for your answer! I’m also looking forward to the next chapter.
+  > 「亲爱的 Fluffore：我可以制作并发布关于你们游戏的视频吗？先谢谢回复！我也很期待下一章。」（原文："@FlufforeStudio Dear Fluffore, Would it be okay if I made and published videos about your game? Thank you in advance for your answer! I’m also looking forward to the next chapter."）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -96,7 +96,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国开发者帖里互动最高。已有 Patreon 付费支持者（回复里提到「Chapter 2 build for our Patreon supporters」），回复中用中文回应 UI 意见。**可靠程度：中高**（有付费社群和持续交付）。
+Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国开发者帖里互动最高。已有 Patreon 付费支持者（回复里提到「给 Patreon 支持者的第 2 章版本」（原文："Chapter 2 build for our Patreon supporters"）），回复中用中文回应 UI 意见。**可靠程度：中高**（有付费社群和持续交付）。
 
 ## 综合评价（对照《***》）
 
@@ -113,34 +113,34 @@ Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国
 
 - 追踪账号：@FlufforeStudio；该时段原创帖 11 条（不含转推）
 - 2026-09-19 · 2794 赞 / 182 转 / 14 回 / 95760 浏览 · https://x.com/FlufforeStudio/status/2101212620485525601
-  > We’ve received a few questions recently, so we’d like to clarify how future Emberbound releases will work.  Chapter 1 will remain available as a free demo, and in the coming days we’ll also make Chapter 2 publicly available as an extended preview.  We’re doing this to give more 〔X·@FlufforeStudio〕
+  > 「最近收到一些提问，所以我们想说明一下 Emberbound 之后的发布方式。第 1 章会继续作为免费 Demo 提供，接下来几天我们也会把第 2 章作为扩展预览公开发布。这么做是为了给更多……」（原文："We’ve received a few questions recently, so we’d like to clarify how future Emberbound releases will work.  Chapter 1 will remain available as a free demo, and in the coming days we’ll also make Chapter 2 publicly available as an extended preview.  We’re doing this to give more"） 〔X·@FlufforeStudio〕
 - 2026-10-05 · 1925 赞 / 201 转 / 21 回 / 35922 浏览 · https://x.com/FlufforeStudio/status/2107163370633969784
-  > Emberbound Chapter 2 is now available!  Sorry to keep you waiting! You can now download and play Chapter 2 for free from our official website:  ⁠https://t.co/wu9QrtTOnV  Available on Windows, macOS, Android &amp; iOS (iOS requires sideloading/self-signing).  Languages: Simplified 〔X·@FlufforeStudio〕
+  > 「Emberbound 第 2 章现已推出！抱歉让大家久等了！现在可以从我们的官网免费下载游玩第 2 章：支持 Windows、macOS、Android 和 iOS（iOS 需要侧载/自签名）。语言：简体……」（原文："Emberbound Chapter 2 is now available!  Sorry to keep you waiting! You can now download and play Chapter 2 for free from our official website:  ⁠https://t.co/wu9QrtTOnV  Available on Windows, macOS, Android &amp; iOS (iOS requires sideloading/self-signing).  Languages: Simplified"） 〔X·@FlufforeStudio〕
 - 2026-09-22 · 1753 赞 / 119 转 / 13 回 / 26621 浏览 · https://x.com/FlufforeStudio/status/2102463360226975917
-  > Seeing so many people love this silly tiger makes us want to work even faster (quality first, of course)!  Version 1.7 is coming soon, with more character animations and an iOS IPA build for sideloading. For the best experience, we still recommend Windows or macOS.  Enjoying http 〔X·@FlufforeStudio〕
+  > 「看到这么多人喜欢这只傻老虎，我们想做得更快了（当然质量优先）！1.7 版本即将推出，会有更多角色动画，还有可侧载的 iOS IPA 版。为了最佳体验，我们还是推荐 Windows 或 macOS。喜欢……」（原文："Seeing so many people love this silly tiger makes us want to work even faster (quality first, of course)!  Version 1.7 is coming soon, with more character animations and an iOS IPA build for sideloading. For the best experience, we still recommend Windows or macOS.  Enjoying http"） 〔X·@FlufforeStudio〕
 - 2026-09-23 · 1242 赞 / 105 转 / 8 回 / 34951 浏览 · https://x.com/FlufforeStudio/status/2102764563032834432
-  > Emberbound Chapter 2 — Version 1.7 is now available for supporters!  This update expands Chapter 2 with 1 new animated CG, 4 new scenes and choices, new music, improved story pacing, bug fixes, and further performance optimizations.  Windows, macOS, Android &amp; iOS are all 〔X·@FlufforeStudio〕
+  > 「Emberbound 第 2 章 1.7 版现已向支持者开放！本次更新为第 2 章新增 1 张动态 CG、4 个新场景和选项、新音乐，优化了剧情节奏，修复 Bug 并进一步优化性能。Windows、macOS、Android 和 iOS 都……」（原文："Emberbound Chapter 2 — Version 1.7 is now available for supporters!  This update expands Chapter 2 with 1 new animated CG, 4 new scenes and choices, new music, improved story pacing, bug fixes, and further performance optimizations.  Windows, macOS, Android &amp; iOS are all"） 〔X·@FlufforeStudio〕
 - 2026-10-09 · 805 赞 / 46 转 / 3 回 / 13693 浏览 · https://x.com/FlufforeStudio/status/2108581631330283965
-  > Thank you all for your generous support!  As Chapter 2 was released later than planned, we’re extending our $15 Patreon supporter event by 10 days, until October 20.  Eligible supporters, please DM us your preferred platform. Sorry for the slower replies lately, and thank you for 〔X·@FlufforeStudio〕
+  > 「感谢大家的慷慨支持！由于第 2 章比计划晚发布，我们把 15 美元档 Patreon 支持者活动延长 10 天，到 10 月 20 日。符合条件的支持者请私信告诉我们你想要的平台。最近回复比较慢，抱歉，也感谢……」（原文："Thank you all for your generous support!  As Chapter 2 was released later than planned, we’re extending our $15 Patreon supporter event by 10 days, until October 20.  Eligible supporters, please DM us your preferred platform. Sorry for the slower replies lately, and thank you for"） 〔X·@FlufforeStudio〕
 - 2026-09-27 · 132 赞 / 6 转 / 0 回 / 8941 浏览 · https://x.com/FlufforeStudio/status/2104241181945426383
-  > A quick update: we’re currently working on our website update, including direct game downloads, while also preparing the public release of Chapter 2.  Because of this, eligible Patreon supporters may need to wait up to 48 hours for platform confirmation and Steam key delivery. 〔X·@FlufforeStudio〕
+  > 「简短更新：我们正在更新网站，包括直接下载游戏，同时在准备第 2 章的公开发布。因此，符合条件的 Patreon 支持者可能需要等最多 48 小时才能收到平台确认和 Steam Key。」（原文："A quick update: we’re currently working on our website update, including direct game downloads, while also preparing the public release of Chapter 2.  Because of this, eligible Patreon supporters may need to wait up to 48 hours for platform confirmation and Steam key delivery."） 〔X·@FlufforeStudio〕
 - 2026-09-14 · 117 赞 / 9 转 / 2 回 / 12662 浏览 · https://x.com/FlufforeStudio/status/2099571884216172833
-  > Chapter 2 Early Access is now available!  Version 1.5 includes the full Chapter 2 content, with more fixes, scenes, and CGs coming next week.  Details below 👇 https://t.co/Mn5gjwildq 〔X·@FlufforeStudio〕
+  > 「第 2 章抢先体验现已推出！1.5 版包含完整的第 2 章内容，下周还会有更多修复、场景和 CG。详情见下 👇」（原文："Chapter 2 Early Access is now available!  Version 1.5 includes the full Chapter 2 content, with more fixes, scenes, and CGs coming next week.  Details below 👇 https://t.co/Mn5gjwildq"） 〔X·@FlufforeStudio〕
 - 2026-09-29 · 92 赞 / 4 转 / 4 回 / 9809 浏览 · https://x.com/FlufforeStudio/status/2104793258320953631
-  > The September Art Asset Pack is now available!   We’ve uploaded all uncropped CG artwork from the latest version of EMBERBOUND in their original resolution.  Available now on our Patreon!  https://t.co/zbKpTKWdtn 〔X·@FlufforeStudio〕
+  > 「九月美术资源包现已推出！我们上传了《EMBERBOUND》最新版本中所有未裁剪的 CG 原图，原始分辨率。现已在 Patreon 上线！」（原文："The September Art Asset Pack is now available!   We’ve uploaded all uncropped CG artwork from the latest version of EMBERBOUND in their original resolution.  Available now on our Patreon!  https://t.co/zbKpTKWdtn"） 〔X·@FlufforeStudio〕
 
 ### 更新帖下的玩家回复原话
 
-- 「@FlufforeStudio @maulana_he64073 I live in Philippines btw」 〔X·@Emman_053160〕
-- 「@FlufforeStudio @maulana_he64073 Maybe, shopee is applicable, most of my parcels are from mainland china」 〔X·@Emman_053160〕
-- 「@FlufforeStudio (Based on plans) sadly, having chapter 2 released, it's gonna be the end for free users 🥀 I love this vn so much, just can't afford it 👊💔」 〔X·@Emman_053160〕
-- 「@FlufforeStudio I downloaded Chapter 2 from the official website, but the app crashes during the title screen animation. What should I do? By the way, I'm playing on an Android device.」 〔X·@HgArpVnKyS77655〕
-- 「@FlufforeStudio LET'S GOOOOOOOOOOO https://t.co/9fWf2cNwXg」 〔X·@Lewis_amsnetico〕
-- 「@FlufforeStudio Yayy!」 〔X·@SiddieSid31434〕
-- 「@FlufforeStudio Beichuan here i come :3」 〔X·@will_harry05〕
-- 「@FlufforeStudio Is V1.8 the chapter 2 one? It's the one I see on the site」 〔X·@iluvgamble〕
-- 「@FlufforeStudio When the full version releases will it be avalible on android?」 〔X·@SiddieSid31434〕
-- 「@tommy25572 @FlufforeStudio It's normal. The game includes a built-in save at the start of Chapter 2.」 〔X·@bed0310〕
+- 「顺便说一下我住在菲律宾」（原文："@FlufforeStudio @maulana_he64073 I live in Philippines btw"） 〔X·@Emman_053160〕
+- 「也许可以用 Shopee，我的包裹大多是从中国大陆寄来的」（原文："@FlufforeStudio @maulana_he64073 Maybe, shopee is applicable, most of my parcels are from mainland china"） 〔X·@Emman_053160〕
+- 「（按计划来看）可惜，第 2 章一出，免费用户就到头了 🥀 我太爱这部视觉小说了，就是买不起 👊💔」（原文："@FlufforeStudio (Based on plans) sadly, having chapter 2 released, it's gonna be the end for free users 🥀 I love this vn so much, just can't afford it 👊💔"） 〔X·@Emman_053160〕
+- 「我从官网下载了第 2 章，但应用在标题画面动画时闪退。我该怎么办？顺便说下我用的是安卓设备。」（原文："@FlufforeStudio I downloaded Chapter 2 from the official website, but the app crashes during the title screen animation. What should I do? By the way, I'm playing on an Android device."） 〔X·@HgArpVnKyS77655〕
+- 「冲啊啊啊啊啊啊」（原文："@FlufforeStudio LET'S GOOOOOOOOOOO https://t.co/9fWf2cNwXg"） 〔X·@Lewis_amsnetico〕
+- 「耶！」（原文："@FlufforeStudio Yayy!"） 〔X·@SiddieSid31434〕
+- 「北川，我来啦 :3」（原文："@FlufforeStudio Beichuan here i come :3"） 〔X·@will_harry05〕
+- 「V1.8 是第 2 章那个版本吗？我在网站上看到的是这个」（原文："@FlufforeStudio Is V1.8 the chapter 2 one? It's the one I see on the site"） 〔X·@iluvgamble〕
+- 「完整版发布后会上安卓吗？」（原文："@FlufforeStudio When the full version releases will it be avalible on android?"） 〔X·@SiddieSid31434〕
+- 「这是正常的。游戏在第 2 章开头内置了一个存档。」（原文："@tommy25572 @FlufforeStudio It's normal. The game includes a built-in save at the start of Chapter 2."） 〔X·@bed0310〕
 
 <!-- added:2026-10-10 -->
 
@@ -225,7 +225,7 @@ Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国
 
 ### 弹幕高频（前 20）
 
-「加油！」×3、「99」×3、「good」×2、「难道说？」×2、「布豪！这个音乐」×2、「哇哇哇！」×1、「kksk」×1、「经费在燃烧」×1、「太可爱了」×1、「好萌。。」×1、「你们虎兽人都是ESFP吗」×1、「好像格兰」×1、「这个开头倒是有点像错暑2哦。」×1、「剧情别像那个逆天游戏就行」×1、「好萌哉萌哉」×1、「又有游了！」×1、「实心老虎」×1、「我看镜头也是饿了」×1、「如此美貌」×1、「开幕重点」×1
+「加油！」×3、「99」×3、「好」（原文："good"）×2、「难道说？」×2、「布豪！这个音乐」×2、「哇哇哇！」×1、「kksk」×1、「经费在燃烧」×1、「太可爱了」×1、「好萌。。」×1、「你们虎兽人都是ESFP吗」×1、「好像格兰」×1、「这个开头倒是有点像错暑2哦。」×1、「剧情别像那个逆天游戏就行」×1、「好萌哉萌哉」×1、「又有游了！」×1、「实心老虎」×1、「我看镜头也是饿了」×1、「如此美貌」×1、「开幕重点」×1
 
 ### 其他相关视频（播放前 6–15）
 

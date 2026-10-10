@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-08 · @NoisyPixelNews（45314 粉）· 赞 17 / 转 3 / 回复 0 / 浏览 1861 · https://x.com/NoisyPixelNews/status/2108288951194968126
-  > Angelic Agency: Soul Salvation Unit Is a Supernatural Detective Game About Solving Murders Through Ghosts’ Memories; Demo Out Now
+  > 「《Angelic Agency: Soul Salvation Unit》是一款通过亡灵记忆破解谋杀案的超自然侦探游戏；Demo 现已推出」（原文："Angelic Agency: Soul Salvation Unit Is a Supernatural Detective Game About Solving Murders Through Ghosts’ Memories; Demo Out Now"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见

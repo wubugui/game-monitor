@@ -49,9 +49,9 @@ discovery_date: "2026-10-10"
 
 ### Steam 商店简介（原文摘录）〔Steam商店页〕
 
-> Vivere Retro is a psychological survival horror game about the origins of fear.
+> 「《Vivere Retro》是一款关于恐惧起源的心理生存恐怖游戏。」（原文："Vivere Retro is a psychological survival horror game about the origins of fear."）
 
->  The deep fear, the old tales, they started a long time ago. Ancient mysteries of the human mind had a reason to exist. And they had a purpose to live on. It came unexpected, it washed away everything and everyone. The flood. I woke up in a place that's unseen, but I'm alive. I must find my people, or anyone who survived. But the beasts in my way can't be real. Psychological horror: mythological creatures, ancient horrors, the mysteries of the human mind and one bow with arrows to fight. It's an old tale, where the discovering of the old fears is not only out there in the dangerous world, but in your head too. The voices are telling you various things, they might be scary, but they also warn you of what's to come. The game also tells its story through the thoughts of the protagonist, as well as a narrator speaking throughout the journey. Survival horror: bow with arrows to stay alive and
+>  「深层的恐惧、古老的传说，都始于很久以前。人类心灵的古老谜团有其存在的理由，也有延续下去的目的。它来得猝不及防，冲走了一切和所有人——洪水。我在一个从未见过的地方醒来，但我还活着。我必须找到我的族人，或者任何幸存者。但挡在我路上的野兽不可能是真的。心理恐怖：神话生物、远古恐怖、人类心灵之谜，还有一把用来战斗的弓箭。这是一个古老的故事，对古老恐惧的发掘不仅在危险的外部世界，也在你的脑海里。那些声音告诉你各种事情，也许可怕，但也在警告你即将到来的东西。游戏还通过主角的内心独白和贯穿旅程的旁白来讲述故事。生存恐怖：用弓箭活下去，并……」（原文："The deep fear, the old tales, they started a long time ago. Ancient mysteries of the human mind had a reason to exist. And they had a purpose to live on. It came unexpected, it washed away everything and everyone. The flood. I woke up in a place that's unseen, but I'm alive. I must find my people, or anyone who survived. But the beasts in my way can't be real. Psychological horror: mythological creatures, ancient horrors, the mysteries of the human mind and one bow with arrows to fight. It's an old tale, where the discovering of the old fears is not only out there in the dangerous world, but in your head too. The voices are telling you various things, they might be scary, but they also warn you of what's to come. The game also tells its story through the thoughts of the protagonist, as well as a narrator speaking throughout the journey. Survival horror: bow with arrows to stay alive and"）
 
 ### 实机截图（Steam 商店截图，已逐张目视核对为本作）
 
@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-08-23 · @Sofie_screamqn（1014 粉）· 赞 112 / 转 105 / 回复 61 / 浏览 1577 · https://x.com/Sofie_screamqn/status/2091484299207778562
-  > VIVERE RETRO - GIVEAWAY 💀  To celebrate the release of Vivere Retro, I'm giving away 3 Keys and a $20 Steam Gift Card   How to join: ✔️ Like & Repost ✔️ Follow me and @VidasSalavejus  ✔️ Wishlist/Play the Demo on Steam  #giveaway #horrorgame #gaming
+  > 「《VIVERE RETRO》赠送活动 💀 为庆祝《Vivere Retro》发售，我送出 3 个 Key 和一张 20 美元 Steam 礼品卡。参与方式：✔️ 点赞并转发 ✔️ 关注我 ✔️ 在 Steam 加愿望单/玩 Demo」（原文："VIVERE RETRO - GIVEAWAY 💀  To celebrate the release of Vivere Retro, I'm giving away 3 Keys and a $20 Steam Gift Card   How to join: ✔️ Like & Repost ✔️ Follow me and @VidasSalavejus  ✔️ Wishlist/Play the Demo on Steam  #giveaway #horrorgame #gaming"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -89,13 +89,13 @@ discovery_date: "2026-10-10"
 - X 上暂无实质玩家评论（未知）
 
 ### Steam 评测原话
-- 👍（english，游玩 2.9h，有用 4）「https://youtu.be/48jgiMY7iD4  fun game, a bit challenging at points, wish u could move with the bow drawn tho, and I liked the design and voice acting in the game. I liked the monster designs too」 〔Steam评测〕
-- 👍（english，游玩 2.0h，有用 2）「I genuinely loved this game. I have played nearly every game Vidas has made (almost 50 now?), and this one particularly impressed me. The over-the-shoulder combat was a brand new experience in the Vidas Games mythos, and fit his style surprisingly perfectly. I」 〔Steam评测〕
-- 👍（english，游玩 1.9h，有用 1）「I really enjoyed this game and the challenges that came with it. Even on normal, it wasn't exactly a walk in the park. One of the things I did really enjoy were the boss fights; they felt very nostalgic due to their, lack of a better word, repetitive nature, w」 〔Steam评测〕
+- 👍（英语，游玩 2.9h，有用 4）「好玩，有些地方有点难，希望拉弓时还能移动，我喜欢游戏里的设计和配音，怪物设计也喜欢」（原文："https://youtu.be/48jgiMY7iD4  fun game, a bit challenging at points, wish u could move with the bow drawn tho, and I liked the design and voice acting in the game. I liked the monster designs too"） 〔Steam评测〕
+- 👍（英语，游玩 2.0h，有用 2）「我真心很爱这款游戏。Vidas 做的游戏我几乎都玩过（现在快 50 款了吧？），这款特别让我印象深刻。越肩视角战斗在 Vidas Games 系列里是全新体验，而且出奇地契合他的风格。我……」（原文："I genuinely loved this game. I have played nearly every game Vidas has made (almost 50 now?), and this one particularly impressed me. The over-the-shoulder combat was a brand new experience in the Vidas Games mythos, and fit his style surprisingly perfectly. I"） 〔Steam评测〕
+- 👍（英语，游玩 1.9h，有用 1）「我很喜欢这款游戏和它带来的挑战。即使是普通难度也不算轻松。我特别喜欢的一点是 Boss 战；由于它们（找不到更好的词）重复性的特点，感觉非常怀旧，……」（原文："I really enjoyed this game and the challenges that came with it. Even on normal, it wasn't exactly a walk in the park. One of the things I did really enjoy were the boss fights; they felt very nostalgic due to their, lack of a better word, repetitive nature, w"） 〔Steam评测〕
 
 ## 团队与靠谱程度
 
-高产个人开发者（玩家称「nearly every game Vidas has made (almost 50 now?)」）。**可靠程度：高（量产型）**。
+高产个人开发者（玩家称「Vidas 做的游戏我几乎都玩过（现在快 50 款了吧？）」（原文："nearly every game Vidas has made (almost 50 now?)"））。**可靠程度：高（量产型）**。
 
 ## 综合评价（对照《***》）
 
@@ -112,7 +112,7 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@Sofie_screamqn；该时段原创帖 1 条（不含转推）
 - 2026-09-25 · 21 赞 / 8 转 / 1 回 / 395 浏览 · https://x.com/Sofie_screamqn/status/2103436652647452926
-  > TUNED IN is an upcoming horror game that has vou trapped inside a cursed TV. Solve puzzles, survive twisted programs, and find a way out before the broadcast takes over.  💀 Play the DEMO on Steam  Developed by: @vercorsgames   #horrorgame #gaming #indiegame #gamedev https://t.co/ 〔X·@Sofie_screamqn〕
+  > 「《TUNED IN》是一款即将推出的恐怖游戏，把你困在一台受诅咒的电视里。解开谜题，熬过扭曲的节目，在广播吞噬一切之前找到出路。💀 在 Steam 玩 Demo。开发：」（原文："TUNED IN is an upcoming horror game that has vou trapped inside a cursed TV. Solve puzzles, survive twisted programs, and find a way out before the broadcast takes over.  💀 Play the DEMO on Steam  Developed by: @vercorsgames   #horrorgame #gaming #indiegame #gamedev https://t.co/"） 〔X·@Sofie_screamqn〕
 
 <!-- added:2026-10-10 -->
 

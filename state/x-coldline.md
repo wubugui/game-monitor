@@ -113,21 +113,21 @@ Grawire Studio X 406 粉，中英双语发帖，有 Steam Demo；画面统一、
 
 - 追踪账号：@GrawireStudio；该时段原创帖 16 条（不含转推）
 - 2026-09-29 · 32 赞 / 8 转 / 1 回 / 1067 浏览 · https://x.com/GrawireStudio/status/2105043447765938327
-  > LOOK AT MY GAME! please :) https://t.co/13RuIWetwO https://t.co/R9owTNX0VD 〔X·@GrawireStudio〕
+  > 「看看我的游戏！拜托啦 :)」（原文："LOOK AT MY GAME! please :) https://t.co/13RuIWetwO https://t.co/R9owTNX0VD"） 〔X·@GrawireStudio〕
 - 2026-10-04 · 26 赞 / 9 转 / 1 回 / 782 浏览 · https://x.com/GrawireStudio/status/2106833091096429031
-  > 3 versions of the Janitor "HAL MENCER" https://t.co/AMfimPkiyU 〔X·@GrawireStudio〕
+  > 「清洁工「HAL MENCER」的 3 个版本」（原文："3 versions of the Janitor "HAL MENCER" https://t.co/AMfimPkiyU"） 〔X·@GrawireStudio〕
 - 2026-10-08 · 24 赞 / 5 转 / 1 回 / 532 浏览 · https://x.com/GrawireStudio/status/2108319096471175630
-  > What a great experience at Mobidictum 2026! 🎮  We had an amazing time showcasing Coldline: Disconnect, meeting fellow developers, and hearing so much positive feedback from everyone who stopped by our booth!  Seeing people experience our game firsthand was incredibly motivating h 〔X·@GrawireStudio〕
+  > 「在 Mobidictum 2026 的体验太棒了！🎮 我们展示了《Coldline: Disconnect》，认识了很多开发者同行，来展台的每个人都给了很多正面反馈！亲眼看到大家上手玩我们的游戏，真的特别受鼓舞……」（原文："What a great experience at Mobidictum 2026! 🎮  We had an amazing time showcasing Coldline: Disconnect, meeting fellow developers, and hearing so much positive feedback from everyone who stopped by our booth!  Seeing people experience our game firsthand was incredibly motivating h"） 〔X·@GrawireStudio〕
 - 2026-10-06 · 17 赞 / 5 转 / 3 回 / 499 浏览 · https://x.com/GrawireStudio/status/2107620818910081449
-  > Submitted the demo! 〔X·@GrawireStudio〕
+  > 「Demo 提交了！」（原文："Submitted the demo!"） 〔X·@GrawireStudio〕
 - 2026-09-30 · 17 赞 / 5 转 / 1 回 / 406 浏览 · https://x.com/GrawireStudio/status/2105360089226022987
-  > wait for us Soldier.. We are going to be there!  @mobidictum https://t.co/923NsycVXZ 〔X·@GrawireStudio〕
+  > 「等着我们，士兵……我们会到场的！」（原文："wait for us Soldier.. We are going to be there!  @mobidictum https://t.co/923NsycVXZ"） 〔X·@GrawireStudio〕
 - 2026-10-02 · 16 赞 / 3 转 / 0 回 / 533 浏览 · https://x.com/GrawireStudio/status/2106112826368459180
-  > 15秒でわかる『Coldline: Disconnect』。  冷戦下、あなたは修理技師として敵地に潜入する。 機器を修理し、盗聴器を仕掛け、情報を集めろ。  🎮 Steam Next Fest デモ近日公開 🔻 Wishlist on Steam  #IndieGame #SteamNextFest #ColdlineDisconnect #インディーゲーム https://t.co/jRVXvYwuvK 〔X·@GrawireStudio〕
+  > 「15 秒看懂《Coldline: Disconnect》。冷战时期，你作为维修技师潜入敌方。修理设备、安装窃听器、搜集情报。🎮 Steam 新品节 Demo 即将公开 🔻 Steam 加愿望单」（原文："15秒でわかる『Coldline: Disconnect』。  冷戦下、あなたは修理技師として敵地に潜入する。 機器を修理し、盗聴器を仕掛け、情報を集めろ。  🎮 Steam Next Fest デモ近日公開 🔻 Wishlist on Steam  #IndieGame #SteamNextFest #ColdlineDisconnect #インディーゲーム https://t.co/jRVXvYwuvK"） 〔X·@GrawireStudio〕
 - 2026-10-08 · 13 赞 / 6 转 / 0 回 / 286 浏览 · https://x.com/GrawireStudio/status/2108195408040067169
-  > https://t.co/8doDWjEOMo our website is live soldiers! 〔X·@GrawireStudio〕
+  > 「我们的网站上线了，士兵们！」（原文："https://t.co/8doDWjEOMo our website is live soldiers!"） 〔X·@GrawireStudio〕
 - 2026-10-07 · 13 赞 / 5 转 / 0 回 / 371 浏览 · https://x.com/GrawireStudio/status/2107730042172358737
-  > 🚨 TRANSMISSION RECEIVED.  OPERATION 1500: COMPLETE. 🟢  1,500 agents are now connected to COLDLINE.  Our next objective: 2,000 before Steam Next Fest.  📡 The demo goes LIVE in 3–7 DAYS.  Stay undercover. Trust no signal.  #ColdlineDisconnect #IndieGame #SteamNextFest 〔X·@GrawireStudio〕
+  > 「🚨 收到传讯。1500 行动：完成。🟢 已有 1500 名特工接入 COLDLINE。下一个目标：Steam 新品节前达到 2000。📡 Demo 将在 3–7 天内上线。保持潜伏，别信任何信号。」（原文："🚨 TRANSMISSION RECEIVED.  OPERATION 1500: COMPLETE. 🟢  1,500 agents are now connected to COLDLINE.  Our next objective: 2,000 before Steam Next Fest.  📡 The demo goes LIVE in 3–7 DAYS.  Stay undercover. Trust no signal.  #ColdlineDisconnect #IndieGame #SteamNextFest"） 〔X·@GrawireStudio〕
 
 <!-- added:2026-10-10 -->
 

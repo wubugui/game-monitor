@@ -72,37 +72,37 @@ discovery_date: "2026-10-10"
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-07-20 · @TvDidYouSee（5657 粉）· 赞 8 / 转 1 / 回复 0 / 浏览 580 · https://x.com/TvDidYouSee/status/2079098989320737066
-  > #OnThisDay 20 July 1978 BONE TO PICK WITH THIS DOG #DrWho production secretary Ann Rickard has a bone to pick with K9, the good doctor's computerised dog. K9 is such a hit that she needs a computerised letter writer to keep up with his fan mail . . .
+  > 「1978 年 7 月 20 日：和这条狗有过节——《神秘博士》制片秘书 Ann Rickard 跟博士的电脑狗 K9 有点过节。K9 太受欢迎了，她得用电脑写信机才回得过来它的粉丝信……」（原文："#OnThisDay 20 July 1978 BONE TO PICK WITH THIS DOG #DrWho production secretary Ann Rickard has a bone to pick with K9, the good doctor's computerised dog. K9 is such a hit that she needs a computerised letter writer to keep up with his fan mail . . ."）
 - 2026-08-16 · @missingmimihrs（59 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 181 · https://x.com/missingmimihrs/status/2088830000279474185
-  > Namjoon had a bone to pick with james corden when he generalised us and made stupid comments about us. So I wonder if he has a bone to pick with cb now because this bozo has said WORSE about us than james did
+  > 「Namjoon 当年就对 James Corden 有意见，因为他以偏概全说了我们一堆蠢话。不知道他现在会不会对 cb 也有意见，这家伙说我们的话比 James 还过分」（原文："Namjoon had a bone to pick with james corden when he generalised us and made stupid comments about us. So I wonder if he has a bone to pick with cb now because this bozo has said WORSE about us than james did"）
 - 2026-08-22 · @The_YUNiversity（354454 粉）· 赞 3 / 转 2 / 回复 0 / 浏览 5063 · https://x.com/The_YUNiversity/status/2090997394121138607
-  > 🦴 “Have a bone to pick” = you’ve got an issue to address with someone (usually something small but annoying)  Henry *has a bone to pick* with his friend who said they’d bring snacks and drinks but showed up empty-handed. 😭  #idiom
+  > 「🦴「跟某人有笔账要算（英语习语）」（原文："Have a bone to pick"）= 你跟某人有件事要掰扯（通常是件小事但很烦人）。例：Henry 跟他朋友有笔账要算，那人说好带零食饮料，结果空手来了。😭」（原文："🦴 “Have a bone to pick” = you’ve got an issue to address with someone (usually something small but annoying)  Henry *has a bone to pick* with his friend who said they’d bring snacks and drinks but showed up empty-handed. 😭  #idiom"）
 - 2026-09-24 · @ilovekaylah123（162 粉）· 赞 5 / 转 0 / 回复 0 / 浏览 76 · https://x.com/ilovekaylah123/status/2103190549255823791
-  > Ive got a bone to pick with you little human Bone to pick with you little human being I’ve seen where you’ve been and I don’t like it
+  > 「我跟你有笔账要算，小人类，跟你有笔账要算，小小人类，我看到你去过哪儿了，我不喜欢」（原文："Ive got a bone to pick with you little human Bone to pick with you little human being I’ve seen where you’ve been and I don’t like it"）
 - 2026-10-01 · @Humming_Sword_（167 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 41 · https://x.com/Humming_Sword_/status/2105674503124627811
-  > " why, thank you. how very flattering from another dapper gentleman.  well, if you've got a bone to pick with me, then a clash it shall be! "  . . .  . . .  " a BONE to pick! yohohohohohoho! "
+  > 「「哎呀，谢谢。另一位潇洒绅士这么夸我，真是受宠若惊。好吧，既然你跟我有账要算，那就来较量一番！」……「一根骨头要挑！哟吼吼吼吼！」」（原文："" why, thank you. how very flattering from another dapper gentleman.  well, if you've got a bone to pick with me, then a clash it shall be! "  . . .  . . .  " a BONE to pick! yohohohohohoho! ""）
 - 2026-10-04 · @maikokojima（3503 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 91 · https://x.com/maikokojima/status/2106887086989062484
-  > Every weapon leaves its own mark. 🔍 Pick a suspect weapon, strike the test block, and compare it to the mark from the scene. Toolmark analysis in Bone to Pick, a hand-drawn forensic mystery. Wishlist on Steam👉  #indiegame #forensics #mysterygame
+  > 「每件武器都会留下独特的痕迹。🔍 选一件嫌疑武器，敲击测试块，再和现场留下的痕迹比对。这是手绘法医推理游戏《Bone to Pick》里的工具痕迹分析。Steam 加愿望单👉」（原文："Every weapon leaves its own mark. 🔍 Pick a suspect weapon, strike the test block, and compare it to the mark from the scene. Toolmark analysis in Bone to Pick, a hand-drawn forensic mystery. Wishlist on Steam👉  #indiegame #forensics #mysterygame"）
 
 ### 回复区（按时间）
 - 2026-06-15 · @MellyLobCorp（522 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 22 · https://x.com/MellyLobCorp/status/2066343114764071234
-  > @FunnySkeleton23 @ZweiAugust ... you have a bone to pick with me? Well, I had a bone to pick with you. Picked that one.  [She points to the blender]
+  > 「……你跟我有账要算？好吧，我之前也跟你有账要算。已经算完了。[她指了指搅拌机]」（原文："@FunnySkeleton23 @ZweiAugust ... you have a bone to pick with me? Well, I had a bone to pick with you. Picked that one.  [She points to the blender]"）
 - 2026-07-18 · @tbone9070（30095 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 72 · https://x.com/tbone9070/status/2078502059066761719
-  > @B_Smallberries @peterjkostis @GolfChannel The @PGA and R&A has a bone to pick with DeChambeau and it showed yesterday. Chamblee is a bitter loser who has a bone to pick with everyone because he can't play competitive golf. He also hated Tiger who is one of the all time greats.
+  > 「PGA 和 R&A 跟德尚博有过节，昨天就看出来了。Chamblee 是个酸溜溜的失败者，跟谁都有过节，因为他自己打不了职业赛。他还讨厌老虎伍兹，而伍兹是史上最伟大的球员之一。」（原文："@B_Smallberries @peterjkostis @GolfChannel The @PGA and R&A has a bone to pick with DeChambeau and it showed yesterday. Chamblee is a bitter loser who has a bone to pick with everyone because he can't play competitive golf. He also hated Tiger who is one of the all time greats."）
 - 2026-07-24 · @Scaphismdamned（678 粉）· 赞 1 / 转 0 / 回复 3 / 浏览 24 · https://x.com/Scaphismdamned/status/2080599550738186597
-  > @HeroinUpMahAss owing trends from the nether to the end and ive got a bone to pick with you little human bone to pick with you little human being, ive seen where you've been and i dont like it
+  > 「……从下界到末地，我跟你有笔账要算，小人类，跟你有笔账要算，小小人类，我看到你去过哪儿了，我不喜欢」（原文："@HeroinUpMahAss owing trends from the nether to the end and ive got a bone to pick with you little human bone to pick with you little human being, ive seen where you've been and i dont like it"）
 - 2026-08-04 · @mugjudge（415 粉）· 赞 13 / 转 0 / 回复 1 / 浏览 455 · https://x.com/mugjudge/status/2084786761725776301
-  > @NiceColorsss I have a bone to pick if they reject the Filioque. But I can't really fault someone for using the Creed in its normative form. My biggest bone to pick is if someone excludes it when their congregation includes it or vice versa.
+  > 「如果他们拒绝「和子说」，那我有意见。但我也没法怪别人按标准形式使用信经。我最大的意见是：会众都念这句而某人不念，或者反过来。」（原文："@NiceColorsss I have a bone to pick if they reject the Filioque. But I can't really fault someone for using the Creed in its normative form. My biggest bone to pick is if someone excludes it when their congregation includes it or vice versa."）
 - 2026-08-09 · @KameronRakes（2 粉）· 赞 3 / 转 0 / 回复 1 / 浏览 460 · https://x.com/KameronRakes/status/2086312439084151000
-  > @_ari__nn “I’ve got a BONE to pick with you little human,BONE to pick with you”
+  > 「「我跟你有笔账要算，小人类，跟你有笔账要算」」（原文："@_ari__nn “I’ve got a BONE to pick with you little human,BONE to pick with you”"）
 - 2026-08-10 · @funhaver7（88 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 59 · https://x.com/funhaver7/status/2086906464086417727
-  > @kyutestkyutie a bone to pick with kyuu is a bone to pick with me  Get behind me kyuu. Growl
+  > 「跟 kyuu 过不去就是跟我过不去。kyuu 躲我后面。嗷呜」（原文："@kyutestkyutie a bone to pick with kyuu is a bone to pick with me  Get behind me kyuu. Growl"）
 - 2026-09-02 · @BMcGrewvy（12519 粉）· 赞 1 / 转 0 / 回复 2 / 浏览 117 · https://x.com/BMcGrewvy/status/2094974177287590153
-  > @johnbyronkuhner @ViciMClarke @firstthingsmag You had a bone to pick with Berry because he took money from Big Publishing. I had a bone to pick with him because he was blind to the evil of abortion. We are not the same.
+  > 「你跟 Berry 过不去，是因为他拿了大出版商的钱。我跟他过不去，是因为他对堕胎之恶视而不见。我们不一样。」（原文："@johnbyronkuhner @ViciMClarke @firstthingsmag You had a bone to pick with Berry because he took money from Big Publishing. I had a bone to pick with him because he was blind to the evil of abortion. We are not the same."）
 - 2026-09-08 · @CHAOTICATN1（71 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 33 · https://x.com/CHAOTICATN1/status/2097126758336090157
-  > @TheNotAJester OH DO ACTUALLY. i have a bone to pick with you anyways!! you'd be making my job easier!!  pft. bone to pick
+  > 「哦真要这样啊。反正我本来就有事要跟你算账！！你这是帮我省事了！！噗，骨头要挑」（原文："@TheNotAJester OH DO ACTUALLY. i have a bone to pick with you anyways!! you'd be making my job easier!!  pft. bone to pick"）
 - 2026-10-10 · @grodyobi（339 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 4 · https://x.com/grodyobi/status/2108719321245692204
-  > @TiffanyFong Who cares about skin colour more than a Canadian with a bone to pick with the defence? Buucello cares about skin colour more than a Canadian with a bone to pick with the Defence.
+  > 「谁比一个跟防守组有过节的加拿大人更在乎肤色？Buucello 比一个跟防守组有过节的加拿大人更在乎肤色。」（原文："@TiffanyFong Who cares about skin colour more than a Canadian with a bone to pick with the defence? Buucello cares about skin colour more than a Canadian with a bone to pick with the Defence."）
 
 ## 关注度与数据（截至 2026-10-10）
 

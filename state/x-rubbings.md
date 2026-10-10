@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-05-28 · @erabit_studios（2082 粉）· 赞 2 / 转 1 / 回复 4 / 浏览 206 · https://x.com/erabit_studios/status/2060050973268033636
-  > 🔍 #Suspense Game Festival on Steam 📅 May 29 – June 7  🌱 Soil of Rebirth – Crime puzzle mystery 📜 Rubbings – Chinese folk horror detective 💋 Kiss or Kill – Deadly dating reality VN 💀 Suicide Mr. Fury – Meta otome mind-bender  Demos + discounts + reveals!  #悬疑游戏节
+  > 「🔍 Steam 游戏节 📅 5 月 29 日 – 6 月 7 日 🌱《Soil of Rebirth》——犯罪解谜悬疑 📜《Rubbings》（拓）——中式民俗恐怖侦探 💋《Kiss or Kill》——致命约会真人秀视觉小说 💀《Suicide Mr. Fury》——元叙事乙女烧脑。Demo + 折扣 + 首曝！」（原文："🔍 #Suspense Game Festival on Steam 📅 May 29 – June 7  🌱 Soil of Rebirth – Crime puzzle mystery 📜 Rubbings – Chinese folk horror detective 💋 Kiss or Kill – Deadly dating reality VN 💀 Suicide Mr. Fury – Meta otome mind-bender  Demos + discounts + reveals!  #悬疑游戏节"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -80,7 +80,7 @@ discovery_date: "2026-10-10"
 
 - X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@erabit_studios 赞 2 / 浏览 206
 - 官方号粉丝：2082（@erabit_studios）
-- Steam 评测：Very Positive，好评 231 / 差评 28 / 共 259（已发售）
+- Steam 评测：特别好评，好评 231 / 差评 28 / 共 259（已发售）
 - B站：登录态全量采集 2026-10-10，相关视频 109 条、合计播放约 147.0万；最高《Steam上100%好评的中式恐怖新作，剧情真的》80.5万（详见下方「B站数据」）
 
 ## 实际评价
@@ -89,13 +89,13 @@ discovery_date: "2026-10-10"
 - X 上暂无实质玩家评论（未知）
 
 ### Steam 评测原话
-- 👍（schinese，游玩 9.8h，有用 0）「故事不错，一开始不习惯操作，习惯用手柄哈哈，后来沉浸剧情就无暇顾及啦，期待类似的作品，感觉结尾有点仓促，不过也留了悬念，算是he啦，不错不错」 〔Steam评测〕
-- 👍（schinese，游玩 6.5h，有用 0）「歌颂伟大的母爱❤️」 〔Steam评测〕
-- 👍（schinese，游玩 13.3h，有用 0）「一直在哭。。」 〔Steam评测〕
+- 👍（简体中文，游玩 9.8h，有用 0）「故事不错，一开始不习惯操作，习惯用手柄哈哈，后来沉浸剧情就无暇顾及啦，期待类似的作品，感觉结尾有点仓促，不过也留了悬念，算是he啦，不错不错」 〔Steam评测〕
+- 👍（简体中文，游玩 6.5h，有用 0）「歌颂伟大的母爱❤️」 〔Steam评测〕
+- 👍（简体中文，游玩 13.3h，有用 0）「一直在哭。。」 〔Steam评测〕
 
 ## 团队与靠谱程度
 
-开发「午夜说书人」+ 海外发行 Erabit（发行商会把它塞进 Steam 主题节、做英文宣传）。Steam 259 条评测 89% Very Positive。X 上声量很低，基本靠发行商一条帖带。**可靠程度：中高**（已发售、口碑稳，但团队自身海外运营弱）。
+开发「午夜说书人」+ 海外发行 Erabit（发行商会把它塞进 Steam 主题节、做英文宣传）。Steam 259 条评测 89% 特别好评。X 上声量很低，基本靠发行商一条帖带。**可靠程度：中高**（已发售、口碑稳，但团队自身海外运营弱）。
 
 ## 综合评价（对照《***》）
 
@@ -112,11 +112,11 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@erabit_studios；该时段原创帖 3 条（不含转推）
 - 2026-09-16 · 3 赞 / 0 转 / 0 回 / 138 浏览 · https://x.com/erabit_studios/status/2100170354979373437
-  > 🍄 The mushrooms are getting WEIRD.  Might &amp; Poison Mushroom, the FREE prologue is now LIVE on #Steam!  🛒 Build your own shop ⚔️ Assemble quirky shroom heroes 🎰 Trigger wild synergies 🌀 Toggle the new psychedelic poison filter  Play FREE on Steam: https://t.co/oRxScdToq6 https 〔X·@erabit_studios〕
+  > 「🍄 蘑菇越来越怪了。《Might & Poison Mushroom》免费序章现已上线！🛒 经营你自己的商店 ⚔️ 组建古怪的蘑菇英雄 🎰 触发疯狂联动 🌀 切换全新迷幻毒素滤镜。在 Steam 免费玩：」（原文："🍄 The mushrooms are getting WEIRD.  Might &amp; Poison Mushroom, the FREE prologue is now LIVE on #Steam!  🛒 Build your own shop ⚔️ Assemble quirky shroom heroes 🎰 Trigger wild synergies 🌀 Toggle the new psychedelic poison filter  Play FREE on Steam: https://t.co/oRxScdToq6 https"） 〔X·@erabit_studios〕
 - 2026-09-15 · 1 赞 / 0 转 / 1 回 / 151 浏览 · https://x.com/erabit_studios/status/2099775385999487087
-  > The final public #Playtest for The Ruins of the Titan is officially live! 🔥  📅 Sept. 11 – Sept. 18, 23:59 (UTC+8)  🎮 How to join Head to the #Steam store page and click “Request Access” to jump straight into the Playtest!  ⚔️ FINAL Playtest — available for a limited time! https:/ 〔X·@erabit_studios〕
+  > 「《The Ruins of the Titan》最终公开测试正式开启！🔥 📅 9 月 11 日 – 9 月 18 日 23:59（UTC+8）🎮 参与方式：前往商店页点击「申请访问」直接加入测试！⚔️ 最终测试——限时开放！」（原文："The final public #Playtest for The Ruins of the Titan is officially live! 🔥  📅 Sept. 11 – Sept. 18, 23:59 (UTC+8)  🎮 How to join Head to the #Steam store page and click “Request Access” to jump straight into the Playtest!  ⚔️ FINAL Playtest — available for a limited time! https:/"） 〔X·@erabit_studios〕
 - 2026-09-23 · 0 赞 / 0 转 / 0 回 / 108 浏览 · https://x.com/erabit_studios/status/2102684990907764913
-  > ✈️The Second DLC's Here! Mini Airways: Busy Skies is OUT NOW on Steam!  🥃Busy Skies comes with: 3 new mechanics, 5 new airports across the globe, Transit flights, stopover flights &amp; high-altitude airways!    🎁Launch week: 10% OFF — just $2.24! Basic game on its ALL-TIME LOW a 〔X·@erabit_studios〕
+  > 「✈️第二个 DLC 来了！《Mini Airways: Busy Skies》现已在 Steam 推出！🥃 Busy Skies 包含：3 种新机制、全球 5 座新机场、中转航班、经停航班和高空航路！🎁 首发周 9 折——只要 2.24 美元！本体也是史低……」（原文："✈️The Second DLC's Here! Mini Airways: Busy Skies is OUT NOW on Steam!  🥃Busy Skies comes with: 3 new mechanics, 5 new airports across the globe, Transit flights, stopover flights &amp; high-altitude airways!    🎁Launch week: 10% OFF — just $2.24! Basic game on its ALL-TIME LOW a"） 〔X·@erabit_studios〕
 
 <!-- added:2026-10-10 -->
 

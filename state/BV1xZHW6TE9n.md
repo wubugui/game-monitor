@@ -84,7 +84,7 @@ discovery_date: "2026-10-10"
 - 状态：已发售（Steam 2026-09-23）
 - 平台：Steam
 - 发售：2026-09-23
-- Steam：朵拉法师（AppID 4133550）｜¥ 29.00｜评测 70 条（Very Positive）〔Steam·商店页〕
+- Steam：朵拉法师（AppID 4133550）｜¥ 29.00｜评测 70 条（特别好评）〔Steam·商店页〕
 
 ## 游戏内容
 

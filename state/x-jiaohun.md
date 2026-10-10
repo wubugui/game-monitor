@@ -68,33 +68,33 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-08 · @JIAOHUN_JP（38 粉）· 赞 112 / 转 24 / 回复 3 / 浏览 169713 · https://x.com/JIAOHUN_JP/status/2108228498833981725
-  > 『叫魂JIAOHUN（きょうこん）』は、シネマティックな物語体験を描く一人称視点のサイコロジカルホラー。  舞台は1990年代の中国・白水県仙女鎮。人知れず時代の狭間で生き延び、新世紀を前に変わろうとした町。しかし、その試みはすべて失敗に終わった。  探索を通じて、仙女鎮の終焉の謎に迫る。
+  > 「《叫魂 JIAOHUN》是一款描绘电影化叙事体验的第一人称心理恐怖游戏。舞台是 1990 年代中国白水县仙女镇。一个在时代夹缝中默默存活、想在新世纪到来前改变的小镇。然而所有尝试都以失败告终。通过探索，逼近仙女镇终结之谜。」（原文："『叫魂JIAOHUN（きょうこん）』は、シネマティックな物語体験を描く一人称視点のサイコロジカルホラー。  舞台は1990年代の中国・白水県仙女鎮。人知れず時代の狭間で生き延び、新世紀を前に変わろうとした町。しかし、その試みはすべて失敗に終わった。  探索を通じて、仙女鎮の終焉の謎に迫る。"）
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-10-08 · @iii_initiative（18928 粉）· 赞 51 / 转 7 / 回复 1 / 浏览 5309 · https://x.com/iii_initiative/status/2108226474100904216
-  > Game Reveal! JIAOHUN is a cinematic first-person psychological horror game set in Y2K-era China. You return to Fairy Town and something is waiting in static. Coming 2027 to Steam and PlayStation 5.  Watch the official Triple-i Initiative trailer:
+  > 「游戏首曝！《叫魂 JIAOHUN》是一款以千禧年前后中国为背景的电影化第一人称心理恐怖游戏。你回到仙女镇，有什么东西在雪花噪点中等着你。2027 年登陆 Steam 和 PlayStation 5。观看 Triple-i Initiative 官方预告：」（原文："Game Reveal! JIAOHUN is a cinematic first-person psychological horror game set in Y2K-era China. You return to Fairy Town and something is waiting in static. Coming 2027 to Steam and PlayStation 5.  Watch the official Triple-i Initiative trailer:"）
 - 2026-10-08 · @famitsu（1380646 粉）· 赞 80 / 转 18 / 回复 0 / 浏览 41887 · https://x.com/famitsu/status/2108228371901788192
-  > アジアンサイコロジカルホラー『叫魂 JIAOHUN』発表【The Triple-i Initiative 10月】   アンリアルエンジンの写実的なグラフィックで、手のひらに目がついた腕、電信柱に吊るされた人間など、不穏な映像がつぎつぎに映し出された。SteamとPS5で2027年発売。
+  > 「亚洲心理恐怖《叫魂 JIAOHUN》公布【The Triple-i Initiative 10 月】用虚幻引擎写实画面，接连呈现手掌上长眼睛的手臂、吊在电线杆上的人等不安影像。2027 年登陆 Steam 和 PS5。」（原文："アジアンサイコロジカルホラー『叫魂 JIAOHUN』発表【The Triple-i Initiative 10月】   アンリアルエンジンの写実的なグラフィックで、手のひらに目がついた腕、電信柱に吊るされた人間など、不穏な映像がつぎつぎに映し出された。SteamとPS5で2027年発売。"）
 - 2026-10-08 · @JiaoHun_game（15 粉）· 赞 12 / 转 5 / 回复 3 / 浏览 332 · https://x.com/JiaoHun_game/status/2108228510439588153
-  > JIAOHUN is a cinematic first-person psychological horror game set in a small Chinese town in the 1990s. Uncover the mystery behind Fairy Town’s downfall. Coming 2027 to Steam & PS5.  Wishlist now:   #HorrorGames #gametrailer
+  > 「《叫魂 JIAOHUN》是一款以 1990 年代中国小镇为背景的电影化第一人称心理恐怖游戏。揭开仙女镇衰亡背后的谜团。2027 年登陆 Steam 和 PS5。现在加愿望单：」（原文："JIAOHUN is a cinematic first-person psychological horror game set in a small Chinese town in the 1990s. Uncover the mystery behind Fairy Town’s downfall. Coming 2027 to Steam & PS5.  Wishlist now:   #HorrorGames #gametrailer"）
 - 2026-10-08 · @nexindie（40185 粉）· 赞 64 / 转 6 / 回复 1 / 浏览 3354 · https://x.com/nexindie/status/2108316506467582058
-  > Story-driven first-person psychological horror game 'JIAOHUN' has been announced.  Coming to PC and PS5 in 2027.  Steam page:
+  > 「剧情驱动的第一人称心理恐怖游戏《叫魂 JIAOHUN》公布。2027 年登陆 PC 和 PS5。Steam 页面：」（原文："Story-driven first-person psychological horror game 'JIAOHUN' has been announced.  Coming to PC and PS5 in 2027.  Steam page:"）
 - 2026-10-08 · @2RsekQvM1861989（3 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 18 · https://x.com/2RsekQvM1861989/status/2108319883587125559
-  > 気になるホラーゲームきた！  アジアンサイコロジカルホラー『叫魂 JIAOHUN』PS5、Steamで2027年発売。アンリアルエンジンによる写実的グラフィックで不穏な映像がつぎつぎと【The Triple-i Initiative 10月】 | ゲーム・エンタメ最新情報のファミ通.com
+  > 「来了款让人在意的恐怖游戏！亚洲心理恐怖《叫魂 JIAOHUN》2027 年登陆 PS5、Steam。虚幻引擎写实画面接连呈现不安影像【The Triple-i Initiative 10 月】| Fami 通」（原文："気になるホラーゲームきた！  アジアンサイコロジカルホラー『叫魂 JIAOHUN』PS5、Steamで2027年発売。アンリアルエンジンによる写実的グラフィックで不穏な映像がつぎつぎと【The Triple-i Initiative 10月】 | ゲーム・エンタメ最新情報のファミ通.com"）
 - 2026-10-09 · @AUTOMATONJapan（434265 粉）· 赞 19 / 转 9 / 回复 0 / 浏览 18220 · https://x.com/AUTOMATONJapan/status/2108358749681504506
-  > “20世紀に取り残された町”を巡る心理ホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす
+  > 「巡游「被 20 世纪遗留下来的小镇」的心理恐怖《叫魂 JIAOHUN》公布。用火柴、BP 机、4:3 相机这些怀旧装备，解开怪异蠢动的小镇之谜」（原文："“20世紀に取り残された町”を巡る心理ホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす"）
 - 2026-10-09 · @RealGameinshell（745 粉）· 赞 16 / 转 3 / 回复 0 / 浏览 514 · https://x.com/RealGameinshell/status/2108363425760018593
-  > Jiaohun (叫魂) is a first-person psychological horror set in a 1990s Chinese town.   You play a returnee who lost their soul, searching for lost souls in Xiannü Town, Baishui, uncovering why the town is ending. PC and PS5 in 2027.  #Jiaohun #IndieGame #Horror
+  > 「《叫魂》是一款以 1990 年代中国小镇为背景的第一人称心理恐怖游戏。你扮演一个丢了魂的返乡者，在白水县仙女镇寻找失落的魂魄，揭开小镇走向终结的原因。2027 年登陆 PC 和 PS5。」（原文："Jiaohun (叫魂) is a first-person psychological horror set in a 1990s Chinese town.   You play a returnee who lost their soul, searching for lost souls in Xiannü Town, Baishui, uncovering why the town is ending. PC and PS5 in 2027.  #Jiaohun #IndieGame #Horror"）
 - 2026-10-09 · @AUTOMATONJapan（434265 粉）· 赞 126 / 转 22 / 回复 0 / 浏览 33642 · https://x.com/AUTOMATONJapan/status/2108368543645581536
-  > PS5/PC“20世紀で時が止まった”田舎町サイコホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす
+  > 「PS5/PC「时间停在 20 世纪」的乡下小镇心理恐怖《叫魂 JIAOHUN》公布。用火柴、BP 机、4:3 相机这些怀旧装备，解开怪异蠢动的小镇之谜」（原文："PS5/PC“20世紀で時が止まった”田舎町サイコホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす"）
 - 2026-10-09 · @stmatomato（31660 粉）· 赞 4 / 转 0 / 回复 0 / 浏览 1617 · https://x.com/stmatomato/status/2108391688670736518
-  > 見てしまった人は、ここから。   続報という名の呪いは公式 @JIAOHUN_JP から届きます。
+  > 「已经看到的人，从这里开始。名为「后续消息」的诅咒，会从官方账号送达。」（原文："見てしまった人は、ここから。   続報という名の呪いは公式 @JIAOHUN_JP から届きます。"）
 - 2026-10-09 · @chanpon_haisin（506 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 122 · https://x.com/chanpon_haisin/status/2108538655765873106
-  > 【The Triple-i Initiative October 2026 ピックアップ】  ①叫魂 JIAOHUN 1999年12月31日、中国の白水県仙女鎮という町を終焉に導いた出来事を、探索する中で紐解いていくサイコロジカルホラー。 シネマティックな演出が雰囲気を盛り上げる。 #iiishowcase #インディーゲーム
+  > 「【The Triple-i Initiative 2026 年 10 月精选】①叫魂 JIAOHUN：一款在探索中逐步解开 1999 年 12 月 31 日导致中国白水县仙女镇走向终结之事件的心理恐怖游戏。电影化演出烘托氛围。」（原文："【The Triple-i Initiative October 2026 ピックアップ】  ①叫魂 JIAOHUN 1999年12月31日、中国の白水県仙女鎮という町を終焉に導いた出来事を、探索する中で紐解いていくサイコロジカルホラー。 シネマティックな演出が雰囲気を盛り上げる。 #iiishowcase #インディーゲーム"）
 - 2026-10-09 · @1rAohzch17Y0Jon（243 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 21 · https://x.com/1rAohzch17Y0Jon/status/2108617327709409516
-  > なんかちょっと不気味そうなの発見 #hkrMission  Steam：叫魂JIAOHUN
+  > 「发现一款有点诡异的游戏。Steam：叫魂 JIAOHUN」（原文："なんかちょっと不気味そうなの発見 #hkrMission  Steam：叫魂JIAOHUN"）
 - 2026-10-09 · @shinobi602（528154 粉）· 赞 361 / 转 40 / 回复 5 / 浏览 20443 · https://x.com/shinobi602/status/2108637818230898710
-  > JIAOHUN | Reveal Trailer  ▶️   ▪️Coming to PS5 and PC in 2027 ▪️Cinematic, first-person psychological horror game ▪️Developed by Chinese studio 12AM BLACKOUT ▪️Takes place in Fairy Town, Baishoi County on New Year's Eve 1999
+  > 「《叫魂 JIAOHUN》首曝预告 ▶️ ▪️2027 年登陆 PS5 和 PC ▪️电影化第一人称心理恐怖游戏 ▪️由中国工作室 12AM BLACKOUT 开发 ▪️故事发生在 1999 年除夕夜的白水县仙女镇」（原文："JIAOHUN | Reveal Trailer  ▶️   ▪️Coming to PS5 and PC in 2027 ▪️Cinematic, first-person psychological horror game ▪️Developed by Chinese studio 12AM BLACKOUT ▪️Takes place in Fairy Town, Baishoi County on New Year's Eve 1999"）
 
 ### 回复区（按时间）
 - 本轮拉取 conversation 未见回复
@@ -116,15 +116,15 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-12AM BLACKOUT 是新面孔，但首曝就上了 Triple-i Initiative 秋季展（和 Talos Principle 3、Escapists 3 同场），还开了日文官方号 @JIAOHUN_JP（首帖 112 赞、17 万浏览）。法米通（138 万粉）、AUTOMATON（43 万粉）当天都发了报道。用 UE 写实、上 PS5、多语种同步宣发，体量至少是有发行资源的中小团队。**可靠程度：中高**（首曝阶段，离 2027 发售还远，有回复质疑「a 2027 release date… suggests the trailer is concept footage, not gameplay」）。
+12AM BLACKOUT 是新面孔，但首曝就上了 Triple-i Initiative 秋季展（和 Talos Principle 3、Escapists 3 同场），还开了日文官方号 @JIAOHUN_JP（首帖 112 赞、17 万浏览）。法米通（138 万粉）、AUTOMATON（43 万粉）当天都发了报道。用 UE 写实、上 PS5、多语种同步宣发，体量至少是有发行资源的中小团队。**可靠程度：中高**（首曝阶段，离 2027 发售还远，有回复质疑「2027 年发售……说明这个预告是概念片，不是实机」（原文："a 2027 release date… suggests the trailer is concept footage, not gameplay"））。
 
 ## 综合评价（对照《***》）
 
-**本轮 X 上最重要的新收藏**：中式民俗 +「叫魂/丢魂」+ 千禧年小镇怀旧，海外主流媒体（日本的法米通、AUTOMATON，英语的 shinobi602）首日覆盖。题材关键词「叫魂」和《***》的「喊魂、回煞」民俗高度重合，但做法是写实第一人称、电影化，靠追逐制造压迫；《***》是 45° 等距，用规矩取代战斗。海外玩家回复里出现「finally a Chinese game i can fully get behind」，说明海外对「非武侠、非仙侠的中式民俗恐怖」有明确期待。建议每天盯它的 Steam 愿望单热度和 PV 播放。
+**本轮 X 上最重要的新收藏**：中式民俗 +「叫魂/丢魂」+ 千禧年小镇怀旧，海外主流媒体（日本的法米通、AUTOMATON，英语的 shinobi602）首日覆盖。题材关键词「叫魂」和《***》的「喊魂、回煞」民俗高度重合，但做法是写实第一人称、电影化，靠追逐制造压迫；《***》是 45° 等距，用规矩取代战斗。海外玩家回复里出现「终于有一款我能全力支持的中国游戏了」（原文："finally a Chinese game i can fully get behind"），说明海外对「非武侠、非仙侠的中式民俗恐怖」有明确期待。建议每天盯它的 Steam 愿望单热度和 PV 播放。
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/shinobi602/status/2108637818230898710（X 检索「interactive film / Chinese」时发现：shinobi602（52.8 万粉）转发「JIAOHUN | Reveal Trailer」，2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/shinobi602/status/2108637818230898710（X 检索「互动电影 / 中国」（原文："interactive film / Chinese"）时发现：shinobi602（52.8 万粉）转发「《叫魂 JIAOHUN》首曝预告」（原文："JIAOHUN | Reveal Trailer"），2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/3550940/ 与 appreviews 接口，原始数据 tmp/x/steam/jiaohun.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -133,9 +133,9 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@JIAOHUN_JP、@JiaoHun_game；该时段原创帖 2 条（不含转推）
 - 2026-10-08 · 113 赞 / 24 转 / 3 回 / 170954 浏览 · https://x.com/JIAOHUN_JP/status/2108228498833981725
-  > 『叫魂JIAOHUN（きょうこん）』は、シネマティックな物語体験を描く一人称視点のサイコロジカルホラー。  舞台は1990年代の中国・白水県仙女鎮。人知れず時代の狭間で生き延び、新世紀を前に変わろうとした町。しかし、その試みはすべて失敗に終わった。  探索を通じて、仙女鎮の終焉の謎に迫る。 https://t.co/BE1vIj51bs 〔X·@JIAOHUN_JP〕
+  > 「《叫魂 JIAOHUN》是一款描绘电影化叙事体验的第一人称心理恐怖游戏。舞台是 1990 年代中国白水县仙女镇。一个在时代夹缝中默默存活、想在新世纪到来前改变的小镇。然而所有尝试都以失败告终。通过探索，逼近仙女镇终结之谜。」（原文："『叫魂JIAOHUN（きょうこん）』は、シネマティックな物語体験を描く一人称視点のサイコロジカルホラー。  舞台は1990年代の中国・白水県仙女鎮。人知れず時代の狭間で生き延び、新世紀を前に変わろうとした町。しかし、その試みはすべて失敗に終わった。  探索を通じて、仙女鎮の終焉の謎に迫る。 https://t.co/BE1vIj51bs"） 〔X·@JIAOHUN_JP〕
 - 2026-10-08 · 12 赞 / 5 转 / 3 回 / 335 浏览 · https://x.com/JiaoHun_game/status/2108228510439588153
-  > JIAOHUN is a cinematic first-person psychological horror game set in a small Chinese town in the 1990s. Uncover the mystery behind Fairy Town’s downfall. Coming 2027 to Steam &amp; PS5.  Wishlist now: https://t.co/mcPowwZv8z https://t.co/KuCeXfnuNe #HorrorGames #gametrailer https 〔X·@JiaoHun_game〕
+  > 「《叫魂 JIAOHUN》是一款以 1990 年代中国小镇为背景的电影化第一人称心理恐怖游戏。揭开仙女镇衰亡背后的谜团。2027 年登陆 Steam 和 PS5。现在加愿望单：」（原文："JIAOHUN is a cinematic first-person psychological horror game set in a small Chinese town in the 1990s. Uncover the mystery behind Fairy Town’s downfall. Coming 2027 to Steam &amp; PS5.  Wishlist now: https://t.co/mcPowwZv8z https://t.co/KuCeXfnuNe #HorrorGames #gametrailer https"） 〔X·@JiaoHun_game〕
 
 <!-- added:2026-10-10 -->
 

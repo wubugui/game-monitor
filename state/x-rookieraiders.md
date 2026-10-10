@@ -110,19 +110,19 @@ discovery_date: "2026-10-10"
 - 2026-09-29 · 855 赞 / 36 转 / 0 回 / 44533 浏览 · https://x.com/TeamNE_RR/status/2104726428931723634
   > 《Rookie Raiders》简体中文预告片现已公开！  组建三人小队，选择技能与遗物，打造属于你的独特组合。 Steam免费试玩版现已开放，欢迎体验！ https://t.co/NYiXrtu1sF https://t.co/YFgUZNBzw7 〔X·@TeamNE_RR〕
 - 2026-09-29 · 104 赞 / 5 转 / 0 回 / 7354 浏览 · https://x.com/TeamNE_RR/status/2104891323140681788
-  > 『Rookie Raiders』日本語トレーラーを公開しました！  3人のパーティを編成し、スキルや遺物を選びながら、自分だけのビルドを作り上げよう。 Steamでは無料デモ版も配信中です！ https://t.co/NYiXrtu1sF https://t.co/ruNWTlzuM1 〔X·@TeamNE_RR〕
+  > 「《Rookie Raiders》日语预告公开了！组建 3 人小队，选择技能和遗物，打造属于你自己的 Build。Steam 上也在提供免费 Demo！」（原文："『Rookie Raiders』日本語トレーラーを公開しました！  3人のパーティを編成し、スキルや遺物を選びながら、自分だけのビルドを作り上げよう。 Steamでは無料デモ版も配信中です！ https://t.co/NYiXrtu1sF https://t.co/ruNWTlzuM1"） 〔X·@TeamNE_RR〕
 - 2026-09-27 · 42 赞 / 6 转 / 0 回 / 3547 浏览 · https://x.com/TeamNE_RR/status/2104350720761946596
-  > The new Rookie Raiders trailer is out! 🎬 https://t.co/heENkhm0hD https://t.co/nVKNxidDGY 〔X·@TeamNE_RR〕
+  > 「《Rookie Raiders》新预告发布！🎬」（原文："The new Rookie Raiders trailer is out! 🎬 https://t.co/heENkhm0hD https://t.co/nVKNxidDGY"） 〔X·@TeamNE_RR〕
 - 2026-09-28 · 34 赞 / 10 转 / 0 回 / 5896 浏览 · https://x.com/TeamNE_RR/status/2104494214017134971
-  > 루키 레이더스 신규 트레일러가 공개되었습니다! (한글버전) https://t.co/gbZ1FkHCKs https://t.co/xXuuBNEIaf 〔X·@TeamNE_RR〕
+  > 「《Rookie Raiders》新预告公开了！（韩文版）」（原文："루키 레이더스 신규 트레일러가 공개되었습니다! (한글버전) https://t.co/gbZ1FkHCKs https://t.co/xXuuBNEIaf"） 〔X·@TeamNE_RR〕
 - 2026-09-20 · 25 赞 / 7 转 / 1 回 / 1433 浏览 · https://x.com/TeamNE_RR/status/2101544875179311306
-  > 새로운 루키, 저주술사 요나스가 루키 레이더스에 합류했습니다! A new Rookie, Jonas the Hexer, has joined Rookie Raiders!  https://t.co/NYiXrtu1sF https://t.co/lBylw0wQGt 〔X·@TeamNE_RR〕
+  > 「新菜鸟——咒术师 Jonas 加入了《Rookie Raiders》！」（原文："새로운 루키, 저주술사 요나스가 루키 레이더스에 합류했습니다! A new Rookie, Jonas the Hexer, has joined Rookie Raiders!  https://t.co/NYiXrtu1sF https://t.co/lBylw0wQGt"） 〔X·@TeamNE_RR〕
 - 2026-09-17 · 15 赞 / 4 转 / 0 回 / 1259 浏览 · https://x.com/TeamNE_RR/status/2100381960032133360
-  > 아트한테 출시 홍보글만 있으니까 스팸 계정같다고 혼남ㅠ 그래서 혼나서 시무룩한 키츠네 짤 올립니다 #RookieRaiders https://t.co/XKkna1BV2v 〔X·@TeamNE_RR〕
+  > 「因为账号里只有发售宣传帖，被美术说像垃圾账号挨骂了 ㅠ 所以发一张挨骂后垂头丧气的狐狸图」（原文："아트한테 출시 홍보글만 있으니까 스팸 계정같다고 혼남ㅠ 그래서 혼나서 시무룩한 키츠네 짤 올립니다 #RookieRaiders https://t.co/XKkna1BV2v"） 〔X·@TeamNE_RR〕
 - 2026-09-15 · 13 赞 / 7 转 / 1 回 / 2571 浏览 · https://x.com/TeamNE_RR/status/2100008669966700590
-  > The Steam demo for Rookie Raiders is finally out!  You can now build your party, experiment with skills and relics, and try the game for yourself.  If you give it a try, we'd love to hear what you think — and a review would help us a lot!  🎮 Play the demo: 〔X·@TeamNE_RR〕
+  > 「《Rookie Raiders》的 Steam Demo 终于推出了！现在你可以组建小队、尝试技能和遗物的搭配，亲自试玩游戏。如果你玩了，我们很想听听你的想法——留个评测会帮我们很大的忙！🎮 试玩 Demo：」（原文："The Steam demo for Rookie Raiders is finally out!  You can now build your party, experiment with skills and relics, and try the game for yourself.  If you give it a try, we'd love to hear what you think — and a review would help us a lot!  🎮 Play the demo:"） 〔X·@TeamNE_RR〕
 - 2026-09-15 · 9 赞 / 6 转 / 0 回 / 1001 浏览 · https://x.com/TeamNE_RR/status/2100008987894972736
-  > Rookie Raiders의 Steam 데모를 공개했습니다!  드디어 직접 플레이해보실 수 있게 됐어요. 3인 파티를 구성하고, 스킬과 유물을 조합해 다양한 빌드를 만들어보세요!  플레이해보시고 의견이나 리뷰를 남겨주시면 정말 큰 도움이 됩니다.  🎮 Steam 데모 https://t.co/NYiXrtu1sF  #RookieRaiders 〔X·@TeamNE_RR〕
+  > 「《Rookie Raiders》的 Steam Demo 公开了！终于可以亲自玩到了。组建 3 人小队，组合技能和遗物，打造各种 Build！玩过之后留下意见或评测，对我们帮助非常大。🎮 Steam Demo」（原文："Rookie Raiders의 Steam 데모를 공개했습니다!  드디어 직접 플레이해보실 수 있게 됐어요. 3인 파티를 구성하고, 스킬과 유물을 조합해 다양한 빌드를 만들어보세요!  플레이해보시고 의견이나 리뷰를 남겨주시면 정말 큰 도움이 됩니다.  🎮 Steam 데모 https://t.co/NYiXrtu1sF  #RookieRaiders"） 〔X·@TeamNE_RR〕
 
 <!-- added:2026-10-10 -->
 

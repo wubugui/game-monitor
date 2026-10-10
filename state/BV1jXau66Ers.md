@@ -182,7 +182,7 @@ discovery_date: "2026-10-09"
 - 「范帮战力那么猛是因为大表哥里他们不够猛故事就没得写了，模拟经营不兴这一套」（3赞） 〔B站·BV1jY9jBVEUi楼中楼〕 <!-- added:2026-10-10 -->
 
 ### AI相关
-- 「我需要惊人的老人04 I need the amazing elder man 04 驚くべき老人04が必要です 놀라운 노인 04가 필요합니다 J'ai besoin du vieil homme étonnant 04 Ich brauche den erstaunlichen alten Mann 04」（1赞） 〔B站·BV1SXew65EAF评论〕
+- 「我需要惊人的老人04（同一句话的英、日、韩、法、德多语版本）」（原文："我需要惊人的老人04 I need the amazing elder man 04 驚くべき老人04が必要です 놀라운 노인 04가 필요합니다 J'ai besoin du vieil homme étonnant 04 Ich brauche den erstaunlichen alten Mann 04"）（1赞） 〔B站·BV1SXew65EAF评论〕
 - 「荒野小镖客1（ai辅助版）」（0赞） 〔B站·BV1SXew65EAF评论〕 <!-- added:2026-10-10 -->
 - 「现在是ai做游戏，模子一套，换个花样又来了」（0赞） 〔B站·BV1SXew65EAF评论〕
 - 「的确掉帧，然后开了帧生成」（0赞｜疑似UP/官号） 〔B站·BV1QZe66sEqA楼中楼〕 <!-- added:2026-10-10 -->

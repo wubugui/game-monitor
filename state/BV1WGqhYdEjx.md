@@ -88,7 +88,7 @@ discovery_date: "2026-10-10"
 - 状态：已发售（Steam 2024-12-11）
 - 平台：Steam
 - 发售：2024-12-11
-- Steam：无人（AppID 3257490）｜¥ 20.00｜评测 936 条（Very Positive）〔Steam·商店页〕
+- Steam：无人（AppID 3257490）｜¥ 20.00｜评测 936 条（特别好评）〔Steam·商店页〕
 
 ## 游戏内容
 

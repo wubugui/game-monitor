@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-09-23 · @horrorvisuals（156023 粉）· 赞 376 / 转 40 / 回复 4 / 浏览 11147 · https://x.com/horrorvisuals/status/2102727133953245469
-  > Liminal Point is an isometric survival horror game set on a fog-covered island.  Play as a former rock star returning to the place where her band’s story ended in tragedy, exploring abandoned streets, mansions and hospitals while fighting grotesque creatures.
+  > 「《Liminal Point》是一款等距视角生存恐怖游戏，舞台是一座被迷雾笼罩的岛屿。扮演一位前摇滚明星，回到她乐队故事以悲剧收场的地方，探索废弃街道、宅邸和医院，同时与怪诞的生物战斗。」（原文："Liminal Point is an isometric survival horror game set on a fog-covered island.  Play as a former rock star returning to the place where her band’s story ended in tragedy, exploring abandoned streets, mansions and hospitals while fighting grotesque creatures."）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -110,9 +110,9 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@HideWorksGames；该时段原创帖 2 条（不含转推）
 - 2026-10-03 · 303 赞 / 27 转 / 24 回 / 5425 浏览 · https://x.com/HideWorksGames/status/2106434681973387706
-  > Showing some new FX visuals for the gun impacts in our indie survival horror game - LIMINAL POINT - 🎮  #indiedev #indiegame #gamedev https://t.co/7BMJLmLEyQ 〔X·@HideWorksGames〕
+  > 「展示一下我们的独立生存恐怖游戏《LIMINAL POINT》里新的枪械命中特效 🎮」（原文："Showing some new FX visuals for the gun impacts in our indie survival horror game - LIMINAL POINT - 🎮  #indiedev #indiegame #gamedev https://t.co/7BMJLmLEyQ"） 〔X·@HideWorksGames〕
 - 2026-10-09 · 121 赞 / 3 转 / 12 回 / 3138 浏览 · https://x.com/HideWorksGames/status/2108395065974603948
-  > Ngl y'all, making Liminal Point's story, might very well be the hardest thing to do in the game. 〔X·@HideWorksGames〕
+  > 「说真的各位，给《Liminal Point》写剧情，可能是这游戏里最难做的部分。」（原文："Ngl y'all, making Liminal Point's story, might very well be the hardest thing to do in the game."） 〔X·@HideWorksGames〕
 
 <!-- added:2026-10-10 -->
 

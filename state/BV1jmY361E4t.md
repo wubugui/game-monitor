@@ -241,7 +241,7 @@ discovery_date: "2026-10-09"
 ### AI相关
 - 「其实确实是游戏没设计好：1、玩家看不到第一次蓝色生成的区域，指针开始动了才生成蓝色区域。2、第一次蓝色区域会随机刷新，等指针从右到左回来后肯定会来不及，必须第一次就成功。3、钓鱼进度条初始为0，第一次失败就会导致钓鱼失败，失去鱼饵。 所以就导致我运气很差，三回蓝色区域第一次都生成在最左边，根本来不及反应指针就已经过去了…」（28赞｜疑似UP/官号） 〔B站·BV1tKQZY1E1B楼中楼〕 <!-- added:2026-10-10 -->
 - 「传送的获取也挺简单，在商店区一开始上面一排商店里面有个npc和他对话就会教你」（1赞） 〔B站·BV1jmY361E4t楼中楼〕 <!-- added:2026-10-10 -->
-- 「It's kind of interesting, not in a flashy way, but in that quiet, unexpected sense that makes you pause and think twice. The more you reflect on it, the more la…」（0赞） 〔B站·BV1jmY361E4t评论〕
+- 「挺有意思的，不是那种花哨的有意思，而是安静、出乎意料、让你停下来多想一想的那种。越回味越……」（原文："It's kind of interesting, not in a flashy way, but in that quiet, unexpected sense that makes you pause and think twice. The more you reflect on it, the more la…"）（0赞） 〔B站·BV1jmY361E4t评论〕
 - 「默认恐怖向都是正常做不好才加入的要素，而且ai生成人物都有些瘆人简直是最佳素材。」（0赞） 〔B站·BV1jmY361E4t评论〕
 - 「特别是几个感情线角色好多对话被当成新手教程或者任务引导用了，说话内容太npc了点」（0赞） 〔B站·BV1jmY361E4t楼中楼〕 <!-- added:2026-10-10 -->
 

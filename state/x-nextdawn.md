@@ -77,11 +77,11 @@ discovery_date: "2026-10-10"
 
 ### 回复区（按时间）
 - 2026-08-23 · @MikeKa77576183（11 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 95 · https://x.com/MikeKa77576183/status/2091514373499945253
-  > @WaterKiNoKo Good to see a steam page. on the wishlist it goes
+  > 「很高兴看到 Steam 页面上线了，加进愿望单」（原文："@WaterKiNoKo Good to see a steam page. on the wishlist it goes"）
 - 2026-08-23 · @nornsoir（139 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 61 · https://x.com/nornsoir/status/2091533594619527288
-  > @WaterKiNoKo i can't wait for this game ♥
+  > 「我等不及要玩这款游戏了 ♥」（原文："@WaterKiNoKo i can't wait for this game ♥"）
 - 2026-08-24 · @TiLES_Hub_X（118 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 18 · https://x.com/TiLES_Hub_X/status/2091817779393368368
-  > @WaterKiNoKo It looks quite awesome :)  Btw we have our own platform for publishing games like your. If you’re interested, check out our detailed presentation of the platform:
+  > 「看起来很棒 :) 顺便，我们有自己的平台可以发行你这样的游戏。如果感兴趣，看看我们平台的详细介绍：」（原文："@WaterKiNoKo It looks quite awesome :)  Btw we have our own platform for publishing games like your. If you’re interested, check out our detailed presentation of the platform:"）
 - 2026-08-25 · @coolbean_XD（289 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 30 · https://x.com/coolbean_XD/status/2092366313662681453
   > @WaterKiNoKo 😭those legs
 - 2026-09-27 · @GalYouXiku（29 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 11 · https://x.com/GalYouXiku/status/2104057576904397062
@@ -123,7 +123,7 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@WaterKiNoKo；该时段原创帖 1 条（不含转推）
 - 2026-09-11 · 4 赞 / 1 转 / 1 回 / 160 浏览 · https://x.com/WaterKiNoKo/status/2098388018214363301
-  > How can indie games be made known to more people (ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭  #indiegame 〔X·@WaterKiNoKo〕
+  > 「独立游戏要怎样才能让更多人知道呢 (ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭」（原文："How can indie games be made known to more people (ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭  #indiegame"） 〔X·@WaterKiNoKo〕
 
 <!-- added:2026-10-10 -->
 

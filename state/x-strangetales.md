@@ -92,7 +92,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-Steam 开发商为新加坡注册的 LinearGame Pte. Ltd.；X 上由 @YorollAI（Yoroll，自称「Playable Videos. Living Characters. Infinite Worlds」的 AI 互动视频/游戏平台，2002 粉）发布 Demo，同一账号同期还在推「把 ChatGPT 变成互动影游工作室」的插件、实时生成的互动游戏和 AI 陪伴角色。可以推断本作是 Yoroll 体系下 AI 生成影像的样板作品（推断，未见官方明说）。**可靠程度：中**（已有 Demo，但更像平台展示作）。
+Steam 开发商为新加坡注册的 LinearGame Pte. Ltd.；X 上由 @YorollAI（Yoroll，自称「可玩的视频。鲜活的角色。无限的世界」（原文："Playable Videos. Living Characters. Infinite Worlds"）的 AI 互动视频/游戏平台，2002 粉）发布 Demo，同一账号同期还在推「把 ChatGPT 变成互动影游工作室」的插件、实时生成的互动游戏和 AI 陪伴角色。可以推断本作是 Yoroll 体系下 AI 生成影像的样板作品（推断，未见官方明说）。**可靠程度：中**（已有 Demo，但更像平台展示作）。
 
 ## 综合评价（对照《***》）
 
@@ -100,7 +100,7 @@ Steam 开发商为新加坡注册的 LinearGame Pte. Ltd.；X 上由 @YorollAI�
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/YorollAI/status/2095446168855625991（检索「Chinese myth / strange tales」发现：「The free Steam Demo for Strange Tales of Republican China is NOW Available!」，2026-09-03，203 赞 / 4.2 万浏览）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/YorollAI/status/2095446168855625991（检索「中国神话 / 志怪」（原文："Chinese myth / strange tales"）发现：「《民国诡事》（Strange Tales of Republican China）免费 Steam Demo 现已推出！」（原文："The free Steam Demo for Strange Tales of Republican China is NOW Available!"），2026-09-03，203 赞 / 4.2 万浏览）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4590810/ 与 appreviews 接口，原始数据 tmp/x/steam/strangetales.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -109,21 +109,21 @@ Steam 开发商为新加坡注册的 LinearGame Pte. Ltd.；X 上由 @YorollAI�
 
 - 追踪账号：@YorollAI；该时段原创帖 14 条（不含转推）
 - 2026-09-24 · 128 赞 / 10 转 / 12 回 / 28091 浏览 · https://x.com/YorollAI/status/2102959472725442909
-  > ChatGPT is now your interactive film &amp; game studio. 🎬✨ Install the 𝗬𝗼𝗿𝗼𝗹𝗹 𝗣𝗹𝘂𝗴𝗶𝗻, turn prompts into a fully playable film or game without leaving ChatGPT.   What you can create in one chat:  • Auto-branching storylines &amp; QTE mechanics 🎮  • Full scene storyboards https://t 〔X·@YorollAI〕
+  > 「ChatGPT 现在就是你的互动影视与游戏工作室。🎬✨ 安装 Yoroll 插件，不离开 ChatGPT 就能把提示词变成完整可玩的影片或游戏。一次对话就能做出：• 自动分支剧情和 QTE 机制 🎮 • 完整的分镜……」（原文："ChatGPT is now your interactive film &amp; game studio. 🎬✨ Install the 𝗬𝗼𝗿𝗼𝗹𝗹 𝗣𝗹𝘂𝗴𝗶𝗻, turn prompts into a fully playable film or game without leaving ChatGPT.   What you can create in one chat:  • Auto-branching storylines &amp; QTE mechanics 🎮  • Full scene storyboards https://t"） 〔X·@YorollAI〕
 - 2026-10-08 · 123 赞 / 13 转 / 18 回 / 30250 浏览 · https://x.com/YorollAI/status/2108066862684831803
-  > Meet Yyo 🐰 — the AI companion that's actually good company.   AI characters you can chat with, call, and play games with.   Pick a personality. Challenge them to a game. Keep talking while you play.   Who will you meet first? Or create your own partner. 🧡 https://t.co/qhWn5UKJJc 〔X·@YorollAI〕
+  > 「认识一下 Yyo 🐰——真正能陪你的 AI 伙伴。你可以和 AI 角色聊天、通话、一起玩游戏。选个性格，向他们发起挑战，边玩边聊。你会先遇见谁？或者创造你自己的伙伴。🧡」（原文："Meet Yyo 🐰 — the AI companion that's actually good company.   AI characters you can chat with, call, and play games with.   Pick a personality. Challenge them to a game. Keep talking while you play.   Who will you meet first? Or create your own partner. 🧡 https://t.co/qhWn5UKJJc"） 〔X·@YorollAI〕
 - 2026-09-14 · 102 赞 / 5 转 / 6 回 / 14150 浏览 · https://x.com/YorollAI/status/2099465804882600066
-  > 🚨 BREAKING: Zombie Scavenger is becoming an interactive video game!  @YorollAI , the AI-powered video game platform, has teamed up with @ Mx-Shell to adapt this viral short film into an official interactive video game. Expanding on the original worldview, every choice you make ht 〔X·@YorollAI〕
+  > 「🚨 重磅：《Zombie Scavenger》要变成互动视频游戏了！这家 AI 驱动的视频游戏平台与 Mx-Shell 合作，把这部爆火短片改编成官方互动视频游戏。在原作世界观基础上扩展，你做的每个选择……」（原文："🚨 BREAKING: Zombie Scavenger is becoming an interactive video game!  @YorollAI , the AI-powered video game platform, has teamed up with @ Mx-Shell to adapt this viral short film into an official interactive video game. Expanding on the original worldview, every choice you make ht"） 〔X·@YorollAI〕
 - 2026-09-16 · 100 赞 / 8 转 / 9 回 / 16865 浏览 · https://x.com/YorollAI/status/2100234646059454824
-  > What if Titanic took place in the Cyberpunk universe? 🌆🚢  𝟯𝟲 𝗻𝗲𝘄 𝘃𝗶𝘀𝘂𝗮𝗹 𝘀𝘁𝘆𝗹𝗲𝘀 𝗡𝗢𝗪 𝗹𝗶𝘃𝗲 𝗼𝗻 𝗬𝗼𝗿𝗼𝗹𝗹!  Which style will you try first?   #Yoroll #AIGame https://t.co/v4OmtRojho 〔X·@YorollAI〕
+  > 「如果《泰坦尼克号》发生在赛博朋克宇宙里会怎样？🌆🚢 36 种新视觉风格现已在 Yoroll 上线！你会先试哪种？」（原文："What if Titanic took place in the Cyberpunk universe? 🌆🚢  𝟯𝟲 𝗻𝗲𝘄 𝘃𝗶𝘀𝘂𝗮𝗹 𝘀𝘁𝘆𝗹𝗲𝘀 𝗡𝗢𝗪 𝗹𝗶𝘃𝗲 𝗼𝗻 𝗬𝗼𝗿𝗼𝗹𝗹!  Which style will you try first?   #Yoroll #AIGame https://t.co/v4OmtRojho"） 〔X·@YorollAI〕
 - 2026-09-17 · 7 赞 / 0 转 / 1 回 / 2541 浏览 · https://x.com/YorollAI/status/2100374321164124634
-  > ⚡Faster, sharper, and smarter 🪄Bring ideas to life with ease 𝗚𝗣𝗧 𝗜𝗠𝗔𝗚𝗘 𝟮.𝟱 𝗶𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗱 𝗼𝗻 𝗬𝗼𝗿𝗼𝗹𝗹!   #Yoroll #GPTImage25 https://t.co/3xyrVFuTQf 〔X·@YorollAI〕
+  > 「⚡更快、更清晰、更聪明 🪄轻松实现创意。Yoroll 现已支持 GPT IMAGE 2.5！」（原文："⚡Faster, sharper, and smarter 🪄Bring ideas to life with ease 𝗚𝗣𝗧 𝗜𝗠𝗔𝗚𝗘 𝟮.𝟱 𝗶𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗱 𝗼𝗻 𝗬𝗼𝗿𝗼𝗹𝗹!   #Yoroll #GPTImage25 https://t.co/3xyrVFuTQf"） 〔X·@YorollAI〕
 - 2026-09-13 · 7 赞 / 0 转 / 2 回 / 4896 浏览 · https://x.com/YorollAI/status/2099136020159561918
-  > We're developing more real-time games with GPT-6 + Yoroll H3 Superfast. This one starts with a ride toward a castle.  What happens along the way can come from the people playing. https://t.co/Mgs96lgWju 〔X·@YorollAI〕
+  > 「我们正在用 GPT-6 + Yoroll H3 Superfast 开发更多实时游戏。这一款从骑马奔向城堡开始。途中会发生什么，可以由玩家来决定。」（原文："We're developing more real-time games with GPT-6 + Yoroll H3 Superfast. This one starts with a ride toward a castle.  What happens along the way can come from the people playing. https://t.co/Mgs96lgWju"） 〔X·@YorollAI〕
 - 2026-09-19 · 6 赞 / 5 转 / 1 回 / 4143 浏览 · https://x.com/YorollAI/status/2101104969642610921
-  > Black Myth: Wukong from MiniMax H3 vs. Yoroll H3 Superfast https://t.co/yngLrZpFnp https://t.co/KnqjVx8gyD 〔X·@YorollAI〕
+  > 「MiniMax H3 生成的《黑神话：悟空》vs. Yoroll H3 Superfast 生成的」（原文："Black Myth: Wukong from MiniMax H3 vs. Yoroll H3 Superfast https://t.co/yngLrZpFnp https://t.co/KnqjVx8gyD"） 〔X·@YorollAI〕
 - 2026-09-11 · 6 赞 / 0 转 / 0 回 / 3977 浏览 · https://x.com/YorollAI/status/2098501836525158581
-  > Someone types “meet a girl” in the middle of a street confrontation. That’s the idea behind these games: the player can give the story a new direction.  Powered by Yoroll H3 Superfast. https://t.co/MSVJcL30Sg 〔X·@YorollAI〕
+  > 「有人在街头对峙中途输入「遇见一个女孩」。这就是这些游戏的理念：玩家可以给故事一个新方向。由 Yoroll H3 Superfast 驱动。」（原文："Someone types “meet a girl” in the middle of a street confrontation. That’s the idea behind these games: the player can give the story a new direction.  Powered by Yoroll H3 Superfast. https://t.co/MSVJcL30Sg"） 〔X·@YorollAI〕
 
 <!-- added:2026-10-10 -->
 

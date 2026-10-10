@@ -88,41 +88,41 @@ discovery_date: "2026-10-10"
 - 2026-08-08 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 120 · https://x.com/hapi46085111/status/2086157998951670023
   > 这是游戏里油灯的四段亮度,数字是实际照到的半径。 熄灭 1.3 公尺、微光 1.9、中段 2.7、全开 3.4。 就这样而已。你把灯开到最亮,能看见的也只有身边三公尺多一点——剩下的整栋房子,全都在那圈光的外面。
 - 2026-08-08 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 46 · https://x.com/hapi46085111/status/2086165547214151754
-  > これは、ゲーム内のランプの四段階の明るさです。数字は、実際に光が届く半径です。 消灯 1.3メートル、弱 1.9、中 2.7、全開 3.4。 それだけです。いちばん明るくしても、見えるのは自分のまわり3メートルちょっと——残りの屋敷は、まるごとその光の輪の外側にあります。
+  > 「这是游戏里那盏灯的四档亮度。数字是光实际能照到的半径。熄灯 1.3 米，弱 1.9，中 2.7，全开 3.4。就这些。开到最亮，也只能看到自己周围三米多一点——宅子的其余部分，全都在那圈光之外。」（原文："これは、ゲーム内のランプの四段階の明るさです。数字は、実際に光が届く半径です。 消灯 1.3メートル、弱 1.9、中 2.7、全開 3.4。 それだけです。いちばん明るくしても、見えるのは自分のまわり3メートルちょっと——残りの屋敷は、まるごとその光の輪の外側にあります。"）
 - 2026-08-09 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 32 · https://x.com/hapi46085111/status/2086256153026084876
-  > These are the four brightness levels of the lamp in our game. The numbers are the radius it actually lights. Off: 1.3 m. Dim: 1.9. Mid: 2.7. Full: 3.4. That's it. Turn it all the way up and you still only see a little over three metres around you — the rest of the house stays
+  > 「这是我们游戏里那盏灯的四档亮度。数字是它实际照亮的半径。关：1.3 米。弱：1.9。中：2.7。全开：3.4。就这些。开到最亮，你也只能看到周围三米多一点——房子其余部分仍然……」（原文："These are the four brightness levels of the lamp in our game. The numbers are the radius it actually lights. Off: 1.3 m. Dim: 1.9. Mid: 2.7. Full: 3.4. That's it. Turn it all the way up and you still only see a little over three metres around you — the rest of the house stays"）
 - 2026-08-11 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 93 · https://x.com/hapi46085111/status/2087101722388750456
   > 我可以預言三件事,玩這款遊戲的人一定會做:  一、燈只照得到身邊三公尺,還是會往更黑的地方走。 二、聽到聲音,會朝聲音的方向走過去。 三、看到一扇明顯不該開的門,會開。  我沒有要阻止你們。這棟房子就是靠這個活著的。  你們每一個都會照做,而且會覺得那是自己的選擇。 《除靈館》,2026 Steam。
 - 2026-08-11 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 73 · https://x.com/hapi46085111/status/2087109268814111135
   > 我可以预言三件事,玩这款游戏的人一定会做:  一、灯只照得到身边三公尺,还是会往更黑的地方走。 二、听到声音,会朝声音的方向走过去。 三、看到一扇明显不该开的门,会开。  我没有要阻止你们。这栋房子就是靠这个活着的。  你们每一个都会照做,而且会觉得那是自己的选择。 《除灵馆》,2026 Steam。
 - 2026-08-11 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 20 · https://x.com/hapi46085111/status/2087116818913595718
-  > Three things I can predict about anyone who plays this game:  One. The lamp only reaches about three metres, and they'll still walk toward the darker part. Two. They'll hear a sound, and go the way the sound came from. Three. They'll see a door that obviously shouldn't be opened,
+  > 「关于玩这款游戏的人，我能预言三件事：一、灯只能照三米左右，他们还是会往更暗的地方走。二、听到声响，就朝声音来的方向走。三、看到一扇明显不该打开的门，……」（原文："Three things I can predict about anyone who plays this game:  One. The lamp only reaches about three metres, and they'll still walk toward the darker part. Two. They'll hear a sound, and go the way the sound came from. Three. They'll see a door that obviously shouldn't be opened,"）
 - 2026-08-11 · @hapi46085111（32 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 43 · https://x.com/hapi46085111/status/2087124368350384554
-  > 予言できることが三つある。このゲームを遊ぶ人間は、必ずこうする。  一、ランプは3メートルしか届かない。それでも、より暗いほうへ歩いていく。 二、物音がすれば、音のしたほうへ向かう。 三、明らかに開けるべきでない扉を見つけて、開ける。  止めるつもりはない。この家は、それで生きてきた。
+  > 「我能预言三件事。玩这款游戏的人，一定会这么做。一、灯只能照到 3 米，还是会往更暗的地方走。二、一有声响，就朝声音的方向去。三、发现一扇明显不该开的门，就打开它。我不打算阻止。这栋房子，就是靠这个活下来的。」（原文："予言できることが三つある。このゲームを遊ぶ人間は、必ずこうする。  一、ランプは3メートルしか届かない。それでも、より暗いほうへ歩いていく。 二、物音がすれば、音のしたほうへ向かう。 三、明らかに開けるべきでない扉を見つけて、開ける。  止めるつもりはない。この家は、それで生きてきた。"）
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 74 · https://x.com/hapi46085111/status/2088188892348354588
   > 《除靈館》開發者週報 #6(8/03–8/09) 這週的重點: ・第一間房完成從 3D 場景到可實際走動的完整串接,並確立其餘房間的製作流程與交付規格 ・地圖匯入管線完成:房間資料、整層擺位、碰撞生成、真實資產載入 ・新增怨靈接近時的心跳預警 ・自動化行為驗證從 45 項增加到 124 項,全數通過;共用模組累計 34
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 28 · https://x.com/hapi46085111/status/2088196431148626324
   > 《除灵馆》开发者周报 #6(8/03–8/09) 这周的重点: ・第一间房完成从 3D 场景到可实际走动的完整串接,并确立其余房间的制作流程与交付规格 ・地图导入管线完成:房间资料、整层摆位、碰撞生成、真实资产载入 ・新增怨灵接近时的心跳预警 ・自动化行为验证从 45 项增加到 124 项,全数通过;共用模块累计 34
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 74 · https://x.com/hapi46085111/status/2088203988348936475
-  > 『除霊館』開発者週報 #6(8/03–8/09) 今週のハイライト: ・最初の一部屋が、3Dシーンから実際に歩ける状態まで、ひととおりつながりました。あわせて、残りの部屋のための制作フローと納品仕様も確立
+  > 「《除灵馆》开发者周报（8/03–8/09）本周重点：・第一个房间从 3D 场景到能实际走动，已经完整打通，同时确立了其余房间的制作流程和交付规格」（原文："『除霊館』開発者週報 #6(8/03–8/09) 今週のハイライト: ・最初の一部屋が、3Dシーンから実際に歩ける状態まで、ひととおりつながりました。あわせて、残りの部屋のための制作フローと納品仕様も確立"）
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 147 · https://x.com/hapi46085111/status/2088234188642119866
   > 這張圖裡沒有任何美術,是故意的。 房間在變好看之前,會先長這樣:幾塊色塊、幾條走廊、一個看不出是什麼的接點。我們先在這個狀態下確認——走不走得過去、會不會撞進牆裡、繞到家具後面會不會被擋住。 確認完,美術才進來。 順序反過來的話,你會得到一批很漂亮、但尺寸不對的房間,然後整批重畫。 AI
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 107 · https://x.com/hapi46085111/status/2088241732815122818
   > 这张图里没有任何美术,是故意的。 房间在变好看之前,会先长这样:几块色块、几条走廊、一个看不出是什么的接点。我们先在这个状态下确认——走不走得过去、会不会撞进墙里、绕到家具后面会不会被挡住。 确认完,美术才进来。 顺序反过来的话,你会得到一批很漂亮、但尺寸不对的房间,然后整批重画。 AI
 - 2026-08-14 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 58 · https://x.com/hapi46085111/status/2088249283820626128
-  > この画像に、美術はひとつも入っていません。わざとです。
+  > 「这张图里一点美术都没有。是故意的。」（原文："この画像に、美術はひとつも入っていません。わざとです。"）
 - 2026-08-15 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 32 · https://x.com/hapi46085111/status/2088415378078884020
-  > Haunted House — Developer Weekly #6 (Aug 3 – Aug 9) This week's highlights: ・The first room is fully connected, from 3D scene to actually walking around in it — and the production flow and delivery spec for the remaining rooms are locked ・Map import pipeline complete: room
+  > 「《除灵馆》开发者周报（8 月 3 日–8 月 9 日）本周重点：・第一个房间完整打通，从 3D 场景到能实际走动——其余房间的制作流程和交付规格也已定下 ・地图导入管线完成：房间……」（原文："Haunted House — Developer Weekly #6 (Aug 3 – Aug 9) This week's highlights: ・The first room is fully connected, from 3D scene to actually walking around in it — and the production flow and delivery spec for the remaining rooms are locked ・Map import pipeline complete: room"）
 - 2026-08-15 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 35 · https://x.com/hapi46085111/status/2088438024606720437
-  > There is no art in this image, and that's on purpose. Before a room becomes something to look at, it looks like this: a few colour blocks, a corridor, a junction you can't identify. We check it in this state first — whether you can get through, whether you walk into walls,
+  > 「这张图里没有任何美术，是故意的。一个房间在变得好看之前，是这个样子：几个色块、一条走廊、一个认不出的岔口。我们先在这个状态下检查——能不能走过去、会不会撞墙、……」（原文："There is no art in this image, and that's on purpose. Before a room becomes something to look at, it looks like this: a few colour blocks, a corridor, a junction you can't identify. We check it in this state first — whether you can get through, whether you walk into walls,"）
 - 2026-09-06 · @hapi46085111（32 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 99 · https://x.com/hapi46085111/status/2096621948461834387
-  > 新しい開発日誌を公開しました。今回の要点です。  ・作りかけの謎解きをひとつ捨て、「屋敷の亡霊たちと話す」に差し替え ・謎解きの規則を作り直し:ひとつの遊び方に二つのアイテム、収集品 20 個すべてに行き先 ・アイテムを 37 個から 20 個へ ・遮蔽の統合が完了——壁の向こう側は真っ黒
+  > 「新的开发日志发布了。本期要点：・丢掉一个做到一半的解谜，换成「和宅子里的亡灵对话」・重订解谜规则：一种玩法配两件道具，20 件收藏品全部有去处 ・道具从 37 件减到 20 件 ・遮挡整合完成——墙的另一侧全黑」（原文："新しい開発日誌を公開しました。今回の要点です。  ・作りかけの謎解きをひとつ捨て、「和宅子里的亡灵对话」（原文："屋敷の亡霊たちと話す"）に差し替え ・謎解きの規則を作り直し:ひとつの遊び方に二つのアイテム、収集品 20 個すべてに行き先 ・アイテムを 37 個から 20 個へ ・遮蔽の統合が完了——壁の向こう側は真っ黒"）
 - 2026-09-06 · @hapi46085111（32 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 84 · https://x.com/hapi46085111/status/2096629502013215182
   > 這兩週多的開發日誌出了。這期的重點:  ・丟掉一個做到一半的解謎,換成「跟屋子裡的亡魂說話」 ・解謎規則重訂:一種玩法配兩件道具,20 件收藏品全部有著落 ・道具從 37 件砍到 20 件 ・遮擋整合完成,牆的後面是全黑的 ・地圖全部交付,場景 CG 再完成三張 ・報名了 Steam 十月的新品節
 - 2026-09-06 · @hapi46085111（32 粉）· 赞 2 / 转 1 / 回复 0 / 浏览 96 · https://x.com/hapi46085111/status/2096637047825928237
   > 这两周多的开发日志出了。这期的重点:  ・丢掉一个做到一半的解谜,换成「跟屋子里的亡魂说话」 ・解谜规则重订:一种玩法配两件道具,20 件收藏品全部有着落 ・道具从 37 件砍到 20 件 ・遮挡整合完成,墙的后面是全黑的 ・地图全部交付,场景 CG 再完成三张 ・报名了 Steam 十月的新品节
 - 2026-09-07 · @hapi46085111（32 粉）· 赞 1 / 转 1 / 回复 1 / 浏览 70 · https://x.com/hapi46085111/status/2096765394102976515
-  > The new dev diary is up. What's in it:  ・Threw out a half-built puzzle; replaced it with talking to the dead in the house ・New puzzle rule: each type pairs with exactly two items, all 20 collectibles covered ・Items cut from 37 to 20 ・Occlusion integrated — everything behind a
+  > 「新的开发日志上线了。内容：・丢掉一个做到一半的解谜，换成和房子里的亡灵对话 ・新解谜规则：每种类型正好配两件道具，20 件收藏品全覆盖 ・道具从 37 件砍到 20 件 ・遮挡整合完成——一切在……背后的」（原文："The new dev diary is up. What's in it:  ・Threw out a half-built puzzle; replaced it with talking to the dead in the house ・New puzzle rule: each type pairs with exactly two items, all 20 collectibles covered ・Items cut from 37 to 20 ・Occlusion integrated — everything behind a"）
 - 2026-09-10 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 31 · https://x.com/hapi46085111/status/2098050538214719730
   > 
 - 2026-09-21 · @hapi46085111（32 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 26 · https://x.com/hapi46085111/status/2101936952014671952
@@ -155,7 +155,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-个人/小团队，X 账号仅 32 粉，但**极其勤奋的开发日志**：中简/中繁/日/英四语同步发周报（#6 周报：第一间房从 3D 场景到可走动打通）、设计说明（为何丢掉半成品谜题改成「和亡魂说话」、道具规则「一种玩法配两件道具」）。开发者在回复中明说：「Unity. The art is AI-generated — it's noted on the store page… I review and revise every piece」。截图显示 AI 美术风格统一（暖黄手绘感），UI 已成型。**可靠程度：中**（流程清晰、迭代有据，但声量几乎为零，赶新品节仍在测试）。
+个人/小团队，X 账号仅 32 粉，但**极其勤奋的开发日志**：中简/中繁/日/英四语同步发周报（#6 周报：第一间房从 3D 场景到可走动打通）、设计说明（为何丢掉半成品谜题改成「和亡魂说话」、道具规则「一种玩法配两件道具」）。开发者在回复中明说：「Unity 做的。美术是 AI 生成的——商店页上有注明……每一张我都亲自审过、改过」（原文："Unity. The art is AI-generated — it's noted on the store page… I review and revise every piece"）。截图显示 AI 美术风格统一（暖黄手绘感），UI 已成型。**可靠程度：中**（流程清晰、迭代有据，但声量几乎为零，赶新品节仍在测试）。
 
 ## 综合评价（对照《***》）
 

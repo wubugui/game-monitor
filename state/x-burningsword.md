@@ -66,35 +66,35 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-08-03 · @Ninjago9101（10163 粉）· 赞 103 / 转 14 / 回复 2 / 浏览 6905 · https://x.com/Ninjago9101/status/2084260193060389108
-  > Nova Era: Atom Demo is OUT NOW on PC (Steam)  A sci-fi MMORPG blending Chinese mythology, where you build a custom spaceship and explore the cosmos.  Features: • Build and upgrade custom spaceships • Explore vast galaxies & civilizations • Mine, craft, research & build •
+  > 「《Nova Era: Atom》Demo 已在 PC（Steam）推出。一款融合中国神话的科幻 MMORPG，你可以打造自定义飞船探索宇宙。特色：• 建造并升级自定义飞船 • 探索广阔星系与文明 • 采矿、制作、研究与建造 •」（原文："Nova Era: Atom Demo is OUT NOW on PC (Steam)  A sci-fi MMORPG blending Chinese mythology, where you build a custom spaceship and explore the cosmos.  Features: • Build and upgrade custom spaceships • Explore vast galaxies & civilizations • Mine, craft, research & build •"）
 - 2026-10-02 · @Ninjago9101（10163 粉）· 赞 122 / 转 9 / 回复 8 / 浏览 7386 · https://x.com/Ninjago9101/status/2106140419042259383
-  > Burning Sword: Death Sun – New Demo OUT NOW on PC (Steam)  A hardcore Wuxia action game set in 12th-century China from Nomadic Games.  • Play as Zhang Yixiang with a burning sword & Qi abilities • Master dodging, parrying, timing & combos • Explore with wall-running, jumping &
+  > 「《Burning Sword: Death Sun》（燃烧之剑：死亡之日）新 Demo 已在 PC（Steam）推出。Nomadic Games 出品，背景设在 12 世纪中国的硬核武侠动作游戏。• 扮演手持燃烧之剑、身怀气功的张义翔 • 掌握闪避、招架、时机与连招 • 可飞檐走壁、跳跃探索 &」（原文："Burning Sword: Death Sun – New Demo OUT NOW on PC (Steam)  A hardcore Wuxia action game set in 12th-century China from Nomadic Games.  • Play as Zhang Yixiang with a burning sword & Qi abilities • Master dodging, parrying, timing & combos • Explore with wall-running, jumping &"）
 - 2026-10-02 · @Ninjago9101（10163 粉）· 赞 6 / 转 0 / 回复 0 / 浏览 569 · https://x.com/Ninjago9101/status/2106140601272144221
   > 
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-10-03 · @KitorimatsuGame（194 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 3 · https://x.com/KitorimatsuGame/status/2106466666993385573
-  > Descarga ya el nuevo demo de Burning Sword: Death Sun en Steam y vive esta brutal aventura de venganza en Unreal Engine 5 antes de su estreno este 2026. @BurningSword_DS   #BurningSwordDeathSun  #SteamDemo  #Wuxia #PCGaming  #KitorimatsuGaming
+  > 「立刻在 Steam 下载《Burning Sword: Death Sun》的新 Demo，在 2026 年正式发售前，用虚幻引擎 5 体验这场残酷的复仇冒险。」（原文："Descarga ya el nuevo demo de Burning Sword: Death Sun en Steam y vive esta brutal aventura de venganza en Unreal Engine 5 antes de su estreno este 2026. @BurningSword_DS   #BurningSwordDeathSun  #SteamDemo  #Wuxia #PCGaming  #KitorimatsuGaming"）
 - 2026-10-04 · @MithrieTV（20172 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 190 · https://x.com/MithrieTV/status/2106561767262601412
-  > 🔥 Unleash your fiery Qi! 🗡️  A playable demo for Burning Sword: Death Sun is OUT NOW on @Steam! Experience hardcore wuxia hack-and-slash combat built in @UnrealEngine.  Are you interested in a game like Burning Sword Death Sun? 🤔  #gamingnews #Steam #gaming #gamers #wuxia
+  > 「🔥释放你炽热的真气！🗡️《Burning Sword: Death Sun》的可玩 Demo 现已在 Steam 推出！体验用虚幻引擎打造的硬核武侠砍杀战斗。你对《Burning Sword Death Sun》这类游戏感兴趣吗？🤔」（原文："🔥 Unleash your fiery Qi! 🗡️  A playable demo for Burning Sword: Death Sun is OUT NOW on @Steam! Experience hardcore wuxia hack-and-slash combat built in @UnrealEngine.  Are you interested in a game like Burning Sword Death Sun? 🤔  #gamingnews #Steam #gaming #gamers #wuxia"）
 - 2026-10-04 · @japahttv（1293 粉）· 赞 1 / 转 1 / 回复 0 / 浏览 39 · https://x.com/japahttv/status/2106596484221141175
-  > - Burning Sword: Death Sun tem nova demo no PC via Steam. - Jogo de ação wuxia hardcore na China do século XII. - Controla Zhang Yixiang com espada flamejante e habilidades de Qi. - Inclui chefes, roguelite, arena e exploração.
+  > 「- 《Burning Sword: Death Sun》在 PC 的 Steam 上推出了新 Demo。- 背景设在 12 世纪中国的硬核武侠动作游戏。- 操控手持燃烧之剑、身怀气功的张义翔。- 包含 Boss、Roguelite、竞技场和探索。」（原文："- Burning Sword: Death Sun tem nova demo no PC via Steam. - Jogo de ação wuxia hardcore na China do século XII. - Controla Zhang Yixiang com espada flamejante e habilidades de Qi. - Inclui chefes, roguelite, arena e exploração."）
 
 ### 回复区（按时间）
 - 2026-10-02 · @Auxerta（2 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 114 · https://x.com/Auxerta/status/2106143808815861847
-  > @Ninjago9101 Wall-running, parrying, and Qi abilities is a respectable amount of movement before the sword even starts burning.
+  > 「飞檐走壁、招架、气功——剑还没烧起来，动作系统就已经相当可观了。」（原文："@Ninjago9101 Wall-running, parrying, and Qi abilities is a respectable amount of movement before the sword even starts burning."）
 - 2026-10-02 · @oldsoulsuni（113 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 93 · https://x.com/oldsoulsuni/status/2106161217446244436
-  > @Ninjago9101 The last demo trial was roooough
+  > 「上一个 Demo 玩起来太——糙——了」（原文："@Ninjago9101 The last demo trial was roooough"）
 - 2026-10-02 · @THaRedhoOOD（128 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 72 · https://x.com/THaRedhoOOD/status/2106163404180218336
   > @Ninjago9101 disc
 - 2026-10-03 · @Undertak3r86（126 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 66 · https://x.com/Undertak3r86/status/2106191233102107092
-  > @Ninjago9101 I didn't finish the old old demo, i need to give it another chance.
+  > 「那个很早的老 Demo 我没打完，得再给它一次机会。」（原文："@Ninjago9101 I didn't finish the old old demo, i need to give it another chance."）
 - 2026-10-03 · @YYurttan45468（4 粉）· 赞 0 / 转 0 / 回复 1 / 浏览 40 · https://x.com/YYurttan45468/status/2106390046148362638
-  > @Ninjago9101 Will it be in Turkish?
+  > 「会有土耳其语吗？」（原文："@Ninjago9101 Will it be in Turkish?"）
 - 2026-10-03 · @CoelloMarl51876（14 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 24 · https://x.com/CoelloMarl51876/status/2106403853205700931
-  > @Ninjago9101 No otro juego chino bro se va a quemar el wuxia
+  > 「别又是一款中国游戏啊兄弟，武侠要被玩烂了」（原文："@Ninjago9101 No otro juego chino bro se va a quemar el wuxia"）
 - 2026-10-03 · @YYurttan45468（4 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 4 · https://x.com/YYurttan45468/status/2106436500145467413
-  > @Ninjago9101 It would be great if Turkish language support was added.
+  > 「要是能加土耳其语支持就太好了。」（原文："@Ninjago9101 It would be great if Turkish language support was added."）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -113,7 +113,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-由海外独立团队 Nomadic Games 开发，多国游戏资讯号（巴西、西班牙语）同步推 Demo。玩家回复里有「The last demo trial was roooough」「No otro juego chino bro se va a quemar el wuxia」，说明上一版 Demo 口碑一般。**可靠程度：中**（多次 Demo，尚未定档）。
+由海外独立团队 Nomadic Games 开发，多国游戏资讯号（巴西、西班牙语）同步推 Demo。玩家回复里有「上一个 Demo 玩起来太——糙——了」（原文："The last demo trial was roooough"）「别又是一款中国游戏啊兄弟，武侠要被玩烂了」（原文："No otro juego chino bro se va a quemar el wuxia"），说明上一版 Demo 口碑一般。**可靠程度：中**（多次 Demo，尚未定档）。
 
 ## 综合评价（对照《***》）
 
@@ -130,21 +130,21 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@Ninjago9101；该时段原创帖 21 条（不含转推）（注：@Ninjago9101 实为游戏资讯转发号，并非开发者；时间线内无本作新消息，仅作记录）
 - 2026-10-08 · 1247 赞 / 99 转 / 15 回 / 54667 浏览 · https://x.com/Ninjago9101/status/2108239487285494198
-  > The Pines – Official Trailer  A psychological horror RPG where every choice has consequences.  • Play as former detective Edward Walker • Explore a dense open world filled with secrets • Investigate mysteries &amp; hidden conspiracies • Choices shape characters &amp; outcomes • h 〔X·@Ninjago9101〕
+  > 「《The Pines》官方预告。一款每个选择都有后果的心理恐怖 RPG。• 扮演前警探 Edward Walker • 探索充满秘密的茂密开放世界 • 调查谜团与隐藏的阴谋 • 选择会影响角色与结局 •」（原文："The Pines – Official Trailer  A psychological horror RPG where every choice has consequences.  • Play as former detective Edward Walker • Explore a dense open world filled with secrets • Investigate mysteries &amp; hidden conspiracies • Choices shape characters &amp; outcomes • h"） 〔X·@Ninjago9101〕
 - 2026-10-09 · 547 赞 / 53 转 / 31 回 / 28861 浏览 · https://x.com/Ninjago9101/status/2108541316875587853
-  > ECC: REDLINE – Official Gameplay Reveal  A free-to-play competitive shooter from NetEase Games combining high-speed movement, tactical gunplay &amp; squad-based survival.  • Sprint, slide, grapple &amp; wall-bounce • Survive shrinking safe zones with your squad • Play unique athl 〔X·@Ninjago9101〕
+  > 「《ECC: REDLINE》官方实机首曝。网易出品的免费竞技射击游戏，结合高速移动、战术枪战和小队生存。• 冲刺、滑铲、钩爪、蹬墙 • 和小队一起在缩圈中生存 • 使用独特的……」（原文："ECC: REDLINE – Official Gameplay Reveal  A free-to-play competitive shooter from NetEase Games combining high-speed movement, tactical gunplay &amp; squad-based survival.  • Sprint, slide, grapple &amp; wall-bounce • Survive shrinking safe zones with your squad • Play unique athl"） 〔X·@Ninjago9101〕
 - 2026-10-09 · 213 赞 / 19 转 / 4 回 / 10063 浏览 · https://x.com/Ninjago9101/status/2108682344278466592
-  > State of Decay 3 – Closed Beta Test Announced  A co-op open-world zombie survival game from Undead Labs &amp; Xbox Game Studios.  • Survive an evolving zombie apocalypse • Build, upgrade &amp; defend settlements • Scavenge, craft &amp; recruit survivors • Permanent character deat 〔X·@Ninjago9101〕
+  > 「《腐烂国度 3》封闭测试公布。Undead Labs 与 Xbox Game Studios 出品的合作开放世界丧尸生存游戏。• 在不断演变的丧尸末日中生存 • 建造、升级并守卫据点 • 搜刮、制作、招募幸存者 • 角色永久死亡」（原文："State of Decay 3 – Closed Beta Test Announced  A co-op open-world zombie survival game from Undead Labs &amp; Xbox Game Studios.  • Survive an evolving zombie apocalypse • Build, upgrade &amp; defend settlements • Scavenge, craft &amp; recruit survivors • Permanent character deat"） 〔X·@Ninjago9101〕
 - 2026-10-09 · 72 赞 / 10 转 / 2 回 / 3397 浏览 · https://x.com/Ninjago9101/status/2108552414479659132
-  > WonderPaws announced  A whimsical animal city life sim where you build your dream life in a bustling animal metropolis.  • Explore a neon-lit animal city  • Live with animal roommates and build friendships  • Decorate your dream home  • Pursue careers as a pop star, mayor, or htt 〔X·@Ninjago9101〕
+  > 「《WonderPaws》公布。一款奇趣的动物城市生活模拟游戏，在热闹的动物大都市里打造理想生活。• 探索霓虹闪烁的动物城市 • 和动物室友同住、结交朋友 • 装饰梦想之家 • 可以当流行歌星、市长或……」（原文："WonderPaws announced  A whimsical animal city life sim where you build your dream life in a bustling animal metropolis.  • Explore a neon-lit animal city  • Live with animal roommates and build friendships  • Decorate your dream home  • Pursue careers as a pop star, mayor, or htt"） 〔X·@Ninjago9101〕
 - 2026-10-07 · 40 赞 / 3 转 / 2 回 / 2668 浏览 · https://x.com/Ninjago9101/status/2107950557952716990
-  > BECROWNED – New Console Reveal Trailer  A surreal third-person survival horror game where industrial ruins collide with a dark fantasy kingdom.  • Play as Richard Torrance, trapped between reality &amp; fantasy • Explore factories, castles &amp; disturbing ruins • Solve puzzles & 〔X·@Ninjago9101〕
+  > 「《BECROWNED》主机版新预告。一款超现实第三人称生存恐怖游戏，工业废墟与黑暗奇幻王国交织。• 扮演困在现实与幻想之间的 Richard Torrance • 探索工厂、城堡和诡异废墟 • 解谜 &」（原文："BECROWNED – New Console Reveal Trailer  A surreal third-person survival horror game where industrial ruins collide with a dark fantasy kingdom.  • Play as Richard Torrance, trapped between reality &amp; fantasy • Explore factories, castles &amp; disturbing ruins • Solve puzzles &"） 〔X·@Ninjago9101〕
 - 2026-10-07 · 30 赞 / 4 转 / 3 回 / 3025 浏览 · https://x.com/Ninjago9101/status/2107945389425135688
-  > Tidyspell announced  A relaxing magical cleaning game where you restore a mysterious house and uncover its secrets.  • Clean &amp; organize with magic and telekinesis • Fly a magic broom to collect trash • Explore hidden rooms &amp; impossible spaces • Discover invisible creature 〔X·@Ninjago9101〕
+  > 「《Tidyspell》公布。一款轻松的魔法打扫游戏，修复一栋神秘房子并揭开其中秘密。• 用魔法和念力清洁整理 • 骑魔法扫帚收集垃圾 • 探索隐藏房间和不可能的空间 • 发现隐形生物」（原文："Tidyspell announced  A relaxing magical cleaning game where you restore a mysterious house and uncover its secrets.  • Clean &amp; organize with magic and telekinesis • Fly a magic broom to collect trash • Explore hidden rooms &amp; impossible spaces • Discover invisible creature"） 〔X·@Ninjago9101〕
 - 2026-10-09 · 22 赞 / 2 转 / 1 回 / 1110 浏览 · https://x.com/Ninjago9101/status/2108636469460099281
-  > Mimic Hunt – Official Gameplay Trailer  A psychological stealth game where infiltrators disguise themselves as NPCs to eliminate targets while pursuers hunt them down.  • Play as an infiltrator or pursuer in solo or multiplayer • Blend into NPC crowds and eliminate targets https: 〔X·@Ninjago9101〕
+  > 「《Mimic Hunt》官方实机预告。一款心理潜行游戏：潜入者伪装成 NPC 刺杀目标，追捕者负责把他们揪出来。• 单人或多人扮演潜入者或追捕者 • 混入 NPC 人群刺杀目标」（原文："Mimic Hunt – Official Gameplay Trailer  A psychological stealth game where infiltrators disguise themselves as NPCs to eliminate targets while pursuers hunt them down.  • Play as an infiltrator or pursuer in solo or multiplayer • Blend into NPC crowds and eliminate targets https:"） 〔X·@Ninjago9101〕
 - 2026-10-09 · 19 赞 / 2 转 / 1 回 / 1083 浏览 · https://x.com/Ninjago9101/status/2108651436863267110
-  > Wilderdark announced  A first-person survival horror game set on an island overrun by parasites corrupting dinosaurs and plant life.  - Stealth-based survival against deadly dinosaurs and apex predators - Explore and document a corrupted ecosystem - Scavenge resources, collect ht 〔X·@Ninjago9101〕
+  > 「《Wilderdark》公布。一款第一人称生存恐怖游戏，舞台是被寄生虫侵占、恐龙和植物都遭腐化的海岛。- 以潜行求生，对抗致命恐龙和顶级掠食者 - 探索并记录被腐化的生态系统 - 搜刮资源、收集……」（原文："Wilderdark announced  A first-person survival horror game set on an island overrun by parasites corrupting dinosaurs and plant life.  - Stealth-based survival against deadly dinosaurs and apex predators - Explore and document a corrupted ecosystem - Scavenge resources, collect ht"） 〔X·@Ninjago9101〕
 
 <!-- added:2026-10-10 -->
 

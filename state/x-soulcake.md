@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-07-02 · @Pttz16Pttz（3734 粉）· 赞 4 / 转 0 / 回复 3 / 浏览 592 · https://x.com/Pttz16Pttz/status/2072587820586475540
-  > My partner and I (2-person studio) made Amare game VN Soulcake, a female-led dark fantasy romance adventure. Free demo live on  Steam demo coming soon! Wishlist if this interests you 👇  #IndieOtome #VisualNovel #IndieDev #OtomeGame #LGBTQGames #SteamDemo
+  > 「我和搭档（2 人工作室）做了 Amare Game 视觉小说《Soulcake》（灵魂甜品），一款女性主角的黑暗奇幻恋爱冒险。免费 Demo 已在 Steam 上线，Demo 即将推出！感兴趣就加个愿望单 👇」（原文："My partner and I (2-person studio) made Amare game VN Soulcake, a female-led dark fantasy romance adventure. Free demo live on  Steam demo coming soon! Wishlist if this interests you 👇  #IndieOtome #VisualNovel #IndieDev #OtomeGame #LGBTQGames #SteamDemo"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -101,7 +101,7 @@ discovery_date: "2026-10-10"
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Pttz16Pttz/status/2072587820586475540（检索「#visualnovel wishlist」发现：「My partner and I (2-person studio) made Amare game VN Soulcake…」2026-07-02）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Pttz16Pttz/status/2072587820586475540（检索「#visualnovel wishlist」发现：「我和搭档（2 人工作室）做了 Amare Game 视觉小说《Soulcake》……」（原文："My partner and I (2-person studio) made Amare game VN Soulcake…"）2026-07-02）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4792160/ 与 appreviews 接口，原始数据 tmp/x/steam/soulcake.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -110,15 +110,15 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@Pttz16Pttz；该时段原创帖 6 条（不含转推）
 - 2026-10-09 · 21 赞 / 1 转 / 1 回 / 438 浏览 · https://x.com/Pttz16Pttz/status/2108573640489156943
-  > 他人の心に入り込み、過去に寄り添うケーキを作るゲーム 【女×男＋百合＋現代ダークファンタジーADV】 『ソウルケーキ』🔮🍰 Staemで体験版配信中です！ #スーパーゲ制デー #Soulcake https://t.co/HrjBR21nIJ 〔X·@Pttz16Pttz〕
+  > 「一款进入他人内心、制作贴近其过往的蛋糕的游戏【女×男＋百合＋现代黑暗奇幻 ADV】《Soulcake》（灵魂甜品）🔮🍰 Steam 正在提供体验版！」（原文："他人の心に入り込み、過去に寄り添うケーキを作るゲーム 【女×男＋百合＋現代ダークファンタジーADV】 『ソウルケーキ』🔮🍰 Staemで体験版配信中です！ #スーパーゲ制デー #Soulcake https://t.co/HrjBR21nIJ"） 〔X·@Pttz16Pttz〕
 - 2026-09-20 · 13 赞 / 0 转 / 2 回 / 291 浏览 · https://x.com/Pttz16Pttz/status/2101509378193182853
-  > Today I’ve revamped the key art for ‘Soulcake’! We swapped the old dark group shot for artwork featuring the protagonist and their companion, set against a backdrop of the sweet shop and magical curtains. Sweet with a subtle dark twist💖 #Indiegame  #indiedev #ゲーム開発 https://t.co/6 〔X·@Pttz16Pttz〕
+  > 「今天我重做了《Soulcake》的主视觉！把以前那张暗色群像换成了主角和同伴的画面，背景是甜品店和魔法帷幕。甜美中带一丝暗黑💖」（原文："Today I’ve revamped the key art for ‘Soulcake’! We swapped the old dark group shot for artwork featuring the protagonist and their companion, set against a backdrop of the sweet shop and magical curtains. Sweet with a subtle dark twist💖 #Indiegame  #indiedev #ゲーム開発 https://t.co/6"） 〔X·@Pttz16Pttz〕
 - 2026-10-09 · 5 赞 / 0 转 / 0 回 / 96 浏览 · https://x.com/Pttz16Pttz/status/2108606306143850827
-  > I attended two offline conventions lately.  Many visitors mistook our heroine for a male character. Thinking it was a typical galgame, and they moved on. I’d walk over and tell them: “This is our heroine!” and got so many surprised reactions…😇  #Indiegame  #indiedev #ゲーム開発 https: 〔X·@Pttz16Pttz〕
+  > 「最近参加了两场线下展会。很多参观者把我们的女主角误认成男性角色，以为是典型的 Galgame，就走开了。我就走过去告诉他们：「这是我们的女主角！」收获了好多惊讶的反应……😇」（原文："I attended two offline conventions lately.  Many visitors mistook our heroine for a male character. Thinking it was a typical galgame, and they moved on. I’d walk over and tell them: “This is our heroine!” and got so many surprised reactions…😇  #Indiegame  #indiedev #ゲーム開発 https:"） 〔X·@Pttz16Pttz〕
 - 2026-10-05 · 3 赞 / 0 转 / 0 回 / 160 浏览 · https://x.com/Pttz16Pttz/status/2106965441612808203
   > 前几日品鉴了本作的demo！是制作精良的猎奇向佳作😍 尤其是分支选项的设计，让人非常惊讶的画面细节与氛围。 重要的是，支持DIY主角的形象，代入感变得更加强烈了… os我很好奇为什么黑皮帅哥会带有一支“画了美甲的手臂”的假肢，这看起来更加色气了🫣🥹 *demo里也没有什么吓人的部分，可以放心体验！🥰 https://t.co/MbiHlPHqce 〔X·@Pttz16Pttz〕
 - 2026-10-09 · 0 赞 / 0 转 / 0 回 / 34 浏览 · https://x.com/Pttz16Pttz/status/2108573645459300674
-  > 横スクロール探索ADV＋ビジュアルノベル『ソウルケーキ』を開発中です。 デモを無料で体験できます：https://t.co/WtHqf0AJpr 〔X·@Pttz16Pttz〕
+  > 「正在开发横版探索 ADV＋视觉小说《Soulcake》。Demo 可以免费体验：」（原文："横スクロール探索ADV＋ビジュアルノベル『ソウルケーキ』を開発中です。 デモを無料で体験できます：https://t.co/WtHqf0AJpr"） 〔X·@Pttz16Pttz〕
 - 2026-09-20 · 0 赞 / 0 转 / 0 回 / 81 浏览 · https://x.com/Pttz16Pttz/status/2101509382207046130
   > https://t.co/v8xkWs3pwR 〔X·@Pttz16Pttz〕
 

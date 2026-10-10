@@ -68,16 +68,16 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-04 · @EchofallGames（360 粉）· 赞 70 / 转 16 / 回复 2 / 浏览 2972 · https://x.com/EchofallGames/status/2106738609344942248
-  > The DEEPWARD demo is out now! Wishlist on Steam: Wishlist on Steam:  Here’s part two of our favourite moments from the DEEPWARD demo. Things get messy pretty quickly.  #ShowMeSunday #horrorgame #GamingReels
+  > 「《DEEPWARD》Demo 现已推出！Steam 加愿望单：这是我们最喜欢的 Demo 名场面第二弹。局面很快就一团糟。」（原文："The DEEPWARD demo is out now! Wishlist on Steam: Wishlist on Steam:  Here’s part two of our favourite moments from the DEEPWARD demo. Things get messy pretty quickly.  #ShowMeSunday #horrorgame #GamingReels"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-10-04 · @hazstudio_game（38 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 32 · https://x.com/hazstudio_game/status/2106813498332434574
-  > @EchofallGames 재미있게 보이네요
+  > 「看起来很有意思呢」（原文："@EchofallGames 재미있게 보이네요"）
 - 2026-10-04 · @theSushiexe（15 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 2 · https://x.com/theSushiexe/status/2106889782609772559
-  > @EchofallGames fast-paced horror fps roguelite is such a nasty combo, congrats on the demo launch. the messy bits are always the best bits 🍣
+  > 「快节奏恐怖 FPS Roguelite 真是个够狠的组合，恭喜 Demo 上线。乱成一团的部分永远是最精彩的部分 🍣」（原文："@EchofallGames fast-paced horror fps roguelite is such a nasty combo, congrats on the demo launch. the messy bits are always the best bits 🍣"）
 
 ## 关注度与数据（截至 2026-10-10）
 

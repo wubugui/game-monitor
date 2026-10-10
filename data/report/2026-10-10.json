@@ -59,6 +59,12 @@
    "name": "遥之境 Far Realm"
   },
   {
+   "competitor": false,
+   "cover": "covers/x-malice.jpg",
+   "id": "x-malice",
+   "name": "逃脱：怨念 Escape: Malice"
+  },
+  {
    "competitor": true,
    "cover": "covers/x-rubbings.jpg",
    "id": "p-b4beba7e64",
@@ -173,10 +179,28 @@
    "name": "Vivere Retro"
   },
   {
+   "competitor": false,
+   "cover": "covers/x-tunedin.jpg",
+   "id": "x-tunedin",
+   "name": "Tuned In（TUNED IN: The Prologue）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-pines.jpg",
+   "id": "x-pines",
+   "name": "The Pines"
+  },
+  {
    "competitor": true,
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-devildetails.jpg",
+   "id": "x-devildetails",
+   "name": "The Devil is in the Details"
   },
   {
    "competitor": false,

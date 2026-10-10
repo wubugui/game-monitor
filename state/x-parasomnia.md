@@ -49,7 +49,7 @@ discovery_date: "2026-10-10"
 
 ### Steam 商店简介（原文摘录）〔Steam商店页〕
 
-> Parasomnia: No REM is a psychological horror game where sleepwalking pulls you into realities twisted by childhood trauma. Explore two interconnected worlds, solve puzzles, and survive the horrors hidden inside your own mind.
+> 「《Parasomnia: No REM》是一款心理恐怖游戏，梦游会把你拖进被童年创伤扭曲的现实。探索两个相互连接的世界，解开谜题，在你自己脑海深处隐藏的恐怖中活下来。」（原文："Parasomnia: No REM is a psychological horror game where sleepwalking pulls you into realities twisted by childhood trauma. Explore two interconnected worlds, solve puzzles, and survive the horrors hidden inside your own mind."）
 
 >  Parasomnia: No REM 是一款第一人称心理恐怖游戏，主角会经历反复的 梦游 发作。 入睡后，你的意识会被困在 No REM 状态中。这是一个由潜意识塑造的现实，在这里，清醒世界的规则不再可靠。文字变得难以理解，图像发生扭曲，熟悉的事物也可能呈现出截然不同的含义。 闭上眼睛，与现实世界中的意识重新建立连接。利用这一机制理解文字、辨认图像、揭示隐藏元素，并发现推进游戏所需的线索。 探索被记忆重塑的环境，解开谜题，并深入主角因童年创伤而扭曲的记忆。 主要特色 介于梦境与清醒之间 在清醒状态与令人不安的 No REM 状态 之间切换。No REM 的设定灵感来自一种与 梦游 相关的真实睡眠阶段。随着记忆逐渐浮现，图像会扭曲，文字会变得无法阅读，周围的环境也会随之改变。 与梦游中的身体重新连接 处于 No REM 状态时， 闭上眼睛，短暂地与清醒世界中的意识重新连接 。这样你便能理解文字、辨认图像，并发现隐藏的线索。 来自潜意识的恐惧 恐惧并不依赖接连不断的突然惊吓，而是源于梦境中不可预测的规则，以及始终纠缠着主角的创伤。 你自己的感知，也会成为威胁的一部分。 解谜，才能回忆 探索环境、串联线索，并利用 No REM 的规则和 Close Eyes 机制解开谜题。 每解开一个谜题，就会揭示主角记忆中的一个新片段。 
 
@@ -68,14 +68,14 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-04 · @ParasomniaNoREM（133 粉）· 赞 8 / 转 2 / 回复 1 / 浏览 152 · https://x.com/ParasomniaNoREM/status/2106577082297778632
-  > The NEW Parasomnia: No REM demo is here. A psychological #horrorgame about sleepwalking. 👁️  If you like what you see, a wishlist or review would mean a lot to our little indie team! 🖤 #indiegame #wishlistonsteam #steam
+  > 「全新《Parasomnia: No REM》Demo 来了。一款关于梦游的心理恐怖游戏。👁️ 如果你喜欢，加个愿望单或写个评测，对我们这个小独立团队意义重大！🖤」（原文："The NEW Parasomnia: No REM demo is here. A psychological #horrorgame about sleepwalking. 👁️  If you like what you see, a wishlist or review would mean a lot to our little indie team! 🖤 #indiegame #wishlistonsteam #steam"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-10-04 · @TEleninovski（275 粉）· 赞 2 / 转 0 / 回复 1 / 浏览 18 · https://x.com/TEleninovski/status/2106672341338169809
-  > @ParasomniaNoREM A psychological horror game built around sleepwalking is such a creepy, specific premise. Hope the new demo brings in some good wishlists for the team.
+  > 「围绕梦游打造的心理恐怖游戏，这个前提又吓人又独特。希望新 Demo 能给团队带来不少愿望单。」（原文："@ParasomniaNoREM A psychological horror game built around sleepwalking is such a creepy, specific premise. Hope the new demo brings in some good wishlists for the team."）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -111,21 +111,21 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@ParasomniaNoREM；该时段原创帖 10 条（不含转推）
 - 2026-09-23 · 16 赞 / 0 转 / 2 回 / 1177 浏览 · https://x.com/ParasomniaNoREM/status/2102856362061365659
-  > NEW Parasomnia: No REM DEMO coming to Steam NEXT WEEK! September 29  🖤👁️.  A psychological horror game where the protagonist suffers episodes of sleepwalking.   ❗️Support our small team by wishlisting our game on Steam:  https://t.co/g7CFddCGnb  #indiedev #horrorgame #gamedev htt 〔X·@ParasomniaNoREM〕
+  > 「全新《Parasomnia: No REM》Demo 下周登陆 Steam！9 月 29 日 🖤👁️。一款主角会发作梦游的心理恐怖游戏。❗️在 Steam 把我们的游戏加入愿望单，支持我们的小团队：」（原文："NEW Parasomnia: No REM DEMO coming to Steam NEXT WEEK! September 29  🖤👁️.  A psychological horror game where the protagonist suffers episodes of sleepwalking.   ❗️Support our small team by wishlisting our game on Steam:  https://t.co/g7CFddCGnb  #indiedev #horrorgame #gamedev htt"） 〔X·@ParasomniaNoREM〕
 - 2026-09-29 · 12 赞 / 3 转 / 1 回 / 249 浏览 · https://x.com/ParasomniaNoREM/status/2105069277552460269
-  > It’s finally here. 👁️ NEW Parasomnia: No REM demo is OUT NOW on Steam. New environments, puzzles, horror sequences, and gameplay improvements.  We’re a small indie team, so every play, share, and wishlist means a lot. 🖤  🎮 Play &amp; Wishlist on Steam: https://t.co/32FDY69syh htt 〔X·@ParasomniaNoREM〕
+  > 「终于来了。👁️ 全新《Parasomnia: No REM》Demo 现已在 Steam 推出。新场景、谜题、恐怖段落和玩法改进。我们是个小独立团队，每一次游玩、分享、加愿望单都意义重大。🖤 🎮 在 Steam 试玩并加愿望单：」（原文："It’s finally here. 👁️ NEW Parasomnia: No REM demo is OUT NOW on Steam. New environments, puzzles, horror sequences, and gameplay improvements.  We’re a small indie team, so every play, share, and wishlist means a lot. 🖤  🎮 Play &amp; Wishlist on Steam: https://t.co/32FDY69syh htt"） 〔X·@ParasomniaNoREM〕
 - 2026-10-04 · 8 赞 / 2 转 / 1 回 / 152 浏览 · https://x.com/ParasomniaNoREM/status/2106577082297778632
-  > The NEW Parasomnia: No REM demo is here. A psychological #horrorgame about sleepwalking. 👁️  If you like what you see, a wishlist or review would mean a lot to our little indie team! 🖤 #indiegame #wishlistonsteam #steam   https://t.co/32FDY68UIJ https://t.co/dqPExCINv2 〔X·@ParasomniaNoREM〕
+  > 「全新《Parasomnia: No REM》Demo 来了。一款关于梦游的心理恐怖游戏。👁️ 如果你喜欢，加个愿望单或写个评测，对我们这个小独立团队意义重大！🖤」（原文："The NEW Parasomnia: No REM demo is here. A psychological #horrorgame about sleepwalking. 👁️  If you like what you see, a wishlist or review would mean a lot to our little indie team! 🖤 #indiegame #wishlistonsteam #steam   https://t.co/32FDY68UIJ https://t.co/dqPExCINv2"） 〔X·@ParasomniaNoREM〕
 - 2026-10-02 · 7 赞 / 1 转 / 1 回 / 238 浏览 · https://x.com/ParasomniaNoREM/status/2105824382312730975
-  > Thank you to everyone who’s been playing our new demo! 🖤 It means a lot to our small team.  If you enjoyed it and feel like sharing your thoughts, we’d love to read your review on Steam! 👁️Every review helps us more than you know. #indiedev #horrorgame #gamedev https://t.co/Jp3we 〔X·@ParasomniaNoREM〕
+  > 「感谢每一位玩我们新 Demo 的人！🖤 这对我们小团队意义重大。如果你喜欢并愿意分享想法，我们很想在 Steam 上读到你的评测！👁️ 每条评测对我们的帮助都超乎你想象。」（原文："Thank you to everyone who’s been playing our new demo! 🖤 It means a lot to our small team.  If you enjoyed it and feel like sharing your thoughts, we’d love to read your review on Steam! 👁️Every review helps us more than you know. #indiedev #horrorgame #gamedev https://t.co/Jp3we"） 〔X·@ParasomniaNoREM〕
 - 2026-09-28 · 7 赞 / 1 转 / 1 回 / 237 浏览 · https://x.com/ParasomniaNoREM/status/2104364728848101700
   > 👁️ 2 DAYS REMAINING…  #indiedev #gamedev #horrorgame https://t.co/a4tKQ7ANDy 〔X·@ParasomniaNoREM〕
 - 2026-09-17 · 7 赞 / 0 转 / 1 回 / 227 浏览 · https://x.com/ParasomniaNoREM/status/2100661529267806353
-  > Are you ready to try our NEW DEMO? 👁️ Release date announcement coming soon. #indiedev #horrorgame #gamedev https://t.co/jlAc148ZWu 〔X·@ParasomniaNoREM〕
+  > 「准备好试玩我们的新 Demo 了吗？👁️ 发售日公布即将到来。」（原文："Are you ready to try our NEW DEMO? 👁️ Release date announcement coming soon. #indiedev #horrorgame #gamedev https://t.co/jlAc148ZWu"） 〔X·@ParasomniaNoREM〕
 - 2026-09-29 · 5 赞 / 1 转 / 0 回 / 151 浏览 · https://x.com/ParasomniaNoREM/status/2104974387271352364
-  > Finally, the day is here. After all the work behind this new demo, we can finally share it with you. 🖤  Today at: 🇦🇷 19:00 🇧🇷 19:00 🇺🇸 18:00 ET / 15:00 PT 🇲🇽 16:00 🇬🇧 23:00 🇪🇸 00:00 🇫🇷 00:00 🇩🇪 00:00  #indiedev #horrorgame #gamedev https://t.co/a4tKQ7ANDy 〔X·@ParasomniaNoREM〕
+  > 「终于，这一天到了。为这个新 Demo 付出那么多之后，我们终于可以分享给大家了。🖤 今天：🇦🇷 19:00 🇧🇷 19:00 🇺🇸 美东 18:00 / 美西 15:00 🇲🇽 16:00 🇬🇧 23:00 🇪🇸 00:00 🇫🇷 00:00 🇩🇪 00:00」（原文："Finally, the day is here. After all the work behind this new demo, we can finally share it with you. 🖤  Today at: 🇦🇷 19:00 🇧🇷 19:00 🇺🇸 18:00 ET / 15:00 PT 🇲🇽 16:00 🇬🇧 23:00 🇪🇸 00:00 🇫🇷 00:00 🇩🇪 00:00  #indiedev #horrorgame #gamedev https://t.co/a4tKQ7ANDy"） 〔X·@ParasomniaNoREM〕
 - 2026-10-08 · 4 赞 / 0 转 / 0 回 / 59 浏览 · https://x.com/ParasomniaNoREM/status/2107991609593721045
-  > We’ve been working on some videos sharing our story, how our little indie team came together, and where the idea for Parasomnia: No REM came from. 🖤  Would you guys be interested in watching them? 👁️ 〔X·@ParasomniaNoREM〕
+  > 「我们一直在做一些视频，讲讲我们的故事：我们这个小独立团队是怎么走到一起的，以及《Parasomnia: No REM》的点子从何而来。🖤 大家有兴趣看吗？👁️」（原文："We’ve been working on some videos sharing our story, how our little indie team came together, and where the idea for Parasomnia: No REM came from. 🖤  Would you guys be interested in watching them? 👁️"） 〔X·@ParasomniaNoREM〕
 
 <!-- added:2026-10-10 -->
 

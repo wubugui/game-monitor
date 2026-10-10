@@ -45,7 +45,7 @@ discovery_date: "2026-10-10"
 
 ## 游戏内容介绍
 
-在快递分拣中心上夜班：普通包裹放行、奇怪的包裹扔报废区（扫描仪里出现人心等），不能出错。开发者回复：正式版「completely randomized」，失误会被计入；Demo 10–15 分钟。
+在快递分拣中心上夜班：普通包裹放行、奇怪的包裹扔报废区（扫描仪里出现人心等），不能出错。开发者回复：正式版「完全随机」（原文："completely randomized"），失误会被计入；Demo 10–15 分钟。
 
 ### Steam 商店简介（原文摘录）〔Steam商店页〕
 
@@ -68,26 +68,26 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-06-11 · @ASKGAMES1（1436 粉）· 赞 24 / 转 3 / 回复 1 / 浏览 1350 · https://x.com/ASKGAMES1/status/2065145908015071583
-  > Would you send this forward?  A normal box. No return address. The scanner shows a human heart inside.  No Return Address — a horror game about a night shift in a warehouse.  Wishlist on Steam 📦❤️👇
+  > 「你会把这个转寄出去吗？一个普通的箱子。没有寄件地址。扫描仪显示里面有一颗人类的心脏。《No Return Address》——一款关于仓库夜班的恐怖游戏。在 Steam 加愿望单 📦❤️👇」（原文："Would you send this forward?  A normal box. No return address. The scanner shows a human heart inside.  No Return Address — a horror game about a night shift in a warehouse.  Wishlist on Steam 📦❤️👇"）
 - 2026-08-21 · @ASKGAMES1（1436 粉）· 赞 0 / 转 0 / 回复 0 / 浏览 17 · https://x.com/ASKGAMES1/status/2090888584492363782
-  > This is what your workspace will look like in No Return Address. This is what your workspace will look like in No Return Address.
+  > 「这就是你在《No Return Address》里的工作台。这就是你在《No Return Address》里的工作台。」（原文："This is what your workspace will look like in No Return Address. This is what your workspace will look like in No Return Address."）
 - 2026-09-14 · @ASKGAMES1（1436 粉）· 赞 25 / 转 7 / 回复 3 / 浏览 141249 · https://x.com/ASKGAMES1/status/2099536153099567579
-  > The FREE DEMO of No Return Address is OUT NOW on @itchio 📦  🎮 Play the demo:  ❤️ Wishlist the full game on Steam:   #HorrorGame #IndieHorror #IndieDev #PsychologicalHorror
+  > 「《No Return Address》免费 Demo 现已推出 📦 🎮 试玩 Demo：❤️ 在 Steam 把完整版加入愿望单：」（原文："The FREE DEMO of No Return Address is OUT NOW on @itchio 📦  🎮 Play the demo:  ❤️ Wishlist the full game on Steam:   #HorrorGame #IndieHorror #IndieDev #PsychologicalHorror"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
 
 ### 回复区（按时间）
 - 2026-09-14 · @therealtakarita（6136 粉）· 赞 2 / 转 0 / 回复 1 / 浏览 136 · https://x.com/therealtakarita/status/2099539190715203826
-  > @ASKGAMES1 @itchio BEEN wishlisted and streaming the demo tomorrow night!! <3
+  > 「已经加愿望单了，明晚直播 Demo！！<3」（原文："@ASKGAMES1 @itchio BEEN wishlisted and streaming the demo tomorrow night!! <3"）
 - 2026-09-14 · @therealtakarita（6136 粉）· 赞 1 / 转 0 / 回复 1 / 浏览 19 · https://x.com/therealtakarita/status/2099539784842567739
-  > @ASKGAMES1 @itchio You underestimate my ability to turn the shortest demo into an hour 🙃🤣🤣🤣it’s honestly a talent.   My whole community loves your games we’re very excited!
+  > 「你低估了我把最短 Demo 玩成一小时的能力 🙃🤣🤣🤣 说真的这是天赋。我整个社区都爱你们的游戏，我们超期待！」（原文："@ASKGAMES1 @itchio You underestimate my ability to turn the shortest demo into an hour 🙃🤣🤣🤣it’s honestly a talent.   My whole community loves your games we’re very excited!"）
 - 2026-09-14 · @therealtakarita（6136 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 20 · https://x.com/therealtakarita/status/2099541885396111425
   > @ASKGAMES1 @itchio 👀👀👀👀👀
 - 2026-09-14 · @la_yogf（178 粉）· 赞 4 / 转 0 / 回复 1 / 浏览 44 · https://x.com/la_yogf/status/2099566848534512069
   > @ASKGAMES1 @itchio
 - 2026-09-15 · @RillaGoodVibes（358 粉）· 赞 1 / 转 0 / 回复 0 / 浏览 24 · https://x.com/RillaGoodVibes/status/2099858622154964993
-  > @ASKGAMES1 @itchio Of course we will!!!!!
+  > 「当然会！！！！！」（原文："@ASKGAMES1 @itchio Of course we will!!!!!"）
 
 ## 关注度与数据（截至 2026-10-10）
 
@@ -106,7 +106,7 @@ discovery_date: "2026-10-10"
 
 ## 团队与靠谱程度
 
-ASK GAMES 1436 粉，单帖 14 万浏览，有主播（therealtakarita 6136 粉）表示「My whole community loves your games」，说明是有前作和稳定粉丝的作者。**可靠程度：高**（已定档）。
+ASK GAMES 1436 粉，单帖 14 万浏览，有主播（therealtakarita 6136 粉）表示「我整个社区都爱你们的游戏」（原文："My whole community loves your games"），说明是有前作和稳定粉丝的作者。**可靠程度：高**（已定档）。
 
 ## 综合评价（对照《***》）
 
@@ -123,17 +123,17 @@ ASK GAMES 1436 粉，单帖 14 万浏览，有主播（therealtakarita 6136 粉�
 
 - 追踪账号：@ASKGAMES1；该时段原创帖 7 条（不含转推）
 - 2026-09-14 · 25 赞 / 7 转 / 3 回 / 141249 浏览 · https://x.com/ASKGAMES1/status/2099536153099567579
-  > The FREE DEMO of No Return Address is OUT NOW on @itchio 📦  🎮 Play the demo: https://t.co/tmZa2l2c4E ❤️ Wishlist the full game on Steam: https://t.co/TDXdCA647N  #HorrorGame #IndieHorror #IndieDev #PsychologicalHorror https://t.co/Xk7q0iOmdm 〔X·@ASKGAMES1〕
+  > 「《No Return Address》免费 Demo 现已推出 📦 🎮 试玩 Demo：❤️ 在 Steam 把完整版加入愿望单：」（原文："The FREE DEMO of No Return Address is OUT NOW on @itchio 📦  🎮 Play the demo: https://t.co/tmZa2l2c4E ❤️ Wishlist the full game on Steam: https://t.co/TDXdCA647N  #HorrorGame #IndieHorror #IndieDev #PsychologicalHorror https://t.co/Xk7q0iOmdm"） 〔X·@ASKGAMES1〕
 - 2026-09-25 · 22 赞 / 3 转 / 4 回 / 411 浏览 · https://x.com/ASKGAMES1/status/2103600892113195064
-  > The *No Return Address* demo is available on Steam. Please support my work by leaving a review. https://t.co/skNKerZKOT 〔X·@ASKGAMES1〕
+  > 「《No Return Address》Demo 已在 Steam 上线。请留个评测支持我的作品。」（原文："The *No Return Address* demo is available on Steam. Please support my work by leaving a review. https://t.co/skNKerZKOT"） 〔X·@ASKGAMES1〕
 - 2026-09-15 · 21 赞 / 3 转 / 3 回 / 124127 浏览 · https://x.com/ASKGAMES1/status/2099932565452780009
-  > If you've played it, please post here about what you liked or didn't like. https://t.co/rdKKLZPTvf 〔X·@ASKGAMES1〕
+  > 「如果你玩过，请在这里说说你喜欢或不喜欢的地方。」（原文："If you've played it, please post here about what you liked or didn't like. https://t.co/rdKKLZPTvf"） 〔X·@ASKGAMES1〕
 - 2026-09-15 · 7 赞 / 0 转 / 0 回 / 344 浏览 · https://x.com/ASKGAMES1/status/2099875829782044827
-  > A new game has been released. https://t.co/TGvRkYzvH8 〔X·@ASKGAMES1〕
+  > 「一款新游戏发布了。」（原文："A new game has been released. https://t.co/TGvRkYzvH8"） 〔X·@ASKGAMES1〕
 - 2026-09-28 · 4 赞 / 1 转 / 0 回 / 347 浏览 · https://x.com/ASKGAMES1/status/2104490552733368636
-  > Whoa, cool! I actually just released an update, too! I added some atmosphere, fixed a few issues, and more. https://t.co/a84H4f6WCw 〔X·@ASKGAMES1〕
+  > 「哇，酷！我其实也刚发布了一个更新！加了些氛围，修了几个问题，还有别的。」（原文："Whoa, cool! I actually just released an update, too! I added some atmosphere, fixed a few issues, and more. https://t.co/a84H4f6WCw"） 〔X·@ASKGAMES1〕
 - 2026-09-26 · 0 赞 / 0 转 / 0 回 / 22 浏览 · https://x.com/ASKGAMES1/status/2103762069547893048
-  > If you enjoyed the demo, I'd really appreciate it if you could support it with a review on Steam. 〔X·@ASKGAMES1〕
+  > 「如果你喜欢这个 Demo，能在 Steam 上留个评测支持一下的话，我会非常感激。」（原文："If you enjoyed the demo, I'd really appreciate it if you could support it with a review on Steam."） 〔X·@ASKGAMES1〕
 - 2026-09-25 · 0 赞 / 1 转 / 0 回 / 43 浏览 · https://x.com/ASKGAMES1/status/2103601247085330790
   > Steam page: https://t.co/N3DVH7GW1v 〔X·@ASKGAMES1〕
 

@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-10-03 · @thosdeveloper（189 粉）· 赞 7 / 转 4 / 回复 0 / 浏览 497 · https://x.com/thosdeveloper/status/2106440139765317654
-  > Here’s a glimpse of HAIGLA, the horror game I’m making solo.  Also my PC died  Try the free demo and Wishlist HAIGLA on Steam.  #IndieHorror #HorrorGame #IndieGame
+  > 「这是《HAIGLA》的一瞥，我一个人在做的恐怖游戏。另外我的电脑挂了。试试免费 Demo，在 Steam 上把 HAIGLA 加入愿望单吧。」（原文："Here’s a glimpse of HAIGLA, the horror game I’m making solo.  Also my PC died  Try the free demo and Wishlist HAIGLA on Steam.  #IndieHorror #HorrorGame #IndieGame"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -101,7 +101,7 @@ solo 开发，189 粉。**可靠程度：中**。
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/thosdeveloper/status/2106440139765317654（检索「#indiehorror wishlist」发现：「Here’s a glimpse of HAIGLA, the horror game I’m making solo. Also my PC died」2026-10-03）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/thosdeveloper/status/2106440139765317654（检索「#indiehorror wishlist」发现：「这是《HAIGLA》的一瞥，我一个人在做的恐怖游戏。另外我的电脑挂了」（原文："Here’s a glimpse of HAIGLA, the horror game I’m making solo. Also my PC died"）2026-10-03）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4501960/ 与 appreviews 接口，原始数据 tmp/x/steam/haigla.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -110,19 +110,19 @@ solo 开发，189 粉。**可靠程度：中**。
 
 - 追踪账号：@thosdeveloper；该时段原创帖 7 条（不含转推）
 - 2026-09-24 · 34 赞 / 1 转 / 1 回 / 5677 浏览 · https://x.com/thosdeveloper/status/2103195126227144934
-  > I think he was just pretending to be slow #indiegame #horrorgame #gamedev https://t.co/2UM6GcNMxn 〔X·@thosdeveloper〕
+  > 「我觉得他只是在装慢」（原文："I think he was just pretending to be slow #indiegame #horrorgame #gamedev https://t.co/2UM6GcNMxn"） 〔X·@thosdeveloper〕
 - 2026-09-14 · 21 赞 / 2 转 / 1 回 / 1618 浏览 · https://x.com/thosdeveloper/status/2099554421965234549
-  > A new content update for the HAIGLA demo is in the works.  Some content originally planned for the full game is being brought into the demo to improve its pacing and better represent the full experience.  It's currently being tested and polished, once it's ready, it's going in. h 〔X·@thosdeveloper〕
+  > 「《HAIGLA》Demo 的新内容更新正在制作中。一些原本留给完整版的内容会放进 Demo，用来改善节奏、更好地代表完整体验。目前正在测试打磨，准备好了就会上线。」（原文："A new content update for the HAIGLA demo is in the works.  Some content originally planned for the full game is being brought into the demo to improve its pacing and better represent the full experience.  It's currently being tested and polished, once it's ready, it's going in. h"） 〔X·@thosdeveloper〕
 - 2026-09-17 · 11 赞 / 0 转 / 0 回 / 110 浏览 · https://x.com/thosdeveloper/status/2100667164474708302
-  > Just another normal day at the hospital.  #indiedev #horrorgame https://t.co/zSrwtrSRUV 〔X·@thosdeveloper〕
+  > 「医院里又一个平常的日子。」（原文："Just another normal day at the hospital.  #indiedev #horrorgame https://t.co/zSrwtrSRUV"） 〔X·@thosdeveloper〕
 - 2026-10-09 · 8 赞 / 0 转 / 1 回 / 86 浏览 · https://x.com/thosdeveloper/status/2108607168207257866
-  > Would you survive a nightmare if you couldn't walk? Demo has been updated with more stuff! #IndieHorror #HorrorGames #IndieGame https://t.co/xJAi1qHXrV 〔X·@thosdeveloper〕
+  > 「如果你走不了路，还能在噩梦中活下来吗？Demo 更新了更多内容！」（原文："Would you survive a nightmare if you couldn't walk? Demo has been updated with more stuff! #IndieHorror #HorrorGames #IndieGame https://t.co/xJAi1qHXrV"） 〔X·@thosdeveloper〕
 - 2026-10-03 · 7 赞 / 4 转 / 0 回 / 497 浏览 · https://x.com/thosdeveloper/status/2106440139765317654
-  > Here’s a glimpse of HAIGLA, the horror game I’m making solo.  Also my PC died  Try the free demo and Wishlist HAIGLA on Steam.  #IndieHorror #HorrorGame #IndieGame https://t.co/oKQgoBylxk 〔X·@thosdeveloper〕
+  > 「这是《HAIGLA》的一瞥，我一个人在做的恐怖游戏。另外我的电脑挂了。试试免费 Demo，在 Steam 上把 HAIGLA 加入愿望单吧。」（原文："Here’s a glimpse of HAIGLA, the horror game I’m making solo.  Also my PC died  Try the free demo and Wishlist HAIGLA on Steam.  #IndieHorror #HorrorGame #IndieGame https://t.co/oKQgoBylxk"） 〔X·@thosdeveloper〕
 - 2026-10-06 · 6 赞 / 1 转 / 0 回 / 66 浏览 · https://x.com/thosdeveloper/status/2107509900431806718
-  > Just another day at the hospital.  Everything seems perfectly normal.  Probably.  #HAIGLA #IndieHorror #HorrorGames #IndieDev https://t.co/j8WrIpdMKQ 〔X·@thosdeveloper〕
+  > 「医院里又一个平常的日子。一切看起来都完全正常。大概吧。」（原文："Just another day at the hospital.  Everything seems perfectly normal.  Probably.  #HAIGLA #IndieHorror #HorrorGames #IndieDev https://t.co/j8WrIpdMKQ"） 〔X·@thosdeveloper〕
 - 2026-09-30 · 2 赞 / 0 转 / 0 回 / 31 浏览 · https://x.com/thosdeveloper/status/2105393430679482578
-  > While i am working on my projects, this is what gets me in the mood.  Pavelock Prison bit is just perfect https://t.co/asro0AuFBJ 〔X·@thosdeveloper〕
+  > 「我做项目的时候，就靠这个找状态。Pavelock 监狱那段简直完美」（原文："While i am working on my projects, this is what gets me in the mood.  Pavelock Prison bit is just perfect https://t.co/asro0AuFBJ"） 〔X·@thosdeveloper〕
 
 <!-- added:2026-10-10 -->
 

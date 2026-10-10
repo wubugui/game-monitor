@@ -113,7 +113,7 @@ discovery_date: "2026-10-10"
 - 状态：已发售（Steam 2026-03-05）
 - 平台：Steam
 - 发售：2026-03-05
-- Steam：阴界诡录·尸语公寓（AppID 3941850）｜¥ 22.00｜评测 59 条（Mostly Positive）〔Steam·商店页〕
+- Steam：阴界诡录·尸语公寓（AppID 3941850）｜¥ 22.00｜评测 59 条（多半好评）〔Steam·商店页〕
 
 ## 游戏内容
 
@@ -141,7 +141,7 @@ discovery_date: "2026-10-10"
 
 - 氛围被认为是同类里最好之一：「这次的找异常算是我见过的恐怖氛围塑造的最好的一个了」 〔B站·BV1YnNgz7EWq评论〕 <!-- added:2026-10-10 -->
 - 剧情有钩子：「诡异挟持一对夫妻给自己当父母？主角是什么身份？」，评论区有人认真科普鬼娃娃剧情 〔出处待核〕 <!-- added:2026-10-10 -->
-- Steam：「符合折扣四块钱的价格，氛围感挺好的，突脸有但不多」；英文评测「sticks to actual anomalies」 〔出处待核〕 <!-- added:2026-10-10 -->
+- Steam：「符合折扣四块钱的价格，氛围感挺好的，突脸有但不多」；英文评测「老老实实只做真正的异常」（原文："sticks to actual anomalies"） 〔出处待核〕 <!-- added:2026-10-10 -->
 
 **玩家吐槽什么**：
 
@@ -179,8 +179,8 @@ discovery_date: "2026-10-10"
 - 👍（1h）「还不错吧，符合折扣四块钱的价格，氛围感挺好的，突脸有但不多，只有必要剧情和主动去靠近怪物才会触发，胆子比较小的玩家不用太担心，可以提前应对，但是有突然噪音，闪烁。  第12层转阶段漆黑之后移动会有跳脸缺点的话，鬼叫的声音怪不掉。你就算把游戏内所有音量调成0，依旧会有鬼叫声，后面逃生模式中每次开局都会」〔Steam·评测〕
 - 👍（1h）「4块钱算是支持一下吧，还有环境有点黑，我让dsh玩她卡住了」〔Steam·评测〕
 - 👍（3h）「书友，至少书很不错，恐怖游戏之后再玩，医院呢」〔Steam·评测〕
-- 👍（1h）「Nice Anomaly Horror Game with some unexpected twists. I liked that this one sticks to actual anomalies and doesn't have you count every small item in」〔Steam·评测〕
-- 👍（1h）「That was very good. Very impressed. Well done.」〔Steam·评测〕
+- 👍（1h）「不错的找异常恐怖游戏，有一些意想不到的反转。我喜欢它老老实实只做真正的异常，而不是让你去数每一件小物品」（原文："Nice Anomaly Horror Game with some unexpected twists. I liked that this one sticks to actual anomalies and doesn't have you count every small item in"）〔Steam·评测〕
+- 👍（1h）「非常好，印象深刻，做得好。」（原文："That was very good. Very impressed. Well done."）〔Steam·评测〕
 - 👍（0h）「不赖 书友来支持一手」〔Steam·评测〕
 
 

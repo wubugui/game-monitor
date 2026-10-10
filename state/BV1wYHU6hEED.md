@@ -51,7 +51,7 @@ discovery_date: "2026-10-09"
 
 ### 官方/代表视频简介（原文摘录）
 
-> 『No phenomenon is a physical phenomenon until it is an observed phenomenon.』
+> 「『任何现象在被观测之前都不是物理现象。』」（原文："『No phenomenon is a physical phenomenon until it is an observed phenomenon.』"）
 > ——John Archibald Wheeler
 > 
 > 如果人们的认知能够改变现实，我们所看见的世界究竟有几分“真实”？

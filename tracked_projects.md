@@ -20,7 +20,7 @@
 | ⚠️ 诡偶 | 中式民俗解谜恐怖 | 未知（未知（勾陈一）） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV17Jap6rEjm | 2.6万 | 勾陈一竖屏解谜（TapTap/小程序）；原 Steam 同名作素材已纠错 |
 | ⚠️ 重启：工作日 | 悬疑恐怖 AI互动影游 | 未知（未知（NOXlabs）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1GhHS6QECw | 7150 | 七日循环上班 |
 | ⚠️ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
-| ⚠️ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 Very Positive；与《见诡》同名混淆已独立建档 |
+| ⚠️ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
 | ⚠️ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |
 | ⚠️ 棺门 | 第一人称民俗恐怖 | 未知（未知） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1pEtm6CEBP | 7072 | 先导PV，愿望单已开 |
 | ⚠️ 烟雨山异闻 | 中式民俗悬疑 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1ZYak6aELT | 1616 | 父子坠崖发现洞府 |

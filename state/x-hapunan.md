@@ -49,9 +49,9 @@ discovery_date: "2026-10-10"
 
 ### Steam 商店简介（原文摘录）〔Steam商店页〕
 
-> Hapunan is a story-driven psychological horror game steeped in Filipino urban legends. Facing eviction, a teenager and his father turn to late-night street vending to survive. But as dark secrets uncoil behind the trade and the name Penduko, every choice you make dictates who eats—and who survives.
+> 「《Hapunan》是一款以剧情为主的心理恐怖游戏，浸透了菲律宾都市传说。面临被赶出家门，一个少年和父亲靠深夜街头叫卖勉强维生。但随着这门生意和「Penduko」这个名字背后的黑暗秘密逐渐揭开，你做的每个选择都决定谁有饭吃——谁能活下来。」（原文："Hapunan is a story-driven psychological horror game steeped in Filipino urban legends. Facing eviction, a teenager and his father turn to late-night street vending to survive. But as dark secrets uncoil behind the trade and the name Penduko, every choice you make dictates who eats—and who survives."）
 
->  In the Philippines, balut is the undisputed king of midnight street food. You’ll always hear the vendor before you see them—a lone voice calling "Baluuuut!" into the stillness of the night. To eat it is a ritual: crack a small hole at the top, sip the rich, warm broth within, and season the rest with salt and spicy vinegar. For street vendors walking the graveyard shift, it is a livelihood. But in the quietest hours, the trade carries secrets that belong strictly to the dark. The Story Hapunan is a tense, story-driven psychological horror game exploring the raw realities of urban poverty and Philippine folklore. You play as Niko , a teenager watching his family crumble under financial ruin. Two months behind on rent and facing immediate eviction by their ruthless landlord, Niko and his father must take to the midnight streets to earn whatever cash they can to protect their home. The Sha
+>  「在菲律宾，鸭仔蛋（balut）是当之无愧的午夜街头小吃之王。总是先听到小贩的声音，才看到人——一个孤独的嗓音在寂静的夜里喊着「鸭仔蛋——！」（原文："Baluuuut！"）。吃它是一种仪式：在顶端敲个小孔，啜饮里面温热浓郁的汤汁，剩下的蘸盐和辣醋吃。对走夜班的街头小贩来说，这是生计。但在最安静的时刻，这门生意藏着只属于黑暗的秘密。故事：《Hapunan》是一款紧张、以剧情驱动的心理恐怖游戏，探讨城市贫困的残酷现实和菲律宾民间传说。你扮演少年 Niko，眼看着家庭在经济崩溃中瓦解。房租拖欠两个月，冷酷的房东马上要把他们赶走，Niko 和父亲只能在午夜街头拼命挣钱保住家……」（原文："In the Philippines, balut is the undisputed king of midnight street food. You’ll always hear the vendor before you see them—a lone voice calling "Baluuuut!" into the stillness of the night. To eat it is a ritual: crack a small hole at the top, sip the rich, warm broth within, and season the rest with salt and spicy vinegar. For street vendors walking the graveyard shift, it is a livelihood. But in the quietest hours, the trade carries secrets that belong strictly to the dark. The Story Hapunan is a tense, story-driven psychological horror game exploring the raw realities of urban poverty and Philippine folklore. You play as Niko , a teenager watching his family crumble under financial ruin. Two months behind on rent and facing immediate eviction by their ruthless landlord, Niko and his father must take to the midnight streets to earn whatever cash they can to protect their home. The Sha"）
 
 ### 实机截图（Steam 商店截图，已逐张目视核对为本作）
 
@@ -68,17 +68,17 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-08-26 · @nemusanji（4457 粉）· 赞 26 / 转 1 / 回复 1 / 浏览 729 · https://x.com/nemusanji/status/2092710573939253503
-  > [ HAPUNAN ]   Tayo'y mag benta ng baluuuut!  New Filipino horror game!  THU (08/27) | 1:30 PM PHT
+  > 「［HAPUNAN］来卖鸭仔蛋咯——！菲律宾恐怖新游戏！周四（08/27）菲律宾时间下午 1:30」（原文："[ HAPUNAN ]   Tayo'y mag benta ng baluuuut!  New Filipino horror game!  THU (08/27) | 1:30 PM PHT"）
 
 ### 媒体 / 主播 / 玩家帖
 - 2026-09-01 · @senzaanima（98 粉）· 赞 3 / 转 0 / 回复 0 / 浏览 121 · https://x.com/senzaanima/status/2094579666359308374
-  > This Filipino Horror Game Is Absolutely Terrifying | Hapunan  via @YouTube
+  > 「这款菲律宾恐怖游戏吓死人了 | Hapunan」（原文："This Filipino Horror Game Is Absolutely Terrifying | Hapunan  via @YouTube"）
 - 2026-09-10 · @VILSORTTTV（247 粉）· 赞 4 / 转 1 / 回复 0 / 浏览 135 · https://x.com/VILSORTTTV/status/2098163828303282223
-  > *NEW VIDEO!* This Filipino Horror Game Is on Another Level.. HAPUNAN by @YikonGames #horrorgaming
+  > 「*新视频！* 这款菲律宾恐怖游戏不是一个档次的…… HAPUNAN」（原文："*NEW VIDEO!* This Filipino Horror Game Is on Another Level.. HAPUNAN by @YikonGames #horrorgaming"）
 - 2026-09-15 · @SontarisPR（116 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 55 · https://x.com/SontarisPR/status/2099767001816482200
-  > 「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan has a WAITING ROOM for Hapunan! Sept. 16 / 14:00 JST | Sept. 15 / 22:00 PDT  【Hapunan】Filipino Horror Game??!!
+  > 「「🫚🥀」Solan 的《Hapunan》直播候场开好了！9 月 16 日 14:00 日本时间 / 9 月 15 日 22:00 太平洋时间【Hapunan】菲律宾恐怖游戏？？！！」（原文："「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan has a WAITING ROOM for Hapunan! Sept. 16 / 14:00 JST | Sept. 15 / 22:00 PDT  【Hapunan】Filipino Horror Game??!!"）
 - 2026-09-16 · @SontarisPR（116 粉）· 赞 3 / 转 0 / 回复 0 / 浏览 260 · https://x.com/SontarisPR/status/2100087160615666139
-  > 「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan is now LIVE 🔴playing Hapunan!  【Hapunan】Filipino Horror Game??!!
+  > 「「🫚🥀」Solan 正在直播 🔴 玩《Hapunan》！【Hapunan】菲律宾恐怖游戏？？！！」（原文："「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan is now LIVE 🔴playing Hapunan!  【Hapunan】Filipino Horror Game??!!"）
 
 ### 回复区（按时间）
 - 本轮拉取 conversation 未见回复
@@ -96,11 +96,11 @@ discovery_date: "2026-10-10"
 - 「This Filipin
 
 ### Steam 评测原话
-- 👍（english，游玩 7.8h，有用 6）「Hapunan is a real treat!  I've played quite a few creepy job simulators but this one packs some serious drama. Emotional scenes, shocking events, sweet friendships, unveiled secrets, nightmares... this game has it all. There's a great story here and I enjoyed 」 〔Steam评测〕
-- 👍（english，游玩 2.3h，有用 1）「Great story! Ending was a bit abrupt I have to say, but the rest of the games was awesome! One of the best Filipino Indie Games I have played. Definitely recommend  https://youtu.be/sZ3ID7l4dS0」 〔Steam评测〕
-- 👍（italian，游玩 2.9h，有用 1）「Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!」 〔Steam评测〕
-- 👎（english，游玩 1.9h，有用 0）「Yet another horror game that artificially pads its runtime with busywork. I understand why developers do it: it's to discourage refunds for short titles. But I can't stand this gameplay loop where, for every 30 seconds of story, you have to go through 10 minut」 〔Steam评测〕
-- 👍（english，游玩 6.0h，有用 0）「I absolutely loved this game! It had so much to it. So many different tasks and so many fun things to it. I like how you can choose which direction you want to go in, changing your fate. I like that it ended the way it did -- for me. I think because I chose th」 〔Steam评测〕
+- 👍（英语，游玩 7.8h，有用 6）「《Hapunan》真是一份惊喜！我玩过不少诡异打工模拟，但这款剧情张力十足。动人的场面、震撼的事件、温馨的友情、揭开的秘密、噩梦……应有尽有。故事很棒，我玩得很开心……」（原文："Hapunan is a real treat!  I've played quite a few creepy job simulators but this one packs some serious drama. Emotional scenes, shocking events, sweet friendships, unveiled secrets, nightmares... this game has it all. There's a great story here and I enjoyed "） 〔Steam评测〕
+- 👍（英语，游玩 2.3h，有用 1）「故事很棒！不得不说结局有点突然，但游戏其余部分都很赞！是我玩过最好的菲律宾独立游戏之一。强烈推荐」（原文："Great story! Ending was a bit abrupt I have to say, but the rest of the games was awesome! One of the best Filipino Indie Games I have played. Definitely recommend  https://youtu.be/sZ3ID7l4dS0"） 〔Steam评测〕
+- 👍（意大利语，游玩 2.9h，有用 1）「我会说它是一坨很可爱的菲律宾屎！这不是贬义，意思是我本来预期更差，结果是颗大珍珠。Jaeyna 太可惜了！」（原文："Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!"） 〔Steam评测〕
+- 👎（英语，游玩 1.9h，有用 0）「又一款用琐碎杂活硬凑时长的恐怖游戏。我理解开发者为什么这么做：为了防止短篇游戏被退款。但我受不了这种循环：每 30 秒剧情，就得先干 10 分钟……」（原文："Yet another horror game that artificially pads its runtime with busywork. I understand why developers do it: it's to discourage refunds for short titles. But I can't stand this gameplay loop where, for every 30 seconds of story, you have to go through 10 minut"） 〔Steam评测〕
+- 👍（英语，游玩 6.0h，有用 0）「我超爱这款游戏！内容很丰富，有很多不同的任务和好玩的东西。我喜欢你可以选择往哪个方向走、改变命运。我喜欢它那样结尾——对我来说。我想是因为我选了……」（原文："I absolutely loved this game! It had so much to it. So many different tasks and so many fun things to it. I like how you can choose which direction you want to go in, changing your fate. I like that it ended the way it did -- for me. I think because I chose th"） 〔Steam评测〕
 
 ## 团队与靠谱程度
 
@@ -108,11 +108,11 @@ discovery_date: "2026-10-10"
 
 ## 综合评价（对照《***》）
 
-「本土民俗 + 底层谋生工作模拟 + 家庭情感」，结构和《***》「背尸混子谋生 + 民俗」惊人地相似。差评点要注意：「artificially pads its runtime with busywork」，靠重复劳作拖长流程会被骂。
+「本土民俗 + 底层谋生工作模拟 + 家庭情感」，结构和《***》「背尸混子谋生 + 民俗」惊人地相似。差评点要注意：「用琐碎杂活硬凑时长」（原文："artificially pads its runtime with busywork"），靠重复劳作拖长流程会被骂。
 
 ## 来源（发现与资料）
 
-- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/nemusanji/status/2092710573939253503（检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26）
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/nemusanji/status/2092710573939253503（检索「filipino horror」发现：主播 nemusanji 开播「菲律宾恐怖新游戏！」（原文："New Filipino horror game!"），2026-08-26）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4750540/ 与 appreviews 接口，原始数据 tmp/x/steam/hapunan.json；封面与截图来自 Steam 商店
 
 <!-- added:2026-10-10 -->
@@ -121,17 +121,17 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@YikonGames；该时段原创帖 6 条（不含转推）
 - 2026-08-25 · 8 赞 / 1 转 / 2 回 / 128 浏览 · https://x.com/YikonGames/status/2092233379693711459
-  > FINALLY GUYSS!! HAPUNAN IS FINALLY OUY!!! I've been grinding hard for this moment, and I'm happy to say that hapunan is now releasing on Steam!!!! https://t.co/UTIcjCjXga 〔X·@YikonGames〕
+  > 「终于啊各位！！HAPUNAN 终于出了！！！我为这一刻拼了好久，很高兴宣布 Hapunan 现在在 Steam 发售了！！！！」（原文："FINALLY GUYSS!! HAPUNAN IS FINALLY OUY!!! I've been grinding hard for this moment, and I'm happy to say that hapunan is now releasing on Steam!!!! https://t.co/UTIcjCjXga"） 〔X·@YikonGames〕
 - 2026-09-04 · 6 赞 / 0 转 / 0 回 / 40 浏览 · https://x.com/YikonGames/status/2095739328886702189
-  > It's been a blast developing this game in just 3 Months. This been the busiest 3 months of my life and thank you guys for supporting me!! 🥲❤️❤️ https://t.co/iKdXDHtyA1 〔X·@YikonGames〕
+  > 「只用 3 个月开发这款游戏真是太爽了。这是我人生中最忙的 3 个月，谢谢大家的支持！！🥲❤️❤️」（原文："It's been a blast developing this game in just 3 Months. This been the busiest 3 months of my life and thank you guys for supporting me!! 🥲❤️❤️ https://t.co/iKdXDHtyA1"） 〔X·@YikonGames〕
 - 2026-08-30 · 2 赞 / 0 转 / 0 回 / 69 浏览 · https://x.com/YikonGames/status/2093963668363104285
-  > WE MADE IT GUYS!!!  Hapunan is now in the Top 10 and Top 6 Trending on YouTube!!! 😭❤️  Thank you so much, everyone, for your support! 🇵🇭 https://t.co/GvV2njtC2k 〔X·@YikonGames〕
+  > 「我们做到了各位！！！Hapunan 现在进了 YouTube 热门前 10、趋势第 6！！！😭❤️ 非常感谢大家的支持！🇵🇭」（原文："WE MADE IT GUYS!!!  Hapunan is now in the Top 10 and Top 6 Trending on YouTube!!! 😭❤️  Thank you so much, everyone, for your support! 🇵🇭 https://t.co/GvV2njtC2k"） 〔X·@YikonGames〕
 - 2026-06-27 · 2 赞 / 0 转 / 0 回 / 123 浏览 · https://x.com/YikonGames/status/2070685428458627438
-  > I can’t believe this is real life 🥺 https://t.co/8jk61YnJud 〔X·@YikonGames〕
+  > 「真不敢相信这是真的 🥺」（原文："I can’t believe this is real life 🥺 https://t.co/8jk61YnJud"） 〔X·@YikonGames〕
 - 2026-06-27 · 1 赞 / 0 转 / 0 回 / 98 浏览 · https://x.com/YikonGames/status/2070686068194832449
-  > New character in Hapunan 👀 https://t.co/EAwyvxEl0L 〔X·@YikonGames〕
+  > 「Hapunan 的新角色 👀」（原文："New character in Hapunan 👀 https://t.co/EAwyvxEl0L"） 〔X·@YikonGames〕
 - 2026-06-27 · 0 赞 / 0 转 / 0 回 / 107 浏览 · https://x.com/YikonGames/status/2070710299309855178
-  > Check out my new Website for Yikon Games Inc!!  https://t.co/NpFff6k3CP https://t.co/VupsZC75RO 〔X·@YikonGames〕
+  > 「来看看我给 Yikon Games Inc 做的新网站！！」（原文："Check out my new Website for Yikon Games Inc!!  https://t.co/NpFff6k3CP https://t.co/VupsZC75RO"） 〔X·@YikonGames〕
 
 <!-- added:2026-10-10 -->
 
@@ -213,7 +213,7 @@ discovery_date: "2026-10-10"
 
 ### 弹幕高频（前 20）
 
-「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×89、「▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇ 钢  铁✪长  城 ▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇」×78、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×38、「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×27、「666」×23、「gg」×22、「GG」×21、「ofc」×18、「前方高能预警」×12、「吓我一跳」×10、「非战斗人员请撤离」×10、「知道但没吃过」×10、「有人吗？」×9、「有人吗」×9、「东北雨姐」×9、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×9、「吓死我了」×8、「弹幕护体」×8、「知道也吃过」×8、「占领空瓶」×7
+「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×89、「▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇ 钢  铁✪长  城 ▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇」×78、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×38、「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×27、「666」×23、「gg」×22、「GG」×21、「当然」（原文："ofc"）×18、「前方高能预警」×12、「吓我一跳」×10、「非战斗人员请撤离」×10、「知道但没吃过」×10、「有人吗？」×9、「有人吗」×9、「东北雨姐」×9、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×9、「吓死我了」×8、「弹幕护体」×8、「知道也吃过」×8、「占领空瓶」×7
 
 ### 其他相关视频（播放前 6–15）
 

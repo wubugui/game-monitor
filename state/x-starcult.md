@@ -68,7 +68,7 @@ discovery_date: "2026-10-10"
 
 ### 首要帖（官方号或种子帖作者）
 - 2026-07-20 · @notacatstudios（127 粉）· 赞 7 / 转 3 / 回复 0 / 浏览 212 · https://x.com/notacatstudios/status/2079282236583452970
-  > You’ll meet him in 7 days.  The STARCULT public demo launches on Steam on July 27.  💜 Wishlist:   #Otome #VisualNovel
+  > 「7 天后你就会见到他。《STARCULT》公开 Demo 将于 7 月 27 日在 Steam 上线。💜 愿望单：」（原文："You’ll meet him in 7 days.  The STARCULT public demo launches on Steam on July 27.  💜 Wishlist:   #Otome #VisualNovel"）
 
 ### 媒体 / 主播 / 玩家帖
 - 本轮检索未见
@@ -110,21 +110,21 @@ discovery_date: "2026-10-10"
 
 - 追踪账号：@notacatstudios；该时段原创帖 20 条（不含转推）
 - 2026-10-05 · 19 赞 / 7 转 / 3 回 / 411 浏览 · https://x.com/notacatstudios/status/2107115767988630012
-  > We’re excited to announce that STARCULT Night Twisted Age is joining the First Love Visual Novel Fest, starting October 23!  Stay tuned! ✨  #firstlovevisualnovelfest #visualnovels https://t.co/YP1qsXl6gZ 〔X·@notacatstudios〕
+  > 「很高兴宣布《STARCULT Night Twisted Age》将参加初恋视觉小说节，10 月 23 日开始！敬请关注！✨」（原文："We’re excited to announce that STARCULT Night Twisted Age is joining the First Love Visual Novel Fest, starting October 23!  Stay tuned! ✨  #firstlovevisualnovelfest #visualnovels https://t.co/YP1qsXl6gZ"） 〔X·@notacatstudios〕
 - 2026-09-21 · 10 赞 / 1 转 / 1 回 / 404 浏览 · https://x.com/notacatstudios/status/2102024856447459442
-  > Matthew has never failed a case or missed a mass.  Some say he sold his soul for his talents... because what is he praying for then? Would you trust him with your secrets? 👁️  #OtomeGame #VisualNovel #starcultgame https://t.co/nTr9IDeoux 〔X·@notacatstudios〕
+  > 「Matthew 从未办砸过一桩案子，也从未缺席过一次弥撒。有人说他为了天赋出卖了灵魂……不然他在祈祷什么呢？你会把秘密托付给他吗？👁️」（原文："Matthew has never failed a case or missed a mass.  Some say he sold his soul for his talents... because what is he praying for then? Would you trust him with your secrets? 👁️  #OtomeGame #VisualNovel #starcultgame https://t.co/nTr9IDeoux"） 〔X·@notacatstudios〕
 - 2026-09-26 · 9 赞 / 1 转 / 0 回 / 147 浏览 · https://x.com/notacatstudios/status/2103867944115614020
-  > In STARCULT, you play an Artist who uses her emotions like a palette to manipulate people's hearts - well, dogs' hearts too...  #psychologicalhorrorgame  #screenshotsaturday #indiegame #starcultnighttwistedage https://t.co/2D49jvruLK 〔X·@notacatstudios〕
+  > 「在《STARCULT》里，你扮演一位画家，把情绪当作调色盘来操纵人心——嗯，狗的心也行……」（原文："In STARCULT, you play an Artist who uses her emotions like a palette to manipulate people's hearts - well, dogs' hearts too...  #psychologicalhorrorgame  #screenshotsaturday #indiegame #starcultnighttwistedage https://t.co/2D49jvruLK"） 〔X·@notacatstudios〕
 - 2026-09-18 · 9 赞 / 1 转 / 0 回 / 109 浏览 · https://x.com/notacatstudios/status/2101029484317098120
-  > ... Many claimed to love him, but they loved only the beautiful, exotic fantasy they had created.  #OtomeGame #VisualNovel #starcultgame https://t.co/vmjSs99QtJ 〔X·@notacatstudios〕
+  > 「……很多人声称爱他，但他们爱的只是自己臆造出来的那个美丽而异域的幻想。」（原文："... Many claimed to love him, but they loved only the beautiful, exotic fantasy they had created.  #OtomeGame #VisualNovel #starcultgame https://t.co/vmjSs99QtJ"） 〔X·@notacatstudios〕
 - 2026-09-26 · 5 赞 / 3 转 / 1 回 / 181 浏览 · https://x.com/notacatstudios/status/2103896322390512011
-  > What if your emotions were your dialogue options?  In STARCULT, you can mix them to uncover new choices and decide how far you’ll go to get the truth.  Our extended demo is coming during Steam Next Fest. Wishlist STARCULT on Steam to be ready when it arrives. 🖤  #OtomeGame https: 〔X·@notacatstudios〕
+  > 「如果你的情绪就是你的对话选项呢？在《STARCULT》里，你可以混合情绪解锁新选项，决定为了真相能走多远。我们的扩展版 Demo 将在 Steam 新品节期间推出。在 Steam 加《STARCULT》愿望单，到时第一时间玩到。🖤」（原文："What if your emotions were your dialogue options?  In STARCULT, you can mix them to uncover new choices and decide how far you’ll go to get the truth.  Our extended demo is coming during Steam Next Fest. Wishlist STARCULT on Steam to be ready when it arrives. 🖤  #OtomeGame https:"） 〔X·@notacatstudios〕
 - 2026-09-23 · 5 赞 / 1 转 / 0 回 / 88 浏览 · https://x.com/notacatstudios/status/2102711907236847901
-  > In STARCULT, emotions can change your dialogue options. A simple question can become something a little too honest.    Do you keep your feelings under control, or let them do the talking? 👁️   #starcultgame #OtomeGame #VisualNovel #IndieGame #DarkFantasy https://t.co/fi723znAvY 〔X·@notacatstudios〕
+  > 「在《STARCULT》里，情绪会改变你的对话选项。一个简单的问题可能变成一句过于诚实的话。你是控制住情绪，还是让它们替你说话？👁️」（原文："In STARCULT, emotions can change your dialogue options. A simple question can become something a little too honest.    Do you keep your feelings under control, or let them do the talking? 👁️   #starcultgame #OtomeGame #VisualNovel #IndieGame #DarkFantasy https://t.co/fi723znAvY"） 〔X·@notacatstudios〕
 - 2026-09-19 · 5 赞 / 0 转 / 0 回 / 84 浏览 · https://x.com/notacatstudios/status/2101345306147172842
   > streaming now ;3 https://t.co/SEN9JzxaXY 〔X·@notacatstudios〕
 - 2026-09-19 · 5 赞 / 2 转 / 0 回 / 250 浏览 · https://x.com/notacatstudios/status/2101242158531440798
-  > some light spoilers and behind the scenes ahead ;3 https://t.co/QWhyMpc7i6 〔X·@notacatstudios〕
+  > 「下面有一些轻度剧透和幕后花絮 ;3」（原文："some light spoilers and behind the scenes ahead ;3 https://t.co/QWhyMpc7i6"） 〔X·@notacatstudios〕
 
 <!-- added:2026-10-10 -->
 

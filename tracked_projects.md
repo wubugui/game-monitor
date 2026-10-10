@@ -180,3 +180,7 @@
 | 天使机构：执行部灵魂救济科 Angelic Agency | 公安搭档×灵害事件推理冒险 | 小团队（YOKUNIKU） | Demo | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3370180/ ；X 单帖最高赞 17；档案 state/x-angelicagency.md |
 | Bone to Pick 拾骨谜案 | 法医人类学推理视觉小说 | 小团队（Studio K Games） | Demo（2026-10-08），正式 2027 Q1 | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4996240/ ；X 单帖最高赞 20；档案 state/x-bonetopick.md |
 | My Beautiful Faraway, Please Don't Be Cruel To Me | 梦境阈限空间心理冒险（抽象谜题） | 个人（arch1t3ct） | 即将发售（2026-10-13，$9） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4516190/ ；X 单帖最高赞 509；档案 state/x-faraway.md |
+| The Pines | 开放世界心理恐怖 RPG | 个人（Studio Abattoir；发行 Silver Lining） | 开发中（2027，PC） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/4271520/ ；X 单帖最高赞 1823；档案 state/x-pines.md |
+| Tuned In（绝命频道） | 诅咒电视恐怖解谜选集 | 小团队（Vercors Games，前 Tequila Works） | 免费序章已上线 | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/4692790/ ；X 单帖最高赞 18；档案 state/x-tunedin.md |
+| 逃脱：怨念 Escape: Malice | 双人合作日式宅邸密室恐怖 | 小团队（Nimbus Games） | 已发售（2022-11，2026-07 大更新） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/1799220/ ；X 单帖最高赞 11；档案 state/x-malice.md |
+| The Devil is in the Details（细节决定成败） | 找异常 × 生存恐怖 | 小团队（HideWorks） | 已发售（2024-09-30） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/2790790/ ；X 单帖最高赞 13；档案 state/x-devildetails.md |

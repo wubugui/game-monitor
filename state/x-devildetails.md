@@ -129,7 +129,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 26 条（官方 2 / 他人 2 / 回复 22）；单帖最高：@HideWorksGames 赞 303 / 浏览 5425
 - 官方号粉丝：16296（@HideWorksGames）
 - Steam 评测：特别好评，好评 68 / 差评 1 / 共 69（已发售）
-- B站：未在本次 X 深挖中采集（未知）
+- B站：登录态全量采集 2026-10-10，相关视频 1 条、合计播放约 654；最高《蛊惑人心的恶魔判官！恐怖游戏《细节决定成败 Th》654（详见下方「B站数据」）
 
 ## 实际评价
 
@@ -153,3 +153,26 @@ discovery_date: "2026-10-10"
 
 - 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/takaworks_9999/status/2087197681462485028（X补充三追踪 Liminal Point 开发者 @HideWorksGames 时发现（账号简介写着「《LIMINAL POINT》和《The Devil is in the Details》的开发者」（原文："Creators of LIMINAL POINT, and The Devil is in the Details"））；X 检索命中推荐帖：「我们的独立找异常游戏，混合了生存恐怖」（原文："our indie anomaly detection game mixed with survival horror"），2026-08-11）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/2790790/ 与 appreviews 接口，原始数据 tmp/x/steam/devildetails.json；封面与截图来自 Steam 商店
+
+<!-- added:2026-10-10 -->
+
+## B站数据（登录态采集 2026-10-10）
+
+- 检索关键词：细节决定成败 The Devil is in the Details / 细节决定成败 恐怖游戏 / The Devil is in the Details 游戏 / The Devil is in the Details 实况 / The Devil is in the Details 试玩 / The Devil is in the Details demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 The Devil is in the Details 游戏 / The Devil is in the Details demo / 《细节决定成败 / 细节决定成败 The Devil / 恐怖游戏《细节，2025 年后发布）
+- 命中相关视频 1 条，合计播放约 654；以下为播放最高的 1 条（逐条拉取统计、评论、楼中楼与弹幕）
+
+| # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 评测/解析 | 蛊惑人心的恶魔判官！恐怖游戏《细节决定成败 The Devil is in th（BV1b5N2emEvB） | 路飞GQ（5502） | 2025-02-09 | 654 | 37 | 4 | 20 | 2 | 0 |
+
+- 本次实际抓取：主楼评论 2 条、楼中楼 0 条（视频页显示评论总数合计 2，含楼中楼；差额为已删除/折叠/审核中评论）、弹幕 0 条（页面显示弹幕数合计 0）。采集方式：主楼按热度翻页直到接口返回 is_end；每个有回复的主楼都把楼中楼翻到最后一页；弹幕按 6 分钟分段（seg.so）把所有分段拉全
+
+### B站评论原话（按点赞排序，含楼中楼）
+
+
+### 弹幕高频（前 20）
+
+无
+
+### 其他相关视频（播放前 6–15）
+

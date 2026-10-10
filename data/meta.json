@@ -101,7 +101,7 @@
  ],
  "today_banner": "",
  "today_new": 52,
- "today_updated": 128,
+ "today_updated": 129,
  "today_updates": [
   {
    "competitor": true,
@@ -436,7 +436,7 @@
    "id": "BV1RVH86hEBF",
    "kind": "updated",
    "name": "南亭湖",
-   "note": "- 「哈哈哈，感谢，我的工作室是个三人工作室，同时也有几位朋友偶尔客串帮忙，不过独立游戏是这样的，我必须身兼多职所有开发环节都要介入，能力有限同时也尽力而为，感谢支持~」（1赞） 〔B站·BV1uSp",
+   "note": "玩家反馈分析",
    "status": "Demo"
   },
   {
@@ -448,7 +448,7 @@
    "id": "BV1g9ad64EZj",
    "kind": "updated",
    "name": "声探疑云",
-   "note": "对玩法的期待与要求",
+   "note": "玩家反馈分析",
    "status": "开发中"
   },
   {
@@ -484,7 +484,7 @@
    "id": "BV1xMYY6QEBT",
    "kind": "updated",
    "name": "小先生",
-   "note": "- 「还得是专业的道士，语气平静，波澜不惊，一听就知道这把稳了，有一个强力队友太感人了」（69赞） 〔B站·BV1tuNt6BEiP评论〕",
+   "note": "玩家反馈分析",
    "status": "已发售"
   },
   {
@@ -496,7 +496,7 @@
    "id": "BV1pEtm6CEBP",
    "kind": "updated",
    "name": "棺门",
-   "note": "- 「大概过年前出demo」（0赞｜视频UP主「阿棍灬」） 〔B站·BV1pEtm6CEBP楼中楼〕",
+   "note": "玩家反馈分析",
    "status": "首曝"
   },
   {
@@ -520,7 +520,7 @@
    "id": "BV1ZYak6aELT",
    "kind": "updated",
    "name": "烟雨山异闻",
-   "note": "短板 / 风险 - 零热度、Demo 短； - 基础 UX 缺失； - 名字被《烟雨江湖》淹没。",
+   "note": "玩家反馈分析",
    "status": "Demo"
   },
   {
@@ -568,7 +568,7 @@
    "id": "BV17Jap6rEjm",
    "kind": "updated",
    "name": "诡偶",
-   "note": "- 「勾陈一就是一直在蹭纸嫁衣，这作甚至还有阴阳锅的素材复用（喷火假人）」（0赞） 〔B站·BV1CdH66kE1G楼中楼〕",
+   "note": "玩家反馈分析",
    "status": "已发售"
   },
   {
@@ -580,7 +580,7 @@
    "id": "BV1Taa861EDN",
    "kind": "updated",
    "name": "请勿与七号患者约会",
-   "note": "- 「不拿AI画销量能好一半」（7赞） 〔B站·BV1Taa861EDN评论〕",
+   "note": "玩家反馈分析",
    "status": "首曝"
   },
   {
@@ -609,6 +609,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「互动影游 AI」（每日发现 2026-10-10）；种子视频「悬疑恐怖AI互动影游《重启：工作日》首曝PV」· UP NOXlabs · BV1GhHS6QECw · 2026-10-08 · 播放 7172",
+   "genre": "悬疑恐怖 AI互动影游",
+   "id": "BV1GhHS6QECw",
+   "kind": "updated",
+   "name": "重启：工作日",
+   "note": "玩家反馈分析",
+   "status": "首曝"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1o7ht6pEgQ.jpg",
    "disc_platform": "B站",
    "discovery": "途径未知（种子为 B站视频）；种子视频「【福建民俗百合】在偏僻山镇与女人共历命运的蛇异常《随侯珠》demo全流程配音口播实况【已完结】」· UP 一池周啾 · BV1o7ht6pEgQ · 2026-09-23 · 播放 6623",
@@ -616,7 +628,7 @@
    "id": "BV1o7ht6pEgQ",
    "kind": "updated",
    "name": "随侯珠",
-   "note": "- 「本福建人表示确实好有内味，圣杯啊，祠堂啊，还有村民的一些反应什么的都很福建，，，然后弟弟犯错打姐姐这个事儿，感觉确实有可能发生」（11赞） 〔B站·BV1o7ht6pEgQ评论〕 - 「芜湖～是",
+   "note": "玩家反馈分析",
    "status": "Demo"
   },
   {
@@ -844,7 +856,7 @@
    "id": "x-devildetails",
    "kind": "new",
    "name": "The Devil is in the Details",
-   "note": "X 相关帖：本轮共抓到 26 条（官方 2 / 他人 2 / 回复 22）；单帖最高：@HideWorksGames 赞 303 / 浏览 5425",
+   "note": "检索关键词：细节决定成败 The Devil is in the Details / 细节决定成败 恐怖游戏 / The Devil is in the Details 游戏 / The Devil ",
    "status": "已发售（2024-09-30，$12.99）"
   },
   {
@@ -856,7 +868,7 @@
    "id": "x-pines",
    "kind": "new",
    "name": "The Pines",
-   "note": "X 相关帖：本轮共抓到 25 条（官方 1 / 他人 23 / 回复 1）；单帖最高：@shinobi602 赞 1823 / 浏览 106047",
+   "note": "检索关键词：The Pines 恐怖 / The Pines 心理恐怖 RPG / The Pines 实况 / The Pines 试玩 / The Pines demo（中文名、英文名及「实况/试",
    "status": "开发中（2027 年，PC）"
   },
   {
@@ -868,7 +880,7 @@
    "id": "x-tunedin",
    "kind": "new",
    "name": "Tuned In（TUNED IN: The Prologue）",
-   "note": "X 相关帖：本轮共抓到 24 条（官方 2 / 他人 16 / 回复 6）；单帖最高：@Sofiescreamqn 赞 21 / 浏览 395",
+   "note": "检索关键词：Tuned In 恐怖游戏 / Tuned In 实况 / Tuned In 试玩 / Tuned In demo / 诅咒电视 恐怖游戏（中文名、英文名及「实况/试玩/demo」组合，每",
    "status": "免费序章已上线；正式版即将推出"
   },
   {
@@ -952,7 +964,7 @@
    "id": "x-malice",
    "kind": "new",
    "name": "逃脱：怨念 Escape: Malice",
-   "note": "X 相关帖：本轮共抓到 4 条（官方 4 / 他人 0 / 回复 0）；单帖最高：@nimbusgamesdev 赞 11 / 浏览 297",
+   "note": "检索关键词：逃脱：怨念 / 逃脱怨念 / Escape: Malice / Escape Malice / 逃脱 怨念 实况 / Escape Malice 试玩（中文名、英文名及「实况/试玩/dem",
    "status": "已发售（2022-11-02；2026-07 大更新并改名，Friend Pass 上线）"
   },
   {

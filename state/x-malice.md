@@ -87,7 +87,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 4 条（官方 4 / 他人 0 / 回复 0）；单帖最高：@nimbusgamesdev 赞 11 / 浏览 297
 - 官方号粉丝：1186（@nimbusgamesdev）
 - Steam 评测：多半差评，好评 240 / 差评 762 / 共 1002（已发售）
-- B站：未在本次 X 深挖中采集（未知）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -110,3 +110,11 @@ discovery_date: "2026-10-10"
 
 - 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/nimbusgamesdev/status/2108485543747322347（X补充三追踪 @nimbusgamesdev 时间线时发现：「《Escape: Malice》现在支持 Steam 好友通行证！」（原文："Escape: Malice is now available to play with Steam's Friend Pass!"），2026-10-09，8 赞）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/1799220/ 与 appreviews 接口，原始数据 tmp/x/steam/malice.json；封面与截图来自 Steam 商店
+
+<!-- added:2026-10-10 -->
+
+## B站数据（登录态采集 2026-10-10）
+
+- 检索关键词：逃脱：怨念 / 逃脱怨念 / Escape: Malice / Escape Malice / 逃脱 怨念 实况 / Escape Malice 试玩（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Escape: Malice / Escape Malice / 逃脱：怨念 / 逃脱:怨念，2025 年后发布）
+- 核验剔除（标题不含本作名、疑为同名或他作）：密室逃脱的女鬼NPC准点收工，被喊回加班后怨念值拉满，网友：（BV1mxYsz7EQ8）；［何运晨］小何：有点怨念  一怒之下怒了一下哈哈哈（BV1K682zqEnE）；一位刻薄的组长，从危险重重受到诅咒的公司里逃脱《组长！怨念请（BV1Qb1FBaEzv）；【组长！怨念请查收！】上班狗的怨念～满满的职场黑色幽默！（BV1mnkzB8Ewa）；当年玩密室逃脱 遇到一个怨念极其的女鬼（BV1aqeXzqEMZ）
+- 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

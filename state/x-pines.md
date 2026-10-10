@@ -127,7 +127,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 25 条（官方 1 / 他人 23 / 回复 1）；单帖最高：@shinobi602 赞 1823 / 浏览 106047
 - 官方号粉丝：842（@StudioAbattoir）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：未在本次 X 深挖中采集（未知）
+- B站：登录态全量采集 2026-10-10，相关视频 1 条、合计播放约 714；最高《心理恐怖 RPG游戏《The Pines》》714（详见下方「B站数据」）
 
 ## 实际评价
 
@@ -170,3 +170,27 @@ Looks good"）（1 赞） 〔X·@DaddyLuvGuru〕
 - 「会出 Xbox 版吗？这正对我胃口」（原文："Xbox release? This is right up my ally"）（0 赞） 〔X·@NeonIdol25〕
 - 「看着会是神作」（原文："This looks like a banger"）（0 赞） 〔X·@fixerrrrrrrrrr〕
 - 「看着像坨屎」（原文："Looks like shit"）（0 赞） 〔X·@Jackqa6g〕
+
+<!-- added:2026-10-10 -->
+
+## B站数据（登录态采集 2026-10-10）
+
+- 检索关键词：The Pines 恐怖 / The Pines 心理恐怖 RPG / The Pines 实况 / The Pines 试玩 / The Pines demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 《The Pines》 / The Pines》 / The Pines 心理 / The Pines|，2025 年后发布）
+- 核验剔除（标题不含本作名、疑为同名或他作）：【SCP：监禁 主题曲】In the Pines（BV1QHNJzqERZ）；【原创】up主亲自带你去看美军航展——Power in th（BV16GjTzLEv3）；松月入怀：风过千山，心自安然｜Moonlight Throu（BV1tk8A6KEe3）；美国科幻【Portal in the Pines】(2025（BV1nkAEz7E9o）
+- 命中相关视频 1 条，合计播放约 714；以下为播放最高的 1 条（逐条拉取统计、评论、楼中楼与弹幕）
+
+| # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 其他 | 心理恐怖 RPG游戏《The Pines》（BV1j6DCBkEnM） | PCINDIE独游营地（1085） | 2026-04-19 | 714 | 13 | 0 | 24 | 0 | 0 |
+
+- 本次实际抓取：主楼评论 0 条、楼中楼 0 条（视频页显示评论总数合计 0，含楼中楼；差额为已删除/折叠/审核中评论）、弹幕 0 条（页面显示弹幕数合计 0）。采集方式：主楼按热度翻页直到接口返回 is_end；每个有回复的主楼都把楼中楼翻到最后一页；弹幕按 6 分钟分段（seg.so）把所有分段拉全
+
+### B站评论原话（按点赞排序，含楼中楼）
+
+
+### 弹幕高频（前 20）
+
+无
+
+### 其他相关视频（播放前 6–15）
+

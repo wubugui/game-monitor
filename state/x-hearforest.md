@@ -125,7 +125,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 26 条（官方 9 / 他人 10 / 回复 7）；单帖最高：@podoba_interact 赞 3290 / 浏览 61761
 - 官方号粉丝：4946（@podoba_interact）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -150,7 +150,15 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@podoba_interact；该时段原创帖 1 条（不含转推）
+- 2026-09-17 · 50 赞 / 1 转 / 1 回 / 1070 浏览 · https://x.com/podoba_interact/status/2100594506525524453
+  > Chinese hackers tried to steal this account. It seems to be over now 〔X·@podoba_interact〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：I Hear the Forest（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：I Hear the Forest / 护林员 民俗恐怖 / I Hear the Forest 实况 / I Hear the Forest 试玩 / I Hear the Forest demo / 护林员 民俗恐怖 实况 / 护林员 民俗恐怖 试玩 / 护林员 民俗恐怖 demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 I Hear the Forest，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

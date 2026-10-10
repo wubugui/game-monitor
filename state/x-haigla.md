@@ -81,7 +81,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@thosdeveloper 赞 7 / 浏览 497
 - 官方号粉丝：189（@thosdeveloper）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：登录态采集 2026-10-10，相关视频 3 条、合计播放约 7222；最高《摇 轮 椅 模 拟 器《HAIGLA》Demo》6682（详见下方「B站数据」）
+- B站：登录态全量采集 2026-10-10，相关视频 3 条、合计播放约 7222；最高《摇 轮 椅 模 拟 器《HAIGLA》Demo》6682（详见下方「B站数据」）
 
 ## 实际评价
 
@@ -106,9 +106,29 @@ solo 开发，189 粉。**可靠程度：中**。
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@thosdeveloper；该时段原创帖 7 条（不含转推）
+- 2026-09-24 · 34 赞 / 1 转 / 1 回 / 5677 浏览 · https://x.com/thosdeveloper/status/2103195126227144934
+  > I think he was just pretending to be slow #indiegame #horrorgame #gamedev https://t.co/2UM6GcNMxn 〔X·@thosdeveloper〕
+- 2026-09-14 · 21 赞 / 2 转 / 1 回 / 1618 浏览 · https://x.com/thosdeveloper/status/2099554421965234549
+  > A new content update for the HAIGLA demo is in the works.  Some content originally planned for the full game is being brought into the demo to improve its pacing and better represent the full experience.  It's currently being tested and polished, once it's ready, it's going in. h 〔X·@thosdeveloper〕
+- 2026-09-17 · 11 赞 / 0 转 / 0 回 / 110 浏览 · https://x.com/thosdeveloper/status/2100667164474708302
+  > Just another normal day at the hospital.  #indiedev #horrorgame https://t.co/zSrwtrSRUV 〔X·@thosdeveloper〕
+- 2026-10-09 · 8 赞 / 0 转 / 1 回 / 86 浏览 · https://x.com/thosdeveloper/status/2108607168207257866
+  > Would you survive a nightmare if you couldn't walk? Demo has been updated with more stuff! #IndieHorror #HorrorGames #IndieGame https://t.co/xJAi1qHXrV 〔X·@thosdeveloper〕
+- 2026-10-03 · 7 赞 / 4 转 / 0 回 / 497 浏览 · https://x.com/thosdeveloper/status/2106440139765317654
+  > Here’s a glimpse of HAIGLA, the horror game I’m making solo.  Also my PC died  Try the free demo and Wishlist HAIGLA on Steam.  #IndieHorror #HorrorGame #IndieGame https://t.co/oKQgoBylxk 〔X·@thosdeveloper〕
+- 2026-10-06 · 6 赞 / 1 转 / 0 回 / 66 浏览 · https://x.com/thosdeveloper/status/2107509900431806718
+  > Just another day at the hospital.  Everything seems perfectly normal.  Probably.  #HAIGLA #IndieHorror #HorrorGames #IndieDev https://t.co/j8WrIpdMKQ 〔X·@thosdeveloper〕
+- 2026-09-30 · 2 赞 / 0 转 / 0 回 / 31 浏览 · https://x.com/thosdeveloper/status/2105393430679482578
+  > While i am working on my projects, this is what gets me in the mood.  Pavelock Prison bit is just perfect https://t.co/asro0AuFBJ 〔X·@thosdeveloper〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：HAIGLA（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：HAIGLA / HAIGLA 实况 / HAIGLA 试玩 / HAIGLA demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 HAIGLA，2025 年后发布）
 - 命中相关视频 3 条，合计播放约 7222；以下为播放最高的 3 条（逐条拉取统计、评论、楼中楼与弹幕）
 
 | # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
@@ -117,13 +137,14 @@ solo 开发，189 粉。**可靠程度：中**。
 | 2 | 实况/试玩 | 新恐游《HAIGLA》测试版demo实况（BV1yabu6VEYP） | 知雾岚（292） | 2026-09-08 | 517 | 6 | 0 | 9 | 0 | 0 |
 | 3 | 其他 | HAIGLA（BV1aMX5BZEUQ） | 龟龟steam游戏预告片（538） | 2026-03-28 | 23 | 1 | 0 | 0 | 0 | 0 |
 
-- 本次实际抓取：主楼评论 11 条、楼中楼 2 条、弹幕 25 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）
+- 本次实际抓取：主楼评论 11 条、楼中楼 3 条（视频页显示评论总数合计 15，含楼中楼；差额为已删除/折叠/审核中评论）、弹幕 25 条（页面显示弹幕数合计 56）。采集方式：主楼按热度翻页直到接口返回 is_end；每个有回复的主楼都把楼中楼翻到最后一页；弹幕按 6 分钟分段（seg.so）把所有分段拉全
 
 ### B站评论原话（按点赞排序，含楼中楼）
 
 - 「点击图片往上滑，解锁狙击手视角[OK]」（6 赞） 〔B站·BV1XrtS6vEcU评论·@爱吃菜菜的希希〕
   - ↳ 「[吃瓜][doge]」（0 赞） 〔B站·BV1XrtS6vEcU楼中楼·@黑化的舰队〕
 - 「原来是断了右腿啊，不知道还以为是九年前加勒比海和平行者母基地被毁替bigboss挡导弹然后坠机被送到塞浦路斯医院被山猫洗脑之后和bigboss一起逃出医院半道汽车侧翻之后和山猫一起骑马润到港口，之后乘船去阿富汗救米勒，结果登机之前被骷髅部队偷袭从骷髅部队眼皮子底下开润，之后和米勒山猫一起建立钻石犬一边调查xof一边接私活顺便回收九年前母基地的士兵，中间还发现了没造好的萨赫勒猿神和休伊，之后查到了x」（4 赞） 〔B站·BV1XrtS6vEcU评论·@迷迷糊糊其实不迷糊〕
+  - ↳ 「不知道的还以为你也幻痛呢」（1 赞） 〔B站·BV1XrtS6vEcU楼中楼·@Wisfool〕
 - 「点击图片往上滑，解锁狙击手视角[OK]」（3 赞） 〔B站·BV1XrtS6vEcU评论·@爱吃菜菜的希希〕
 - 「[Cat2_FallOut!?]」（0 赞） 〔B站·BV1XrtS6vEcU评论·@白云Ace〕
 - 「没事，还能打篮球[滑稽]」（0 赞） 〔B站·BV1XrtS6vEcU评论·@大木博士姓钢〕
@@ -131,7 +152,7 @@ solo 开发，189 粉。**可靠程度：中**。
 
 ### 弹幕高频（前 20）
 
-「有点」×16、「不讨厌」×4、「我讨厌是因为我得上班」×1、「二次元」×1、「知道哭泣天使还敢背对着雕像」×1、「外面是个啥」×1、「德军总部」×1
+「有点」×16、「不讨厌」×4、「德军总部」×1、「我讨厌是因为我得上班」×1、「外面是个啥」×1、「二次元」×1、「知道哭泣天使还敢背对着雕像」×1
 
 ### 其他相关视频（播放前 6–15）
 

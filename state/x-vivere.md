@@ -81,7 +81,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Sofie_screamqn 赞 112 / 浏览 1577
 - 官方号粉丝：1014（@Sofie_screamqn）
 - Steam 评测：6 user reviews，好评 6 / 差评 0 / 共 6（已发售）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -108,7 +108,15 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@Sofie_screamqn；该时段原创帖 1 条（不含转推）
+- 2026-09-25 · 21 赞 / 8 转 / 1 回 / 395 浏览 · https://x.com/Sofie_screamqn/status/2103436652647452926
+  > TUNED IN is an upcoming horror game that has vou trapped inside a cursed TV. Solve puzzles, survive twisted programs, and find a way out before the broadcast takes over.  💀 Play the DEMO on Steam  Developed by: @vercorsgames   #horrorgame #gaming #indiegame #gamedev https://t.co/ 〔X·@Sofie_screamqn〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Vivere Retro（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：Vivere Retro / Vivere 恐怖游戏（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Vivere Retro，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

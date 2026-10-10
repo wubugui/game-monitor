@@ -92,7 +92,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 7 条（官方 2 / 他人 0 / 回复 5）；单帖最高：@deadtale 赞 67 / 浏览 6336
 - 官方号粉丝：323（@deadtale）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -117,7 +117,27 @@ solo，323 粉，回复极勤（逐条回复粉丝、解释技能设计）。**�
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@deadtale；该时段原创帖 7 条（不含转推）
+- 2026-10-06 · 82 赞 / 8 转 / 7 回 / 8379 浏览 · https://x.com/deadtale/status/2107548815410499866
+  > I hate standing in line.  Wishlist Deadtale on Steam: https://t.co/35L5yIzvQ5  #gamedev #indiegame #indiedev #TrailerTuesday https://t.co/5x2PlfSGyz 〔X·@deadtale〕
+- 2026-10-07 · 52 赞 / 6 转 / 0 回 / 14374 浏览 · https://x.com/deadtale/status/2107941336041074780
+  > When you let the intrusive thoughts win.  Wishlist Deadtale on Steam: https://t.co/35L5yIzvQ5  #gamedev #indiegame #indiedev #WishlistWednesday https://t.co/z8p0njh8L4 〔X·@deadtale〕
+- 2026-10-05 · 38 赞 / 2 转 / 2 回 / 8420 浏览 · https://x.com/deadtale/status/2107234810477592838
+  > Sometimes the wrong weapon is the right choice.  Wishlist Deadtale on Steam: https://t.co/35L5yIA3FD  #gamedev #indiegame #indiedev #TrailerTuesday https://t.co/EzTkpMJxh1 〔X·@deadtale〕
+- 2026-10-09 · 24 赞 / 0 转 / 1 回 / 854 浏览 · https://x.com/deadtale/status/2108534580613407089
+  > You broke my car, so I broke your neck.  Wishlist Deadtale on Steam: https://t.co/35L5yIzvQ5  #gamedev #indiegame #indiedev #FollowFriday https://t.co/4sqShOO9Dh 〔X·@deadtale〕
+- 2026-10-09 · 21 赞 / 1 转 / 1 回 / 510 浏览 · https://x.com/deadtale/status/2108665688118468649
+  > Kaboom. Ka-ching.  Wishlist Deadtale on Steam: https://t.co/35L5yIA3FD  #gamedev #indiegame #indiedev #FollowFriday https://t.co/vkeC4N9TOY 〔X·@deadtale〕
+- 2026-10-09 · 18 赞 / 2 转 / 3 回 / 647 浏览 · https://x.com/deadtale/status/2108354473433186762
+  > When you hear that laugh, you know it's about to go down.  Wishlist Deadtale on Steam: https://t.co/35L5yIzvQ5  #gamedev #indiegame #indiedev #FollowFriday https://t.co/Qcqf3DxWHP 〔X·@deadtale〕
+- 2026-10-09 · 2 赞 / 0 转 / 0 回 / 31 浏览 · https://x.com/deadtale/status/2108354549937496406
+  > Here's what happens when that laugh catches up to you... https://t.co/OTlsiXBGXF 〔X·@deadtale〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Deadtale（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：Deadtale / Deadtale 实况 / Deadtale 试玩 / Deadtale demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Deadtale，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

@@ -81,7 +81,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@notacatstudios 赞 7 / 浏览 212
 - 官方号粉丝：127（@notacatstudios）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -106,7 +106,29 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@notacatstudios；该时段原创帖 20 条（不含转推）
+- 2026-10-05 · 19 赞 / 7 转 / 3 回 / 411 浏览 · https://x.com/notacatstudios/status/2107115767988630012
+  > We’re excited to announce that STARCULT Night Twisted Age is joining the First Love Visual Novel Fest, starting October 23!  Stay tuned! ✨  #firstlovevisualnovelfest #visualnovels https://t.co/YP1qsXl6gZ 〔X·@notacatstudios〕
+- 2026-09-21 · 10 赞 / 1 转 / 1 回 / 404 浏览 · https://x.com/notacatstudios/status/2102024856447459442
+  > Matthew has never failed a case or missed a mass.  Some say he sold his soul for his talents... because what is he praying for then? Would you trust him with your secrets? 👁️  #OtomeGame #VisualNovel #starcultgame https://t.co/nTr9IDeoux 〔X·@notacatstudios〕
+- 2026-09-26 · 9 赞 / 1 转 / 0 回 / 147 浏览 · https://x.com/notacatstudios/status/2103867944115614020
+  > In STARCULT, you play an Artist who uses her emotions like a palette to manipulate people's hearts - well, dogs' hearts too...  #psychologicalhorrorgame  #screenshotsaturday #indiegame #starcultnighttwistedage https://t.co/2D49jvruLK 〔X·@notacatstudios〕
+- 2026-09-18 · 9 赞 / 1 转 / 0 回 / 109 浏览 · https://x.com/notacatstudios/status/2101029484317098120
+  > ... Many claimed to love him, but they loved only the beautiful, exotic fantasy they had created.  #OtomeGame #VisualNovel #starcultgame https://t.co/vmjSs99QtJ 〔X·@notacatstudios〕
+- 2026-09-26 · 5 赞 / 3 转 / 1 回 / 181 浏览 · https://x.com/notacatstudios/status/2103896322390512011
+  > What if your emotions were your dialogue options?  In STARCULT, you can mix them to uncover new choices and decide how far you’ll go to get the truth.  Our extended demo is coming during Steam Next Fest. Wishlist STARCULT on Steam to be ready when it arrives. 🖤  #OtomeGame https: 〔X·@notacatstudios〕
+- 2026-09-23 · 5 赞 / 1 转 / 0 回 / 88 浏览 · https://x.com/notacatstudios/status/2102711907236847901
+  > In STARCULT, emotions can change your dialogue options. A simple question can become something a little too honest.    Do you keep your feelings under control, or let them do the talking? 👁️   #starcultgame #OtomeGame #VisualNovel #IndieGame #DarkFantasy https://t.co/fi723znAvY 〔X·@notacatstudios〕
+- 2026-09-19 · 5 赞 / 0 转 / 0 回 / 84 浏览 · https://x.com/notacatstudios/status/2101345306147172842
+  > streaming now ;3 https://t.co/SEN9JzxaXY 〔X·@notacatstudios〕
+- 2026-09-19 · 5 赞 / 2 转 / 0 回 / 250 浏览 · https://x.com/notacatstudios/status/2101242158531440798
+  > some light spoilers and behind the scenes ahead ;3 https://t.co/QWhyMpc7i6 〔X·@notacatstudios〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：STARCULT（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：STARCULT / STARCULT 实况 / STARCULT 试玩 / STARCULT demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 STARCULT / Starcult，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

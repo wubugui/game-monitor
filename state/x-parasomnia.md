@@ -82,7 +82,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@ParasomniaNoREM 赞 8 / 浏览 152
 - 官方号粉丝：133（@ParasomniaNoREM）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：登录态采集 2026-10-10，相关视频 3 条、合计播放约 6379；最高《屠杀全家竟是梦游所为？梦与现实交织的噩梦里世界！》4041（详见下方「B站数据」）
+- B站：登录态全量采集 2026-10-10，相关视频 7 条、合计播放约 7509；最高《屠杀全家竟是梦游所为？梦与现实交织的噩梦里世界！》4041（详见下方「B站数据」）
 
 ## 实际评价
 
@@ -107,38 +107,82 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@ParasomniaNoREM；该时段原创帖 10 条（不含转推）
+- 2026-09-23 · 16 赞 / 0 转 / 2 回 / 1177 浏览 · https://x.com/ParasomniaNoREM/status/2102856362061365659
+  > NEW Parasomnia: No REM DEMO coming to Steam NEXT WEEK! September 29  🖤👁️.  A psychological horror game where the protagonist suffers episodes of sleepwalking.   ❗️Support our small team by wishlisting our game on Steam:  https://t.co/g7CFddCGnb  #indiedev #horrorgame #gamedev htt 〔X·@ParasomniaNoREM〕
+- 2026-09-29 · 12 赞 / 3 转 / 1 回 / 249 浏览 · https://x.com/ParasomniaNoREM/status/2105069277552460269
+  > It’s finally here. 👁️ NEW Parasomnia: No REM demo is OUT NOW on Steam. New environments, puzzles, horror sequences, and gameplay improvements.  We’re a small indie team, so every play, share, and wishlist means a lot. 🖤  🎮 Play &amp; Wishlist on Steam: https://t.co/32FDY69syh htt 〔X·@ParasomniaNoREM〕
+- 2026-10-04 · 8 赞 / 2 转 / 1 回 / 152 浏览 · https://x.com/ParasomniaNoREM/status/2106577082297778632
+  > The NEW Parasomnia: No REM demo is here. A psychological #horrorgame about sleepwalking. 👁️  If you like what you see, a wishlist or review would mean a lot to our little indie team! 🖤 #indiegame #wishlistonsteam #steam   https://t.co/32FDY68UIJ https://t.co/dqPExCINv2 〔X·@ParasomniaNoREM〕
+- 2026-10-02 · 7 赞 / 1 转 / 1 回 / 238 浏览 · https://x.com/ParasomniaNoREM/status/2105824382312730975
+  > Thank you to everyone who’s been playing our new demo! 🖤 It means a lot to our small team.  If you enjoyed it and feel like sharing your thoughts, we’d love to read your review on Steam! 👁️Every review helps us more than you know. #indiedev #horrorgame #gamedev https://t.co/Jp3we 〔X·@ParasomniaNoREM〕
+- 2026-09-28 · 7 赞 / 1 转 / 1 回 / 237 浏览 · https://x.com/ParasomniaNoREM/status/2104364728848101700
+  > 👁️ 2 DAYS REMAINING…  #indiedev #gamedev #horrorgame https://t.co/a4tKQ7ANDy 〔X·@ParasomniaNoREM〕
+- 2026-09-17 · 7 赞 / 0 转 / 1 回 / 227 浏览 · https://x.com/ParasomniaNoREM/status/2100661529267806353
+  > Are you ready to try our NEW DEMO? 👁️ Release date announcement coming soon. #indiedev #horrorgame #gamedev https://t.co/jlAc148ZWu 〔X·@ParasomniaNoREM〕
+- 2026-09-29 · 5 赞 / 1 转 / 0 回 / 151 浏览 · https://x.com/ParasomniaNoREM/status/2104974387271352364
+  > Finally, the day is here. After all the work behind this new demo, we can finally share it with you. 🖤  Today at: 🇦🇷 19:00 🇧🇷 19:00 🇺🇸 18:00 ET / 15:00 PT 🇲🇽 16:00 🇬🇧 23:00 🇪🇸 00:00 🇫🇷 00:00 🇩🇪 00:00  #indiedev #horrorgame #gamedev https://t.co/a4tKQ7ANDy 〔X·@ParasomniaNoREM〕
+- 2026-10-08 · 4 赞 / 0 转 / 0 回 / 59 浏览 · https://x.com/ParasomniaNoREM/status/2107991609593721045
+  > We’ve been working on some videos sharing our story, how our little indie team came together, and where the idea for Parasomnia: No REM came from. 🖤  Would you guys be interested in watching them? 👁️ 〔X·@ParasomniaNoREM〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Parasomnia（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
-- 核验剔除（标题不含本作名、疑为同名或他作）：姐弟二人弹弓驱鬼阴间七进七出？！双人联机恐怖游戏惨遭神秘力量（BV1Wy5e6GEcU）；东南亚民俗恐怖游戏 双人成行我单人也行【Yan魇】重制版试玩（BV1vf5n6WEkK）；【熟肉】追逐战十分有趣的CaseOh实况【中字】（BV1aDxCztE1u）；中元节姐弟齐心战斗鬼魂，东南亚民俗恐怖游戏《Yan魇：Par（BV1XzTb69Emn）
-- 命中相关视频 3 条，合计播放约 6379；以下为播放最高的 1 条（逐条拉取统计、评论、楼中楼与弹幕）
+- 检索关键词：Parasomnia No REM / Parasomnia: No REM / Parasomnia No REM 实况 / Parasomnia No REM 试玩 / Parasomnia No REM demo / Parasomnia: No REM 实况 / Parasomnia: No REM 试玩 / Parasomnia: No REM demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 No Rem / No REM / NoREM，2025 年后发布）
+- 命中相关视频 7 条，合计播放约 7509；以下为播放最高的 5 条（逐条拉取统计、评论、楼中楼与弹幕）
 
 | # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 其他 | 屠杀全家竟是梦游所为？梦与现实交织的噩梦里世界！| 独立恐怖游戏 Parasom（BV1os4EzAE2h） | 73又没睡醒（4.1万） | 2025-10-10 | 4041 | 165 | 35 | 91 | 23 | 5 |
+| 2 | 实况/试玩 | 【中文字幕】心理恐怖游戏 Parasomnia: No REM 试玩版全流程（BV14QshzLEK3） | 兔花花7777（1.6万） | 2025-10-22 | 1777 | 105 | 30 | 58 | 6 | 3 |
+| 3 | 其他 | 恐怖游戏：Parasomnia No REM（BV1ddKDzBE9T） | 丷RE77（2184） | 2025-06-26 | 561 | 17 | 2 | 6 | 6 | 2 |
+| 4 | 实况/试玩 | 邪恶木偶团的可怕凝视！恐怖游戏《异常睡眠 Parasomnia No REM》惊（BV161fmY9ExA） | 路飞GQ（5502） | 2025-01-27 | 476 | 25 | 1 | 19 | 4 | 0 |
+| 5 | 其他 | 〖异梦症：非快速眼动 万圣节版〗Parasomnia: No REM Hallo（BV1XmxXzHEmP） | ReshVavYod（1179） | 2025-10-07 | 371 | 9 | 0 | 6 | 1 | 0 |
 
-- 本次实际抓取：主楼评论 12 条、楼中楼 2 条、弹幕 5 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）
+- 本次实际抓取：主楼评论 27 条、楼中楼 13 条（视频页显示评论总数合计 40，含楼中楼；差额为已删除/折叠/审核中评论）、弹幕 9 条（页面显示弹幕数合计 10）。采集方式：主楼按热度翻页直到接口返回 is_end；每个有回复的主楼都把楼中楼翻到最后一页；弹幕按 6 分钟分段（seg.so）把所有分段拉全
 
 ### B站评论原话（按点赞排序，含楼中楼）
 
+- 「哈喽大家好，我是全宇宙最帅的恐龙[doge]」（3 赞） 〔B站·BV14QshzLEK3评论·@顺风顺水的帅比龙〕
 - 「第一时间，第一地点，第一人物 我又来辣[脱单doge] 我不食纯住【得病住院版】 在医院看up的视频真是一件美事[呲牙] （医生说我病的不重，不会四[呲牙]）」（2 赞） 〔B站·BV1os4EzAE2h评论·@83岁的虎杖悠人〕
+  - ↳ 「[拥抱][拥抱][拥抱][拥抱]保重身体啊哥」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「1.3w了[吃瓜][吃瓜]恭喜恭喜[吃瓜][吃瓜]」（2 赞） 〔B站·BV1os4EzAE2h评论·@暂未注册的用户〕
+  - ↳ 「哈哈哈哈[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
+- 「花花我又来听你视频睡觉了」（2 赞） 〔B站·BV14QshzLEK3评论·@sevyyy〕
+- 「[星星眼][星星眼][星星眼][星星眼][星星眼]」（2 赞） 〔B站·BV14QshzLEK3评论·@AMWDfvr〕
+- 「怎么也飞不出花花的世界」（2 赞） 〔B站·BV14QshzLEK3评论·@空知金刚〕
+- 「[热词系列_六到无语]」（2 赞） 〔B站·BV14QshzLEK3评论·@弹棉花十级〕
+- 「第三[打call]」（2 赞） 〔B站·BV14QshzLEK3评论·@乐乐乐乐乐wang〕
 - 「虽迟但到[吃瓜][吃瓜]」（1 赞） 〔B站·BV1os4EzAE2h评论·@碎辰安影〕
 - 「前排[星星眼]」（1 赞） 〔B站·BV1os4EzAE2h评论·@不锈钢回收〕
+  - ↳ 「太前了[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「7373，我又来了[星星眼]」（1 赞） 〔B站·BV1os4EzAE2h评论·@编号-313-〕
+  - ↳ 「欢迎欢迎[doge][doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「又高产了哎[星星眼]幸苦哩[打call]」（1 赞） 〔B站·BV1os4EzAE2h评论·@无敌banana战神〕
+  - ↳ 「不辛苦hhh，感谢支持[doge]」（1 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「嗯？！！！up终于更新了[星星眼]」（1 赞） 〔B站·BV1os4EzAE2h评论·@薄荷糖酥_7〕
+  - ↳ 「[doge][doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「中排[doge]」（1 赞） 〔B站·BV1os4EzAE2h评论·@没绷带的青花鱼〕
+  - ↳ 「很前了[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「我来了[呲牙]」（1 赞） 〔B站·BV1os4EzAE2h评论·@瑜罗兰〕
   - ↳ 「今天16级了[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@瑜罗兰〕
   - ↳ 「欢迎欢迎[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「日更博主[打call][打call][打call][打call][打call]投币必须投币」（1 赞） 〔B站·BV1os4EzAE2h评论·@雪花味拿铁〕
+  - ↳ 「感谢支持[doge]」（0 赞） 〔B站·BV1os4EzAE2h楼中楼·@73又没睡醒〕
 - 「[打call]」（1 赞） 〔B站·BV1os4EzAE2h评论·@也许开心的小张〕
-- 「[打call]」（0 赞） 〔B站·BV1os4EzAE2h评论·@也许开心的小张〕
+- 「阿婆，阿婆，我想要AI配音[呲牙][吃瓜]」（1 赞） 〔B站·BV1ddKDzBE9T评论·@我爱种仁菜〕
+  - ↳ 「Ai配音不如我自己配音」（1 赞） 〔B站·BV1ddKDzBE9T楼中楼·@丷RE77〕
+- 「关注了以后加油！[打call][喜欢]」（1 赞） 〔B站·BV1ddKDzBE9T评论·@我爱种仁菜〕
+- 「支持一下up！」（1 赞） 〔B站·BV1ddKDzBE9T评论·@怪兽蛋〕
 
 ### 弹幕高频（前 20）
 
-「经典173」×1、「指成为父母的骄傲是吧」×1、「发红，鬼啃十字架了（）」×1、「我了个高大人类」×1、「[前方高能]」×1
+「发红，鬼啃十字架了（）」×1、「我了个高大人类」×1、「指成为父母的骄傲是吧」×1、「经典173」×1、「哇塞，恐怖游戏我来了」×1、「沟槽的这游戏短短时间里用同样的方式吓了我三次，我要叫了」×1、「......」×1、「可怕」×1、「丸辣」×1
 
 ### 其他相关视频（播放前 6–15）
 
+- 吾好梦中杀二胎 |《parasomnia:no rem》试玩 · 宇宙叉烧 · BV1biHL6JEyu · 2026-10-04 · 播放 143
+- 我梦游症患者？和我的原生家庭 Parasomnia: No REM demo试玩 · 予一yuyuyu · BV141aS6qEr5 · 2026-10-03 · 播放 140

@@ -82,7 +82,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@BabGamesStudio 赞 5 / 浏览 77
 - 官方号粉丝：60（@BabGamesStudio）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -107,8 +107,29 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@BabGamesStudio；该时段原创帖 13 条（不含转推）
+- 2026-09-25 · 10 赞 / 6 转 / 2 回 / 78 浏览 · https://x.com/BabGamesStudio/status/2103446869724787043
+  > THE JUBAKU DEMO IS LIVE!! 📼 Investigate 📷 Document the paranormal 🕯️ Make your choices 👁️ Try to survive The demo is FREE to play now. 🎮 Play the demo &amp; Wishlist JUBAKU on Steam: https://t.co/Y52PmUZ8KQ #Jubaku #IndieGame #HorrorGame #PsychologicalHorror #Steam https://t.co/K 〔X·@BabGamesStudio〕
+- 2026-09-19 · 7 赞 / 3 转 / 0 回 / 1042 浏览 · https://x.com/BabGamesStudio/status/2101396275828756600
+  > THE FIRST OFFICIAL TRAILER FOR JUBAKU IS HERE. A house. A story waiting to be uncovered. And something that was never meant to be found. 🎥 WATCH THE FULL TRAILER ON YOUTUBE NOW! 🔴 DEMO,SEPTEMBER 25, 2026  Wishlist now on Steam. https://t.co/Y52PmUZ8KQ  #horror #games #steam https 〔X·@BabGamesStudio〕
+- 2026-10-07 · 6 赞 / 2 转 / 1 回 / 51 浏览 · https://x.com/BabGamesStudio/status/2107856513884954751
+  > These are screenshots from our game called Jubaku! The Demo is out right now ^^ https://t.co/xYaPrTb1b2 〔X·@BabGamesStudio〕
+- 2026-10-08 · 5 赞 / 1 转 / 1 回 / 62 浏览 · https://x.com/BabGamesStudio/status/2108183472707960999
+  > Watching people play JUBAKU for the first time has honestly been one of our favorite parts of making this game. We know the jumpscare is coming... they don't 😭  #JUBAKU #IndieHorror #HorrorGames #IndieArtists  #horrorgaming  #GameDev https://t.co/PUbXiEnrev 〔X·@BabGamesStudio〕
+- 2026-10-01 · 5 赞 / 2 转 / 1 回 / 77 浏览 · https://x.com/BabGamesStudio/status/2105557330733736374
+  > A routine investigation in Japan… until the house starts remembering. 📷  Play the free JUBAKU Demo on Steam &amp; wishlist the full game.   #indiegame #indiedev #gamedev #horrorgame #psychologicalhorror #indiehorror #japanesegame #horrorgames #steamgames #madewithunreal https://t 〔X·@BabGamesStudio〕
+- 2026-09-30 · 5 赞 / 2 转 / 2 回 / 57 浏览 · https://x.com/BabGamesStudio/status/2105298583230791808
+  > What Unfolds Ahead? - - - Indie game, horror,psychological, atmospheric, story rich, game dev https://t.co/UrPl4DQnj8 〔X·@BabGamesStudio〕
+- 2026-10-04 · 4 赞 / 2 转 / 0 回 / 38 浏览 · https://x.com/BabGamesStudio/status/2106668734987563123
+  > Some things in the Tanaka Residence are better left undocumented 👁️📹  Not every picture tells the whole story…:)  A good psychological horror game doesn’t need to chase you to get inside your head 🖤  #indiehorror #horror #indiegames #gaming #indiedev #psychologicalhorror https:// 〔X·@BabGamesStudio〕
+- 2026-09-28 · 4 赞 / 3 转 / 0 回 / 49 浏览 · https://x.com/BabGamesStudio/status/2104600424208867333
+  > If you like Chilla's art Games and Fears To Fathom Then we present to you "JUBAKU' wishlist now on Steam ^^ link in bio- https://t.co/07KUVqPdPz 〔X·@BabGamesStudio〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Jubaku / 呪縛（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
-- 核验剔除（标题不含本作名、疑为同名或他作）：【偶像大师星耀季节】Project LUMINOUS『アイシ（BV1rXxYzjEqc）；【星耀季节】 Aishite no Jubaku Je vo（BV1AAnEzdETr）
+- 检索关键词：呪縛 Jubaku / Jubaku 恐怖 / 呪縛 Jubaku 实况 / 呪縛 Jubaku 试玩 / 呪縛 Jubaku demo / Jubaku 恐怖 实况 / Jubaku 恐怖 试玩 / Jubaku 恐怖 demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Jubaku 呪縛 / 呪縛 Jubaku / BabGames，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

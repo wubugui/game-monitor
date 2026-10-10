@@ -94,7 +94,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 8 条（官方 3 / 他人 0 / 回复 5）；单帖最高：@ASKGAMES1 赞 25 / 浏览 141249
 - 官方号粉丝：1436（@ASKGAMES1）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -119,7 +119,27 @@ ASK GAMES 1436 粉，单帖 14 万浏览，有主播（therealtakarita 6136 粉�
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@ASKGAMES1；该时段原创帖 7 条（不含转推）
+- 2026-09-14 · 25 赞 / 7 转 / 3 回 / 141249 浏览 · https://x.com/ASKGAMES1/status/2099536153099567579
+  > The FREE DEMO of No Return Address is OUT NOW on @itchio 📦  🎮 Play the demo: https://t.co/tmZa2l2c4E ❤️ Wishlist the full game on Steam: https://t.co/TDXdCA647N  #HorrorGame #IndieHorror #IndieDev #PsychologicalHorror https://t.co/Xk7q0iOmdm 〔X·@ASKGAMES1〕
+- 2026-09-25 · 22 赞 / 3 转 / 4 回 / 411 浏览 · https://x.com/ASKGAMES1/status/2103600892113195064
+  > The *No Return Address* demo is available on Steam. Please support my work by leaving a review. https://t.co/skNKerZKOT 〔X·@ASKGAMES1〕
+- 2026-09-15 · 21 赞 / 3 转 / 3 回 / 124127 浏览 · https://x.com/ASKGAMES1/status/2099932565452780009
+  > If you've played it, please post here about what you liked or didn't like. https://t.co/rdKKLZPTvf 〔X·@ASKGAMES1〕
+- 2026-09-15 · 7 赞 / 0 转 / 0 回 / 344 浏览 · https://x.com/ASKGAMES1/status/2099875829782044827
+  > A new game has been released. https://t.co/TGvRkYzvH8 〔X·@ASKGAMES1〕
+- 2026-09-28 · 4 赞 / 1 转 / 0 回 / 347 浏览 · https://x.com/ASKGAMES1/status/2104490552733368636
+  > Whoa, cool! I actually just released an update, too! I added some atmosphere, fixed a few issues, and more. https://t.co/a84H4f6WCw 〔X·@ASKGAMES1〕
+- 2026-09-26 · 0 赞 / 0 转 / 0 回 / 22 浏览 · https://x.com/ASKGAMES1/status/2103762069547893048
+  > If you enjoyed the demo, I'd really appreciate it if you could support it with a review on Steam. 〔X·@ASKGAMES1〕
+- 2026-09-25 · 0 赞 / 1 转 / 0 回 / 43 浏览 · https://x.com/ASKGAMES1/status/2103601247085330790
+  > Steam page: https://t.co/N3DVH7GW1v 〔X·@ASKGAMES1〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：No Return Address（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：No Return Address / No Return Address 实况 / No Return Address 试玩 / No Return Address demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 No Return Address，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

@@ -23,9 +23,15 @@
   {
    "date": "2026-10-10",
    "kind": "state",
-   "md": "- 检索关键词：Vivere Retro（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）\n- 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。",
+   "md": "- 检索关键词：Vivere Retro / Vivere 恐怖游戏（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Vivere Retro，2025 年后发布）\n- 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。",
    "report": "2026-10-10",
    "title": "B站数据（登录态采集 ）"
+  },
+  {
+   "date": "2026-09-10",
+   "kind": "state",
+   "md": "- 追踪账号：@Sofie_screamqn；该时段原创帖 1 条（不含转推）\n- 2026-09-25 · 21 赞 / 8 转 / 1 回 / 395 浏览 · https://x.com/Sofie_screamqn/status/2103436652647452926\n  > TUNED IN is an upcoming horror game that has vou trapped inside a cursed TV. Solve puzzles, survive twisted programs, and find a way out before the broadcast takes over.  💀 Play the DEMO on Steam  Developed by: @vercorsgames   #horrorgame #gaming #indiegame #gamedev https://t.co/ 〔X·@Sofie_screamqn〕\n\n<!-- added:2026-10-10 -->",
+   "title": "X 开发者时间线追踪（ 至 2026-10-10，抓取于 2026-10-10）"
   }
  ],
  "id": "p-8bddd9fc25",
@@ -50,6 +56,6 @@
  "status": "已发售（2026-08-20）",
  "summary": "Vivere Retro 档案 - 类型：心理生存恐怖（越肩战斗） - 开发者：个人（Vidas Salavejus，已做近 50 款） - 发行：Vidas Salavejus - 状态：已发售（2026-08-20） - 平台：Steam（App 4303290）；售价 $8.99 - 发现来源：X · 2026-",
  "tags": [],
- "update_count": 1,
+ "update_count": 2,
  "updated": "2026-10-10"
 }

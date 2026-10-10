@@ -86,7 +86,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 5 条（官方 1 / 他人 4 / 回复 0）；单帖最高：@nexindie 赞 686 / 浏览 17470
 - 官方号粉丝：40185（@nexindie）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：已登录态检索，未搜到本作相关视频（无）
+- B站：已登录态检索（全量补采轮），未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -111,7 +111,29 @@ solo。**可靠程度：中**。
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@randyheart0；该时段原创帖 15 条（不含转推）
+- 2026-09-10 · 4 赞 / 0 转 / 0 回 / 215 浏览 · https://x.com/randyheart0/status/2098073276899545539
+  > Shoot the horrors you can comprehend. Survive the horrors you can't. Heavy in the Hand. #indiedev #gamedev #indiegame https://t.co/pELtU4AMdp 〔X·@randyheart0〕
+- 2026-09-10 · 2 赞 / 0 转 / 0 回 / 31 浏览 · https://x.com/randyheart0/status/2098086969704071222
+  > "did you hand-animate the moon tearing apart for a 4 second clip?"  yes. https://t.co/tw0voWOZTB 〔X·@randyheart0〕
+- 2026-09-21 · 1 赞 / 0 转 / 0 回 / 261 浏览 · https://x.com/randyheart0/status/2102031975804518801
+  > I don't think it's a good thing that this dev is accusing another dev of AI prompting after he was beat to market. https://t.co/tZseftaS89 〔X·@randyheart0〕
+- 2026-09-29 · 0 赞 / 0 转 / 0 回 / 19 浏览 · https://x.com/randyheart0/status/2105020476758319284
+  > Steam page: https://t.co/VYHgJkMxTE 〔X·@randyheart0〕
+- 2026-09-29 · 0 赞 / 0 转 / 1 回 / 40 浏览 · https://x.com/randyheart0/status/2105020281651622398
+  > Count your shots. Reload by hand.  Top-down action horror. Try the demo now.  Game: Heavy in the Hand https://t.co/Bxyx5t2xpK 〔X·@randyheart0〕
+- 2026-09-29 · 0 赞 / 0 转 / 0 回 / 44 浏览 · https://x.com/randyheart0/status/2104950772194484385
+  > Is there a Hall of Fame for NFL discourse? https://t.co/F5ql0Tg7yJ 〔X·@randyheart0〕
+- 2026-09-28 · 0 赞 / 0 转 / 0 回 / 23 浏览 · https://x.com/randyheart0/status/2104698792716980338
+  > Shoutout to the one person who has found the big secret in the demo and gotten the hidden achievement. 🙌🩷 〔X·@randyheart0〕
+- 2026-09-24 · 0 赞 / 0 转 / 0 回 / 40 浏览 · https://x.com/randyheart0/status/2103171907172602169
+  > My game is called Heavy in the Hand, and the demo just went live. I really hope you'll give it a shot and that you'll let me know what you think - I think you'll like it. https://t.co/K0aKWTzU7p 〔X·@randyheart0〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Heavy in the Hand（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 检索关键词：Heavy in the Hand / Heavy in the Hand 实况 / Heavy in the Hand 试玩 / Heavy in the Hand demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Heavy in the Hand，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

@@ -84,7 +84,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 3 条（官方 2 / 他人 0 / 回复 1）；单帖最高：@GrawireStudio 赞 15 / 浏览 600
 - 官方号粉丝：406（@GrawireStudio）
 - Steam 评测：No user reviews，好评 0 / 差评 0 / 共 0（未发售，暂无）
-- B站：登录态采集 2026-10-10，相关视频 1 条、合计播放约 160；最高《你不是士兵，而是潜入敌营的维修技师｜《Coldl》160（详见下方「B站数据」）
+- B站：登录态全量采集 2026-10-10，相关视频 2 条、合计播放约 300；最高《你不是士兵，而是潜入敌营的维修技师｜《Coldl》160（详见下方「B站数据」）
 
 ## 实际评价
 
@@ -109,16 +109,39 @@ Grawire Studio X 406 粉，中英双语发帖，有 Steam Demo；画面统一、
 
 <!-- added:2026-10-10 -->
 
+## X 开发者时间线追踪（2026-09-10 至 2026-10-10，抓取于 2026-10-10）
+
+- 追踪账号：@GrawireStudio；该时段原创帖 16 条（不含转推）
+- 2026-09-29 · 32 赞 / 8 转 / 1 回 / 1067 浏览 · https://x.com/GrawireStudio/status/2105043447765938327
+  > LOOK AT MY GAME! please :) https://t.co/13RuIWetwO https://t.co/R9owTNX0VD 〔X·@GrawireStudio〕
+- 2026-10-04 · 26 赞 / 9 转 / 1 回 / 782 浏览 · https://x.com/GrawireStudio/status/2106833091096429031
+  > 3 versions of the Janitor "HAL MENCER" https://t.co/AMfimPkiyU 〔X·@GrawireStudio〕
+- 2026-10-08 · 24 赞 / 5 转 / 1 回 / 532 浏览 · https://x.com/GrawireStudio/status/2108319096471175630
+  > What a great experience at Mobidictum 2026! 🎮  We had an amazing time showcasing Coldline: Disconnect, meeting fellow developers, and hearing so much positive feedback from everyone who stopped by our booth!  Seeing people experience our game firsthand was incredibly motivating h 〔X·@GrawireStudio〕
+- 2026-10-06 · 17 赞 / 5 转 / 3 回 / 499 浏览 · https://x.com/GrawireStudio/status/2107620818910081449
+  > Submitted the demo! 〔X·@GrawireStudio〕
+- 2026-09-30 · 17 赞 / 5 转 / 1 回 / 406 浏览 · https://x.com/GrawireStudio/status/2105360089226022987
+  > wait for us Soldier.. We are going to be there!  @mobidictum https://t.co/923NsycVXZ 〔X·@GrawireStudio〕
+- 2026-10-02 · 16 赞 / 3 转 / 0 回 / 533 浏览 · https://x.com/GrawireStudio/status/2106112826368459180
+  > 15秒でわかる『Coldline: Disconnect』。  冷戦下、あなたは修理技師として敵地に潜入する。 機器を修理し、盗聴器を仕掛け、情報を集めろ。  🎮 Steam Next Fest デモ近日公開 🔻 Wishlist on Steam  #IndieGame #SteamNextFest #ColdlineDisconnect #インディーゲーム https://t.co/jRVXvYwuvK 〔X·@GrawireStudio〕
+- 2026-10-08 · 13 赞 / 6 转 / 0 回 / 286 浏览 · https://x.com/GrawireStudio/status/2108195408040067169
+  > https://t.co/8doDWjEOMo our website is live soldiers! 〔X·@GrawireStudio〕
+- 2026-10-07 · 13 赞 / 5 转 / 0 回 / 371 浏览 · https://x.com/GrawireStudio/status/2107730042172358737
+  > 🚨 TRANSMISSION RECEIVED.  OPERATION 1500: COMPLETE. 🟢  1,500 agents are now connected to COLDLINE.  Our next objective: 2,000 before Steam Next Fest.  📡 The demo goes LIVE in 3–7 DAYS.  Stay undercover. Trust no signal.  #ColdlineDisconnect #IndieGame #SteamNextFest 〔X·@GrawireStudio〕
+
+<!-- added:2026-10-10 -->
+
 ## B站数据（登录态采集 2026-10-10）
 
-- 检索关键词：Coldline（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
-- 命中相关视频 1 条，合计播放约 160；以下为播放最高的 1 条（逐条拉取统计、评论、楼中楼与弹幕）
+- 检索关键词：Coldline Disconnect / Coldline / Coldline Disconnect 实况 / Coldline Disconnect 试玩 / Coldline Disconnect demo / Coldline 实况 / Coldline 试玩 / Coldline demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Coldline: Disconnect / Coldline Disconnect，2025 年后发布）
+- 命中相关视频 2 条，合计播放约 300；以下为播放最高的 2 条（逐条拉取统计、评论、楼中楼与弹幕）
 
 | # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 其他 | 你不是士兵，而是潜入敌营的维修技师｜《Coldline: Disconnect》（BV16LtR6ZEw4） | BulutonDraws（0） | 2026-09-03 | 160 | 0 | 0 | 0 | 0 | 0 |
+| 2 | 其他 | 潜入军事基地当维修工？《Coldline: Disconnect》实机演示（BV1bKtS68EUP） | BulutonDraws（0） | 2026-09-02 | 140 | 2 | 2 | 0 | 0 | 0 |
 
-- 本次实际抓取：主楼评论 0 条、楼中楼 0 条、弹幕 0 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）
+- 本次实际抓取：主楼评论 0 条、楼中楼 0 条（视频页显示评论总数合计 0，含楼中楼；差额为已删除/折叠/审核中评论）、弹幕 0 条（页面显示弹幕数合计 0）。采集方式：主楼按热度翻页直到接口返回 is_end；每个有回复的主楼都把楼中楼翻到最后一页；弹幕按 6 分钟分段（seg.so）把所有分段拉全
 
 ### B站评论原话（按点赞排序，含楼中楼）
 

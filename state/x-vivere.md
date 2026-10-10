@@ -81,7 +81,7 @@ discovery_date: "2026-10-10"
 - X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Sofie_screamqn 赞 112 / 浏览 1577
 - 官方号粉丝：1014（@Sofie_screamqn）
 - Steam 评测：6 user reviews，好评 6 / 差评 0 / 共 6（已发售）
-- B站：未在本次 X 深挖中采集（未知）
+- B站：已登录态检索，未搜到本作相关视频（无）
 
 ## 实际评价
 
@@ -105,3 +105,10 @@ discovery_date: "2026-10-10"
 
 - 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/Sofie_screamqn/status/2091484299207778562（检索「#horrorgame」发现：主播抽奖帖，2026-08-23，112 赞 / 105 转）
 - 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4303290/ 与 appreviews 接口，原始数据 tmp/x/steam/vivere.json；封面与截图来自 Steam 商店
+
+<!-- added:2026-10-10 -->
+
+## B站数据（登录态采集 2026-10-10）
+
+- 检索关键词：Vivere Retro（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。

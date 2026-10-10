@@ -1,0 +1,55 @@
+{
+ "added_dates": [
+  "2026-10-10"
+ ],
+ "aliases": [
+  "Inkblood"
+ ],
+ "baseline": "2026-10-10",
+ "bvid": null,
+ "competitor": false,
+ "cover": "covers/x-inkblood.jpg",
+ "dev_type": "小团队",
+ "developer": "小团队（Hey Bird!；发行 CRITICAL REFLEX）",
+ "disc_platform": "X",
+ "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nexindie/status/2107126623493566468 — 检索「occult」发现：nexindie（4 万粉）推荐首个公开 Demo，2026-10-05，287 赞",
+ "discovery_date": "2026-10-10",
+ "found": "2026-10-10",
+ "genre": "手绘神秘学侦探冒险",
+ "genre_tags": [
+  "恐怖"
+ ],
+ "history": [
+  {
+   "date": "2026-10-10",
+   "kind": "state",
+   "md": "- 检索关键词：血墨诡案 / Inkblood（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）\n- 命中相关视频 35 条，合计播放约 5.6万；以下为播放最高的 5 条（逐条拉取统计、评论、楼中楼与弹幕）\n\n| # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |\n|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 其他 | 烧脑！每一个案件都让我头皮发麻...【血墨诡案】（BV1pRLv67Eo9） | 软懵（13.8万） | 2026-05-22 | 2.7万 | 887 | 106 | 874 | 24 | 106 |\n| 2 | 官方/PV | CRITICAL REFLEX新作《血墨诡案》震撼首曝！在哥特风手绘暗黑世界中追（BV1Xs26BnE2w） | 游民星空官方（84.5万） | 2025-12-08 | 5845 | 478 | 38 | 371 | 8 | 2 |\n| 3 | 实况/试玩 | 类奥伯拉丁《血墨诡案》demo实况（BV1UUoGBtEGJ） | 刘美工（4029） | 2026-04-24 | 3817 | 145 | 18 | 188 | 10 | 0 |\n| 4 | 实况/试玩 | 神秘学侦探推理解谜游戏《血墨诡案》Steam试玩版今日上线（BV1pLoYB6EE2） | 游民星空官方（84.5万） | 2026-04-23 | 2102 | 204 | 4 | 26 | 1 | 0 |\n| 5 | 官方/PV | 悬疑推理游戏《血墨诡案》首曝预告（BV1A52GBsEw7） | CRITICAL-REFLEX（1.1万） | 2025-12-05 | 1933 | 96 | 21 | 107 | 9 | 0 |\n\n- 本次实际抓取：主楼评论 37 条、楼中楼 13 条、弹幕 29 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）\n\n### B站评论原话（按点赞排序，含楼中楼）\n\n- 「你们发行的游戏风格都好独特…又幸福了」（15 赞） 〔B站·BV1A52GBsEw7评论·@不为人知的蓝莓力学〕\n- 「为什么这个up主播放量和评论都这么少？」（14 赞） 〔B站·BV1pRLv67Eo9评论·@我是MEYKO-RBG〕\n  - ↳ 「布吉岛，这up多可爱啊[鸭科夫_干嘛鸭]」（7 赞） 〔B站·BV1pRLv67Eo9楼中楼·@余晖剪影〕\n  - ↳ 「确实，甚至最近的投稿播放量都只有几千」（3 赞） 〔B站·BV1pRLv67Eo9楼中楼·@浅浅の光〕\n- 「其实无论画风还是填空机制都更像金偶像一点，是因为今年奥伯拉丁比较火所以写类奥伯拉丁？」（8 赞） 〔B站·BV1UUoGBtEGJ评论·@麦克哈薛军士长〕\n  - ↳ 「奥伯拉丁何时火了[初音未来圣诞快乐_啊？？][初音未来圣诞快乐_啊？？]」（5 赞） 〔B站·BV1UUoGBtEGJ楼中楼·@樱花下的那一场邂逅〕\n  - ↳ 「一直都是奥博拉丁更火也更早，金偶像当时也是被冠以“类似奥伯拉丁的解谜游戏”[笑哭]」（3 赞） 〔B站·BV1UUoGBtEGJ楼中楼·@猩猩密友〕\n- 「这是什么游戏？」（7 赞） 〔B站·BV1pRLv67Eo9评论·@爱马仕猫〕\n  - ↳ 「标签里不是写的有嘛…」（3 赞） 〔B站·BV1pRLv67Eo9楼中楼·@堂吉珂德QAQ〕\n  - ↳ 「血墨诡案」（3 赞） 〔B站·BV1pRLv67Eo9楼中楼·@我的cp一直爱〕\n- 「还有点修拉的点彩画风，有意思」（5 赞） 〔B站·BV1Xs26BnE2w评论·@小智叔叔〕\n- 「玩法和设定都很吸引人，这个playtest还是有点短了，期待后续demo会推出能够体现推理趣味的章节」（5 赞） 〔B站·BV1UUoGBtEGJ评论·@霜艾IcyargyI〕\n- 「都是这种比较短的单元剧 难度也不太高 感觉挺适合上手机的」（4 赞） 〔B站·BV1pRLv67Eo9评论·@魔女猫-红魂〕\n- 「哎？怎么没有人发评论呢？」（4 赞） 〔B站·BV1pRLv67Eo9评论·@算了吃面吧〕\n- 「这游戏让我想起了疑案追声」（3 赞） 〔B站·BV1pRLv67Eo9评论·@kame_xin〕\n- 「这个博主的声音好好听啊」（3 赞） 〔B站·BV1pRLv67Eo9评论·@你们换个风格vv〕\n- 「这个游戏看着挺好」（3 赞） 〔B站·BV1pRLv67Eo9评论·@鹿柴不是鹿〕\n- 「奥伯拉丁要是出个dlc就好了[doge]来一场新的灾难命案」（3 赞） 〔B站·BV1UUoGBtEGJ评论·@海獭滴滴〕\n- 「这个画风有趣」（2 赞） 〔B站·BV1pRLv67Eo9评论·@Mr_Buddy〕\n- 「[打call]」（2 赞） 〔B站·BV1pRLv67Eo9评论·@AJSNHNXD〕\n\n### 弹幕高频（前 20）\n\n「超喜欢！！！」×16、「还阔以~」×4、「小天才」×1、「南无阿弥陀佛」×1、「AAA」×1、「好厉害！（鼓掌）」×1、「最下面的人在舔手风琴」×1、「可爱！！」×1、「大伙看看他还有救嘛？」×1、「有点意思」×1\n\n### 其他相关视频（播放前 6–15）\n\n- 【夜熊实况】《inkblood 血墨诡案》今年最期待的独立神秘风格探案游戏DEMO · 夜熊Nightbear · BV1EkHz6eEt5 · 2026-10-06 · 播放 1714\n- 神秘学侦探推理解谜游戏《血墨诡案》inkblood · 张书云 · BV1oX9SBBEUT · 2026-04-29 · 播放 1419\n- 神秘学悬疑推理游戏｜《血墨诡案》开发日志 · CRITICAL-REFLEX · BV1uF9vBUEXk · 2026-04-30 · 播放 1067\n- 神秘学侦探推理解谜游戏《血墨诡案》全新预告片公开，Steam试玩版今日上线 · UCG资讯君 · BV1mWoaBLEVw · 2026-04-23 · 播放 899\n- 亲自收集证据破解谜团｜侦探推理游戏《血墨诡案》试玩版现已推出！ · CRITICAL-REFLEX · BV1zjam6UEtq · 2026-10-02 · 播放 777\n- 【类金偶像】一款美术风格相当独特的推理解谜游戏《血墨诡案》试玩 · 懒星人_ · BV1beoLBeEcG · 2026-04-24 · 播放 709\n- 欢迎来到《血墨诡案》游戏音效制作现场！！！ · CRITICAL-REFLEX · BV1NA5s6EENz · 2026-05-11 · 播放 700\n- 《血墨诡案》玩家测试报名开启！ · CRITICAL-REFLEX · BV1tSQsB2Eeu · 2026-04-13 · 播放 680\n- 神秘学侦探推理解谜游戏《血墨诡案》中文试玩 · 主机游戏速报 · BV19gpw6XEYZ · 2026-10-07 · 播放 675\n- 你见过把地图纹在身上的吗？｜《血墨诡案》玩家测试现已开启！ · CRITICAL-REFLEX · BV1q3oVBrEJx · 2026-04-24 · 播放 624",
+   "report": "2026-10-10",
+   "title": "B站数据（登录态采集 ）"
+  }
+ ],
+ "id": "x-inkblood",
+ "images": [
+  "frames/x-inkblood_steam01.jpg",
+  "frames/x-inkblood_steam02.jpg",
+  "frames/x-inkblood_steam03.jpg",
+  "frames/x-inkblood_steam04.jpg",
+  "frames/x-inkblood_steam05.jpg",
+  "frames/x-inkblood_steam06.jpg",
+  "frames/x-inkblood_steam07.jpg",
+  "frames/x-inkblood_steam08.jpg"
+ ],
+ "intro": "# Inkblood 血墨诡案\n\n<!-- added:2026-10-10 -->\n\n![cover](covers/x-inkblood.jpg)\n\n<!-- added:2026-10-10 -->\n\n## 档案\n\n\n- 类型：手绘神秘学侦探冒险\n- 开发者：小团队（Hey Bird!；发行 CRITICAL REFLEX）\n- 发行：CRITICAL REFLEX\n- 状态：Demo（2026 年）\n- 平台：Steam（App 4114100）\n- 发现来源：X · 2026-10-10 · https://x.com/nexindie/status/2107126623493566468\n\n\n\n## 游戏内容介绍\n\n\n审判官沿着死亡足迹追查邪教和失踪的前辈：搜线索、拍现场、整理卷宗、摇通讯器上报；坐马车去下一个地点；用能窥见过去的放大镜看「昨夜」的凝固片段；马车里有些门永远不能打开。灵感来自 Golden Idol、Strange Horticulture。\n\n### Steam 商店简介（原文摘录）〔Steam商店页〕\n\n> 你，审判官，正沿着死亡足迹前行。邪教蛰伏暗处，你的前辈已神秘失踪，这片土地正滑向混乱深渊。查明真相。捍卫教廷。你，绝不能失败。\n\n>  揭开真相 你配备着独属于审判官的探案工具，敏锐的双眼、缜密的思维，以及那辆暗藏玄机的马车。搜集线索、拍摄现场、整理卷宗，当你拼凑出真相的轮廓，即可摇响通讯器向上级禀报。 巡游四方 真相从不只藏于一地。你将在令人不安的地带反复奔波：轻敲车夫后背的地图，选择下一处目的地，无论是邪氛笼罩的印奎堡、致命的沼泽、被遗弃的村落，或是举行过黑暗仪式的祭场。 窥见往昔 你手持一枚能窥视过去的放大镜。当下混沌不清，唯有过去藏有答案。想知晓村民昨夜行踪？透过窗扉，瞥见那一缕被时光凝固的碎片。 铲除邪秽 案件之间皆有隐线相连。身为审判官，你应洞察全局，纤毫细节皆具深意。有时陈年旧案中的微小线索，亦能成为破局契机。 (勿）动马车 马车是你的居所，亦是无形的囚笼。车内暗格或成助力，但某些门扉永不可开启。谨慎行事，勿触未知之物。切记——审判庭终将知晓一切。 \n\n### 实机截图（Steam 商店截图，已逐张目视核对为本作）\n\n![x-inkblood_steam01.jpg](frames/x-inkblood_steam01.jpg)\n![x-inkblood_steam02.jpg](frames/x-inkblood_steam02.jpg)\n![x-inkblood_steam03.jpg](frames/x-inkblood_steam03.jpg)\n![x-inkblood_steam04.jpg](frames/x-inkblood_steam04.jpg)\n![x-inkblood_steam05.jpg](frames/x-inkblood_steam05.jpg)\n![x-inkblood_steam06.jpg](frames/x-inkblood_steam06.jpg)\n![x-inkblood_steam07.jpg](frames/x-inkblood_steam07.jpg)\n![x-inkblood_steam08.jpg](frames/x-inkblood_steam08.jpg)\n\n\n\n## 实际评价\n\n\n### X 回复/提及原话\n- 「The occult d\n\n### Steam 评测原话\n- 尚未发售/无评测（未知）\n\n\n\n## 团队与靠谱程度\n\n\n有发行商。**可靠程度：中高**。\n\n\n\n## 综合评价（对照《***》）\n\n\n「调查 + 窥见过去」的机制可以借鉴给《***》的阴事调查。\n\n\n\n## 来源（发现与资料）\n\n\n- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/nexindie/status/2107126623493566468（检索「occult」发现：nexindie（4 万粉）推荐首个公开 Demo，2026-10-05，287 赞）\n- 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4114100/ 与 appreviews 接口，原始数据 tmp/x/steam/inkblood.json；封面与截图来自 Steam 商店\n\n<!-- added:2026-10-10 -->",
+ "link": "https://store.steampowered.com/app/4114100/",
+ "name": "Inkblood 血墨诡案",
+ "note": "",
+ "platform": "Steam",
+ "release": "2026 年",
+ "source": "",
+ "state_file": "state/x-inkblood.md",
+ "status": "Demo（2026 年）",
+ "summary": "Inkblood 血墨诡案 档案 - 类型：手绘神秘学侦探冒险 - 开发者：小团队（Hey Bird!；发行 CRITICAL REFLEX） - 发行：CRITICAL REFLEX - 状态：Demo（2026 年） - 平台：Steam（App 4114100） - 发现来源：X · 2026-10-10 · h",
+ "tags": [],
+ "update_count": 1,
+ "updated": "2026-10-10"
+}

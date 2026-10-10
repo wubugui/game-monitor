@@ -1,7 +1,7 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 35,
+ "competitor_count": 45,
  "data_date": "2026-10-10",
  "dev_types": [
   "个人",
@@ -45,31 +45,42 @@
  ],
  "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
- "project_count": 161,
+ "project_count": 178,
  "report_count": 13,
  "statuses": [
   "Demo",
   "Demo（2026 Q4）",
+  "Demo（2026 年）",
+  "Demo（2026-09-21 起）",
+  "Demo（2026-10-08），正式 2027 Q1",
   "Demo（2027 Q1）",
+  "Demo（Steam 免费 Demo，正式版即将推出）",
   "Demo（Steam 即将推出）",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
+  "Demo（Steam）",
   "Demo（正式 2027 Q1）",
   "Steam 页面上线（即将推出，新品节 Demo 约100分钟）",
   "众筹中",
   "即将发售",
+  "即将发售（2026-10-12）",
+  "即将发售（2026-10-13，$9）",
+  "即将发售（2026-10-26）",
   "即将发售（2026-10-28）",
   "即将发售（Steam 2026-10-12）",
   "已发售",
+  "已发售（2024-08-01，2 周年）",
   "已发售（2025-04-24）",
   "已发售（2025-07-10）",
   "已发售（2026-08-11）",
   "已发售（2026-08-20）",
+  "已发售（2026-08-25）",
   "已发售（Steam 2024-07-05）",
   "已发售（Steam 2024-12-11）",
   "已发售（Steam 2026-03-05）",
   "已发售（Steam 2026-09-23）",
   "开发中",
   "开发中（2027 Q1；Demo 9 月）",
+  "开发中（2027 年）",
   "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）",
   "开发中（2027-02）",
   "开发中（Demo）",
@@ -77,15 +88,77 @@
   "开发中（Steam 页+Demo）",
   "开发中（Steam 页）",
   "开发中（Steam 页，2026 Q4）",
+  "开发中（据 X 消息延期至 2027-08）",
   "开发中（有 Demo）",
   "抢先体验",
   "新 Demo（2026-10）",
-  "首曝"
+  "首曝",
+  "首曝（2027 年，PS5/PC）"
  ],
  "today_banner": "",
- "today_new": 31,
+ "today_new": 48,
  "today_updated": 128,
  "today_updates": [
+  {
+   "competitor": true,
+   "cover": "covers/x-hapunan.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nemusanji/status/2092710573939253503 — 检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26",
+   "genre": "菲律宾都市传说心理恐怖（夜市摆摊）",
+   "id": "x-hapunan",
+   "kind": "new",
+   "name": "Hapunan",
+   "note": "检索关键词：Hapunan（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "已发售（2026-08-25）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hearforest.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/podoba_interact/status/2090823168499806715 — 检索「folk horror / ghost」发现：「we develop a folk horror game / I Hear the Forest」，2026-08-21，3290 赞 / 6.2 万浏览",
+   "genre": "2000 年代复古风慢热民俗恐怖（护林员）",
+   "id": "x-hearforest",
+   "kind": "new",
+   "name": "I Hear the Forest",
+   "note": "检索关键词：I Hear the Forest（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "开发中（2027 年）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/horrorvisuals/status/2102063771288055918 — 检索 horror 策展号时发现：horrorvisuals（15.6 万粉）推荐，2026-09-21，192 赞",
+   "genre": "手绘日式乡村叙事恐怖（人偶匠）",
+   "id": "x-dollshop",
+   "kind": "new",
+   "name": "The Doll Shop",
+   "note": "检索关键词：The Doll Shop / 人偶店（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "即将发售（2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-whatactsup.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2103439388310987206 — 检索 indie_guider 时发现：「心理寫實敘事冒險遊戲《What Acts up》現已公開 Steam Demo」，2026-09-25",
+   "genre": "社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互）",
+   "id": "x-whatactsup",
+   "kind": "new",
+   "name": "What Acts up",
+   "note": "检索关键词：What Acts up（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（Steam）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-omusubi.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/studio_libera/status/2106323875973808548 — 检索「和風ホラー」发现：「個人制作した和風ホラーADVゲーム『お結び』が #Steamオータムセール で1280円→998円」，2026-10-03，212 赞 / 3 万浏览",
+   "genre": "日式恐怖 ADV（三途之川）",
+   "id": "x-omusubi",
+   "kind": "new",
+   "name": "お結び OMUSUBI（缘结迷境）",
+   "note": "检索关键词：缘结迷境 / お結び / OMUSUBI（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "已发售（2024-08-01，2 周年）"
+  },
   {
    "competitor": true,
    "cover": "covers/BV1AtYE6kESe.jpg",
@@ -107,7 +180,7 @@
    "id": "p-d2fd5a87c5",
    "kind": "new",
    "name": "凶寓 Dread Flats",
-   "note": "X 相关帖：本轮共抓到 26 条（官方 1 / 他人 23 / 回复 2）；单帖最高：@tsumikochannel 赞 105 / 浏览 5667",
+   "note": "检索关键词：凶寓 / Dread Flats（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "已发售（2025-07-10）"
   },
   {
@@ -121,6 +194,30 @@
    "name": "别眨眼",
    "note": "补图说明（ 二次）",
    "status": "即将发售（Steam 2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-nameonly.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2105266410075111542 — 检索「視覺小說」发现：「香港獨立創作團隊紳士帽動畫製作組公開《The Name Only She Knew》Steam 頁面」，2026-09-30",
+   "genre": "手绘逐格动画奇幻视觉小说",
+   "id": "x-nameonly",
+   "kind": "new",
+   "name": "只有她知晓光辉的名字 The Name Only She Knew",
+   "note": "检索关键词：只有她知晓光辉的名字 / The Name Only She Knew（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况",
+   "status": "即将发售（2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/shinobi602/status/2108637818230898710 — X 检索「interactive film / Chinese」时发现：shinobi602（52.8 万粉）转发「JIAOHUN | Reveal Trailer」，2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣",
+   "genre": "电影化第一人称中式心理恐怖（1999 小镇）",
+   "id": "x-jiaohun",
+   "kind": "new",
+   "name": "叫魂 JIAOHUN",
+   "note": "检索关键词：叫魂（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "首曝（2027 年，PS5/PC）"
   },
   {
    "competitor": true,
@@ -143,8 +240,20 @@
    "id": "p-6e867641fa",
    "kind": "new",
    "name": "未烬之约 EMBERBOUND",
-   "note": "X 相关帖：本轮共抓到 3 条（官方 1 / 他人 0 / 回复 2）；单帖最高：@FlufforeStudio 赞 1173 / 浏览 72694",
+   "note": "检索关键词：未烬之约 / Emberbound（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（Patreon 第二章测试；Demo 即将）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-strangetales.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/YorollAI/status/2095446168855625991 — 检索「Chinese myth / strange tales」发现：「The free Steam Demo for Strange Tales of Republican China is NOW Available!」，2026-09-03，203 赞 / 4.2 万浏览",
+   "genre": "民国中式民俗恐怖·AI 互动影像解谜",
+   "id": "x-strangetales",
+   "kind": "new",
+   "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）",
+   "note": "检索关键词：民国诡事（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（Steam 免费 Demo，正式版即将推出）"
   },
   {
    "competitor": true,
@@ -155,7 +264,7 @@
    "id": "p-e77cbd7801",
    "kind": "new",
    "name": "灵魂甜品 Soulcake",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Pttz16Pttz 赞 4 / 浏览 592",
+   "note": "检索关键词：灵魂甜品 / Soulcake（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）"
   },
   {
@@ -191,8 +300,20 @@
    "id": "p-b4beba7e64",
    "kind": "new",
    "name": "诡拓 Rubbings",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@erabitstudios 赞 2 / 浏览 206",
+   "note": "检索关键词：诡拓（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "已发售（2025-04-24）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-farrealm.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2102292784938102833 — 检索 indie_guider（台湾独立游戏资讯号）时发现：「敘事導向 2D 像素遊戲《遙之境》Demo 現已於 Steam 開放免費試玩」，2026-09-22",
+   "genre": "台味叙事 2D 像素冒险（妖怪世界）",
+   "id": "x-farrealm",
+   "kind": "new",
+   "name": "遥之境 Far Realm",
+   "note": "检索关键词：遥之境（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（2026-09-21 起）"
   },
   {
    "competitor": true,
@@ -239,7 +360,7 @@
    "id": "p-787dd22ae5",
    "kind": "new",
    "name": "除靈館 Haunted House",
-   "note": "X 相关帖：本轮共抓到 32 条（官方 32 / 他人 0 / 回复 0）；单帖最高：@hapi46085111 赞 2 / 浏览 96",
+   "note": "检索关键词：除灵馆 / 除靈館（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（Steam 页，2026 Q4）"
   },
   {
@@ -251,8 +372,20 @@
    "id": "p-af2615f3bf",
    "kind": "new",
    "name": "鬼子母 Hariti",
-   "note": "X 相关帖：本轮共抓到 37 条（官方 2 / 他人 13 / 回复 22）；单帖最高：@IGN 赞 2144 / 浏览 342187",
+   "note": "检索关键词：鬼子母 / Hariti（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "已发售（2026-08-11）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-yanparasomnia.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Pirat_Nation/status/2067561165064970726 — 检索「chinese horror / jiangshi」发现：Pirat_Nation（35.8 万粉）转发预告，2026-06-18，157 赞 / 1.7 万浏览",
+   "genre": "东南亚华人民俗·固定视角生存恐怖（单人/双人合作）",
+   "id": "x-yanparasomnia",
+   "kind": "new",
+   "name": "魇 Yan: Parasomnia",
+   "note": "检索关键词：魇 Parasomnia / yan魇 / 魇：Parasomnia（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/",
+   "status": "开发中（据 X 消息延期至 2027-08）"
   },
   {
    "competitor": true,
@@ -508,6 +641,18 @@
   },
   {
    "competitor": false,
+   "cover": "covers/x-bonetopick.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2107013596890947889 — 检索 indie_guider 发现：「法醫人類學推理視覺小說《Bone to Pick／拾骨謎案》將於 2026 年 10 月 8 日在 Steam 推出免費試玩版」",
+   "genre": "法医人类学推理视觉小说",
+   "id": "x-bonetopick",
+   "kind": "new",
+   "name": "Bone to Pick 拾骨谜案",
+   "note": "检索关键词：拾骨谜案 / Bone to Pick（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（2026-10-08），正式 2027 Q1"
+  },
+  {
+   "competitor": false,
    "cover": "covers/x-burningsword.jpg",
    "disc_platform": "X",
    "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Ninjago9101/status/2106140419042259383 — 检索「wuxia wishlist」发现：游戏资讯号 Ninjago 转发新 Demo，2026-10-02，122 赞 / 7386 浏览",
@@ -515,7 +660,7 @@
    "id": "p-36645fe205",
    "kind": "new",
    "name": "Burning Sword: Death Sun",
-   "note": "X 相关帖：本轮共抓到 13 条（官方 3 / 他人 3 / 回复 7）；单帖最高：@Ninjago9101 赞 122 / 浏览 7386",
+   "note": "检索关键词：Burning Sword（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "新 Demo（2026-10）"
   },
   {
@@ -527,7 +672,7 @@
    "id": "p-95cb3f1758",
    "kind": "new",
    "name": "Coldline: Disconnect",
-   "note": "X 相关帖：本轮共抓到 3 条（官方 2 / 他人 0 / 回复 1）；单帖最高：@GrawireStudio 赞 15 / 浏览 600",
+   "note": "检索关键词：Coldline（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（Steam 页+Demo）"
   },
   {
@@ -539,7 +684,7 @@
    "id": "DEEPWARD",
    "kind": "new",
    "name": "DEEPWARD",
-   "note": "X 相关帖：本轮共抓到 3 条（官方 1 / 他人 0 / 回复 2）；单帖最高：@EchofallGames 赞 70 / 浏览 2972",
+   "note": "检索关键词：DEEPWARD（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "Demo（正式 2027 Q1）"
   },
   {
@@ -551,7 +696,7 @@
    "id": "Deadtale",
    "kind": "new",
    "name": "Deadtale",
-   "note": "X 相关帖：本轮共抓到 7 条（官方 2 / 他人 0 / 回复 5）；单帖最高：@deadtale 赞 67 / 浏览 6336",
+   "note": "检索关键词：Deadtale（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中"
   },
   {
@@ -575,8 +720,56 @@
    "id": "HAIGLA",
    "kind": "new",
    "name": "HAIGLA",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@thosdeveloper 赞 7 / 浏览 497",
+   "note": "检索关键词：HAIGLA（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "Demo（2026 Q4）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-heavyhand.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nexindie/status/2101196775553896885 — 检索「top-down horror」发现：nexindie 推荐新预告，2026-09-19，686 赞",
+   "genre": "俯视角哥特恐怖动作（左轮手动装填）",
+   "id": "x-heavyhand",
+   "kind": "new",
+   "name": "Heavy in the Hand",
+   "note": "检索关键词：Heavy in the Hand（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "即将发售（2026-10-26）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-inkblood.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nexindie/status/2107126623493566468 — 检索「occult」发现：nexindie（4 万粉）推荐首个公开 Demo，2026-10-05，287 赞",
+   "genre": "手绘神秘学侦探冒险",
+   "id": "x-inkblood",
+   "kind": "new",
+   "name": "Inkblood 血墨诡案",
+   "note": "检索关键词：血墨诡案 / Inkblood（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（2026 年）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-liminalpoint.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/horrorvisuals/status/2102727133953245469 — 检索「isometric horror」发现：horrorvisuals 推荐，2026-09-23，376 赞 / 1.1 万浏览",
+   "genre": "等距视角经典生存恐怖（雾岛）",
+   "id": "x-liminalpoint",
+   "kind": "new",
+   "name": "Liminal Point",
+   "note": "检索关键词：Liminal Point（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "开发中（2027 年）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-faraway.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/_4rch1t3ct/status/2105340057104142523 — 检索「AI / Chinese players」时发现：「MY BEAUTIFUL FARAWAY random gameplay snippets」，2026-09-30，509 赞",
+   "genre": "梦境阈限空间心理冒险（抽象谜题）",
+   "id": "x-faraway",
+   "kind": "new",
+   "name": "My Beautiful Faraway, Please Don't Be Cruel To Me",
+   "note": "检索关键词：My Beautiful Faraway（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "即将发售（2026-10-13，$9）"
   },
   {
    "competitor": false,
@@ -587,7 +780,7 @@
    "id": "p-21c485f157",
    "kind": "new",
    "name": "No Return Address",
-   "note": "X 相关帖：本轮共抓到 8 条（官方 3 / 他人 0 / 回复 5）；单帖最高：@ASKGAMES1 赞 25 / 浏览 141249",
+   "note": "检索关键词：No Return Address（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "即将发售（2026-10-28）"
   },
   {
@@ -599,7 +792,7 @@
    "id": "p-57496764b1",
    "kind": "new",
    "name": "Parasomnia: No REM",
-   "note": "X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@ParasomniaNoREM 赞 8 / 浏览 152",
+   "note": "检索关键词：Parasomnia（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "新 Demo（2026-10）"
   },
   {
@@ -611,7 +804,7 @@
    "id": "p-0df3af90b3",
    "kind": "new",
    "name": "Rookie Raiders",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@TeamNERR 赞 23 / 浏览 1501",
+   "note": "检索关键词：Rookie Raiders（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（2027-02）"
   },
   {
@@ -623,7 +816,7 @@
    "id": "p-4d8e0781b0",
    "kind": "new",
    "name": "STARCULT: Night Twisted Age",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@notacatstudios 赞 7 / 浏览 212",
+   "note": "检索关键词：STARCULT（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "Demo（2026 Q4）"
   },
   {
@@ -635,7 +828,7 @@
    "id": "p-d717075a1a",
    "kind": "new",
    "name": "Seventh Seal",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@renderready 赞 4 / 浏览 178",
+   "note": "检索关键词：Seventh Seal（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "Demo"
   },
   {
@@ -647,7 +840,7 @@
    "id": "p-8bddd9fc25",
    "kind": "new",
    "name": "Vivere Retro",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@Sofiescreamqn 赞 112 / 浏览 1577",
+   "note": "检索关键词：Vivere Retro（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "已发售（2026-08-20）"
   },
   {
@@ -659,8 +852,20 @@
    "id": "p-72baee6fce",
    "kind": "new",
    "name": "呪縛 Jubaku",
-   "note": "X 相关帖：本轮共抓到 2 条（官方 1 / 他人 0 / 回复 1）；单帖最高：@BabGamesStudio 赞 5 / 浏览 77",
+   "note": "检索关键词：Jubaku / 呪縛（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "Demo（2027 Q1）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-angelicagency.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/NoisyPixelNews/status/2108288951194968126 — 检索「#visualnovel」发现：Noisy Pixel 报道 Demo，2026-10-08",
+   "genre": "公安搭档×灵害事件推理冒险",
+   "id": "x-angelicagency",
+   "kind": "new",
+   "name": "天使机构：执行部灵魂救济科 Angelic Agency",
+   "note": "检索关键词：天使机构 / Angelic Agency（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题",
+   "status": "Demo"
   },
   {
    "competitor": false,
@@ -671,7 +876,7 @@
    "id": "p-f36883ad51",
    "kind": "new",
    "name": "山海：神话起源 Shan Hai: Mythic Origins",
-   "note": "X 相关帖：本轮共抓到 1 条（官方 1 / 他人 0 / 回复 0）；单帖最高：@myzzgames 赞 0 / 浏览 64",
+   "note": "检索关键词：山海：神话起源 / 山海神话起源（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（有 Demo）"
   },
   {
@@ -683,7 +888,7 @@
    "id": "p-f92dc62ade",
    "kind": "new",
    "name": "幼神 Infant God",
-   "note": "X 相关帖：本轮共抓到 4 条（官方 2 / 他人 0 / 回复 2）；单帖最高：@Colsalley 赞 34 / 浏览 1128",
+   "note": "检索关键词：幼神 / Infant God（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（2027 Q1；Demo 9 月）"
   },
   {
@@ -695,8 +900,20 @@
    "id": "p-c18d4869b6",
    "kind": "new",
    "name": "致下一个黎明 To the next dawn",
-   "note": "X 相关帖：本轮共抓到 8 条（官方 2 / 他人 0 / 回复 6）；单帖最高：@WaterKiNoKo 赞 568 / 浏览 20257",
+   "note": "检索关键词：致下一个黎明（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
    "status": "开发中（Steam 页）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-gate.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/tenukibozu/status/2108019980893560990 — 检索「和風ホラー」发现：「昭和時代の日本を舞台にした主観視点和風ホラー探索ゲーム『門 GATE』」，2026-10-08",
+   "genre": "昭和日式第一人称恐怖探索（诅咒道具+战斗）",
+   "id": "x-gate",
+   "kind": "new",
+   "name": "門 GATE",
+   "note": "检索关键词：門 GATE（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）",
+   "status": "Demo（2026 Q4）"
   },
   {
    "competitor": false,

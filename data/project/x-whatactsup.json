@@ -1,0 +1,56 @@
+{
+ "added_dates": [
+  "2026-10-10"
+ ],
+ "aliases": [
+  "What Acts up"
+ ],
+ "baseline": "2026-10-10",
+ "bvid": null,
+ "competitor": true,
+ "cover": "covers/x-whatactsup.jpg",
+ "dev_type": "小团队",
+ "developer": "小团队（Rebirth Studio）",
+ "disc_platform": "X",
+ "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2103439388310987206 — 检索 indie_guider 时发现：「心理寫實敘事冒險遊戲《What Acts up》現已公開 Steam Demo」，2026-09-25",
+ "discovery_date": "2026-10-10",
+ "found": "2026-10-10",
+ "genre": "社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互）",
+ "genre_tags": [
+  "收藏",
+  "叙事/剧情"
+ ],
+ "history": [
+  {
+   "date": "2026-10-10",
+   "kind": "state",
+   "md": "- 检索关键词：What Acts up（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）\n- 核验剔除（标题不含本作名、疑为同名或他作）：这个游戏给了我面对焦虑的力量（BV1BFaA6QEJ5）；当我们把“社恐”做成了独立游戏......（BV1Qr1QBLEfG）\n- 命中相关视频 3 条，合计播放约 6798；以下为播放最高的 3 条（逐条拉取统计、评论、楼中楼与弹幕）\n\n| # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |\n|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 官方/PV | 《What Acts up》正式PV：这一次，社恐不只发生在心里......（BV1Z1Tq6QEPU） | RebirthStudio（96） | 2026-07-01 | 6473 | 1031 | 34 | 791 | 24 | 2 |\n| 2 | 其他 | 【2025Taptap聚光灯Gamejam】参赛作品《What Acts Up》（BV1QZ1DByEa3） | Wizard_呵呵君HJ（22） | 2025-11-08 | 174 | 15 | 3 | 8 | 0 | 0 |\n| 3 | 实况/试玩 | 视觉小说What Acts Up试玩！（直播回放）（BV13LgY6BE5F） | Faolan-福狼（171） | 2026-07-24 | 151 | 9 | 6 | 11 | 1 | 2 |\n\n- 本次实际抓取：主楼评论 19 条、楼中楼 5 条、弹幕 4 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）\n\n### B站评论原话（按点赞排序，含楼中楼）\n\n- 「我就是社恐[笑哭]我都不敢自己出去买东西，我第一次自己去买东西的时候因为太害怕差点晕过去」（23 赞） 〔B站·BV1Z1Tq6QEPU评论·@风夏落叶〕\n- 「这是新游戏吗？什么时候有发」（15 赞） 〔B站·BV1Z1Tq6QEPU评论·@Azuma_Naoki〕\n  - ↳ 「对的！这是我们的新游戏，预计下个月提供playtest版本(^・ω・^ )」（4 赞） 〔B站·BV1Z1Tq6QEPU楼中楼·@RebirthStudio〕\n  - ↳ 「😋👍🏻」（1 赞） 〔B站·BV1Z1Tq6QEPU楼中楼·@Azuma_Naoki〕\n- 「创伤已经让我和陌生人非必要不交流了」（3 赞） 〔B站·BV1Z1Tq6QEPU评论·@超星领袖〕\n- 「[打call][打call][打call]」（3 赞） 〔B站·BV1Z1Tq6QEPU评论·@软软的拳〕\n- 「我嘞个逗呀，大大视频也太对我胃口了！！新粉持续蹲更，关注你啦，可以回 个 关交流一波吗呜呜~[星星眼]」（3 赞） 〔B站·BV1Z1Tq6QEPU评论·@不躺可以吗_-_〕\n- 「做的好的呢，一定会火的起来的的哦！！给三连咯，能蹲个互关吗～[喜欢]」（2 赞） 〔B站·BV1Z1Tq6QEPU评论·@别骂了在练了ii〕\n- 「[喜欢][喜欢][喜欢]」（2 赞） 〔B站·BV1Z1Tq6QEPU评论·@钢铁的皮蛋〕\n- 「质量很高哇，一定会火🔥哒」（2 赞） 〔B站·BV1Z1Tq6QEPU评论·@椰子比耶ye_〕\n- 「好棒的作品 一定会🔥哒！！」（2 赞） 〔B站·BV1Z1Tq6QEPU评论·@送你一束花啊〕\n- 「demo玩不了，我带鱼屏（没有多显示设备），打开游戏试图开始玩就一直弹检测到我的显示器不是16:9或多显示显示设备让我去设置里选择一个显示器，然后我去设置里设置完回来想开始又进入这个循环」（1 赞） 〔B站·BV1Z1Tq6QEPU评论·@GameSmith〕\n  - ↳ 「您那边有点“临时应用”吗」（0 赞） 〔B站·BV1Z1Tq6QEPU楼中楼·@RebirthStudio〕\n  - ↳ 「那你们这个ui也太逆天了，临时应用放在中间，谁知道是用来干什么的，而且点了以后，还把我显示器的系统分辨率改了，哇，实在是言语无法形容」（0 赞） 〔B站·BV1Z1Tq6QEPU楼中楼·@GameSmith〕\n- 「看着好好……祝成功哦」（1 赞） 〔B站·BV1Z1Tq6QEPU评论·@小贝Besoya〕\n- 「是新游戏哦？出了我高低得玩玩🥰」（1 赞） 〔B站·BV1Z1Tq6QEPU评论·@Lunar_皓源〕\n- 「帅奥。。质量看着也高。。期待一下。。[doge]」（1 赞） 〔B站·BV1Z1Tq6QEPU评论·@线葱_xc〕\n- 「很有意思的设定」（1 赞） 〔B站·BV1Z1Tq6QEPU评论·@墨水neu〕\n\n### 弹幕高频（前 20）\n\n「难道大家不是这样想的」×1、「风祥雨顺 谷果丰登 万姓四民 永安富乐」×1、「纯享跳伞03:42」×1、「跳伞03:42」×1\n\n### 其他相关视频（播放前 6–15）",
+   "report": "2026-10-10",
+   "title": "B站数据（登录态采集 ）"
+  }
+ ],
+ "id": "x-whatactsup",
+ "images": [
+  "frames/x-whatactsup_steam01.jpg",
+  "frames/x-whatactsup_steam02.jpg",
+  "frames/x-whatactsup_steam03.jpg",
+  "frames/x-whatactsup_steam04.jpg",
+  "frames/x-whatactsup_steam05.jpg",
+  "frames/x-whatactsup_steam06.jpg"
+ ],
+ "intro": "# ⚠️ What Acts up\n\n<!-- added:2026-10-10 -->\n\n![cover](covers/x-whatactsup.jpg)\n\n<!-- added:2026-10-10 -->\n\n## 档案\n\n\n- 类型：社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互）\n- 开发者：小团队（Rebirth Studio）\n- 发行：Rebirth Studio\n- 状态：Demo（Steam）\n- 平台：Steam（App 1602890）\n- 发现来源：X · 2026-10-10 · https://x.com/indie_guider/status/2103439388310987206\n\n\n\n## 游戏内容介绍\n\n\n三月的江城，江城大学学生林墨害怕跟人打交道，却被填进了交换生志愿者名单。核心玩法是对话选项、限时事件，以及和「异常 Windows 窗口」的交互：有的选项就在眼前却点不了，有的话想好了却在说出口前被咽回去，界面甚至会失控、侵入桌面。还引用了「知音」的典故。\n\n### Steam 商店简介（原文摘录）〔Steam商店页〕\n\n> 《What Acts up》是一部以社交恐惧为主题的心理现实主义文字冒险游戏。玩家将通过对话选择、限时操作与多窗口交互推进体验，在不断变化、失控甚至侵入桌面的界面中面对主角林墨的恐惧、自我怀疑与心理压迫。有些选择无法真正选下，有些话即使反复按键也无法说出口，玩家需要亲自面对那些阻止林墨行动的声音。\n\n>  故事发生在三月的江城。 林墨是江城大学的一名普通学生。他害怕和人打交道，习惯独来独往，沉浸在自己的世界里，画画、上课，安静地度过每一天。 一次意外，林墨的名字被填入了学校交换生志愿者的名单里。 他不得不去迎接一位远道而来的交换生，并不得不应付各种无法回避的交流。原本平静而封闭的生活，也从此开始变得不一样了。 随着林墨慢慢与身边的人有了交集，那些深藏在平淡下的恐惧也逐渐浮现出来——被咽回去的话、反复揣测的目光、关于“知音”的历史典故，以及一个在他心里挥之不去的问题： “如果重要的人最终都会离开，我还应该试着靠近他们吗？” 《What Acts up》的核心玩法是围绕对话、选项和交互元素的叙事冒险。你会在对话、选择、限时事件，以及与异常的Windows窗口交互的过程中代入林墨的视角。 但并非每次选择都会如你所愿。 有些选项就在眼前，但是无法选择；有些话早已想好怎么说，却在真正说出口的前一刻被咽了下去；有时候，哪怕林墨知道做什么才是“正确的”，他也可能难以动弹。 《What Acts up》把社交恐惧者的犹豫、自我怀疑和无力感，转化为了游戏玩法的一部分，而不仅仅是将其作为故事背景。 游戏采用独特的 多窗口 叙事。窗口的震动、缩放、错位乃至失控，都可能成为林墨心理状态的一部分，让原本发生在角色内心的恐惧直接侵入玩家的桌面。 游戏不会用大量设定说明直接告诉你林墨经历了什么。过去与当下交织，幻想与现实彼此渗透，玩家需要从碎片化的情节与细节中逐渐拼出他的过去，并理解那些恐惧究竟从何而来。 登场角色都有自己的经历与立场。他们与林墨之间的关系，也将在一次次看似普通的交流中逐渐发生变化。 社交恐惧，以及与之交织的心理困境，长期以来都伴随着许多误解。 “你只是胆小、没有自信而已。” “你明明看起来很外向，为什么和别人说话还会害怕？” 《What Acts up》希望通过林墨的故事，让玩家接近那些不容易被外界察觉的恐惧、自我怀疑与内耗，也希望那些曾有过相似感受的人，能从中得到一点理解与陪伴。 但《What Acts up》并不想讲述一个“战胜社交恐惧”的励志故事。 有些恐惧也许会持续很久。它\n\n### 实机截图（Steam 商店截图，已逐张目视核对为本作）\n\n![x-whatactsup_steam01.jpg](frames/x-whatactsup_steam01.jpg)\n![x-whatactsup_steam02.jpg](frames/x-whatactsup_steam02.jpg)\n![x-whatactsup_steam03.jpg](frames/x-whatactsup_steam03.jpg)\n![x-whatactsup_steam04.jpg](frames/x-whatactsup_steam04.jpg)\n![x-whatactsup_steam05.jpg](frames/x-whatactsup_steam05.jpg)\n![x-whatactsup_steam06.jpg](frames/x-whatactsup_steam06.jpg)\n\n\n\n## 实际评价\n\n\n### X 回复/提及原话\n- X 上暂无实质玩家评论（未知）\n\n### Steam 评测原话\n- 尚未发售/无评测（未知）\n\n\n\n## 团队与靠谱程度\n\n\n国内团队，X 上几乎没有自有声量，只有资讯号转载。截图 UI 有设计感，完成度不错。**可靠程度：中**。\n\n\n\n## 综合评价（对照《***》）\n\n\n「用界面本身表现心理状态」的叙事手法（类似 Doki Doki、Inscryption 的元界面），对《***》表现***「无意识的伏煞」有借鉴价值，比如让操作在某些时刻「不听使唤」。题材不重合。\n\n\n\n## 来源（发现与资料）\n\n\n- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/indie_guider/status/2103439388310987206（检索 indie_guider 时发现：「心理寫實敘事冒險遊戲《What Acts up》現已公開 Steam Demo」，2026-09-25）\n- 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/1602890/ 与 appreviews 接口，原始数据 tmp/x/steam/whatactsup.json；封面与截图来自 Steam 商店\n\n<!-- added:2026-10-10 -->",
+ "link": "https://store.steampowered.com/app/1602890/",
+ "name": "What Acts up",
+ "note": "",
+ "platform": "Steam",
+ "release": "即将推出",
+ "source": "",
+ "state_file": "state/x-whatactsup.md",
+ "status": "Demo（Steam）",
+ "summary": "⚠️ What Acts up 档案 - 类型：社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） - 开发者：小团队（Rebirth Studio） - 发行：Rebirth Studio - 状态：Demo（Steam） - 平台：Steam（App 1602890） - 发现来源：X · 2026",
+ "tags": [
+  "收藏"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-10"
+}

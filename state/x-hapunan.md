@@ -1,0 +1,184 @@
+---
+id: x-hapunan
+name: Hapunan
+competitor: true
+genre: 菲律宾都市传说心理恐怖（夜市摆摊）
+developer: 小团队（YIKON GAMES；发行 Neuroticfly Games）
+status: 已发售（2026-08-25）
+platform: Steam
+release: 2026 年 8 月 25 日
+link: https://store.steampowered.com/app/4750540/
+found: 2026-10-10
+baseline: 2026-10-10
+cover: covers/x-hapunan.jpg
+images:
+  - frames/x-hapunan_steam01.jpg
+  - frames/x-hapunan_steam02.jpg
+  - frames/x-hapunan_steam03.jpg
+  - frames/x-hapunan_steam04.jpg
+  - frames/x-hapunan_steam05.jpg
+  - frames/x-hapunan_steam06.jpg
+  - frames/x-hapunan_steam07.jpg
+  - frames/x-hapunan_steam08.jpg
+tags: [收藏]
+aliases: [Hapunan, HAPUNAN]
+discovery_platform: X
+discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/nemusanji/status/2092710573939253503 — 检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26"
+discovery_date: "2026-10-10"
+---
+# ⚠️ Hapunan
+
+<!-- added:2026-10-10 -->
+
+![cover](covers/x-hapunan.jpg)
+
+<!-- added:2026-10-10 -->
+
+## 档案
+
+- 类型：菲律宾都市传说心理恐怖（夜市摆摊）
+- 开发者：小团队（YIKON GAMES；发行 Neuroticfly Games）
+- 发行： Neuroticfly Games
+- 状态：已发售（2026-08-25）
+- 平台：Steam（App 4750540）；售价 $3.99
+- 发现来源：X · 2026-10-10 · https://x.com/nemusanji/status/2092710573939253503
+
+## 游戏内容介绍
+
+面临被赶出家门的少年和父亲靠深夜在街头摆摊卖鸭仔蛋（balut）维生，黑暗秘密逐渐揭开，背景是菲律宾都市传说。有工作模拟的部分，有情感戏和选择分支。
+
+### Steam 商店简介（原文摘录）〔Steam商店页〕
+
+> Hapunan is a story-driven psychological horror game steeped in Filipino urban legends. Facing eviction, a teenager and his father turn to late-night street vending to survive. But as dark secrets uncoil behind the trade and the name Penduko, every choice you make dictates who eats—and who survives.
+
+>  In the Philippines, balut is the undisputed king of midnight street food. You’ll always hear the vendor before you see them—a lone voice calling "Baluuuut!" into the stillness of the night. To eat it is a ritual: crack a small hole at the top, sip the rich, warm broth within, and season the rest with salt and spicy vinegar. For street vendors walking the graveyard shift, it is a livelihood. But in the quietest hours, the trade carries secrets that belong strictly to the dark. The Story Hapunan is a tense, story-driven psychological horror game exploring the raw realities of urban poverty and Philippine folklore. You play as Niko , a teenager watching his family crumble under financial ruin. Two months behind on rent and facing immediate eviction by their ruthless landlord, Niko and his father must take to the midnight streets to earn whatever cash they can to protect their home. The Sha
+
+### 实机截图（Steam 商店截图，已逐张目视核对为本作）
+
+![x-hapunan_steam01.jpg](frames/x-hapunan_steam01.jpg)
+![x-hapunan_steam02.jpg](frames/x-hapunan_steam02.jpg)
+![x-hapunan_steam03.jpg](frames/x-hapunan_steam03.jpg)
+![x-hapunan_steam04.jpg](frames/x-hapunan_steam04.jpg)
+![x-hapunan_steam05.jpg](frames/x-hapunan_steam05.jpg)
+![x-hapunan_steam06.jpg](frames/x-hapunan_steam06.jpg)
+![x-hapunan_steam07.jpg](frames/x-hapunan_steam07.jpg)
+![x-hapunan_steam08.jpg](frames/x-hapunan_steam08.jpg)
+
+## 全部相关帖子（X，2026-10-10 检索）
+
+### 首要帖（官方号或种子帖作者）
+- 2026-08-26 · @nemusanji（4457 粉）· 赞 26 / 转 1 / 回复 1 / 浏览 729 · https://x.com/nemusanji/status/2092710573939253503
+  > [ HAPUNAN ]   Tayo'y mag benta ng baluuuut!  New Filipino horror game!  THU (08/27) | 1:30 PM PHT
+
+### 媒体 / 主播 / 玩家帖
+- 2026-09-01 · @senzaanima（98 粉）· 赞 3 / 转 0 / 回复 0 / 浏览 121 · https://x.com/senzaanima/status/2094579666359308374
+  > This Filipino Horror Game Is Absolutely Terrifying | Hapunan  via @YouTube
+- 2026-09-10 · @VILSORTTTV（247 粉）· 赞 4 / 转 1 / 回复 0 / 浏览 135 · https://x.com/VILSORTTTV/status/2098163828303282223
+  > *NEW VIDEO!* This Filipino Horror Game Is on Another Level.. HAPUNAN by @YikonGames #horrorgaming
+- 2026-09-15 · @SontarisPR（116 粉）· 赞 2 / 转 0 / 回复 0 / 浏览 55 · https://x.com/SontarisPR/status/2099767001816482200
+  > 「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan has a WAITING ROOM for Hapunan! Sept. 16 / 14:00 JST | Sept. 15 / 22:00 PDT  【Hapunan】Filipino Horror Game??!!
+- 2026-09-16 · @SontarisPR（116 粉）· 赞 3 / 转 0 / 回复 0 / 浏览 260 · https://x.com/SontarisPR/status/2100087160615666139
+  > 「 🫚🥀 | #Sontaris #SolanFernwick #SolanLive 」 Solan is now LIVE 🔴playing Hapunan!  【Hapunan】Filipino Horror Game??!!
+
+### 回复区（按时间）
+- 本轮拉取 conversation 未见回复
+
+## 关注度与数据（截至 2026-10-10）
+
+- X 相关帖：本轮共抓到 5 条（官方 1 / 他人 4 / 回复 0）；单帖最高：@nemusanji 赞 26 / 浏览 729
+- 官方号粉丝：4457（@nemusanji）
+- Steam 评测：Positive，好评 33 / 差评 4 / 共 37（已发售）
+- B站：登录态采集 2026-10-10，相关视频 19 条、合计播放约 40.8万；最高《邻家女孩都是犯罪团伙的一份子！！【Hapunan》20.9万（详见下方「B站数据」）
+
+## 实际评价
+
+### X 回复/提及原话
+- 「This Filipin
+
+### Steam 评测原话
+- 👍（english，游玩 7.8h，有用 6）「Hapunan is a real treat!  I've played quite a few creepy job simulators but this one packs some serious drama. Emotional scenes, shocking events, sweet friendships, unveiled secrets, nightmares... this game has it all. There's a great story here and I enjoyed 」 〔Steam评测〕
+- 👍（english，游玩 2.3h，有用 1）「Great story! Ending was a bit abrupt I have to say, but the rest of the games was awesome! One of the best Filipino Indie Games I have played. Definitely recommend  https://youtu.be/sZ3ID7l4dS0」 〔Steam评测〕
+- 👍（italian，游玩 2.9h，有用 1）「Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!」 〔Steam评测〕
+- 👎（english，游玩 1.9h，有用 0）「Yet another horror game that artificially pads its runtime with busywork. I understand why developers do it: it's to discourage refunds for short titles. But I can't stand this gameplay loop where, for every 30 seconds of story, you have to go through 10 minut」 〔Steam评测〕
+- 👍（english，游玩 6.0h，有用 0）「I absolutely loved this game! It had so much to it. So many different tasks and so many fun things to it. I like how you can choose which direction you want to go in, changing your fate. I like that it ended the way it did -- for me. I think because I chose th」 〔Steam评测〕
+
+## 团队与靠谱程度
+
+已发售，Steam 37 条评测 89% 好评，售价 $3.99；多名菲律宾和海外主播开播。**可靠程度：高**（已发售）。
+
+## 综合评价（对照《***》）
+
+「本土民俗 + 底层谋生工作模拟 + 家庭情感」，结构和《***》「背尸混子谋生 + 民俗」惊人地相似。差评点要注意：「artificially pads its runtime with busywork」，靠重复劳作拖长流程会被骂。
+
+## 来源（发现与资料）
+
+- 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/nemusanji/status/2092710573939253503（检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26）
+- 资料来源：X API 检索（search_posts_all，含 conversation_id 回复拉取），原始数据 tmp/x/raw/*.json；Steam 商店页 https://store.steampowered.com/app/4750540/ 与 appreviews 接口，原始数据 tmp/x/steam/hapunan.json；封面与截图来自 Steam 商店
+
+<!-- added:2026-10-10 -->
+
+## B站数据（登录态采集 2026-10-10）
+
+- 检索关键词：Hapunan（B站视频搜索按播放排序取前 3 页；同游戏核验规则：标题或标签含关键词、2025 年后发布、属游戏区/含「游戏/实况/恐怖」字样，并人工抽查标题）
+- 核验剔除（标题不含本作名、疑为同名或他作）：深夜摆摊补贴家用，没想到遭遇了当地不好惹的人！（BV1LccCzvEjL）；比伪人更恐怖的畸形杀手，他会活摘你的人体器官！（BV1USftYJEyg）
+- 命中相关视频 19 条，合计播放约 40.8万；以下为播放最高的 3 条（逐条拉取统计、评论、楼中楼与弹幕）
+
+| # | 类别 | 标题 | UP主（粉丝） | 发布 | 播放 | 点赞 | 投币 | 收藏 | 评论 | 弹幕 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 其他 | 邻家女孩都是犯罪团伙的一份子！！【Hapunan】晚餐（BV1HEXMBZEmn） | 失眠的老张（70.1万） | 2026-03-28 | 20.9万 | 8048 | 2453 | 3639 | 285 | 2059 |
+| 2 | 实况/试玩 | 【熟肉】深夜摆摊遭遇杀人狂！顶流主播CaseOh玩Hapunan 晚餐 菲律宾小（BV1ncKPenEdZ） | 莫里斯IsHere（5.4万） | 2025-02-14 | 7.2万 | 2414 | 1155 | 991 | 156 | 1298 |
+| 3 | 实况/试玩 | 在街上摆摊遭遇杀人团伙！？菲律宾恐怖游戏《HAPUNAN || 晚餐》游戏流程实（BV1q6AoeXEyh） | 轻秋秋秋秋秋秋（27.7万） | 2025-02-21 | 6.8万 | 2123 | 601 | 909 | 133 | 672 |
+
+- 本次实际抓取：主楼评论 371 条、楼中楼 151 条、弹幕 3835 条（主楼按热度翻页至末页或上限 25 页；楼中楼对回复≥2 的主楼取前 40 条；弹幕为 list.so 接口返回的全部可见弹幕）
+
+### B站评论原话（按点赞排序，含楼中楼）
+
+- 「作者能做出自己的国家文化很棒，看样子都是自学的，虽说剧情给我看笑了（尤其是大叔背后有人没死开枪打他的那刻真的太典了），但能了解到作者的周边生活也蛮值得一看的╮(￣▽￣)╭」（198 赞） 〔B站·BV1ncKPenEdZ评论·@Fleiss_XVII〕
+  - ↳ 「[doge]确实，我觉得有点抽象也是宣传的好方法，结尾太有意思了」（12 赞） 〔B站·BV1ncKPenEdZ楼中楼·@莫里斯IsHere〕
+  - ↳ 「ps.周边生活不包括买凶杀人(」（8 赞） 〔B站·BV1ncKPenEdZ楼中楼·@Fleiss_XVII〕
+- 「🥚 东南亚著名小吃：Balut  这是“巴鲁特”最广为人知的含义，尤其在菲律宾被誉为“国菜”之一。  指孵化了约14至21天的受精鸭蛋（也有用鸡蛋的），在胚胎已成型但未破壳时直接水煮食用。 据传19世纪末由华人传入，如今流行于菲律宾、越南、老挝和柬埔寨等地。 标准吃法是在蛋壳上敲开小洞，先吸掉里面的“汤”（羊水），然后撒盐或滴酸柑汁食用。资深食客偏好蘸带有蒜末的辣醋。 口感独特，汤汁鲜美，蛋黄绵密」（110 赞） 〔B站·BV1HEXMBZEmn评论·@HAAVK效能部长哈德森〕
+  - ↳ 「Chicharon在东南亚（尤其是菲律宾）是一种非常常见的油炸猪皮小吃  · 条状：猪皮通常切成长条块状油炸。 · 橙黄色：油炸后呈现金黄色至橙黄色。  · 挂在篮子旁边：在菲律宾街头，鸭仔蛋（Balut）摊贩经常把大块的 Chicharon 挂在摊位或篮子边，既作为招牌展示，也方便顾客按重量剪下来」（17 赞） 〔B站·BV1HEXMBZEmn楼中楼·@HAAVK效能部长哈德森〕
+  - ↳ 「这不就是活珠子吗？」（12 赞） 〔B站·BV1HEXMBZEmn楼中楼·@AAA钢材批发曹哥〕
+- 「这个游戏有一种我的世界玩家自制地图上传的味道，很有点本土特色是一方面，还有这种穷人谋生的环境啊…」（86 赞） 〔B站·BV1ncKPenEdZ评论·@跃动生活精彩〕
+- 「这个结局真好」（77 赞） 〔B站·BV1ncKPenEdZ评论·@LoveisGOOO〕
+  - ↳ 「果然我还是喜欢包饺子」（15 赞） 〔B站·BV1ncKPenEdZ楼中楼·@LoveisGOOO〕
+  - ↳ 「我也是——」（5 赞） 〔B站·BV1ncKPenEdZ楼中楼·@莫里斯IsHere〕
+- 「这种恐怖游戏一般来说就是：小作坊下料就是猛，你可以说他质量不高，但他肯定好玩，并且里面的人都是一惊一乍，突然窜出来的，吓你一大跳[doge]」（41 赞） 〔B站·BV1HEXMBZEmn评论·@愉快的达哥〕
+  - ↳ 「独特的质感 我非常喜欢」（10 赞） 〔B站·BV1HEXMBZEmn楼中楼·@失眠的老张〕
+  - ↳ 「为什么好多这种题材都是东南亚」（0 赞） 〔B站·BV1HEXMBZEmn楼中楼·@刚铎之刃〕
+- 「关注老张两年多了，没看他回复过我[tv_难过]」（36 赞） 〔B站·BV1HEXMBZEmn评论·@江苏省的彭于晏〕
+  - ↳ 「真的假的啊」（13 赞） 〔B站·BV1HEXMBZEmn楼中楼·@失眠的老张〕
+  - ↳ 「老张，你怎么不玩，玩具熊的午夜后宫MOD你好我的邻居,那个节目效果特别适合你[支持]」（2 赞） 〔B站·BV1HEXMBZEmn楼中楼·@江苏省的彭于晏〕
+- 「主角算是非法贩卖炸猪皮吗？还是说算是巴鲁特的一个佐料来卖呢🤔」（32 赞） 〔B站·BV1ncKPenEdZ评论·@LanC3y〕
+- 「老张可以试试这款游戏吗宣传片看着还不错」（29 赞） 〔B站·BV1HEXMBZEmn评论·@一只汉堡Y〕
+- 「毛蛋，也叫凤凰蛋，也叫眼珠子，我个人非常喜欢吃，也是属于那种喜欢的人特别喜欢，讨厌的人看到我就恶心那种食物」（29 赞） 〔B站·BV1ncKPenEdZ评论·@草草蛇〕
+  - ↳ 「是不是活珠子好像是哪个地方的特产，我这没见过一个人吃」（0 赞） 〔B站·BV1ncKPenEdZ楼中楼·@YuanZz829〕
+  - ↳ 「江苏的特产」（0 赞） 〔B站·BV1ncKPenEdZ楼中楼·@猪葛恐明〕
+- 「【点赞满1000催更下期】[UPOWER_3546737390127250_打Call]这期游戏我挺喜欢的，少见的东南亚有趣恐游，游戏作者访谈地址在简介[UPOWER_3546737390127250_给点吧]假高能和剧透弹幕都会被我拉黑删除，有遗漏欢迎点举报，希望你看的开心～」（28 赞） 〔B站·BV1ncKPenEdZ评论·@莫里斯IsHere〕
+  - ↳ 「捉[doge]」（1 赞） 〔B站·BV1ncKPenEdZ楼中楼·@Keikoget〕
+  - ↳ 「来啦！！！！」（1 赞） 〔B站·BV1ncKPenEdZ楼中楼·@Luna兔兔〕
+- 「想到主角是为家庭生计，只能买鸡蛋的穷苦人，就很不希望出什么事。」（26 赞） 〔B站·BV1ncKPenEdZ评论·@青衫鱼叩〕
+- 「我们是                  up的粉丝 　　/　　　       ／　｜　　＼ ﾟ ∀ﾟ)ノ　　　\( ﾟ∀ﾟ\( ﾟ∀ﾟ\( ﾟ∀ﾟ  我们喜欢             up主！ 　　/　　　  ｜　    ｜　　｜ ﾟ ∀ﾟ)ノ　     \( ﾟ∀ﾟ\( ﾟ∀ﾟ\( ﾟ∀ﾟ  我们要       点赞     投币   吃up！        　　/　　　  ｜　    ｜　　」（25 赞） 〔B站·BV1q6AoeXEyh评论·@比鬼凤火〕
+  - ↳ 「这不兑！[doge]」（0 赞） 〔B站·BV1q6AoeXEyh楼中楼·@轻秋秋秋秋秋秋〕
+  - ↳ 「 撒了他，撒了他[doge]【煽风点火】」（0 赞） 〔B站·BV1q6AoeXEyh楼中楼·@MAC青岛队员〕
+- 「那个老太太吓得我直接叫出声我的天。。」（23 赞） 〔B站·BV1ncKPenEdZ评论·@aysutnao〕
+- 「他这卖的吃的一个天上一个地下[笑哭]」（21 赞） 〔B站·BV1HEXMBZEmn评论·@BrotherMai〕
+  - ↳ 「第二个不就是活珠子」（8 赞） 〔B站·BV1HEXMBZEmn楼中楼·@封纭-〕
+  - ↳ 「活珠子我感觉很好吃😋」（1 赞） 〔B站·BV1HEXMBZEmn楼中楼·@亻尔彳亍嗷〕
+
+### 弹幕高频（前 20）
+
+「[前方高能]」×128、「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×89、「▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇ 钢  铁✪长  城 ▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇▄▇」×78、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×38、「░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░保护墙░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░」×27、「666」×23、「gg」×22、「GG」×21、「ofc」×18、「前方高能预警」×12、「非战斗人员请撤离」×10、「有人吗」×10、「吓我一跳」×10、「知道但没吃过」×10、「有人吗？」×9、「高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警高能预警」×9、「东北雨姐」×9、「弹幕护体」×8、「吓死我了」×8、「知道也吃过」×8
+
+### 其他相关视频（播放前 6–15）
+
+- 【小熊flippy】一般路过菲律宾小贩如何抗争当地黑恶势力 《HAPUNAN 晚餐》P2 · 小熊flippy录播组 · BV1NjtS6XEBB · 2026-09-02 · 播放 6186
+- 【小熊flippy】勤劳小熊深夜摆摊补贴家用 却遭遇当地黑社会打压 菲律宾的天黑了！《HAPUNAN · 小熊flippy录播组 · BV1k8th6cEWU · 2026-09-01 · 播放 6049
+- [老E弹幕录播]2026年08月26日 红色沙漠：增强版 & 鬼武者 Way of the Swor · 我看你就是石乐志 · BV17E8d6YEyv · 2026-08-26 · 播放 5158
+- 8.28里奥深夜恐怖游戏《Hapunan》《下凡》【直播回放】 · 亚索腻 · BV1REtT6nECU · 2026-08-29 · 播放 5036
+- 【小熊flippy】小伙在深夜里摆摊补贴家用却遇到了一些不好惹的人！《Hapunan~晚餐》 · 寒冷月-明月 · BV18VtM6CEwp · 2026-09-01 · 播放 2355
+- 【Gluneko 录播】HAPUNAN · 穿着黑絲追欧巴 · BV1xifqB8EFK · 2026-02-23 · 播放 2125
+- 8月29日《Hapunan》黑白直播游戏回放纯享版 · 黑白的录像带 · BV1sYbn6GEEL · 2026-09-06 · 播放 2114
+- Hapunan Demo（哈普南演示版）1.1.0 walkthrough ·  · BV1d8wYeEEKt · 2025-01-21 · 播放 1294
+- 【小熊flippy】菲律宾黑帮又来为难摆摊小伙了它该如何应对呢？《Hapunan~晚餐》02 ·  · BV1i6Yt6sEnh · 2026-09-09 · 播放 1159
+- 父子外出赚钱遭遇园区绑架 小伙斗智斗勇营救父亲 菲律宾恐怖游戏《HAPUNAN》 ·  · BV1HJbg63E4T · 2026-09-08 · 播放 1119

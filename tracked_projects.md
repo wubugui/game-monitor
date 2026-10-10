@@ -162,3 +162,21 @@
 | 呪縛 Jubaku | 日式心理恐怖（调查闹鬼屋，多结局） | 小团队（BabGamesStudio） | Demo（2027 Q1） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4911730/ ；X 单帖最高赞 5；档案 state/x-jubaku.md |
 | Seventh Seal | 第三人称生存恐怖动作 | 小团队（Renderready, LLC） | Demo | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4023230/ ；X 单帖最高赞 4；档案 state/x-seventhseal.md |
 | 山海：神话起源 Shan Hai: Mythic Origins | 山海经动作肉鸽（最多 4 人合作） | 个人（Honglizi，自称独立开发者） | 开发中（有 Demo） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3540450/ ；X 单帖最高赞 0；档案 state/x-shanhai.md |
+<!-- added:2026-10-10 -->
+| ⚠️ 叫魂 JIAOHUN | 电影化第一人称中式心理恐怖（1999 小镇） | 小团队（12AM BLACKOUT） | 首曝（2027 年，PS5/PC） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3550940/ ；X 单帖最高赞 361；档案 state/x-jiaohun.md |
+| ⚠️ 魇 Yan: Parasomnia | 东南亚华人民俗·固定视角生存恐怖（单人/双人合作） | 小团队（Cerebral Games，马来西亚；发行 Nimbus Games） | 开发中（据 X 消息延期至 2027-08） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2967220/ ；X 单帖最高赞 157；档案 state/x-yanparasomnia.md |
+| ⚠️ 遥之境 Far Realm | 台味叙事 2D 像素冒险（妖怪世界） | 小团队（高椰菜 Cabbroge，台湾；GameWorks Ventures 协力） | Demo（2026-09-21 起） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4532450/ ；X 单帖最高赞 12；档案 state/x-farrealm.md |
+| ⚠️ What Acts up | 社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） | 小团队（Rebirth Studio） | Demo（Steam） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/1602890/ ；X 单帖最高赞 1；档案 state/x-whatactsup.md |
+| ⚠️ 只有她知晓光辉的名字 The Name Only She Knew | 手绘逐格动画奇幻视觉小说 | 小团队（紳士帽動畫製作組，香港） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5279790/ ；X 单帖最高赞 5；档案 state/x-nameonly.md |
+| ⚠️ I Hear the Forest | 2000 年代复古风慢热民俗恐怖（护林员） | 小团队（Podoba Interactive，乌克兰） | 开发中（2027 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5038420/ ；X 单帖最高赞 3290；档案 state/x-hearforest.md |
+| ⚠️ Hapunan | 菲律宾都市传说心理恐怖（夜市摆摊） | 小团队（YIKON GAMES；发行 Neuroticfly Games） | 已发售（2026-08-25） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4750540/ ；X 单帖最高赞 26；档案 state/x-hapunan.md |
+| ⚠️ お結び OMUSUBI（缘结迷境） | 日式恐怖 ADV（三途之川） | 个人（KUSAKABE OSAMU / studio_libera；发行 Vaka Game Magazine） | 已发售（2024-08-01，2 周年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2634560/ ；X 单帖最高赞 225；档案 state/x-omusubi.md |
+| ⚠️ The Doll Shop | 手绘日式乡村叙事恐怖（人偶匠） | 小团队（Atelier Sentô，漫画家二人组） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3851680/ ；X 单帖最高赞 192；档案 state/x-dollshop.md |
+| ⚠️ 民国诡事 Old China: Strange Tales（Strange Tales of Republican China） | 民国中式民俗恐怖·AI 互动影像解谜 | 小团队（LinearGame Pte. Ltd.；X 宣发由 AI 互动视频平台 Yoroll 账号负责） | Demo（Steam 免费 Demo，正式版即将推出） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4590810/ ；X 单帖最高赞 0；档案 state/x-strangetales.md |
+| 門 GATE | 昭和日式第一人称恐怖探索（诅咒道具+战斗） | 小团队（OYONE Studio） | Demo（2026 Q4） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4718160/ ；X 单帖最高赞 18；档案 state/x-gate.md |
+| Liminal Point | 等距视角经典生存恐怖（雾岛） | 小团队（HideWorks） | 开发中（2027 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3299920/ ；X 单帖最高赞 376；档案 state/x-liminalpoint.md |
+| Inkblood 血墨诡案 | 手绘神秘学侦探冒险 | 小团队（Hey Bird!；发行 CRITICAL REFLEX） | Demo（2026 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4114100/ ；X 单帖最高赞 287；档案 state/x-inkblood.md |
+| Heavy in the Hand | 俯视角哥特恐怖动作（左轮手动装填） | 个人（randyheart） | 即将发售（2026-10-26） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3643740/ ；X 单帖最高赞 686；档案 state/x-heavyhand.md |
+| 天使机构：执行部灵魂救济科 Angelic Agency | 公安搭档×灵害事件推理冒险 | 小团队（YOKUNIKU） | Demo | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3370180/ ；X 单帖最高赞 17；档案 state/x-angelicagency.md |
+| Bone to Pick 拾骨谜案 | 法医人类学推理视觉小说 | 小团队（Studio K Games） | Demo（2026-10-08），正式 2027 Q1 | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4996240/ ；X 单帖最高赞 20；档案 state/x-bonetopick.md |
+| My Beautiful Faraway, Please Don't Be Cruel To Me | 梦境阈限空间心理冒险（抽象谜题） | 个人（arch1t3ct） | 即将发售（2026-10-13，$9） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4516190/ ；X 单帖最高赞 509；档案 state/x-faraway.md |

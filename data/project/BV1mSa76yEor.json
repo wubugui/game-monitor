@@ -23,9 +23,9 @@
   {
    "date": "2026-10-10",
    "kind": "state",
-   "md": "- Seed `BV1mSa76yEor` 登录态复核：播放 1.5万｜点赞 192｜评论 45｜收藏 69｜投币 19｜分享 62。\n- 相对总表约 1.5万 → 1.5万（Δ -149）。\n- 说明：单条 seed 热度快照，完整 top5 聚合见后续深挖；今日未改综合评价正文（***已 Step0 刷新）。",
-   "report": "2026-10-10",
-   "title": "关注度"
+   "md": "本轮未单独深挖详情评论，但在「国产独立」「民俗恐怖」词下出现高互动卡，并被《请神》试玩笔记拿来对标「中式微恐悬疑」。\n\n**代表笔记（搜索卡）**\n\n- 游戏不正常人类研究中心《国产独立游戏〈乌合之众〉2027年3月发售》（09-29）：赞 **6053**（卡）。封面 `images/xhs/wuhezhizhong.jpg`。发售窗口写死 **2027-03**——与 B 站定档讨论一致。\n- 小屋拾光《乌合之众｜闽南民俗悬疑神作》（08-09）：赞 705。竞品常被拿来对标。\n\n**关注度判断（小红书）**：单条定档卡即可破六千赞，说明「闽南民俗悬疑 + 已定档」仍有强期待；但本轮未展开评论，**跳票/回炉争议是否已在小红书发酵——未知**，不以卡赞数推断口碑健康。\n\n![wuhe](images/xhs/wuhezhizhong.jpg)",
+   "report": "2026-10-10-xhs",
+   "title": "小红书（登录态首扫 ）"
   },
   {
    "date": "2026-10-09",
@@ -53,6 +53,7 @@
   "frames/BV1mSa76yEor_s2_02.jpg",
   "frames/BV1mSa76yEor_s2_03.jpg",
   "frames/BV1mSa76yEor_s2_04.jpg",
+  "images/xhs/wuhezhizhong.jpg",
   "frames/BV1mSa76yEor_steam01.jpg",
   "frames/BV1mSa76yEor_steam02.jpg",
   "frames/BV1mSa76yEor_steam03.jpg",

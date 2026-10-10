@@ -1,0 +1,1 @@
+2026-10-10：已登录只读抓取，见 /workspace/monitor/tmp/xhs_sweep_2026-10-10.md。本文件不再表示跳过。

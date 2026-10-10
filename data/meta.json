@@ -41,7 +41,7 @@
  "latest_report": "2026-10-10-z-batch6-noncomp",
  "latest_report_date": "2026-10-10",
  "project_count": 140,
- "report_count": 12,
+ "report_count": 13,
  "statuses": [
   "Demo",
   "Demo（Steam 试玩：惊变夜，已做到第三章）",
@@ -58,7 +58,7 @@
  ],
  "today_banner": "",
  "today_new": 10,
- "today_updated": 80,
+ "today_updated": 83,
  "today_updates": [
   {
    "competitor": true,
@@ -147,7 +147,7 @@
    "id": "BV1mSa76yEor",
    "kind": "updated",
    "name": "乌合之众",
-   "note": "Seed BV1mSa76yEor 登录态复核：播放 1.5万｜点赞 192｜评论 45｜收藏 69｜投币 19｜分享 62。",
+   "note": "代表笔记（搜索卡）",
    "status": "即将发售"
   },
   {
@@ -157,7 +157,7 @@
    "id": "BV1SXYj6mE1g",
    "kind": "updated",
    "name": "京门之下",
-   "note": "Seed BV1SXYj6mE1g 登录态复核：播放 2.2万｜点赞 1315｜评论 65｜收藏 610｜投币 70｜分享 81。",
+   "note": "游戏茶馆《悬疑探案互动影游〈京门之下〉首曝PV!》（09-15，声明含 AI）：赞 261 / 藏 109 / 评 51。封面 images/xhs/jingmen-pv-chaguan.jpg。摘要",
    "status": "即将发售"
   },
   {
@@ -182,12 +182,42 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1RAeV67Ed9.jpg",
+   "genre": "国产民俗志怪",
+   "id": "BV1RAeV67Ed9",
+   "kind": "updated",
+   "name": "妄生",
+   "note": "猫猫山《中式志怪微恐悬疑游戏〈妄生〉demo实况》（07-12）：赞 234 / 藏 102 / 评 2。封面 images/xhs/wangsheng-maomao.jpg。第一回「人哭狗」：夜里赶",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "genre": "中式梦核恐怖",
+   "id": "BV14HHq6uEX5",
+   "kind": "updated",
+   "name": "泯灭",
+   "note": "香蕉星《「消失的夫妻」案件改编中式恐游〈泯灭〉》（09-29，视频）：赞 416 / 藏 164 / 评 25。封面 images/xhs/minmie-banana.jpg。试玩版一命速通。",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1zoe26JEwt.jpg",
    "genre": "中式民俗/梦核恐怖",
    "id": "BV1zoe26JEwt",
    "kind": "updated",
    "name": "童年诡事录",
-   "note": "Seed BV1zoe26JEwt 登录态复核：播放 246.1万｜点赞 3.9万｜评论 28｜收藏 6.2万｜投币 3814｜分享 33。",
+   "note": "代表笔记（进过详情）",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1J6eb6MEhr.jpg",
+   "genre": "中式民俗恐怖解谜",
+   "id": "BV1J6eb6MEhr",
+   "kind": "updated",
+   "name": "见诡",
+   "note": "必须与《见诡录：阴魂街》分开：本档是砂糖桔制作组的《见诡》——中式微恐单元剧，玩家当灵异频道「搞乜鬼」摄影师，跟双胞胎主播「走阴」。Steam demo（约 2026-08 末）；玩家把正式版写成 2",
    "status": "Demo"
   },
   {
@@ -197,7 +227,7 @@
    "id": "BV1rBX6Y9Euf",
    "kind": "updated",
    "name": "见诡录：阴魂街",
-   "note": "Seed BV1rBX6Y9Euf 登录态复核：播放 4828｜点赞 97｜评论 55｜收藏 72｜投币 10｜分享 26。",
+   "note": "不是砂糖桔《见诡》：本档是更早的中式找异常/找不同《见诡录：阴魂街》（另有旧作《见诡录：色孽》2024）。小红书仍以速通视频为主，热度不低。",
    "status": "已发售"
   },
   {
@@ -207,7 +237,7 @@
    "id": "BV1gE411y7q8",
    "kind": "updated",
    "name": "请神",
-   "note": "Seed BV1gE411y7q8 登录态复核：播放 269.2万｜点赞 7.4万｜评论 2869｜收藏 5.0万｜投币 2.9万｜分享 34337。",
+   "note": "Largeland《〈请神〉demo即将上线》（02-01）：赞 4388 / 藏 1250 / 评 506。封面 images/xhs/qingshen-largeland.jpg。新年帖：雨夜开车",
    "status": "Demo"
   },
   {
@@ -227,7 +257,7 @@
    "id": "BV1vLFCzwEq1",
    "kind": "updated",
    "name": "黑水镇",
-   "note": "Seed BV1vLFCzwEq1 登录态复核：播放 9052｜点赞 111｜评论 28｜收藏 43｜投币 20｜分享 8。",
+   "note": "小黑与鹿鹿《中式民俗恐怖｜〈黑水镇〉Steam 商店开放》（04-27）：赞 241 / 藏 109 / 评 22。封面 images/xhs/heishui-steam.jpg。摘要：荒村古镇、乱葬",
    "status": "Demo（Steam 试玩：惊变夜，已做到第三章）"
   },
   {
@@ -477,7 +507,7 @@
    "id": "***",
    "kind": "updated",
    "name": "***",
-   "note": "***Story：相对昨日档案无新 commit（HEAD 仍为 Revert 故事创作台验收）。",
+   "note": "小红书提及（ 首扫）",
    "status": "开发中（Demo）"
   },
   {

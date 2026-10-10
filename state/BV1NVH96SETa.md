@@ -239,7 +239,7 @@ Demo宣传强调选择题与校园心理恐怖。
 ### 开发者自述
 - 「心理恐怖像素rpg『你就是缘由』现已上线steam商店页面啦，感兴趣的话欢迎民那加入愿望单🥺😭」（1赞｜开发者/官方号回复） 〔B站·BV1DwjR67ECE评论〕
 - 「https://mooninside0705.itch.io/you-are-the-reason-demo 你就是缘由demo现已发布itch，将于10月23日在steam上公开，欢迎各位试玩」（1赞｜开发者/官方号回复） 〔B站·BV1NVH96SETa评论〕
-- 「【像一个要饭的一样四处乞讨steam愿望单】 https://www.bilibili.com/video/BV1rEjR6iERi/?share_source=copy_web&vd_source=8ddaec43d79e4cd1bc5687019dbde347」（0赞｜开发者/官方号回复） 〔B站·BV1DwjR67ECE评论〕
+- 「【像一个要饭的一样四处乞讨steam愿望单】 https://www.bilibili.com/video/BV1rEjR6iERi/?share_source=copy_web&vd_source=8ddaec43d79e4cd1bc5687019dbde347」（0赞｜开发者/官方号回复） 〔B站·BV1DwjR67ECE楼中楼〕 <!-- added:2026-10-10 -->
 
 <!-- added:2026-10-09 -->
 

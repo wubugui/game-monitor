@@ -147,10 +147,11 @@ for path in sorted(glob.glob('state/*.md')):
     sa=[a or b for a,b in sa]
     if sa or 'Steam' in body: lines.append('- Steam：商店页/评测' + (f'（AppID {", ".join(sa)}）' if sa else '（正文中引用）'))
     if '小红书' in body: lines.append('- 小红书：登录态搜索笔记（标题/作者/日期/赞见正文「小红书」小节）')
-    if re.search(r'\bX\b|推特|twitter',body,re.I): lines.append('- X：帖子（正文中引用）')
+    
     if pid=='***': lines.append('- GitHub：***Story / *** 提交记录（只读）')
     if len(lines)==8: lines.append('- 未知')
     body=body+'\n'+'\n'.join(lines)+'\n'
     open(path,'w').write(f'---\n{fm2.strip()}\n---\n'+body.lstrip('\n') if m else body)
     stats['files']+=1
 print(stats); print('unknown:',unknown_list)
+import subprocess; subprocess.run(['python3','scripts/xhs_sources.py','--write'])  # itemize 小红书/X sources

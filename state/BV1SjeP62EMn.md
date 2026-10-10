@@ -53,7 +53,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「「逝者回了生者的家」中式民俗微恐rpg《萦回》demo试玩」· UP 幽蓝Cc · BV1SjeP62EMn · 2026-09-16 · 播放 581"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 萦回
+# ⭐ 萦回
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

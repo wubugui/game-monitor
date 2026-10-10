@@ -36,7 +36,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「首曝PV 游戏」；种子视频「《京门之下》首曝PV——绝美国风AI影游，这盛世烟火之下，却尽是魑魅，遍布杀机！」· UP 司命互动影游 · BV1SXYj6mE1g · 2026-09-11 · 播放 2.2万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 京门之下
+# ⭐ 京门之下
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

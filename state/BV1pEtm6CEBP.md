@@ -30,7 +30,7 @@ discovery_platform: B站
 discovery: "途径未知（种子为 B站视频）；种子视频「国产第一人称民俗恐怖游戏《棺门》先导pv Steam页面已公开」· UP 阿棍灬 · BV1pEtm6CEBP · 2026-09-05 · 播放 7072"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 棺门
+# ⭐ 棺门
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

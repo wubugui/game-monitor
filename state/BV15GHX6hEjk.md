@@ -31,7 +31,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「首曝PV 游戏」「愿望单 游戏」「解谜游戏 独立游戏」；种子视频「【独立游戏】小团队做的北宋国风解谜，首曝PV来了丨《追境》Steam愿望单开启」· UP 追境-独立游戏 · BV15GHX6hEjk · 2026-10-08 · 播放 331"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 追境
+# ⭐ 追境
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

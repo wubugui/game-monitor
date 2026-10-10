@@ -34,7 +34,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「首曝PV 游戏」「视觉小说 独立游戏」「galgame 独立游戏」；种子视频「恋爱恐怖×精神病院｜国G《请勿与七号患者约会》首曝PV」· UP 归澜游戏 · BV1Taa861EDN · 2026-09-27 · 播放 1.8万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 请勿与七号患者约会
+# ⭐ 请勿与七号患者约会
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

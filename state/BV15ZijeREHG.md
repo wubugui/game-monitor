@@ -104,7 +104,7 @@ discovery_platform: B站
 discovery: "途径未知（种子为 B站视频 BV15ZijeREHG）"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 镇邪2
+# ⭐ 镇邪2
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

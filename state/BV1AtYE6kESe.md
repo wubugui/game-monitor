@@ -37,7 +37,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「中式民俗悬疑独立游戏《冥娘引》Demo实机视频」· UP 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 冥娘引
+# ⭐ 冥娘引
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/dctyuin/status/2014709521466458380 — 检索「Hariti / Ghostcase / 凶寓」时滚雪球发现；日本玩家帖密集提及「凶寓チーム」"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 凶寓 Dread Flats
+# ⭐ 凶寓 Dread Flats
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

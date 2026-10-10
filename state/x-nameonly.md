@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2105266410075111542 — 检索「視覺小說」发现：「香港獨立創作團隊紳士帽動畫製作組公開《The Name Only She Knew》Steam 頁面」，2026-09-30"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 只有她知晓光辉的名字 The Name Only She Knew
+# ⭐ 只有她知晓光辉的名字 The Name Only She Knew
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

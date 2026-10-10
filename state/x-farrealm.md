@@ -25,7 +25,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2102292784938102833 — 检索 indie_guider（台湾独立游戏资讯号）时发现：「敘事導向 2D 像素遊戲《遙之境》Demo 現已於 Steam 開放免費試玩」，2026-09-22"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 遥之境 Far Realm
+# ⭐ 遥之境 Far Realm
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

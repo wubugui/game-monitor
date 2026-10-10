@@ -35,7 +35,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「志怪 独立游戏」；种子视频「国产民俗志怪佳作《妄生》全配音-剧情解说」· UP 半支烟sama · BV1RAeV67Ed9 · 2026-09-15 · 播放 39.5万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 妄生
+# ⭐ 妄生
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -33,7 +33,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「【中式县城校园×2019中国互联网亚文化×日式电波cult】剧情向心理恐怖像素rpg《你就是缘由》demo将在10月23日上线steam」· UP 空亡月隈 · BV1NVH96SETa · 2026-10-08 · 播放 705"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 你就是缘由
+# ⭐ 你就是缘由
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

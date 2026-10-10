@@ -25,7 +25,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/studio_libera/status/2106323875973808548 — 检索「和風ホラー」发现：「個人制作した和風ホラーADVゲーム『お結び』が #Steamオータムセール で1280円→998円」，2026-10-03，212 赞 / 3 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ お結び OMUSUBI（缘结迷境）
+# ⭐ お結び OMUSUBI（缘结迷境）
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -37,7 +37,7 @@ discovery_platform: B站
 discovery: "途径未知（种子为 B站视频）；种子视频「《童年诡事录》试玩版」· UP king17__老了 · BV1zoe26JEwt · 2026-09-18 · 播放 246.1万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 童年诡事录
+# ⭐ 童年诡事录
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

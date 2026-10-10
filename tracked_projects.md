@@ -2,27 +2,27 @@
 
 | 名称 | 类型 | 开发者类型 | 状态 | 发现日期 | B站链接 | 播放 | 备注 |
 |---|---|---|---|---|---|---|---|
-| ⚠️ 童年诡事录 | 中式民俗/梦核恐怖 | 未知（未知（官方号）） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1zoe26JEwt | 246.1万 | 2002农村、老猫猴、UE5写实；官方声明非AI |
-| ⚠️ 太渊无朔 | 中式民俗恐怖 ARPG | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1btHC6bEVr | 2474 | 黄皮子讨封、鬼新娘、挖古墓刷宝 |
-| ⚠️ 乌合之众 | 中式民俗悬疑/黑色幽默 | 小团队（小团队（NanZhai Games）） | 即将发售 | 2026-10-09 | https://www.bilibili.com/video/BV1mSa76yEor | 1.5万 | 定档2027-03，大佛吃人 |
-| ⚠️ 京门之下 | 国风悬疑 AI互动影游 | 未知（未知（司命互动影游）） | 即将发售 | 2026-10-09 | https://www.bilibili.com/video/BV1SXYj6mE1g | 2.2万 | 刑房女书吏查县令案，AIGC影游 |
-| ⚠️ 请神 | 中式民俗+克苏鲁叙事 | 未知（未知（Largeland）） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1gE411y7q8 | 240.7万 | 跑团模组改单人沉浸叙事 |
-| ⚠️ 追境 | 北宋国风听觉解谜 | 小团队（小团队） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV15GHX6hEjk | 201 | 秦岭到汴京三十载 |
-| ⚠️ 你就是缘由 | 中式县城校园心理恐怖 | 未知（未知） | 即将Demo | 2026-10-09 | https://www.bilibili.com/video/BV1NVH96SETa | 652 | 2019亚文化像素RPG，demo 10-23 |
-| ⚠️ 请勿与七号患者约会 | 恋爱+恐怖剧情 | 未知（未知（归澜游戏）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1Taa861EDN | 1.8万 | 精神病院不可靠认知 |
-| ⚠️ 声探疑云 | 寻声探案解谜 | 未知（未知（疑案追声原团队）） | 开发中 | 2026-10-09 | https://www.bilibili.com/video/BV1g9ad64EZj | 2.7万 | 进入配音阶段 |
-| ⚠️ 黑水镇 | 中式民俗恐怖互动影游（AI 动画） | 个人（小黑与鹿鹿） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1vLFCzwEq1 | 9052 | 中元夜尸变；全 AI 画面；2026-10-09 纠错（原 RDR2/仙剑素材作废） |
-| ⚠️ 随侯珠 | 南方民俗视觉小说 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1o7ht6pEgQ | 6580 | 蛇神民俗百合 |
-| ⚠️ 妄生 | 国产民俗志怪 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1RAeV67Ed9 | 39.5万 | 志怪短篇合集 |
-| ⚠️ 泯灭 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV14HHq6uEX5 | 10.4万 | 新婚夫妻凶宅 |
-| ⚠️ 南亭湖 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1RVH86hEBF | 2613 | 老机械厂分尸案 |
-| ⚠️ 诡偶 | 中式民俗解谜恐怖 | 未知（未知（勾陈一）） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV17Jap6rEjm | 2.6万 | 勾陈一竖屏解谜（TapTap/小程序）；原 Steam 同名作素材已纠错 |
-| ⚠️ 重启：工作日 | 悬疑恐怖 AI互动影游 | 未知（未知（NOXlabs）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1GhHS6QECw | 7150 | 七日循环上班 |
-| ⚠️ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
-| ⚠️ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
-| ⚠️ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |
-| ⚠️ 棺门 | 第一人称民俗恐怖 | 未知（未知） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1pEtm6CEBP | 7072 | 先导PV，愿望单已开 |
-| ⚠️ 烟雨山异闻 | 中式民俗悬疑 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1ZYak6aELT | 1616 | 父子坠崖发现洞府 |
+| ⭐ 童年诡事录 | 中式民俗/梦核恐怖 | 未知（未知（官方号）） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1zoe26JEwt | 246.1万 | 2002农村、老猫猴、UE5写实；官方声明非AI |
+| ⭐ 太渊无朔 | 中式民俗恐怖 ARPG | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1btHC6bEVr | 2474 | 黄皮子讨封、鬼新娘、挖古墓刷宝 |
+| ⭐ 乌合之众 | 中式民俗悬疑/黑色幽默 | 小团队（小团队（NanZhai Games）） | 即将发售 | 2026-10-09 | https://www.bilibili.com/video/BV1mSa76yEor | 1.5万 | 定档2027-03，大佛吃人 |
+| ⭐ 京门之下 | 国风悬疑 AI互动影游 | 未知（未知（司命互动影游）） | 即将发售 | 2026-10-09 | https://www.bilibili.com/video/BV1SXYj6mE1g | 2.2万 | 刑房女书吏查县令案，AIGC影游 |
+| ⭐ 请神 | 中式民俗+克苏鲁叙事 | 未知（未知（Largeland）） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1gE411y7q8 | 240.7万 | 跑团模组改单人沉浸叙事 |
+| ⭐ 追境 | 北宋国风听觉解谜 | 小团队（小团队） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV15GHX6hEjk | 201 | 秦岭到汴京三十载 |
+| ⭐ 你就是缘由 | 中式县城校园心理恐怖 | 未知（未知） | 即将Demo | 2026-10-09 | https://www.bilibili.com/video/BV1NVH96SETa | 652 | 2019亚文化像素RPG，demo 10-23 |
+| ⭐ 请勿与七号患者约会 | 恋爱+恐怖剧情 | 未知（未知（归澜游戏）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1Taa861EDN | 1.8万 | 精神病院不可靠认知 |
+| ⭐ 声探疑云 | 寻声探案解谜 | 未知（未知（疑案追声原团队）） | 开发中 | 2026-10-09 | https://www.bilibili.com/video/BV1g9ad64EZj | 2.7万 | 进入配音阶段 |
+| ⭐ 黑水镇 | 中式民俗恐怖互动影游（AI 动画） | 个人（小黑与鹿鹿） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1vLFCzwEq1 | 9052 | 中元夜尸变；全 AI 画面；2026-10-09 纠错（原 RDR2/仙剑素材作废） |
+| ⭐ 随侯珠 | 南方民俗视觉小说 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1o7ht6pEgQ | 6580 | 蛇神民俗百合 |
+| ⭐ 妄生 | 国产民俗志怪 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1RAeV67Ed9 | 39.5万 | 志怪短篇合集 |
+| ⭐ 泯灭 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV14HHq6uEX5 | 10.4万 | 新婚夫妻凶宅 |
+| ⭐ 南亭湖 | 中式梦核恐怖 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1RVH86hEBF | 2613 | 老机械厂分尸案 |
+| ⭐ 诡偶 | 中式民俗解谜恐怖 | 未知（未知（勾陈一）） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV17Jap6rEjm | 2.6万 | 勾陈一竖屏解谜（TapTap/小程序）；原 Steam 同名作素材已纠错 |
+| ⭐ 重启：工作日 | 悬疑恐怖 AI互动影游 | 未知（未知（NOXlabs）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1GhHS6QECw | 7150 | 七日循环上班 |
+| ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
+| ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
+| ⭐ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |
+| ⭐ 棺门 | 第一人称民俗恐怖 | 未知（未知） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1pEtm6CEBP | 7072 | 先导PV，愿望单已开 |
+| ⭐ 烟雨山异闻 | 中式民俗悬疑 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1ZYak6aELT | 1616 | 父子坠崖发现洞府 |
 | 不问凡尘 | AI修仙RPG（AI NPC） | 未知（未知（有UP主称字节游戏出品）） | 抢先体验 | 2026-10-09 | https://www.bilibili.com/video/BV1BdYQ6aESB | 113.6万 | NPC有记忆与亲密度；9月下旬EA，首周19.9元 |
 | 图灵证言 | AI Agent 悬疑推理+恋爱 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1esY76RE5U | 5.3万 | 角色大脑与剧情交给AI Agent |
 | 我们正在生成 | AI生成galgame | 未知（未知（卷积回声工作室）） | Demo/测试 | 2026-10-09 | https://www.bilibili.com/video/BV1DTHW63E4Z | 6.8万 | 需自带API key，PC与安卓 |
@@ -130,22 +130,22 @@
 | 源初之结 | 米哈游新作 | 大厂（大厂（米哈游）） | 科隆曝光 | 2026-10-09 | https://www.bilibili.com/video/BV1nh8R6vEKw | 7.9万 | 科隆开幕 |
 | 艾希：续 | 动作续作（众筹） | 未知（未知（老马克肖）） | 众筹中 | 2026-10-09 | https://www.bilibili.com/video/BV15uHE6vEDh | 5.7万 | 众筹超2700万 |
 | 秩序：新曙光 | 舰船策略手游/PC | 未知（未知（制作组）） | 10-14 EA | 2026-10-09 | https://www.bilibili.com/video/BV1gMhi6aEgH | 2.1万 | Steam+TapTap |
-| ⚠️ 镇尸 | 中式找异常恐怖 | 未知（未知） | 已发售/实况热 | 2026-10-10 | https://www.bilibili.com/video/BV1rAbp66EV1 | 122.6万 | 中式找异常；南译速通约122.6万播放 |
-| ⚠️ 阴界诡录：尸语公寓 | 中式找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1E3NgzWEVh | 71.0万 | 阴界诡录系列；公寓找异常；ee实况约71万 |
-| ⚠️ 无人 | 中式梦核找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1WGqhYdEjx | 110.2万 | 中式梦核找异常；C菌全流程约110万 |
-| ⚠️ 萦回 | 中式民俗微恐 RPG | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1SjeP62EMn | 581 | 逝者回生者家；民俗微恐RPG demo |
-| ⚠️ 冥娘引 | 中式民俗戏曲风恐怖 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1AtYE6kESe | 307 | 民俗戏曲风格恐游 Demo |
-| ⚠️ 别眨眼 | 梦核/阈限空间心理恐怖 | 未知（未知） | 即将发售 | 2026-10-10 | https://www.bilibili.com/video/BV17Kp46YEZN | 1638 | 霸凌后坠入后室；梦核恐怖 |
+| ⭐ 镇尸 | 中式找异常恐怖 | 未知（未知） | 已发售/实况热 | 2026-10-10 | https://www.bilibili.com/video/BV1rAbp66EV1 | 122.6万 | 中式找异常；南译速通约122.6万播放 |
+| ⭐ 阴界诡录：尸语公寓 | 中式找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1E3NgzWEVh | 71.0万 | 阴界诡录系列；公寓找异常；ee实况约71万 |
+| ⭐ 无人 | 中式梦核找异常恐怖 | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1WGqhYdEjx | 110.2万 | 中式梦核找异常；C菌全流程约110万 |
+| ⭐ 萦回 | 中式民俗微恐 RPG | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1SjeP62EMn | 581 | 逝者回生者家；民俗微恐RPG demo |
+| ⭐ 冥娘引 | 中式民俗戏曲风恐怖 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1AtYE6kESe | 307 | 民俗戏曲风格恐游 Demo |
+| ⭐ 别眨眼 | 梦核/阈限空间心理恐怖 | 未知（未知） | 即将发售 | 2026-10-10 | https://www.bilibili.com/video/BV17Kp46YEZN | 1638 | 霸凌后坠入后室；梦核恐怖 |
 | 1999保密协议 | AI互动影游 | 未知（未知） | 商店页上线 | 2026-10-10 | https://www.bilibili.com/video/BV1uiao6oEmy | 1292 | 天命重启原班/暖铁互动；AI影游 |
 | Duola Mage | 二次元动作肉鸽（AI开发） | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1xZHW6TE9n | 7698 | 自称无站外宣发；AI/UGC编辑器开发 |
-| ⚠️ 镇邪2 | 中式民俗联机抓鬼 | 未知（未知） | 首发宣传 | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | 110.5万 | 多人联机+抓鬼炼尸+画符+下墓摸金 |
-| ⚠️ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；扮道士单元剧 |
-| ⚠️ 鬼子母 Hariti | 第一人称中式心理恐怖 | 小团队（Ghostcase，《凶寓》《恶意》开发方） | 已发售（2026-08-11） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4018740/ ；X 单帖最高赞 2144；档案 state/x-hariti.md |
-| ⚠️ 未烬之约 EMBERBOUND | 兽人题材现代日常视觉小说 | 小团队（Fluffore Studio） | 开发中（Patreon 第二章测试；Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4634770/ ；X 单帖最高赞 1173；档案 state/x-emberbound.md |
-| ⚠️ 凶寓 Dread Flats | 第一人称中式怪谈恐怖 | 小团队（Ghostcase） | 已发售（2025-07-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3114900/ ；X 单帖最高赞 105；档案 state/x-dreadflats.md |
-| ⚠️ 灵魂甜品 Soulcake | 女性向奇幻恋爱探索 AVG（百合/GB） | 小团队（自己的房间 Room of One's Own，2 人） | 开发中（2027 年；itch 免费 Demo，Steam Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4792160/ ；X 单帖最高赞 4；档案 state/x-soulcake.md |
-| ⚠️ 诡拓 Rubbings | 中式民俗微恐悬疑推理 | 小团队（午夜说书人；发行 Erabit） | 已发售（2025-04-24） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2819030/ ；X 单帖最高赞 2；档案 state/x-rubbings.md |
-| ⚠️ 除靈館 Haunted House | AI 美术叙事解谜恐怖（理解怨灵、无战斗） | 小团队（改變娛樂工作室 / 哈皮，台湾） | 开发中（Steam 页，2026 Q4） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2708920/ ；X 单帖最高赞 2；档案 state/x-chulingguan.md |
+| ⭐ 镇邪2 | 中式民俗联机抓鬼 | 未知（未知） | 首发宣传 | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | 110.5万 | 多人联机+抓鬼炼尸+画符+下墓摸金 |
+| ⭐ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；扮道士单元剧 |
+| ⭐ 鬼子母 Hariti | 第一人称中式心理恐怖 | 小团队（Ghostcase，《凶寓》《恶意》开发方） | 已发售（2026-08-11） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4018740/ ；X 单帖最高赞 2144；档案 state/x-hariti.md |
+| ⭐ 未烬之约 EMBERBOUND | 兽人题材现代日常视觉小说 | 小团队（Fluffore Studio） | 开发中（Patreon 第二章测试；Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4634770/ ；X 单帖最高赞 1173；档案 state/x-emberbound.md |
+| ⭐ 凶寓 Dread Flats | 第一人称中式怪谈恐怖 | 小团队（Ghostcase） | 已发售（2025-07-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3114900/ ；X 单帖最高赞 105；档案 state/x-dreadflats.md |
+| ⭐ 灵魂甜品 Soulcake | 女性向奇幻恋爱探索 AVG（百合/GB） | 小团队（自己的房间 Room of One's Own，2 人） | 开发中（2027 年；itch 免费 Demo，Steam Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4792160/ ；X 单帖最高赞 4；档案 state/x-soulcake.md |
+| ⭐ 诡拓 Rubbings | 中式民俗微恐悬疑推理 | 小团队（午夜说书人；发行 Erabit） | 已发售（2025-04-24） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2819030/ ；X 单帖最高赞 2；档案 state/x-rubbings.md |
+| ⭐ 除靈館 Haunted House | AI 美术叙事解谜恐怖（理解怨灵、无战斗） | 小团队（改變娛樂工作室 / 哈皮，台湾） | 开发中（Steam 页，2026 Q4） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2708920/ ；X 单帖最高赞 2；档案 state/x-chulingguan.md |
 | 致下一个黎明 To the next dawn | 日系二次元魔法战斗 ARPG | 个人（兔狐喵菇工作室 / WaterKiNoKo；发行糕薯科技） | 开发中（Steam 页） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4981440/ ；X 单帖最高赞 568；档案 state/x-nextdawn.md |
 | Burning Sword: Death Sun | 南宋武侠硬核动作+Roguelite | 小团队（Nomadic Games；发行 Rising Tide） | 新 Demo（2026-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/2561460/ ；X 单帖最高赞 122；档案 state/x-burningsword.md |
 | Vivere Retro | 心理生存恐怖（越肩战斗） | 个人（Vidas Salavejus，已做近 50 款） | 已发售（2026-08-20） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4303290/ ；X 单帖最高赞 112；档案 state/x-vivere.md |
@@ -162,16 +162,16 @@
 | Seventh Seal | 第三人称生存恐怖动作 | 小团队（Renderready, LLC） | Demo | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4023230/ ；X 单帖最高赞 4；档案 state/x-seventhseal.md |
 | 山海：神话起源 Shan Hai: Mythic Origins | 山海经动作肉鸽（最多 4 人合作） | 个人（Honglizi，自称独立开发者） | 开发中（有 Demo） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3540450/ ；X 单帖最高赞 0；档案 state/x-shanhai.md |
 <!-- added:2026-10-10 -->
-| ⚠️ 叫魂 JIAOHUN | 电影化第一人称中式心理恐怖（1999 小镇） | 小团队（12AM BLACKOUT） | 首曝（2027 年，PS5/PC） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3550940/ ；X 单帖最高赞 361；档案 state/x-jiaohun.md |
-| ⚠️ 魇 Yan: Parasomnia | 东南亚华人民俗·固定视角生存恐怖（单人/双人合作） | 小团队（Cerebral Games，马来西亚；发行 Nimbus Games） | 开发中（据 X 消息延期至 2027-08） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2967220/ ；X 单帖最高赞 157；档案 state/x-yanparasomnia.md |
-| ⚠️ 遥之境 Far Realm | 台味叙事 2D 像素冒险（妖怪世界） | 小团队（高椰菜 Cabbroge，台湾；GameWorks Ventures 协力） | Demo（2026-09-21 起） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4532450/ ；X 单帖最高赞 12；档案 state/x-farrealm.md |
-| ⚠️ What Acts up | 社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） | 小团队（Rebirth Studio） | Demo（Steam） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/1602890/ ；X 单帖最高赞 1；档案 state/x-whatactsup.md |
-| ⚠️ 只有她知晓光辉的名字 The Name Only She Knew | 手绘逐格动画奇幻视觉小说 | 小团队（紳士帽動畫製作組，香港） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5279790/ ；X 单帖最高赞 5；档案 state/x-nameonly.md |
-| ⚠️ I Hear the Forest | 2000 年代复古风慢热民俗恐怖（护林员） | 小团队（Podoba Interactive，乌克兰） | 开发中（2027 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5038420/ ；X 单帖最高赞 3290；档案 state/x-hearforest.md |
-| ⚠️ Hapunan | 菲律宾都市传说心理恐怖（夜市摆摊） | 小团队（YIKON GAMES；发行 Neuroticfly Games） | 已发售（2026-08-25） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4750540/ ；X 单帖最高赞 26；档案 state/x-hapunan.md |
-| ⚠️ お結び OMUSUBI（缘结迷境） | 日式恐怖 ADV（三途之川） | 个人（KUSAKABE OSAMU / studio_libera；发行 Vaka Game Magazine） | 已发售（2024-08-01，2 周年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2634560/ ；X 单帖最高赞 225；档案 state/x-omusubi.md |
-| ⚠️ The Doll Shop | 手绘日式乡村叙事恐怖（人偶匠） | 小团队（Atelier Sentô，漫画家二人组） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3851680/ ；X 单帖最高赞 192；档案 state/x-dollshop.md |
-| ⚠️ 民国诡事 Old China: Strange Tales（Strange Tales of Republican China） | 民国中式民俗恐怖·AI 互动影像解谜 | 小团队（LinearGame Pte. Ltd.；X 宣发由 AI 互动视频平台 Yoroll 账号负责） | Demo（Steam 免费 Demo，正式版即将推出） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4590810/ ；X 单帖最高赞 0；档案 state/x-strangetales.md |
+| ⭐ 叫魂 JIAOHUN | 电影化第一人称中式心理恐怖（1999 小镇） | 小团队（12AM BLACKOUT） | 首曝（2027 年，PS5/PC） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3550940/ ；X 单帖最高赞 361；档案 state/x-jiaohun.md |
+| ⭐ 魇 Yan: Parasomnia | 东南亚华人民俗·固定视角生存恐怖（单人/双人合作） | 小团队（Cerebral Games，马来西亚；发行 Nimbus Games） | 开发中（据 X 消息延期至 2027-08） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2967220/ ；X 单帖最高赞 157；档案 state/x-yanparasomnia.md |
+| ⭐ 遥之境 Far Realm | 台味叙事 2D 像素冒险（妖怪世界） | 小团队（高椰菜 Cabbroge，台湾；GameWorks Ventures 协力） | Demo（2026-09-21 起） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4532450/ ；X 单帖最高赞 12；档案 state/x-farrealm.md |
+| ⭐ What Acts up | 社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） | 小团队（Rebirth Studio） | Demo（Steam） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/1602890/ ；X 单帖最高赞 1；档案 state/x-whatactsup.md |
+| ⭐ 只有她知晓光辉的名字 The Name Only She Knew | 手绘逐格动画奇幻视觉小说 | 小团队（紳士帽動畫製作組，香港） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5279790/ ；X 单帖最高赞 5；档案 state/x-nameonly.md |
+| ⭐ I Hear the Forest | 2000 年代复古风慢热民俗恐怖（护林员） | 小团队（Podoba Interactive，乌克兰） | 开发中（2027 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/5038420/ ；X 单帖最高赞 3290；档案 state/x-hearforest.md |
+| ⭐ Hapunan | 菲律宾都市传说心理恐怖（夜市摆摊） | 小团队（YIKON GAMES；发行 Neuroticfly Games） | 已发售（2026-08-25） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4750540/ ；X 单帖最高赞 26；档案 state/x-hapunan.md |
+| ⭐ お結び OMUSUBI（缘结迷境） | 日式恐怖 ADV（三途之川） | 个人（KUSAKABE OSAMU / studio_libera；发行 Vaka Game Magazine） | 已发售（2024-08-01，2 周年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2634560/ ；X 单帖最高赞 225；档案 state/x-omusubi.md |
+| ⭐ The Doll Shop | 手绘日式乡村叙事恐怖（人偶匠） | 小团队（Atelier Sentô，漫画家二人组） | 即将发售（2026-10-12） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3851680/ ；X 单帖最高赞 192；档案 state/x-dollshop.md |
+| ⭐ 民国诡事 Old China: Strange Tales（Strange Tales of Republican China） | 民国中式民俗恐怖·AI 互动影像解谜 | 小团队（LinearGame Pte. Ltd.；X 宣发由 AI 互动视频平台 Yoroll 账号负责） | Demo（Steam 免费 Demo，正式版即将推出） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4590810/ ；X 单帖最高赞 0；档案 state/x-strangetales.md |
 | 門 GATE | 昭和日式第一人称恐怖探索（诅咒道具+战斗） | 小团队（OYONE Studio） | Demo（2026 Q4） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4718160/ ；X 单帖最高赞 18；档案 state/x-gate.md |
 | Liminal Point | 等距视角经典生存恐怖（雾岛） | 小团队（HideWorks） | 开发中（2027 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3299920/ ；X 单帖最高赞 376；档案 state/x-liminalpoint.md |
 | Inkblood 血墨诡案 | 手绘神秘学侦探冒险 | 小团队（Hey Bird!；发行 CRITICAL REFLEX） | Demo（2026 年） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4114100/ ；X 单帖最高赞 287；档案 state/x-inkblood.md |

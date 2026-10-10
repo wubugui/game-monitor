@@ -32,7 +32,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「解谜游戏 独立游戏」；种子视频「《声探疑云》开始配音啦，大家来听听对不对味」· UP 声探疑云SoundAgent · BV1g9ad64EZj · 2026-09-30 · 播放 2.7万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 声探疑云
+# ⭐ 声探疑云
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

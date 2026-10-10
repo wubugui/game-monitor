@@ -137,7 +137,7 @@
     const body = document.createElement('div'); body.className = 'md'; body.innerHTML = md(r.md);
     const heads = [...body.querySelectorAll('h2,h3')]; heads.forEach((hh, k) => hh.id = 's' + k);
     const toc = heads.map((hh, k) => `<a href="javascript:void 0" data-sec="s${k}" style="padding-left:${hh.tagName === 'H3' ? 12 : 0}px">${esc(hh.textContent)}</a>`).join('');
-    const tracked = r.projects && r.projects.length ? `<h2>本期涉及的项目（${r.projects.length}）</h2><div class="chips">${r.projects.map(p => `<a class="card chip" href="#/project/${encodeURIComponent(p.id)}"><div class="cv${p.cover ? '' : ' none'}" style="${p.cover ? `background-image:url('${esc(p.cover)}')` : ''}">${p.cover ? '' : '◆'}${p.competitor ? '<span class="badge comp">⚠️</span>' : ''}</div><div class="body"><div class="nm">${esc(p.name)}</div></div></a>`).join('')}</div>` : '';
+    const tracked = r.projects && r.projects.length ? `<h2>本期涉及的项目（${r.projects.length}）</h2><div class="chips">${r.projects.map(p => `<a class="card chip" href="#/project/${encodeURIComponent(p.id)}"><div class="cv${p.cover ? '' : ' none'}" style="${p.cover ? `background-image:url('${esc(p.cover)}')` : ''}">${p.cover ? '' : '◆'}${p.competitor ? '<span class="badge comp">⭐</span>' : ''}</div><div class="body"><div class="nm">${esc(p.name)}</div></div></a>`).join('')}</div>` : '';
     $app.innerHTML = `${pager}<div class="sub">${esc(r.date)} · ${fmtDate(r.date)}</div>
       <div class="report-wrap"><nav class="toc">${toc}</nav><article id="rbody"></article></div>${tracked}${pager}`;
     const art = document.getElementById('rbody');

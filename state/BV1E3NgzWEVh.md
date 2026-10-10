@@ -102,7 +102,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「中式找异常恐怖游戏《阴界诡录：尸语公寓》」· UP 水原夢乃 · BV1BpMc6REGy）；种子视频「未知」· UP 未知 · BV1E3NgzWEVh · 未知 · 播放 未知"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 阴界诡录：尸语公寓
+# ⭐ 阴界诡录：尸语公寓
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -35,7 +35,7 @@ discovery_platform: B站
 discovery: "途径未知（种子为 B站视频 BV1mSa76yEor）"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 乌合之众
+# ⭐ 乌合之众
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -24,7 +24,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2103439388310987206 — 检索 indie_guider 时发现：「心理寫實敘事冒險遊戲《What Acts up》現已公開 Steam Demo」，2026-09-25"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ What Acts up
+# ⭐ What Acts up
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

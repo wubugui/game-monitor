@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/YorollAI/status/2095446168855625991 — 检索「Chinese myth / strange tales」发现：「The free Steam Demo for Strange Tales of Republican China is NOW Available!」，2026-09-03，203 赞 / 4.2 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 民国诡事 Old China: Strange Tales（Strange Tales of Republican China）
+# ⭐ 民国诡事 Old China: Strange Tales（Strange Tales of Republican China）
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

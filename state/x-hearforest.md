@@ -24,7 +24,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/podoba_interact/status/2090823168499806715 — 检索「folk horror / ghost」发现：「we develop a folk horror game / I Hear the Forest」，2026-08-21，3290 赞 / 6.2 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ I Hear the Forest
+# ⭐ I Hear the Forest
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

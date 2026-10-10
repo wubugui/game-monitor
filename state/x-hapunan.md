@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/nemusanji/status/2092710573939253503 — 检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ Hapunan
+# ⭐ Hapunan
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

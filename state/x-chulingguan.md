@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/hapi46085111/status/2068127289213378612 — 检索「恐怖遊戲 steam」发现：「我們用 AI 做了一款恐怖遊戲——但它想說的,是最像人的那種故事。」2026-06-20"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 除靈館 Haunted House
+# ⭐ 除靈館 Haunted House
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

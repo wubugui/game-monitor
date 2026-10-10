@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/erabit_studios/status/2060050973268033636 — 发行商 Erabit 宣传 Steam「悬疑游戏节」(5/29–6/7) 帖中列出「📜 Rubbings – Chin…」，2026-05-28"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 诡拓 Rubbings
+# ⭐ 诡拓 Rubbings
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

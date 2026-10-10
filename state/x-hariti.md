@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/IGN/status/2086981301324640614 — IGN 官方号转发预告「First-person psychological Chinese horror game Hariti…」，2026-08-11，2144 赞 / 34.2 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 鬼子母 Hariti
+# ⭐ 鬼子母 Hariti
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

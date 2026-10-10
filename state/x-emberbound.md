@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/FlufforeStudio/status/2080572107352891677 — 检索「#visualnovel wishlist」发现：官方 PV 帖，2026-07-24，1173 赞 / 138 转 / 7.3 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 未烬之约 EMBERBOUND
+# ⭐ 未烬之约 EMBERBOUND
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

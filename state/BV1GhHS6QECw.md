@@ -32,7 +32,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「互动影游 AI」（每日发现 2026-10-10）；种子视频「悬疑恐怖AI互动影游《重启：工作日》首曝PV」· UP NOXlabs · BV1GhHS6QECw · 2026-10-08 · 播放 7172"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 重启：工作日
+# ⭐ 重启：工作日
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

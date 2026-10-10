@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/shinobi602/status/2108637818230898710 — X 检索「interactive film / Chinese」时发现：shinobi602（52.8 万粉）转发「JIAOHUN | Reveal Trailer」，2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 叫魂 JIAOHUN
+# ⭐ 叫魂 JIAOHUN
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

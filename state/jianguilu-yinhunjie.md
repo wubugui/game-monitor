@@ -44,7 +44,7 @@ discovery_platform: B站
 discovery: "B站同名核验滚雪：在收藏《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 见诡录：阴魂街
+# ⭐ 见诡录：阴魂街
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/Pirat_Nation/status/2067561165064970726 — 检索「chinese horror / jiangshi」发现：Pirat_Nation（35.8 万粉）转发预告，2026-06-18，157 赞 / 1.7 万浏览"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 魇 Yan: Parasomnia
+# ⭐ 魇 Yan: Parasomnia
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

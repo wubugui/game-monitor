@@ -73,7 +73,7 @@ def unquote(v):
 
 
 def truthy(v):
-    return str(v).strip().lower() in ("true", "yes", "1", "y", "是", "⚠️", "⚠")
+    return str(v).strip().lower() in ("true", "yes", "1", "y", "是", "⚠️", "⚠", "⭐")
 
 
 def norm_path(p):
@@ -144,7 +144,7 @@ def change_notes_for_date(md, date, limit=3):
     return notes
 
 def clean_name(n):
-    return re.sub(r"^\s*(⚠️|⚠)\s*", "", n).strip()
+    return re.sub(r"^\s*(⚠️|⚠|⭐)\s*", "", n).strip()
 
 
 def core_name(n):

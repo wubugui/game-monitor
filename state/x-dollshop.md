@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/horrorvisuals/status/2102063771288055918 — 检索 horror 策展号时发现：horrorvisuals（15.6 万粉）推荐，2026-09-21，192 赞"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ The Doll Shop
+# ⭐ The Doll Shop
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

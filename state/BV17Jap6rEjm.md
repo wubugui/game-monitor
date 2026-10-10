@@ -36,7 +36,7 @@ discovery_platform: B站
 discovery: "B站相关视频滚雪（由 BV1kbem6tEnc 的相关推荐发现）；种子视频「最新中式民俗解谜恐怖游戏《诡偶》全流程实况解说」· UP 我叫李期安 · BV17Jap6rEjm · 2026-09-29 · 播放 2.6万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 诡偶
+# ⭐ 诡偶
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

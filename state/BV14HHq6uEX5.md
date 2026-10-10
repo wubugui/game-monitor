@@ -36,7 +36,7 @@ discovery_platform: B站
 discovery: "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「以千禧年真实事件改编？全新中式梦核恐游！新婚夫妻惨遭虐杀！凶宅闹鬼不断！《泯灭》demo」· UP 阿虚-Kurv · BV14HHq6uEX5 · 2026-10-03 · 播放 10.5万"
 discovery_date: "2026-10-09"
 ---
-# ⚠️ 泯灭
+# ⭐ 泯灭
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

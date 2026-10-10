@@ -26,7 +26,7 @@ discovery_platform: X
 discovery: "X（2026-10-10 深挖）；种子帖 https://x.com/Pttz16Pttz/status/2072587820586475540 — 检索「#visualnovel wishlist」发现：「My partner and I (2-person studio) made Amare game VN Soulcake…」2026-07-02"
 discovery_date: "2026-10-10"
 ---
-# ⚠️ 灵魂甜品 Soulcake
+# ⭐ 灵魂甜品 Soulcake
 <!-- psum:start -->
 <!-- added:2026-10-10 -->
 

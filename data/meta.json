@@ -10,6 +10,10 @@
   "大厂",
   "未知"
  ],
+ "disc_platforms": [
+  "B站",
+  "用户指定"
+ ],
  "genres": [
   "AI 驱动",
   "AI新玩法",
@@ -63,6 +67,56 @@
   {
    "competitor": true,
    "cover": "",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「“你可以回到过去，但这里已经空无一人”中式梦核找异常恐怖游戏《无人》」· UP 弥层 · BV1dYh36MEhV）；种子视频「未知」· UP 未知 · BV1WGqhYdEjx · 未知 · 播放 未知",
+   "genre": "中式梦核找异常恐怖",
+   "id": "BV1WGqhYdEjx",
+   "kind": "new",
+   "name": "⚠️缺图 无人",
+   "note": "关注度与数据（ 初建）",
+   "status": "已发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SjeP62EMn.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「「逝者回了生者的家」中式民俗微恐rpg《萦回》demo试玩」· UP 幽蓝Cc · BV1SjeP62EMn · 2026-09-16 · 播放 581",
+   "genre": "中式民俗微恐 RPG",
+   "id": "BV1SjeP62EMn",
+   "kind": "new",
+   "name": "⚠️缺图 萦回",
+   "note": "新建档",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「志怪 独立游戏」（每日发现 2026-10-10，命中视频「中式恐怖游戏《论道聊斋》这是一段尚在打磨中的开篇，也是一场正在成形的聊斋之梦。」· UP 馨苑六少 · BV1SD4C63EZu）；种子视频「未知」· UP 未知 · BV1f4Lq6VE65 · 未知 · 播放 未知",
+   "genre": "国风志怪剧情独立",
+   "id": "BV1f4Lq6VE65",
+   "kind": "new",
+   "name": "⚠️缺图 论道聊斋",
+   "note": "新建档",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10）；种子视频「来了宝宝 今天我们速通中式找异常恐怖游戏《镇尸》」· UP 南译丷 · BV1rAbp66EV1 · 2026-09-06 · 播放 122.6万",
+   "genre": "中式找异常恐怖",
+   "id": "BV1rAbp66EV1",
+   "kind": "new",
+   "name": "⚠️缺图 镇尸",
+   "note": "关注度与数据（ 初建）",
+   "status": "已发售/实况热"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1AtYE6kESe.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「中式民俗悬疑独立游戏《冥娘引》Demo实机视频」· UP 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154",
    "genre": "中式民俗戏曲风恐怖",
    "id": "BV1AtYE6kESe",
    "kind": "new",
@@ -72,7 +126,9 @@
   },
   {
    "competitor": true,
-   "cover": "",
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「梦核恐怖 游戏」（每日发现 2026-10-10）；种子视频「男孩遭霸凌后坠入“后室”！梦核恐怖《别眨眼》即将发售」· UP 游民星空官方 · BV17Kp46YEZN · 2026-10-09 · 播放 1638",
    "genre": "梦核/阈限空间心理恐怖",
    "id": "BV17Kp46YEZN",
    "kind": "new",
@@ -82,47 +138,9 @@
   },
   {
    "competitor": true,
-   "cover": "",
-   "genre": "中式梦核找异常恐怖",
-   "id": "BV1WGqhYdEjx",
-   "kind": "new",
-   "name": "无人",
-   "note": "关注度与数据（ 初建）",
-   "status": "已发售"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "genre": "中式民俗微恐 RPG",
-   "id": "BV1SjeP62EMn",
-   "kind": "new",
-   "name": "萦回",
-   "note": "新建档",
-   "status": "Demo"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "genre": "国风志怪剧情独立",
-   "id": "BV1f4Lq6VE65",
-   "kind": "new",
-   "name": "论道聊斋",
-   "note": "新建档",
-   "status": "Demo"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "genre": "中式找异常恐怖",
-   "id": "BV1rAbp66EV1",
-   "kind": "new",
-   "name": "镇尸",
-   "note": "关注度与数据（ 初建）",
-   "status": "已发售/实况热"
-  },
-  {
-   "competitor": true,
-   "cover": "",
+   "cover": "covers/BV15ZijeREHG.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频 BV15ZijeREHG）",
    "genre": "中式民俗联机抓鬼",
    "id": "BV15ZijeREHG",
    "kind": "new",
@@ -132,7 +150,9 @@
   },
   {
    "competitor": true,
-   "cover": "",
+   "cover": "covers/BV1E3NgzWEVh.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「中式找异常恐怖游戏《阴界诡录：尸语公寓》」· UP 水原夢乃 · BV1BpMc6REGy）；种子视频「未知」· UP 未知 · BV1E3NgzWEVh · 未知 · 播放 未知",
    "genre": "中式找异常恐怖",
    "id": "BV1E3NgzWEVh",
    "kind": "new",
@@ -143,6 +163,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频 BV1mSa76yEor）",
    "genre": "中式民俗悬疑/黑色幽默",
    "id": "BV1mSa76yEor",
    "kind": "updated",
@@ -153,6 +175,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1SXYj6mE1g.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」；种子视频「《京门之下》首曝PV——绝美国风AI影游，这盛世烟火之下，却尽是魑魅，遍布杀机！」· UP 司命互动影游 · BV1SXYj6mE1g · 2026-09-11 · 播放 2.2万",
    "genre": "国风悬疑 AI互动影游",
    "id": "BV1SXYj6mE1g",
    "kind": "updated",
@@ -163,6 +187,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「【中式县城校园×2019中国互联网亚文化×日式电波cult】剧情向心理恐怖像素rpg《你就是缘由》demo将在10月23日上线steam」· UP 空亡月隈 · BV1NVH96SETa · 2026-10-08 · 播放 705",
    "genre": "中式县城校园心理恐怖",
    "id": "BV1NVH96SETa",
    "kind": "updated",
@@ -173,6 +199,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1btHC6bEVr.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「中式民俗恐怖 独立游戏」（每日发现 2026-10-10）；种子视频「暗黑类+中式民俗恐怖+装备掉落+随机词条+ARPG，全缝了？国产暗黑ARPG游戏《太渊无朔》永夜降临，人间无朔！」· UP 太渊无朔 · BV1btHC6bEVr · 2026-10-07 · 播放 2690",
    "genre": "中式民俗恐怖 ARPG",
    "id": "BV1btHC6bEVr",
    "kind": "updated",
@@ -183,6 +211,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1RAeV67Ed9.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「志怪 独立游戏」；种子视频「国产民俗志怪佳作《妄生》全配音-剧情解说」· UP 半支烟sama · BV1RAeV67Ed9 · 2026-09-15 · 播放 39.5万",
    "genre": "国产民俗志怪",
    "id": "BV1RAeV67Ed9",
    "kind": "updated",
@@ -193,16 +223,20 @@
   {
    "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「以千禧年真实事件改编？全新中式梦核恐游！新婚夫妻惨遭虐杀！凶宅闹鬼不断！《泯灭》demo」· UP 阿虚-Kurv · BV14HHq6uEX5 · 2026-10-03 · 播放 10.5万",
    "genre": "中式梦核恐怖",
    "id": "BV14HHq6uEX5",
    "kind": "updated",
    "name": "泯灭",
-   "note": "香蕉星《「消失的夫妻」案件改编中式恐游〈泯灭〉》（09-29，视频）：赞 416 / 藏 164 / 评 25。封面 images/xhs/minmie-banana.jpg。试玩版一命速通。",
+   "note": "香蕉星《「消失的夫妻」案件改编中式恐游〈泯灭〉》（09-29，视频）：赞 416 / 藏 164 / 评 25。封面 images/xhs/minmie-banana.jpg。试玩版一命速通。 〔B站",
    "status": "Demo"
   },
   {
    "competitor": true,
    "cover": "covers/BV1zoe26JEwt.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频）；种子视频「《童年诡事录》试玩版」· UP king17__老了 · BV1zoe26JEwt · 2026-09-18 · 播放 246.1万",
    "genre": "中式民俗/梦核恐怖",
    "id": "BV1zoe26JEwt",
    "kind": "updated",
@@ -213,6 +247,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1J6eb6MEhr.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「携手双胞胎兄弟追溯上世纪冤案…中式民俗恐怖游戏《见诡》demo试玩」· UP 捏个黏糕 · BV1J6eb6MEhr · 2026-09-19 · 播放 2.6万",
    "genre": "中式民俗恐怖解谜",
    "id": "BV1J6eb6MEhr",
    "kind": "updated",
@@ -223,6 +259,8 @@
   {
    "competitor": true,
    "cover": "covers/jianguilu-yinhunjie.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站同名核验滚雪：在竞品《见诡》播放前五核验中发现其 top1 实为本作（Gluneko 实况，8.5万播放），2026-10-09 经用户确认单独建档",
    "genre": "中式民俗/都市步行恐怖（找异常+池核+迷宫）",
    "id": "BV1rBX6Y9Euf",
    "kind": "updated",
@@ -233,6 +271,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1S7LR6VEKc.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频 BV1gE411y7q8）",
    "genre": "中式民俗+克苏鲁叙事",
    "id": "BV1gE411y7q8",
    "kind": "updated",
@@ -243,6 +283,8 @@
   {
    "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」「愿望单 游戏」「解谜游戏 独立游戏」；种子视频「【独立游戏】小团队做的北宋国风解谜，首曝PV来了丨《追境》Steam愿望单开启」· UP 追境-独立游戏 · BV15GHX6hEjk · 2026-10-08 · 播放 331",
    "genre": "北宋国风听觉解谜",
    "id": "BV15GHX6hEjk",
    "kind": "updated",
@@ -253,6 +295,8 @@
   {
    "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1kbem6tEnc 的相关推荐发现）；种子视频「独立互动视频游戏《黑水镇》实机演示」· UP 小黑与鹿鹿 · BV1vLFCzwEq1 · 2026-02-06 · 播放 9052",
    "genre": "中式民俗恐怖互动影游（AI 动画）",
    "id": "BV1vLFCzwEq1",
    "kind": "updated",
@@ -263,26 +307,32 @@
   {
    "competitor": false,
    "cover": "",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「AI 互动影游 新作」（每日发现 2026-10-10）；种子视频「《天命重启》原班人马，暖铁互动全新呈现“1999保密协议”」· UP 暖铁互动游戏组 · BV1uiao6oEmy · 2026-09-30 · 播放 1286",
    "genre": "AI互动影游",
    "id": "BV1uiao6oEmy",
    "kind": "new",
-   "name": "1999保密协议",
+   "name": "⚠️缺图 1999保密协议",
    "note": "新建档",
    "status": "商店页上线"
   },
   {
    "competitor": false,
    "cover": "",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「发售 独立游戏」；种子视频「《Duola Mage》独立游戏Steam发售10天心得，无宣发、无站外！虽然平平无奇但贵在真实！Steam好评率98%！」· UP DuolaMage · BV1xZHW6TE9n · 2026-10-05 · 播放 7563",
    "genre": "二次元动作肉鸽（AI开发）",
    "id": "BV1xZHW6TE9n",
    "kind": "new",
-   "name": "Duola Mage",
+   "name": "⚠️缺图 Duola Mage",
    "note": "新建档",
    "status": "已发售"
   },
   {
    "competitor": false,
    "cover": "covers/BV1CxaW6sE8B.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「游戏开发日志」「塔防 独立游戏」；种子视频「帅是一种艺术！“塔”得好看，“防”得过瘾 《Caliber Citadel（暂定名）》开发日志#5.0 （上）」· UP 吉他果-kanjuta · BV1CxaW6sE8B · 2026-09-30 · 播放 4.2万",
    "genre": "塔防/重炮",
    "id": "BV1CxaW6sE8B",
    "kind": "updated",
@@ -293,6 +343,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1vApu6rE6Y.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1GhHS6QECw 的相关推荐发现）；种子视频「锻剑模拟器打造天下第一神剑！」· UP 陈三岁恐怖游戏 · BV1vApu6rE6Y · 2026-10-07 · 播放 27.6万",
    "genre": "锻剑模拟",
    "id": "BV1vApu6rE6Y",
    "kind": "updated",
@@ -303,6 +355,8 @@
   {
    "competitor": false,
    "cover": "covers/BV11XhF6RExf.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1btHC6bEVr 的相关推荐发现）；种子视频「俯视角东方暗黑砍杀ARPG《TARAE: The Unbound》六道崩坏业力构筑+六大职业联机共斗」· UP 硬核玩家sevokk · BV11XhF6RExf · 2026-08-27 · 播放 2.2万",
    "genre": "俯视角东方暗黑ARPG",
    "id": "BV11XhF6RExf",
    "kind": "updated",
@@ -313,6 +367,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Tkao6XETQ.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「肉鸽 独立游戏」「动作游戏 独立游戏」；种子视频「连续加班27天后，他举起了大刀…」· UP 渗透之C君 · BV1Tkao6XETQ · 2026-09-30 · 播放 14.5万",
    "genre": "二次元动作肉鸽",
    "id": "BV1Tkao6XETQ",
    "kind": "updated",
@@ -322,7 +378,21 @@
   },
   {
    "competitor": false,
+   "cover": "covers/BV1emHx6QEVi.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「生存游戏 独立游戏」「像素游戏 独立游戏」；种子视频「为了躲避怪物，人类逃进了一具巨大的尸体里...【独立游戏demo】」· UP 嗜千儿 · BV1emHx6QEVi · 2026-10-05 · 播放 1.9万",
+   "genre": "克苏鲁生存RPG",
+   "id": "BV1emHx6QEVi",
+   "kind": "updated",
+   "name": "⚠️缺图 受肉症",
+   "note": "团队与靠谱程度（看图+评论证据）",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1ReHQ64ET5.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1Taa861EDN 的相关推荐发现）；种子视频「深山洋馆免费留宿，帮忙工作七天还能拿到报酬，失业旅人以为终于可以安心休息，却发现每晚进入梦境的光正在改变自己｜《七日之馆》完整剧情与十五种结局」· UP 小返不说谎 · BV1ReHQ64ET5 · 2026-10-08 · 播放 2.9万",
    "genre": "洋馆悬疑",
    "id": "BV1ReHQ64ET5",
    "kind": "updated",
@@ -333,6 +403,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1HFY162Es1.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「demo 试玩 游戏」；种子视频「无限流游戏《万象之环》新版demo发布，提供20+小时游戏时长，欢迎前来品鉴和批评！」· UP 万象之环 · BV1HFY162Es1 · 2026-09-14 · 播放 5.4万",
    "genre": "无限流叙事",
    "id": "BV1HFY162Es1",
    "kind": "updated",
@@ -343,6 +415,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1jshE6oEtT.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「实机PV」；种子视频「《三国杀·烽烟策》实机PV首曝 | 10月8日一测·卧龙出山」· UP 三国杀烽烟策 · BV1jshE6oEtT · 2026-09-23 · 播放 104.1万",
    "genre": "三国SLG",
    "id": "BV1jshE6oEtT",
    "kind": "updated",
@@ -353,6 +427,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1wfhR6gEMx.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「实机演示 独立游戏」；种子视频「我把东方格斗作写成了3D游戏！《东方天试院》永江衣玖 技能演示」· UP 有灯实验室 · BV1wfhR6gEMx · 2026-09-26 · 播放 3.9万",
    "genre": "东方同人3D格斗",
    "id": "BV1wfhR6gEMx",
    "kind": "updated",
@@ -363,6 +439,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1XpYL6EEXx.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产单机」；种子视频「14年过去，蜗牛带着《九阴真经》新作回来了！」· UP 悠闲的蚊子 · BV1XpYL6EEXx · 2026-09-11 · 播放 6.8万",
    "genre": "武侠",
    "id": "BV1XpYL6EEXx",
    "kind": "updated",
@@ -373,6 +451,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1AeaA68ET2.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「实机演示 独立游戏」；种子视频「异世界复古风动作肉鸽独立游戏《云海战记》最新实机宣传片！超多新技能实机演示，画面、地图全面升级！」· UP 云海战记 · BV1AeaA68ET2 · 2026-09-24 · 播放 3.7万",
    "genre": "复古动作肉鸽",
    "id": "BV1AeaA68ET2",
    "kind": "updated",
@@ -383,6 +463,8 @@
   {
    "competitor": false,
    "cover": "covers/BV18Wt26nEaL.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国风游戏 独立游戏」；种子视频「喜当爹！国风仙侠治愈养女儿游戏《仙乡小千金》」· UP 安娜iv · BV18Wt26nEaL · 2026-09-05 · 播放 5.2万",
    "genre": "国风仙侠养女儿",
    "id": "BV18Wt26nEaL",
    "kind": "updated",
@@ -393,6 +475,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1c6aE66Eyn.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「实机PV」；种子视频「江湖无限！西山居《剑侠世界4：无限》大江湖实机pv发布」· UP 剑侠世界4无限 · BV1c6aE66Eyn · 2026-09-29 · 播放 5.7万",
    "genre": "MMO",
    "id": "BV1c6aE66Eyn",
    "kind": "updated",
@@ -403,6 +487,8 @@
   {
    "competitor": false,
    "cover": "covers/BV19Apu6rEYa.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「愿望单 游戏」；种子视频「15万愿望单达成！剧情驱动肉鸽RPG《勇者小队全灭了。》11月10日正式发售」· UP Neverland_entmt · BV19Apu6rEYa · 2026-10-07 · 播放 3112",
    "genre": "剧情驱动肉鸽RPG",
    "id": "BV19Apu6rEYa",
    "kind": "updated",
@@ -412,17 +498,9 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1emHx6QEVi.jpg",
-   "genre": "克苏鲁生存RPG",
-   "id": "BV1emHx6QEVi",
-   "kind": "updated",
-   "name": "受肉症",
-   "note": "团队与靠谱程度（看图+评论证据）",
-   "status": "Demo"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV1j4ez6oEJ6.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「肉鸽 独立游戏」「种田 独立游戏」；种子视频「面对疾风吧！用卡牌来种田建城、打本刷宝吧【免费试玩】《叠叠不休》」· UP 苏安安Susanne · BV1j4ez6oEJ6 · 2026-09-21 · 播放 5.8万",
    "genre": "卡牌种田建城",
    "id": "BV1j4ez6oEJ6",
    "kind": "updated",
@@ -433,6 +511,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1WSaf6dERw.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」「沙盒游戏 独立游戏」；种子视频「《城市蓝图》最新实机：从丝滑铺路到魔幻立交，一次爽看！」· UP 城市蓝图 · BV1WSaf6dERw · 2026-10-01 · 播放 6.6万",
    "genre": "城市建造",
    "id": "BV1WSaf6dERw",
    "kind": "updated",
@@ -443,6 +523,8 @@
   {
    "competitor": false,
    "cover": "covers/BV168hS69EgX.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「策略游戏 独立游戏」；种子视频「我招募了100头魔物！」· UP 以子OvO · BV168hS69EgX · 2026-09-26 · 播放 4.8万",
    "genre": "背包乱斗+基地+自走棋",
    "id": "BV168hS69EgX",
    "kind": "updated",
@@ -453,6 +535,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1LDaU6LEAR.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「合作游戏 独立游戏」；种子视频「早殡早安！4人合作热热闹闹殡仪馆经营《墓后营生》」· UP 像素熊猫 · BV1LDaU6LEAR · 2026-10-02 · 播放 1.7万",
    "genre": "4人合作殡仪馆经营",
    "id": "BV1LDaU6LEAR",
    "kind": "updated",
@@ -463,6 +547,8 @@
   {
    "competitor": false,
    "cover": "covers/BV19Qeb6fErq.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产单机」；种子视频「好我冲! 能肘赢复活赛的国产肉鸽神游，究竟有多大魅力？」· UP 星之迷雾Lucky · BV19Qeb6fErq · 2026-09-19 · 播放 7.6万",
    "genre": "水墨仙侠动作肉鸽",
    "id": "BV19Qeb6fErq",
    "kind": "updated",
@@ -473,6 +559,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1dztJ6sE6T.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国风游戏 独立游戏」；种子视频「独立游戏《大宋汴京梦华录》国风新手游-假-游玩评测」· UP 德古拉先森 · BV1dztJ6sE6T · 2026-09-02 · 播放 2.0万",
    "genre": "国风经营",
    "id": "BV1dztJ6sE6T",
    "kind": "updated",
@@ -483,6 +571,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1hta36vEsb.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「武侠游戏 独立游戏」；种子视频「全新DLC 「玄相通天」，即将上线！」· UP 太吾绘卷官方 · BV1hta36vEsb · 2026-09-28 · 播放 4.1万",
    "genre": "武侠模拟RPG（DLC）",
    "id": "BV1hta36vEsb",
    "kind": "updated",
@@ -493,6 +583,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1yNhE66Ev9.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」；种子视频「僵尸版星露谷！全新墓场模拟《守墓人2》值得购买吗？买前这8件事需要知道，萌新必看」· UP 超级洋山芋啊 · BV1yNhE66Ev9 · 2026-09-22 · 播放 6.5万",
    "genre": "墓场模拟经营",
    "id": "BV1yNhE66Ev9",
    "kind": "updated",
@@ -503,6 +595,8 @@
   {
    "competitor": false,
    "cover": "",
+   "disc_platform": "用户指定",
+   "discovery": "用户自研项目（***Story / *** 仓库）",
    "genre": "45°等距民俗恐怖冒险解谜",
    "id": "***",
    "kind": "updated",
@@ -513,6 +607,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Rsh86xEiW.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」；种子视频「《小小收藏家》首曝PV：和文物交朋友，在异世界安个家！」· UP 小小收藏家手游 · BV1Rsh86xEiW · 2026-09-23 · 播放 4.5万",
    "genre": "文物收集手游",
    "id": "BV1Rsh86xEiW",
    "kind": "updated",
@@ -523,6 +619,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1rdYy6EEY5.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「定档 独立游戏」「解谜游戏 独立游戏」「视觉小说 独立游戏」；种子视频「国产推理AVG《异病侦探》定档11月5日 | 只要杀人不被发现，就能成神」· UP 异病侦探 · BV1rdYy6EEY5 · 2026-09-15 · 播放 3.1万",
    "genre": "国产推理AVG",
    "id": "BV1rdYy6EEY5",
    "kind": "updated",
@@ -533,6 +631,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Tsps6kEju.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产单机」；种子视频「【IGN】关于《影之刃零》你要知道的12件事」· UP IGN中国 · BV1Tsps6kEju · 2026-10-09 · 播放 10.7万",
    "genre": "动作单机",
    "id": "BV1Tsps6kEju",
    "kind": "updated",
@@ -543,6 +643,8 @@
   {
    "competitor": false,
    "cover": "covers/BV183e16wEKc.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「实机PV」；种子视频「《怪物猎人：旅人》「光稜龙」实机首曝」· UP 怪物猎人旅人 · BV183e16wEKc · 2026-09-20 · 播放 108.8万",
    "genre": "狩猎RPG（手游/多端）",
    "id": "BV183e16wEKc",
    "kind": "updated",
@@ -553,6 +655,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1zHYd63EKA.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「游戏开发日志」；种子视频「奇遇探险、自创武将实装，《战国立志传》开发日志20260912」· UP 战国立志传 · BV1zHYd63EKA · 2026-09-12 · 播放 1.4万",
    "genre": "战国策略RPG",
    "id": "BV1zHYd63EKA",
    "kind": "updated",
@@ -563,6 +667,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Sbhx6TE9f.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」「多人联机 独立 独立游戏」；种子视频「【全球首发】我们的多人联机欢乐新游《摇摇晃晃去旅行》PV首曝！来一场说走就走的搞笑车旅~」· UP ACE游戏社 · BV1Sbhx6TE9f · 2026-09-28 · 播放 2.3万",
    "genre": "4人合作公路旅行",
    "id": "BV1Sbhx6TE9f",
    "kind": "updated",
@@ -573,6 +679,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1ygYd6UEui.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「解谜游戏 独立游戏」；种子视频「这游戏只要改一个字，就能改写整个世界？！」· UP 飘飘微风 · BV1ygYd6UEui · 2026-09-12 · 播放 6.3万",
    "genre": "文字解谜",
    "id": "BV1ygYd6UEui",
    "kind": "updated",
@@ -583,6 +691,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1o1pw6fExf.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1GhHS6QECw 的相关推荐发现）；种子视频「来了宝宝 国产心理恐怖游戏《星期五之后》速通」· UP 南译丷 · BV1o1pw6fExf · 2026-10-06 · 播放 2.2万",
    "genre": "国产心理恐怖",
    "id": "BV1o1pw6fExf",
    "kind": "updated",
@@ -593,6 +703,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1gwHk6tEy9.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」「实机PV」；种子视频「全新音游《星梦旅记·域灰之梦》首曝PV | 如果是梦那就别醒来」· UP 星梦旅记-域灰之梦 · BV1gwHk6tEy9 · 2026-10-04 · 播放 2.3万",
    "genre": "剧情下落式音游",
    "id": "BV1gwHk6tEy9",
    "kind": "updated",
@@ -603,6 +715,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1pVej6MESD.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「试玩版 国产」；种子视频「暗黑风刷宝新游戏！无体力限制无死亡惩罚《暗黑西游：列妖》测试版试玩实况」· UP 制杖少女vivi酱 · BV1pVej6MESD · 2026-09-15 · 播放 4.2万",
    "genre": "暗黑刷宝",
    "id": "BV1pVej6MESD",
    "kind": "updated",
@@ -613,6 +727,8 @@
   {
    "competitor": false,
    "cover": "covers/BV158eN6oEJZ.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「解谜游戏 独立游戏」；种子视频「匠心之作！一场重回童年的治愈解压之旅《木木屋/Woodo》·休闲解谜新游」· UP 苏安安Susanne · BV158eN6oEJZ · 2026-09-17 · 播放 3.7万",
    "genre": "治愈解压",
    "id": "BV158eN6oEJZ",
    "kind": "updated",
@@ -623,6 +739,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1xnYt6uEva.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」；种子视频「已到账！绝对是好游戏！鬼叔看开放世界新二游《未眠野》首爆PV：能照搬好了也是本事，纠结这个没游戏玩了」· UP 企鹅练习生 · BV1xnYt6uEva · 2026-09-09 · 播放 1.8万",
    "genre": "开放世界二游",
    "id": "BV1xnYt6uEva",
    "kind": "updated",
@@ -633,6 +751,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1QMh466E16.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「定档 独立游戏」「搜打撤 独立游戏」「射击游戏 独立 独立游戏」；种子视频「《查无此地》：定档了！ 10月14日抢先体验上线Steam」· UP 凉屋游戏 · BV1QMh466E16 · 2026-09-25 · 播放 4.3万",
    "genre": "凉屋新作",
    "id": "BV1QMh466E16",
    "kind": "updated",
@@ -643,6 +763,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1ZgYB6REuY.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「解谜游戏 独立游戏」；种子视频「一台旧电脑，牵扯出两个家庭的悲剧——《桌面探索者》究竟讲了什么？」· UP 夜浮獭 · BV1ZgYB6REuY · 2026-09-14 · 播放 1.5万",
    "genre": "桌面叙事解谜",
    "id": "BV1ZgYB6REuY",
    "kind": "updated",
@@ -653,6 +775,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1e8hX6HE7i.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「肉鸽 独立游戏」「策略游戏 独立游戏」；种子视频「95%好评！《永铃回响》如何加快了战棋RPG对局节奏？」· UP 全球球变冷 · BV1e8hX6HE7i · 2026-09-28 · 播放 8.3万",
    "genre": "肉鸽战棋",
    "id": "BV1e8hX6HE7i",
    "kind": "updated",
@@ -663,6 +787,8 @@
   {
    "competitor": false,
    "cover": "covers/BV16Ma36EECB.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「搜打撤 独立游戏」「生存游戏 独立游戏」「沙盒游戏 独立游戏」；种子视频「深海克苏鲁+搜打撤？独立游戏《沉渊归航》正式公开！」· UP OKJOY · BV16Ma36EECB · 2026-09-29 · 播放 4.1万",
    "genre": "深海克苏鲁搜打撤",
    "id": "BV16Ma36EECB",
    "kind": "updated",
@@ -673,6 +799,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1tSYx66EvP.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1SXYj6mE1g 的相关推荐发现）；种子视频「刘慈欣原著授权 |《流浪地球：望日》首支预告片」· UP 流浪地球望日 · BV1tSYx66EvP · 2026-09-10 · 播放 812.4万",
    "genre": "科幻第三人称射击单机",
    "id": "BV1tSYx66EvP",
    "kind": "updated",
@@ -683,6 +811,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Edec6WEun.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产单机」「试玩版 国产」；种子视频「老戴试玩《湮灭之潮 》超预期！上手简！战斗爽！女主美翻了！新手教程+实战关卡， 同期上传DLSS5后处理 画质加强版」· UP 老戴在此 · BV1Edec6WEun · 2026-09-16 · 播放 23.4万",
    "genre": "动作游戏",
    "id": "BV1Edec6WEun",
    "kind": "updated",
@@ -693,6 +823,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1nh8R6vEKw.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「上线 steam 国产」；种子视频「国产游戏占领科隆？米哈游《源初之结》领衔开幕|《巫师3》免费升级+白嫖DLC|《无限大》明年1月上线？|《昭和米国物语》米国人也能飞？|《湮灭之潮》脸模修改？」· UP steam情报局 · BV1nh8R6vEKw · 2026-08-26 · 播放 7.9万",
    "genre": "米哈游新作",
    "id": "BV1nh8R6vEKw",
    "kind": "updated",
@@ -703,6 +835,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1UKe86JEYj.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「demo 试玩 游戏」「修仙游戏 独立游戏」；种子视频「60万字爽文剧情纯手搓！可以当小说看的修仙游戏灵劫变新DEMO测试免费开启！」· UP 灵劫变 · BV1UKe86JEYj · 2026-09-19 · 播放 1.8万",
    "genre": "修仙文字RPG",
    "id": "BV1UKe86JEYj",
    "kind": "updated",
@@ -713,6 +847,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1nMpM6JEEF.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「demo 试玩 游戏」；种子视频「《烤肉！！！》Demo已免费开放试玩 来和朋友一起开店吧！」· UP Lime_Studios · BV1nMpM6JEEF · 2026-10-07 · 播放 2.8万",
    "genre": "多人开店经营",
    "id": "BV1nMpM6JEEF",
    "kind": "updated",
@@ -723,6 +859,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1uQhs6YE7b.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产单机」；种子视频「黑雾异星里的自由意志丨《生生：不熄之火》宣传PV」· UP 生生不熄之火 · BV1uQhs6YE7b · 2026-09-23 · 播放 10.3万",
    "genre": "异星生存/叙事",
    "id": "BV1uQhs6YE7b",
    "kind": "updated",
@@ -733,6 +871,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1KxeS6TEry.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「肉鸽 独立游戏」「策略游戏 独立游戏」；种子视频「喝了10000个血瓶！我终于通关了游戏！」· UP 艾瑞克Game · BV1KxeS6TEry · 2026-09-22 · 播放 8.3万",
    "genre": "动作肉鸽",
    "id": "BV1KxeS6TEry",
    "kind": "updated",
@@ -743,6 +883,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1gMhi6aEgH.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「游戏开发日志」；种子视频「[秩序：新曙光]正经的开发日志·完结篇：EA版本内容概览」· UP 秩序新曙光制作组 · BV1gMhi6aEgH · 2026-09-21 · 播放 2.1万",
    "genre": "舰船策略手游/PC",
    "id": "BV1gMhi6aEgH",
    "kind": "updated",
@@ -753,6 +895,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1SaHi6kEUw.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「视觉小说 独立游戏」；种子视频「我的青梅竹马交女朋友了，但是我无法祝福他...蔷薇向游戏《箱庭》」· UP Pilokio · BV1SaHi6kEUw · 2026-10-07 · 播放 6.3万",
    "genre": "蔷薇向叙事",
    "id": "BV1SaHi6kEUw",
    "kind": "updated",
@@ -763,6 +907,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1MEHx6kEhk.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「实机PV」；种子视频「国产像素风ARPG《约书亚：梦境之门》首支实机PV」· UP 约书亚梦境之门官方 · BV1MEHx6kEhk · 2026-10-05 · 播放 5.4万",
    "genre": "像素ARPG",
    "id": "BV1MEHx6kEhk",
    "kind": "updated",
@@ -773,6 +919,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1HXHL6BEX7.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」；种子视频「化身奸商！重回00年、淘二手零件修旧数码，发家搞钱！ 《维修物语》Steam史低推荐」· UP 苏安安Susanne · BV1HXHL6BEX7 · 2026-10-04 · 播放 2.5万",
    "genre": "数码维修经营",
    "id": "BV1HXHL6BEX7",
    "kind": "updated",
@@ -783,6 +931,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1xZaH6REJh.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」；种子视频「《自动之城》肉鸽城镇建造 我们的新作pv首曝！」· UP 盏灯工作室 · BV1xZaH6REJh · 2026-09-29 · 播放 6.3万",
    "genre": "肉鸽城镇建造",
    "id": "BV1xZaH6REJh",
    "kind": "updated",
@@ -793,6 +943,8 @@
   {
    "competitor": false,
    "cover": "covers/BV15uHE6vEDh.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」；种子视频「3天筹了2000万！《艾希：续》制作人吓到下跪求放过？」· UP 炉边好聚 · BV15uHE6vEDh · 2026-10-04 · 播放 5.7万",
    "genre": "动作续作（众筹）",
    "id": "BV15uHE6vEDh",
    "kind": "updated",
@@ -803,6 +955,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Q8ht65EDp.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「策略游戏 独立游戏」；种子视频「曹操桃源四结义？高自由度三国RPG《英雄立志传·三国志》正式版试玩实况」· UP 制杖少女vivi酱 · BV1Q8ht65EDp · 2026-09-24 · 播放 5.4万",
    "genre": "三国RPG",
    "id": "BV1Q8ht65EDp",
    "kind": "updated",
@@ -813,6 +967,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1szec6NE1b.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「实机PV」；种子视频「三测前必看！《蓝色星原：旅谣》新PV＋实机深度解读，究竟改了什么？」· UP 龙灵子Chris · BV1szec6NE1b · 2026-09-16 · 播放 3.3万",
    "genre": "开放世界二次元",
    "id": "BV1szec6NE1b",
    "kind": "updated",
@@ -823,6 +979,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1neYu62ENf.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「独立游戏」；种子视频「我掉进了一口深井里，谁来救救我？」· UP 薄海纸鱼 · BV1neYu62ENf · 2026-09-10 · 播放 72.5万",
    "genre": "叙事/心理",
    "id": "BV1neYu62ENf",
    "kind": "updated",
@@ -833,6 +991,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1rDeG6xE77.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「定档 独立游戏」；种子视频「【螺旋起证】Steam商店页面宣传&定档PV」· UP 犬声绘色Studio · BV1rDeG6xE77 · 2026-09-15 · 播放 1.7万",
    "genre": "推理/叙事",
    "id": "BV1rDeG6xE77",
    "kind": "updated",
@@ -843,6 +1003,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1jXau66Ers.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」；种子视频「从零开始建造西部，疯狂淘金，私自酿酒，小心强盗和黑警！【西部拓荒纪】」· UP 小草实况zz · BV1jXau66Ers · 2026-09-26 · 播放 6.5万",
    "genre": "西部建造模拟",
    "id": "BV1jXau66Ers",
    "kind": "updated",
@@ -853,6 +1015,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1Quew6CEMB.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「肉鸽 独立游戏」「射击游戏 独立 独立游戏」；种子视频「【割草爽游】新角色新地图！刷宝真上头！《轮回保险公司》」· UP 制杖少女vivi酱 · BV1Quew6CEMB · 2026-09-16 · 播放 4.7万",
    "genre": "割草刷宝",
    "id": "BV1Quew6CEMB",
    "kind": "updated",
@@ -863,6 +1027,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1fees6REig.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「动作冒险 独立游戏」「像素游戏 独立游戏」；种子视频「奇幻像素ARPG，多种族职业开启荒野冒险！《迪姆雷斯》游戏实况」· UP 赛博疯浪 · BV1fees6REig · 2026-09-16 · 播放 3.5万",
    "genre": "奇幻像素ARPG",
    "id": "BV1fees6REig",
    "kind": "updated",
@@ -873,6 +1039,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1vmpF6SE3p.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「沙盒游戏 独立游戏」；种子视频「建议全网资本家人手一份！！！」· UP 大超热线 · BV1vmpF6SE3p · 2026-10-06 · 播放 8.9万",
    "genre": "经营模拟",
    "id": "BV1vmpF6SE3p",
    "kind": "updated",
@@ -883,6 +1051,8 @@
   {
    "competitor": false,
    "cover": "covers/BV11deC6WENG.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「塔防 独立游戏」「搜打撤 独立游戏」「射击游戏 独立 独立游戏」；种子视频「美少女机甲“搜打撤”！近90%好评的《铁骑少女》又更新了！」· UP 全球球变冷 · BV11deC6WENG · 2026-09-24 · 播放 6.3万",
    "genre": "美少女机甲搜打撤",
    "id": "BV11deC6WENG",
    "kind": "updated",
@@ -893,6 +1063,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1apar6nE8q.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「肉鸽 独立游戏」「塔防 独立游戏」；种子视频「容量不过1GB的游戏，却能让玩家集体玩高潮？？？」· UP 阿伞Sanny · BV1apar6nE8q · 2026-10-01 · 播放 7.7万",
    "genre": "动作肉鸽塔防",
    "id": "BV1apar6nE8q",
    "kind": "updated",
@@ -903,6 +1075,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1doaR6eEdT.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「发售 独立游戏」「策略游戏 独立游戏」；种子视频「《镀金天命》发售日期调整公告」· UP 镀金天命-official · BV1doaR6eEdT · 2026-09-30 · 播放 2.4万",
    "genre": "大战略",
    "id": "BV1doaR6eEdT",
    "kind": "updated",
@@ -913,6 +1087,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1DNa96nELZ.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「国产独立游戏」「上线 steam 国产」「生存游戏 独立游戏」；种子视频「【独立游戏】国产丧尸末日生存《隔离区》26年第四季度 正式版上线预告」· UP IndiecnGames · BV1DNa96nELZ · 2026-09-30 · 播放 4.0万",
    "genre": "丧尸生存",
    "id": "BV1DNa96nELZ",
    "kind": "updated",
@@ -923,6 +1099,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1ghec66EaJ.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「肉鸽 独立游戏」「动作游戏 独立游戏」；种子视频「零境·入侵 | 新角色实机玩法展示」· UP 零境入侵 · BV1ghec66EaJ · 2026-09-17 · 播放 17.3万",
    "genre": "动作肉鸽",
    "id": "BV1ghec66EaJ",
    "kind": "updated",
@@ -933,6 +1111,8 @@
   {
    "competitor": false,
    "cover": "covers/BV18JHz6EEyz.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站相关视频滚雪（由 BV1g9ad64EZj 的相关推荐发现）；种子视频「【散人】开局团灭 高速列车大火 真凶是谁？《雾雨谜宫》p2」· UP 逍遥散人 · BV18JHz6EEyz · 2026-10-04 · 播放 21.1万",
    "genre": "推理ADV",
    "id": "BV18JHz6EEyz",
    "kind": "updated",
@@ -943,6 +1123,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1xsaq6YEo4.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「生存游戏 独立游戏」；种子视频「丧尸生存游戏《高台生存》最新实况 开局一人一狗一台无人机」· UP TM亚瑟 · BV1xsaq6YEo4 · 2026-09-28 · 播放 5.7万",
    "genre": "丧尸生存",
    "id": "BV1xsaq6YEo4",
    "kind": "updated",
@@ -953,6 +1135,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1KCbP6hEsh.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「武侠游戏 独立游戏」；种子视频「Steam独立新游《麒麟刀》即将推出，武侠肉鸽卡牌」· UP 自游境游戏 · BV1KCbP6hEsh · 2026-09-07 · 播放 3.7万",
    "genre": "武侠肉鸽卡牌",
    "id": "BV1KCbP6hEsh",
    "kind": "updated",
@@ -963,6 +1147,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1rLbK6tESL.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「动作游戏 独立游戏」；种子视频「【LGN】就用我那『龙爪手』抓你那对半即时卡牌动作爬塔！简单聊聊《黄金星漩》」· UP 老黎老了流泪了 · BV1rLbK6tESL · 2026-09-10 · 播放 33.6万",
    "genre": "半即时卡牌爬塔",
    "id": "BV1rLbK6tESL",
    "kind": "updated",
@@ -973,6 +1159,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1E9hq6SEW5.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」「种田 独立游戏」；种子视频「这真是正经种田游戏吗？」· UP 孤独音符 · BV1E9hq6SEW5 · 2026-09-23 · 播放 15.8万",
    "genre": "种田（反差题材）",
    "id": "BV1E9hq6SEW5",
    "kind": "updated",
@@ -983,6 +1171,8 @@
   {
    "competitor": false,
    "cover": "covers/BV1BjaV6DE5G.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「模拟经营 独立游戏」「种田 独立游戏」；种子视频「我养了一条龙帮我种田？！」· UP 以子OvO · BV1BjaV6DE5G · 2026-09-28 · 播放 5.1万",
    "genre": "休闲种田",
    "id": "BV1BjaV6DE5G",
    "kind": "updated",

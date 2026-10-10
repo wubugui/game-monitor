@@ -9,51 +9,51 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "",
+   "cover": "covers/BV1E3NgzWEVh.jpg",
    "id": "BV1E3NgzWEVh",
    "name": "阴界诡录：尸语公寓"
   },
   {
    "competitor": true,
-   "cover": "",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "id": "BV1SjeP62EMn",
-   "name": "萦回"
-  },
-  {
-   "competitor": true,
-   "cover": "",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
-  },
-  {
-   "competitor": true,
-   "cover": "",
+   "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
   },
   {
    "competitor": true,
-   "cover": "",
+   "cover": "covers/BV1AtYE6kESe.jpg",
    "id": "BV1AtYE6kESe",
    "name": "冥娘引"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1rAbp66EV1",
+   "name": "⚠️缺图 镇尸"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SjeP62EMn.jpg",
+   "id": "BV1SjeP62EMn",
+   "name": "⚠️缺图 萦回"
+  },
+  {
+   "competitor": true,
+   "cover": "",
+   "id": "BV1WGqhYdEjx",
+   "name": "⚠️缺图 无人"
   },
   {
    "competitor": false,
    "cover": "",
    "id": "BV1xZHW6TE9n",
-   "name": "Duola Mage"
+   "name": "⚠️缺图 Duola Mage"
   },
   {
    "competitor": false,
    "cover": "",
    "id": "BV1uiao6oEmy",
-   "name": "1999保密协议"
+   "name": "⚠️缺图 1999保密协议"
   },
   {
    "competitor": true,
@@ -78,12 +78,6 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
-  },
-  {
-   "competitor": false,
-   "cover": "",
-   "id": "p-082fe23aab",
-   "name": "***（***）"
   },
   {
    "competitor": true,

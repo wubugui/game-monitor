@@ -5,11 +5,12 @@
   const get = (u) => cache[u] || (cache[u] = fetch(u, { cache: 'no-cache' }).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); }));
   const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const annotateAdded = (s) => {
-    if (!s || !/<!--\s*added:\d{4}-\d{2}-\d{2}\s*-->/i.test(s)) return s || '';
-    const parts = s.split(/<!--\s*added:(\d{4}-\d{2}-\d{2})\s*-->/i);
+    if (!s || !/<!--\s*added:(\d{4}-\d{2}-\d{2}|meta)\s*-->/i.test(s)) return s || '';
+    const parts = s.split(/<!--\s*added:(\d{4}-\d{2}-\d{2}|meta)\s*-->/i);
     let out = parts[0];
     for (let i = 1; i < parts.length; i += 2) {
       const d = parts[i], body = parts[i + 1] || '';
+      if (d === 'meta') { out += `\n\n${body}`; continue; }
       out += `\n\n<div class="added-block" data-added="${d}">\n\n${body}\n\n</div>\n\n`;
     }
     return out;
@@ -41,11 +42,12 @@
   const today = () => { const t = new Date(); return t.toISOString().slice(0, 10); };
   const daysAgo = (d) => { if (!d) return ''; const n = Math.round((new Date(today()) - new Date(d)) / 864e5); return n <= 0 ? '今天' : n === 1 ? '昨天' : n < 30 ? n + ' 天前' : d; };
 
+  const SRC = (p) => p.disc_platform ? `<span class="badge src" title="${esc(p.discovery || '')}">${esc(p.disc_platform)}</span>` : '';
   function card(p, latest) {
     const cv = p.cover ? `<div class="cv" style="background-image:url('${esc(p.cover)}')">` : `<div class="cv none">◆`;
-    return `<a class="card" href="#/project/${encodeURIComponent(p.id)}">${cv}${p.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : ''}</div>
+    return `<a class="card" href="#/project/${encodeURIComponent(p.id)}">${cv}${p.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : ''}${p.missing_images ? '<span class="badge comp" style="background:#c00;color:#fff">缺图</span>' : ''}</div>
       <div class="body"><div class="nm">${esc(p.name)}</div>
-      <div class="tags"><span class="badge st" title="${p.status_inferred ? '根据描述推测' : ''}">${esc(p.status)}${p.status_inferred ? '?' : ''}</span><span class="badge">${esc(p.dev_type)}</span>${(p.genre_tags || []).slice(0, 2).map(g => `<span class="badge">${esc(g)}</span>`).join('')}${latest && p.updated === latest ? '<span class="badge new">新</span>' : ''}</div>
+      <div class="tags"><span class="badge st" title="${p.status_inferred ? '根据描述推测' : ''}">${esc(p.status)}${p.status_inferred ? '?' : ''}</span><span class="badge">${esc(p.dev_type)}</span>${SRC(p)}${(p.genre_tags || []).slice(0, 2).map(g => `<span class="badge">${esc(g)}</span>`).join('')}${latest && p.updated === latest ? '<span class="badge new">新</span>' : ''}</div>
       <div class="sm">${esc(p.genre)}${p.summary ? ' · ' + esc(p.summary) : ''}</div>
       <div class="ft"><span>更新 ${esc(p.updated || '—')}</span><span>${esc(p.source || '')}</span></div></div></a>`;
   }
@@ -62,7 +64,7 @@
       : '<span class="badge upd">更新</span>';
     const comp = u.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : '';
     return `<a class="tu-item" href="#/project/${encodeURIComponent(u.id)}">${cv}
-      <div class="tu-body"><div class="tu-top">${kind}${comp}<span class="tu-nm">${esc(u.name)}</span></div>
+      <div class="tu-body"><div class="tu-top">${kind}${comp}${SRC(u)}<span class="tu-nm">${esc(u.name)}</span></div>
       <div class="tu-note">${esc(u.note || '')}</div>
       <div class="tu-meta">${esc(u.genre || '')}${u.status ? ' · ' + esc(u.status) : ''}</div></div></a>`;
   }
@@ -157,15 +159,16 @@
       <label><input type="checkbox" id="f-comp" ${comp ? 'checked' : ''}>只看竞品</label>
       <select id="f-genre">${opt(meta.genres, q.get('genre'), '全部类型')}</select>
       <select id="f-dev">${opt(meta.dev_types, q.get('dev'), '全部开发者')}</select>
+      <select id="f-src">${opt(meta.disc_platforms || [], q.get('src'), '全部发现来源')}</select>
       <select id="f-status">${opt(meta.statuses, q.get('status'), '全部状态')}</select>
       <select id="f-sort"><option value="updated">按最近更新</option><option value="found" ${q.get('sort') === 'found' ? 'selected' : ''}>按发现日期</option><option value="name" ${q.get('sort') === 'name' ? 'selected' : ''}>按名称</option></select>
     </div><div class="count" id="f-count"></div><div id="f-grid"></div>`;
-    const els = ['q', 'comp', 'genre', 'dev', 'status', 'sort'].reduce((o, k) => (o[k] = document.getElementById('f-' + k), o), {});
+    const els = ['q', 'comp', 'genre', 'dev', 'src', 'status', 'sort'].reduce((o, k) => (o[k] = document.getElementById('f-' + k), o), {});
     function apply(push) {
-      const s = { q: els.q.value.trim(), comp: els.comp.checked ? '1' : '', genre: els.genre.value, dev: els.dev.value, status: els.status.value, sort: els.sort.value === 'updated' ? '' : els.sort.value };
+      const s = { q: els.q.value.trim(), comp: els.comp.checked ? '1' : '', genre: els.genre.value, dev: els.dev.value, src: els.src.value, status: els.status.value, sort: els.sort.value === 'updated' ? '' : els.sort.value };
       const words = s.q.toLowerCase().split(/\s+/).filter(Boolean);
-      let ps = projects.filter(p => (!s.comp || p.competitor) && (!s.genre || (p.genre_tags || []).includes(s.genre)) && (!s.dev || p.dev_type === s.dev) && (!s.status || p.status === s.status) &&
-        words.every(w => [p.name, p.genre, p.developer, p.note, p.summary, p.status, (p.genre_tags || []).join(' ')].join(' ').toLowerCase().includes(w)));
+      let ps = projects.filter(p => (!s.comp || p.competitor) && (!s.genre || (p.genre_tags || []).includes(s.genre)) && (!s.dev || p.dev_type === s.dev) && (!s.src || p.disc_platform === s.src) && (!s.status || p.status === s.status) &&
+        words.every(w => [p.name, p.genre, p.developer, p.note, p.summary, p.status, p.discovery, (p.genre_tags || []).join(' ')].join(' ').toLowerCase().includes(w)));
       const key = s.sort || 'updated';
       ps = ps.slice().sort((a, b) => key === 'name' ? a.name.localeCompare(b.name, 'zh') : (b[key] || '').localeCompare(a[key] || '') || (b.updated || '').localeCompare(a.updated || ''));
       document.getElementById('f-count').textContent = `${ps.length} / ${projects.length} 个项目`;
@@ -184,13 +187,13 @@
   async function projectPage(id) {
     setNav('projects');
     const [meta, p] = await Promise.all([get('data/meta.json'), get('data/project/' + id + '.json')]);
-    const kv = [['类型', p.genre], ['开发者', p.developer + (p.dev_type && !String(p.developer).startsWith(p.dev_type) ? `（${p.dev_type}）` : '')], ['状态', p.status + (p.status_inferred ? '（根据描述推测）' : '')], ['平台', p.platform], ['发售', p.release], ['发现日期', p.found], ['最后更新', p.updated], ['来源', p.source], ['链接', p.link ? `<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link)}</a>` : '']]
+    const kv = [['类型', p.genre], ['开发者', p.developer + (p.dev_type && !String(p.developer).startsWith(p.dev_type) ? `（${p.dev_type}）` : '')], ['状态', p.status + (p.status_inferred ? '（根据描述推测）' : '')], ['平台', p.platform], ['发售', p.release], ['发现来源', (p.disc_platform ? '〔' + p.disc_platform + '〕' : '') + (p.discovery || '')], ['发现日期', p.found], ['最后更新', p.updated], ['来源', p.source], ['链接', p.link ? `<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link)}</a>` : '']]
       .filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${k === '链接' ? v : esc(v)}</dd>`).join('');
     const tl = (p.history || []).map(e => `<div class="tl-item ${e.kind}"><div class="tl-date">${esc(e.date)}<span class="sub">${fmtDate(e.date)} · ${e.kind === 'found' ? '首次发现' : esc(e.title || (e.kind === 'report' ? '日报提及' : '更新'))}${e.report ? ` · <a href="#/report/${esc(e.report)}">看当天日报</a>` : ''}</span></div>
       ${e.md ? `<div class="tl-card md">${md(e.md)}</div>` : ''}</div>`).join('');
     $app.innerHTML = `<div class="pager" style="margin-top:0"><a class="btn" href="javascript:history.back()">← 返回</a><span></span></div>
     <div class="proj-head">${p.cover ? `<img class="cover" src="${esc(p.cover)}" alt="">` : '<div class="card"><div class="cv none">◆</div></div>'}
-    <div><h1>${esc(p.name)} ${p.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : ''}</h1>
+    <div><h1>${esc(p.name)} ${p.competitor ? '<span class="badge comp">⚠️ 竞品</span>' : ''}${p.missing_images ? '<span class="badge comp" style="background:#c00;color:#fff">缺图</span>' : ''}</h1>
     <div class="tags">${(p.genre_tags || []).map(g => `<a class="badge" href="#/projects?genre=${encodeURIComponent(g)}">${esc(g)}</a>`).join('')}</div>
     <dl class="kv">${kv}</dl>${p.note ? `<div class="sub">备注：${esc(p.note)}</div>` : ''}</div></div>
     ${p.intro ? `<h2>档案</h2><div class="md">${md(p.intro)}</div>` : ''}

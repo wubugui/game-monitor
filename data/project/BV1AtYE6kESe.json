@@ -8,9 +8,12 @@
  "baseline": "2026-10-10",
  "bvid": "BV1AtYE6kESe",
  "competitor": true,
- "cover": "",
+ "cover": "covers/BV1AtYE6kESe.jpg",
  "dev_type": "未知",
  "developer": "未知",
+ "disc_platform": "B站",
+ "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「中式民俗悬疑独立游戏《冥娘引》Demo实机视频」· UP 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154",
+ "discovery_date": "2026-10-10",
  "found": "2026-10-10",
  "genre": "中式民俗戏曲风恐怖",
  "genre_tags": [
@@ -28,8 +31,20 @@
   }
  ],
  "id": "BV1AtYE6kESe",
- "images": [],
- "intro": "# ⚠️ 冥娘引\n\n<!-- added:2026-10-10 -->\n\n## 档案\n\n\n- 类型：中式民俗悬疑 / 戏曲风格恐怖\n- 开发者：未知\n- 状态：Demo\n- 平台：未知\n- 一句话：国产民俗戏曲风格恐游 Demo\n- 代表：BV1WwYb6gEQ4｜307播放；BV1AtYE6kESe｜154播放（2026-10-10）\n\n\n\n## 关注度\n\n\n低热。同名污染极重（「男娘」等无关高播），必须以「冥娘引」全名+游戏检索。\n\n\n\n## 综合评价\n\n\n戏曲风民俗是差异化切口，但曝光极低。缺口：实机帧、评论、商店页。观察即可。",
+ "images": [
+  "frames/BV1AtYE6kESe_v0_01.jpg",
+  "frames/BV1AtYE6kESe_v0_02.jpg",
+  "frames/BV1AtYE6kESe_v0_03.jpg",
+  "frames/BV1AtYE6kESe_v0_04.jpg",
+  "frames/BV1AtYE6kESe_v0_05.jpg",
+  "frames/BV1AtYE6kESe_v1_01.jpg",
+  "frames/BV1AtYE6kESe_v1_02.jpg",
+  "frames/BV1AtYE6kESe_v1_03.jpg",
+  "frames/BV1AtYE6kESe_v1_04.jpg",
+  "frames/BV1AtYE6kESe_v1_05.jpg",
+  "frames/BV1AtYE6kESe_v1_06.jpg"
+ ],
+ "intro": "# ⚠️ 冥娘引\n\n<!-- added:2026-10-10 -->\n\n## 档案\n\n\n- 类型：中式民俗悬疑 / 戏曲风格恐怖\n- 开发者：未知\n- 状态：Demo\n- 平台：未知\n- 一句话：国产民俗戏曲风格恐游 Demo\n- 代表：BV1WwYb6gEQ4｜307播放；BV1AtYE6kESe｜154播放（2026-10-10）\n\n\n\n## 关注度\n\n\n\n〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕\n\n\n〔来源：B站视频页公开计数（登录态 view/stat 接口）；UP 粉丝数来自 UP 主页；采集日见本节标题；每行视频的 BV 见文末「来源」〕\n\n低热。同名污染极重（「男娘」等无关高播），必须以「冥娘引」全名+游戏检索。\n\n\n\n## 综合评价\n\n\n戏曲风民俗是差异化切口，但曝光极低。缺口：实机帧、评论、商店页。观察即可。\n\n<!-- added:meta -->\n\n\n\n## 来源（发现与资料）\n\n\n- **发现来源**：〔B站〕B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「中式民俗悬疑独立游戏《冥娘引》Demo实机视频」· UP 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154；入库日 2026-10-10\n\n**资料来源**：\n- B站视频（采用 2 条；另 0 条为已剔除同名/弱相关或无元数据，正文已列明）：\n  - 最新国产民俗戏曲风格恐游Demo《冥娘引》流程实况 · 掌管健胃消食片的猪咪 · BV1WwYb6gEQ4 · 2026-09-09 · 播放 307\n  - 中式民俗悬疑独立游戏《冥娘引》Demo实机视频 · 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154",
  "link": "https://www.bilibili.com/video/BV1AtYE6kESe",
  "name": "冥娘引",
  "note": "民俗戏曲风格恐游 Demo",
@@ -38,7 +53,7 @@
  "source": "B站",
  "state_file": "state/BV1AtYE6kESe.md",
  "status": "Demo",
- "summary": "⚠️ 冥娘引 档案 - 类型：中式民俗悬疑 / 戏曲风格恐怖 - 开发者：未知 - 状态：Demo - 平台：未知 - 一句话：国产民俗戏曲风格恐游 Demo - 代表：BV1WwYb6gEQ4｜307播放；BV1AtYE6kESe｜154播放（2026-10-10） 关注度 低热。同名污染极重（「男娘」等无关高播），",
+ "summary": "⚠️ 冥娘引 档案 - 类型：中式民俗悬疑 / 戏曲风格恐怖 - 开发者：未知 - 状态：Demo - 平台：未知 - 一句话：国产民俗戏曲风格恐游 Demo - 代表：BV1WwYb6gEQ4｜307播放；BV1AtYE6kESe｜154播放（2026-10-10） 关注度 〔来源：B站视频页公开计数（登录态 vie",
  "tags": [
   "竞品"
  ],

@@ -299,7 +299,8 @@ def load_state(projects):
                              ("开发者", "developer"), ("status", "status"), ("状态", "status"), ("link", "link"),
                              ("found", "found"), ("updated", "updated"), ("summary", "summary"), ("source", "source"),
                              ("cover", "cover"), ("note", "note"), ("studio", "studio"), ("platform", "platform"),
-                             ("release", "release")]:
+                             ("release", "release"), ("discovery_platform", "disc_platform"), ("discovery", "discovery"),
+                             ("discovery_date", "discovery_date")]:
             if meta.get(k_src):
                 p[k_dst] = meta[k_src] if not isinstance(meta[k_src], list) else ", ".join(meta[k_src])
         if name:
@@ -563,8 +564,16 @@ def main():
             p["cover"] = ""
         frames = sorted(glob.glob(f"frames/{p['id']}_*.*"))
         p["images"] = list(dict.fromkeys([x for x in p.get("images", []) if x] + frames))
+        real_cover = bool(p.get("cover")) and (re.match(r"^https?:", p["cover"]) or (os.path.exists(p["cover"]) and os.path.getsize(p["cover"]) > 2000))
+        real_imgs = [x for x in p["images"] if re.match(r"^https?:", x) or (os.path.exists(x) and os.path.getsize(x) > 2000)]
         if not p.get("cover") and p["images"]:
             p["cover"] = p["images"][0]
+        if p["id"] != "***" and (not real_cover or len(real_imgs) < 4):
+            p["missing_images"] = True
+            warn(f"缺图: {p['id']} {p['name']} cover={'ok' if real_cover else 'NONE'} images={len(real_imgs)}")
+            if not str(p["name"]).startswith("⚠️缺图"):
+                p["name"] = "⚠️缺图 " + str(p["name"])
+            p["note"] = "【缺图】封面或实机图不足（需≥4张），待补。" + (p.get("note") or "")
         if p.get("link") == "" and p.get("bvid"):
             p["link"] = f"https://www.bilibili.com/video/{p['bvid']}"
 
@@ -614,7 +623,7 @@ def main():
             json.dump(obj, f, ensure_ascii=False, indent=1, sort_keys=True)
 
     card_keys = ["id", "name", "competitor", "genre", "genre_tags", "developer", "dev_type", "status",
-                 "status_inferred", "found", "updated", "cover", "link", "source", "summary", "note", "update_count"]
+                 "status_inferred", "found", "updated", "cover", "link", "source", "summary", "note", "update_count", "missing_images", "disc_platform", "discovery"]
     dump(f"{OUT}/projects.json", [{k: p.get(k) for k in card_keys} for p in plist])
     for p in plist:
         slim = {k: v for k, v in p.items() if not k.startswith("_")}
@@ -629,7 +638,12 @@ def main():
     baseline_only = (len(reports) <= 1) or bool(reports and reports[0].get("baseline"))
     today_updates, today_banner = build_today_updates(
         plist, reports[0] if reports else None, latest_report_date, baseline_report, baseline_only)
-    meta = dict(project_count=len(plist), competitor_count=sum(1 for p in plist if p["competitor"]),
+    _pm = {p["id"]: p for p in plist}
+    for u in today_updates:
+        q = _pm.get(u.get("id"), {})
+        u["disc_platform"] = q.get("disc_platform", ""); u["discovery"] = q.get("discovery", "")
+    meta = dict(disc_platforms=sorted({p.get("disc_platform") for p in plist if p.get("disc_platform")}),
+                project_count=len(plist), competitor_count=sum(1 for p in plist if p["competitor"]),
                 report_count=len(reports), latest_report=reports[0]["id"] if reports else None,
                 latest_report_date=latest_report_date, baseline_report=baseline_report,
                 baseline_only=baseline_only,

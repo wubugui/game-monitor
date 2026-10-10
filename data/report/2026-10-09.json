@@ -354,12 +354,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/BV1emHx6QEVi.jpg",
-   "id": "BV1emHx6QEVi",
-   "name": "受肉症"
-  },
-  {
-   "competitor": false,
    "cover": "covers/BV19Apu6rEYa.jpg",
    "id": "BV19Apu6rEYa",
    "name": "勇者小队全灭了。"
@@ -411,6 +405,12 @@
    "cover": "covers/BV1ReHQ64ET5.jpg",
    "id": "BV1ReHQ64ET5",
    "name": "七日之馆"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1emHx6QEVi.jpg",
+   "id": "BV1emHx6QEVi",
+   "name": "⚠️缺图 受肉症"
   },
   {
    "competitor": false,

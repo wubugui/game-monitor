@@ -12,6 +12,7 @@ found: 2026-10-10
 baseline: 2026-10-10
 cover: covers/x-jiaohun.jpg
 images:
+  - xhs/jiaohun.jpg
   - frames/x-jiaohun_steam01.jpg
   - frames/x-jiaohun_steam02.jpg
   - frames/x-jiaohun_steam03.jpg
@@ -253,6 +254,13 @@ discovery_date: "2026-10-10"
 
 **本轮 X 上最重要的新收藏**：中式民俗 +「叫魂/丢魂」+ 千禧年小镇怀旧，海外主流媒体（日本的法米通、AUTOMATON，英语的 shinobi602）首日覆盖。海外玩家回复里出现「终于有一款我能全力支持的中国游戏了」（原文："finally a Chinese game i can fully get behind"），说明海外对「非武侠、非仙侠的中式民俗恐怖」有明确期待。建议每天盯它的 Steam 愿望单热度和 PV 播放。
 
+
+<!-- added:2026-10-11 -->
+
+## 2026-10-11 小红书
+
+登录态只读扫到官方/宣发向笔记：赞约 **463** / 藏约 **214** / 评约 **32**（综合排序近两日可见）。玩家第一反应多对标《还愿》/赤烛气质。封面入库 `xhs/jiaohun.jpg`。〔小红书·叫魂首曝笔记〕
+
 ## 来源（发现与资料）
 
 - 发现来源：X 检索（2026-10-10）· 种子帖 https://x.com/shinobi602/status/2108637818230898710（X 检索「互动电影 / 中国」（原文："interactive film / Chinese"）时发现：shinobi602（52.8 万粉）转发「《叫魂 JIAOHUN》首曝预告」（原文："JIAOHUN | Reveal Trailer"），2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣）
@@ -339,3 +347,7 @@ discovery_date: "2026-10-10"
 
 ### 其他相关视频（播放前 6–15）
 
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 日文官方 @JIAOHUN_JP 10-08 发仙女镇设定向短片：1990 年代白水县、探索终焉之谜。（约 24.5 万浏览 / 148 赞 / 28 转）〔X·@JIAOHUN_JP〕https://x.com/JIAOHUN_JP/status/2108228498833981725

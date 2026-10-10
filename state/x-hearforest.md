@@ -171,3 +171,8 @@ discovery_date: "2026-10-10"
 
 - 检索关键词：I Hear the Forest / 护林员 民俗恐怖 / I Hear the Forest 实况 / I Hear the Forest 试玩 / I Hear the Forest demo / 护林员 民俗恐怖 实况 / 护林员 民俗恐怖 试玩 / 护林员 民俗恐怖 demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 I Hear the Forest，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- @podoba_interact：本窗口无新公开帖。

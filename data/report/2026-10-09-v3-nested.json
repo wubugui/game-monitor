@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1o7ht6pEgQ.jpg",
-   "id": "BV1o7ht6pEgQ",
-   "name": "随侯珠"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1GhHS6QECw.jpg",
    "id": "BV1GhHS6QECw",
    "name": "重启：工作日"
@@ -33,18 +27,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1J6eb6MEhr.jpg",
    "id": "BV1J6eb6MEhr",
    "name": "见诡"
@@ -54,18 +36,6 @@
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RAeV67Ed9.jpg",
-   "id": "BV1RAeV67Ed9",
-   "name": "妄生"
   },
   {
    "competitor": true,
@@ -90,6 +60,36 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1o7ht6pEgQ.jpg",
+   "id": "BV1o7ht6pEgQ",
+   "name": "随侯珠"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RAeV67Ed9.jpg",
+   "id": "BV1RAeV67Ed9",
+   "name": "妄生"
   },
   {
    "competitor": true,

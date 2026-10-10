@@ -221,3 +221,8 @@ discovery_date: "2026-10-10"
 - 检索关键词：逃脱：怨念 / 逃脱怨念 / Escape: Malice / Escape Malice / 逃脱 怨念 实况 / Escape Malice 试玩（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Escape: Malice / Escape Malice / 逃脱：怨念 / 逃脱:怨念，2025 年后发布）
 - 核验剔除（标题不含本作名、疑为同名或他作）：密室逃脱的女鬼NPC准点收工，被喊回加班后怨念值拉满，网友：（BV1mxYsz7EQ8）；［何运晨］小何：有点怨念  一怒之下怒了一下哈哈哈（BV1K682zqEnE）；一位刻薄的组长，从危险重重受到诅咒的公司里逃脱《组长！怨念请（BV1Qb1FBaEzv）；【组长！怨念请查收！】上班狗的怨念～满满的职场黑色幽默！（BV1mnkzB8Ewa）；当年玩密室逃脱 遇到一个怨念极其的女鬼（BV1aqeXzqEMZ）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- Steam Friend Pass 上线：好友可用房间码加入诅咒宅邸双人逃出。（原文："Escape: Malice is now available to play with Steam's Friend Pass!"）〔X·@nimbusgamesdev〕https://x.com/nimbusgamesdev/status/2108485543747322347

@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Escape: Malice",
@@ -25,6 +26,13 @@
   "多人/合作"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- Steam Friend Pass 上线：好友可用房间码加入诅咒宅邸双人逃出。（原文：\"Escape: Malice is now available to play with Steam's Friend Pass!\"）〔X·@nimbusgamesdev〕https://x.com/nimbusgamesdev/status/2108485543747322347",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -56,6 +64,6 @@
  "status": "已发售（2022-11-02；2026-07 大更新并改名，Friend Pass 上线）",
  "summary": "双人合作日式宅邸密室逃脱恐怖 · 小团队（Nimbus Games，马来西亚；也是《魇 Yan: Parasomnia》的发行商） · 已发售（2022-11-02；2026-07 大更新并改名，Friend Pass 上线） · 热度：B站 4 个相关视频合计播放 1.2万；采集反馈 13 条、弹幕 41 条 玩家关注什么：按关键词粗分，评论最集中的话题是对比其他（7.7%）、开发团队（7.7%）、催更期待（7.7%）。 在讨论什么：",
  "tags": [],
- "update_count": 1,
- "updated": "2026-10-10"
+ "update_count": 2,
+ "updated": "2026-10-11"
 }

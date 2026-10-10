@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "JUBAKU",
@@ -21,6 +22,13 @@
   "恐怖"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- Demo 大翻新上线：故事更清晰、Past 段重做、相机调色、成就/商店、可跳过过场、字幕改进，通关门槛降低。（原文：\"WE'VE OVERHAULED THE JUBAKU DEMO!\"）〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/2108959721076163056",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -58,6 +66,6 @@
  "status": "Demo（2027 Q1）",
  "summary": "日式心理恐怖（调查闹鬼屋，多结局） · 小团队（BabGamesStudio） · Demo（2027 Q1） · 热度：B站 1 个相关视频合计播放 9637；采集反馈 117 条、弹幕 6 条 玩家关注什么：按关键词粗分，评论最集中的话题是剧情叙事（8.5%）、价格售卖（3.4%）、催更期待（3.4%）。 在讨论什么：高频词：表情、闪耀、色彩、杜野凛世、心白、游戏；弹幕刷得最多的是「宇宙第一C春香」、「70」。",
  "tags": [],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

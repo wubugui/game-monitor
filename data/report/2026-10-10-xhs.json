@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
    "cover": "covers/jianguilu-yinhunjie.jpg",
    "id": "BV1rBX6Y9Euf",
    "name": "见诡录：阴魂街"
@@ -39,18 +33,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RAeV67Ed9.jpg",
-   "id": "BV1RAeV67Ed9",
-   "name": "妄生"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1btHC6bEVr.jpg",
    "id": "BV1btHC6bEVr",
    "name": "太渊无朔"
@@ -66,6 +48,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RAeV67Ed9.jpg",
+   "id": "BV1RAeV67Ed9",
+   "name": "妄生"
   }
  ],
  "sections": [

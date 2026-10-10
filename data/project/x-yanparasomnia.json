@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Yan Parasomnia",
@@ -25,6 +26,12 @@
   "多人/合作"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- @CerebralGameDev / 主开发时间线：本窗口（约 10-08 起）无新帖。\n- 发行方 @nimbusgamesdev 同期主推同厂《Escape: Malice》Friend Pass（见 x-malice），未见《魇》新档期官宣。",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -64,6 +71,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

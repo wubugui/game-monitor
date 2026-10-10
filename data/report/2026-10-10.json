@@ -24,15 +24,129 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-hariti.jpg",
-   "id": "p-af2615f3bf",
-   "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-chulingguan.jpg",
    "id": "p-787dd22ae5",
    "name": "除靈館 Haunted House"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-malice.jpg",
+   "id": "x-malice",
+   "name": "逃脱：怨念 Escape: Malice"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-rubbings.jpg",
+   "id": "p-b4beba7e64",
+   "name": "诡拓 Rubbings"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-strangetales.jpg",
+   "id": "x-strangetales",
+   "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "id": "p-72baee6fce",
+   "name": "呪縛 Jubaku"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-omusubi.jpg",
+   "id": "x-omusubi",
+   "name": "お結び OMUSUBI（缘结迷境）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-parasomnia.jpg",
+   "id": "p-57496764b1",
+   "name": "Parasomnia: No REM"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-noreturn.jpg",
+   "id": "p-21c485f157",
+   "name": "No Return Address"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-liminalpoint.jpg",
+   "id": "x-liminalpoint",
+   "name": "Liminal Point"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hearforest.jpg",
+   "id": "x-hearforest",
+   "name": "I Hear the Forest"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hapunan.jpg",
+   "id": "x-hapunan",
+   "name": "Hapunan"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "id": "p-95cb3f1758",
+   "name": "Coldline: Disconnect"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "id": "p-af2615f3bf",
+   "name": "鬼子母 Hariti"
   },
   {
    "competitor": true,
@@ -59,18 +173,6 @@
    "name": "遥之境 Far Realm"
   },
   {
-   "competitor": false,
-   "cover": "covers/x-malice.jpg",
-   "id": "x-malice",
-   "name": "逃脱：怨念 Escape: Malice"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-rubbings.jpg",
-   "id": "p-b4beba7e64",
-   "name": "诡拓 Rubbings"
-  },
-  {
    "competitor": true,
    "cover": "covers/BV1SjeP62EMn.jpg",
    "id": "BV1SjeP62EMn",
@@ -81,24 +183,6 @@
    "cover": "covers/x-nextdawn.jpg",
    "id": "p-c18d4869b6",
    "name": "致下一个黎明 To the next dawn"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-strangetales.jpg",
-   "id": "x-strangetales",
-   "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
@@ -125,28 +209,10 @@
    "name": "天使机构：执行部灵魂救济科 Angelic Agency"
   },
   {
-   "competitor": false,
-   "cover": "covers/x-jubaku.jpg",
-   "id": "p-72baee6fce",
-   "name": "呪縛 Jubaku"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
    "competitor": true,
    "cover": "covers/x-nameonly.jpg",
    "id": "x-nameonly",
    "name": "只有她知晓光辉的名字 The Name Only She Knew"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Kp46YEZN.jpg",
-   "id": "BV17Kp46YEZN",
-   "name": "别眨眼"
   },
   {
    "competitor": true,
@@ -159,12 +225,6 @@
    "cover": "covers/BV1AtYE6kESe.jpg",
    "id": "BV1AtYE6kESe",
    "name": "冥娘引"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-omusubi.jpg",
-   "id": "x-omusubi",
-   "name": "お結び OMUSUBI（缘结迷境）"
   },
   {
    "competitor": true,
@@ -189,12 +249,6 @@
    "cover": "covers/x-pines.jpg",
    "id": "x-pines",
    "name": "The Pines"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
   },
   {
    "competitor": false,
@@ -222,27 +276,9 @@
   },
   {
    "competitor": false,
-   "cover": "covers/x-parasomnia.jpg",
-   "id": "p-57496764b1",
-   "name": "Parasomnia: No REM"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-noreturn.jpg",
-   "id": "p-21c485f157",
-   "name": "No Return Address"
-  },
-  {
-   "competitor": false,
    "cover": "covers/x-faraway.jpg",
    "id": "x-faraway",
    "name": "My Beautiful Faraway, Please Don't Be Cruel To Me"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-liminalpoint.jpg",
-   "id": "x-liminalpoint",
-   "name": "Liminal Point"
   },
   {
    "competitor": false,
@@ -251,22 +287,10 @@
    "name": "Inkblood 血墨诡案"
   },
   {
-   "competitor": true,
-   "cover": "covers/x-hearforest.jpg",
-   "id": "x-hearforest",
-   "name": "I Hear the Forest"
-  },
-  {
    "competitor": false,
    "cover": "covers/x-heavyhand.jpg",
    "id": "x-heavyhand",
    "name": "Heavy in the Hand"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-hapunan.jpg",
-   "id": "x-hapunan",
-   "name": "Hapunan"
   },
   {
    "competitor": false,
@@ -294,12 +318,6 @@
   },
   {
    "competitor": false,
-   "cover": "covers/x-coldline.jpg",
-   "id": "p-95cb3f1758",
-   "name": "Coldline: Disconnect"
-  },
-  {
-   "competitor": false,
    "cover": "covers/x-burningsword.jpg",
    "id": "p-36645fe205",
    "name": "Burning Sword: Death Sun"
@@ -324,27 +342,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
   }
  ],
  "sections": [

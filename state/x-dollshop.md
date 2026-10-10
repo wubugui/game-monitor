@@ -290,3 +290,9 @@ discovery_date: "2026-10-10"
 
 ### 其他相关视频（播放前 6–15）
 
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 发售倒计时 2 天（10-12）：手绘 cozy horror VN，对准万圣节档期；愿望单已破 15,000。（原文："Countdown: 2 Days before release of #TheDollShop! ... Wishlist"）〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108853533881827381
+- Discord 直播预告同人动画 WIP（@eledamadele）。〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108833288492056773
+- 法语 newsletter 访谈（Niigata 创作轶事）。〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108519084669218904

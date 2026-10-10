@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Coldline"
@@ -21,6 +22,13 @@
   "悬疑/解谜"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- 冲 Next Fest 前「Operation 2000」愿望单号召。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108920008667525342\n- Mobidictum 2026 展会试玩反馈帖。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108319096471175630\n- 工作室官网上线。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108195408040067169",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -58,6 +66,6 @@
  "status": "开发中（Steam 页+Demo）",
  "summary": "像素潜伏维修解谜/谍战叙事 · 小团队（Grawire Studio） · 开发中（Steam 页+Demo） · 热度：采集反馈 1 条 玩家关注什么：按关键词粗分，评论最集中的话题是催更期待（100.0%）。 在讨论什么：高频词：Demo、提交。",
  "tags": [],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

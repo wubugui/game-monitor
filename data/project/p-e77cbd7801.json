@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Soulcake",
@@ -22,6 +23,13 @@
   "叙事/剧情"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- 线下展会反馈：访客常把女主误认为男角/常规 galgame，开发者纠正后惊讶反应多。（原文：\"Many visitors mistook our heroine for a male character...\"）〔X·@Pttz16Pttz〕https://x.com/Pttz16Pttz/status/2108606306143850827\n- 超级ゲ制デー推广：横版探索 ADV + VN，Steam 体验版在线。〔X·@Pttz16Pttz〕https://x.com/Pttz16Pttz/status/2108573640489156943",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -61,6 +69,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

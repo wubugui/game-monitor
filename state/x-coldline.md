@@ -220,3 +220,9 @@ Grawire Studio X 406 粉，中英双语发帖，有 Steam Demo；画面统一、
 
 ### 其他相关视频（播放前 6–15）
 
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 冲 Next Fest 前「Operation 2000」愿望单号召。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108920008667525342
+- Mobidictum 2026 展会试玩反馈帖。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108319096471175630
+- 工作室官网上线。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108195408040067169

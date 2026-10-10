@@ -183,3 +183,21 @@
 | Tuned In（绝命频道） | 诅咒电视恐怖解谜选集 | 小团队（Vercors Games，前 Tequila Works） | 免费序章已上线 | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/4692790/ ；X 单帖最高赞 18；档案 state/x-tunedin.md |
 | 逃脱：怨念 Escape: Malice | 双人合作日式宅邸密室恐怖 | 小团队（Nimbus Games） | 已发售（2022-11，2026-07 大更新） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/1799220/ ；X 单帖最高赞 11；档案 state/x-malice.md |
 | The Devil is in the Details（细节决定成败） | 找异常 × 生存恐怖 | 小团队（HideWorks） | 已发售（2024-09-30） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/2790790/ ；X 单帖最高赞 13；档案 state/x-devildetails.md |
+
+<!-- added:2026-10-11 -->
+| ⭐ 玩骨頭 | 藏式定格解密恐怖（中阴身/红面母） | 小团队（蹦萨奇 Studio） | 开发中（计划 Steam / 实机 Demo） | 2026-10-11 | https://www.bilibili.com/video/BV1RJeG62Ezh | 5046 | 发现来源 小红书；作者承认 AI；档案 state/xhs-wanguotou.md |
+| ⭐ 佳宝物业热线 | 千禧物业怪核 / 模拟恐怖 | 小团队（Bad Tape Studio / 坏磁带工作室） | 商店页已开（即将宣布） | 2026-10-11 | https://www.bilibili.com/video/BV13c3g6kEuB | 1.6万 | 发现来源 小红书；Steam https://store.steampowered.com/app/4793680/ ；档案 state/xhs-jiabao.md |
+| ⭐ 纸祭 | 中式悬疑解密恐怖（竖屏/章节） | 未知 | 至少第三章 | 2026-10-11 | https://www.bilibili.com/video/BV1MUtB6wEfN | 208 | 发现来源 小红书；档案 state/xhs-zhiji.md |
+| ⭐ 勇闯死人谷 | 中式侧视生存恐怖（UE5 / 单人） | 个人（彭嘉浩） | Demo | 2026-10-11 | https://www.bilibili.com/video/BV12Lpt6LEV2 | 339 | 发现来源 B站；档案 state/yongchuang-sirengu.md |
+| ⭐ 末班 | 第一人称心理恐怖（短篇观察抉择） | 个人（Simon Au Yeung） | 即将推出（2026-10-11） | 2026-10-11 |  |  | 发现来源 X/Steam；Steam https://store.steampowered.com/app/3820460/ ；档案 state/steam-3820460.md |
+| ⭐ 树海之路 Road to Jukai | 日式民俗心理恐怖（夜班出租→树海） | 小团队（Endflame；发行 tinyBuild） | Playtest / 2027 | 2026-10-11 | https://www.bilibili.com/video/BV1XPp86hEAc | 2870 | 发现来源 B站/X；Steam https://store.steampowered.com/app/4124320/ ；档案 state/steam-4124320.md |
+| ⭐ 我将为死者命名 | 超现实墓园叙事恐怖（命名/安葬） | 个人（Tiago Rech；发行 DANGEN） | Demo（2027） | 2026-10-11 | https://www.bilibili.com/video/BV1HCp46MECo | 407 | 发现来源 B站；Steam https://store.steampowered.com/app/4881350/ ；档案 state/steam-4881350.md |
+| ⭐ 银松镇 Silver Pines | 美式小镇生存恐怖·类银河战士恶魔城 | 小团队（Wych Elm；发行 Team17） | 已发售（2026-10-08） | 2026-10-11 | https://www.bilibili.com/video/BV1Wqp46GE2m | 564 | 发现来源 X/Steam；Steam https://store.steampowered.com/app/2333000/ ；与 The Pines 非同作；档案 state/steam-2333000.md |
+| ⭐ Out Fishing | 第一人称恐怖钓鱼 | 小团队（Mūn Mūn Games；发行 UNIKAT） | Demo（2027） | 2026-10-11 | https://www.bilibili.com/video/BV1q6pa6yEAH | 1.3万 | 发现来源 B站；Steam https://store.steampowered.com/app/3660260/ ；档案 state/steam-3660260.md |
+| ⭐ 要理问答 Catechesis | 像素恐怖动作 RPG | 小团队（Baroque Decay） | Demo（2027 Q3） | 2026-10-11 | https://www.bilibili.com/video/BV1wCp46MEtC | 9312 | 发现来源 B站；Steam https://store.steampowered.com/app/2593320/ ；档案 state/steam-2593320.md |
+| ⭐ 永夜协奏曲 | 暗黑童话百合视觉小说 | 个人（i栗青i；发行风域游戏） | Demo 已上线 | 2026-10-11 | https://www.bilibili.com/video/BV1Fkps6cErD | 5131 | 发现来源 B站；Steam https://store.steampowered.com/app/4953580/ ；档案 state/steam-4953580.md |
+| ⭐ 惊悚乐园：平田的世界 | RPG×互动影游 | 小团队（OntologyPlay） | Demo（2026-12-15） | 2026-10-11 | https://www.bilibili.com/video/BV1Daph6wEn9 | 183 | 发现来源 B站；Steam https://store.steampowered.com/app/4952700/ ；档案 state/steam-4952700.md |
+| ⭐ 幸福里：生门 | 1–4人合作第一人称恐怖解谜 | 小团队（Rover Studio） | 即将新品节试玩 | 2026-10-11 | https://www.bilibili.com/video/BV1Nspa6dEW4 | 129 | 发现来源 B站；Steam https://store.steampowered.com/app/4650270/ ；档案 state/steam-4650270.md |
+| ⭐ 永泉 Springs, Eternal | 低保真第一人称叙事探索 | 小团队（Fullbright；发行 Serenity Forge） | Demo（2026-11-11） | 2026-10-11 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3677850/ ；档案 state/steam-3677850.md |
+| ⭐ Laica | 太空站同居×生存恐怖 | 小团队（Santa Studio；发行 ambr） | 开发中（2027） | 2026-10-11 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4037370/ ；档案 state/steam-4037370.md |
+| ⭐ Unwatching -The Seven Dolls- | 第一人称生存恐怖（找毁7人形） | 小团队（Makishiba Games） | 即将推出（2026-10-11） | 2026-10-11 |  |  | 发现来源 Steam/X；Steam https://store.steampowered.com/app/5166790/ ；档案 state/steam-5166790.md |

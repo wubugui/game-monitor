@@ -253,3 +253,8 @@ discovery_date: "2026-10-10"
 
 - 检索关键词：呪縛 Jubaku / Jubaku 恐怖 / 呪縛 Jubaku 实况 / 呪縛 Jubaku 试玩 / 呪縛 Jubaku demo / Jubaku 恐怖 实况 / Jubaku 恐怖 试玩 / Jubaku 恐怖 demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 Jubaku 呪縛 / 呪縛 Jubaku / BabGames，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- Demo 大翻新上线：故事更清晰、Past 段重做、相机调色、成就/商店、可跳过过场、字幕改进，通关门槛降低。（原文："WE'VE OVERHAULED THE JUBAKU DEMO!"）〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/2108959721076163056

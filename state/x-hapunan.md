@@ -358,3 +358,8 @@ discovery_date: "2026-10-10"
 - Hapunan Demo（哈普南演示版）1.1.0 walkthrough · Null黑夢 · BV1d8wYeEEKt · 2025-01-21 · 播放 1294
 - 【小熊flippy】菲律宾黑帮又来为难摆摊小伙了它该如何应对呢？《Hapunan~晚餐》02 · 寒冷月-明月 · BV1i6Yt6sEnh · 2026-09-09 · 播放 1159
 - 父子外出赚钱遭遇园区绑架 小伙斗智斗勇营救父亲 菲律宾恐怖游戏《HAPUNAN》 · 老猫CatGames · BV1HJbg63E4T · 2026-09-08 · 播放 1119
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- @YikonGames：本窗口无新公开帖。

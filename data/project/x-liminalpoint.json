@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Liminal Point"
@@ -20,6 +21,12 @@
   "恐怖"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- 开发者坦言《Liminal Point》剧情是全作最难部分。（原文：\"making Liminal Point's story, might very well be the hardest thing to do in the game.\"）〔X·@HideWorksGames〕https://x.com/HideWorksGames/status/2108395065974603948\n- 继续引导 wishlist（Steam/Epic/PS5/Xbox）。〔X·@HideWorksGames〕https://x.com/HideWorksGames/status/2108939241526886437",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -57,6 +64,6 @@
  "status": "开发中（2027 年）",
  "summary": "等距视角经典生存恐怖（雾岛） · 小团队（HideWorks） · 开发中（2027 年） · 热度：B站 5 个相关视频合计播放 24.6万；采集反馈 798 条、弹幕 263 条 玩家关注什么：按关键词粗分，评论最集中的话题是对比其他（20.2%）、画面美术（7.0%）、氛围恐怖（7.0%）。 在讨论什么：高频词：游戏、视角、克莱尔、生化危机、以为、恐怖；弹幕刷得最多的是「克莱尔？」、「孤胆枪手」。",
  "tags": [],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

@@ -152,3 +152,8 @@ ASK GAMES 1436 粉，单帖 14 万浏览，有主播（therealtakarita 6136 粉�
 
 - 检索关键词：No Return Address / No Return Address 实况 / No Return Address 试玩 / No Return Address demo（中文名、英文名及「实况/试玩/demo」组合，每词按播放排序取前 5 页；同游戏核验：标题须含 No Return Address，2025 年后发布）
 - 结果：未搜到可确认为本作的视频，B站热度记为 **无/未知**（该作目前在 B站基本没有存在感）。
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- @ASKGAMES1：仅一条回复互动，无发售向新资讯（原档期仍指向 10-28 附近，待下一窗口再核）。

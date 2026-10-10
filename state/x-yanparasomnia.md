@@ -362,3 +362,9 @@ discovery_date: "2026-10-10"
 - 【Yan魇：Parasomnia】东南亚民俗，双人合作恐怖游戏！#1 · 周小辉同学 · BV1yzRdBvERc · 2026-05-10 · 播放 815
 - 【Yan魇：PARASOMNIA】双人合作恐怖游戏试玩版全流程 · 虾江江酱 · BV1UsRJBuEoA · 2026-05-06 · 播放 789
 - 今年玩过最差的恐怖游戏DEMO【YAN魇PARASOMNIA】民俗恐怖双人联机试玩 · 三花怪盗 · BV1mJMu6fEeR · 2026-07-05 · 播放 693
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- @CerebralGameDev / 主开发时间线：本窗口（约 10-08 起）无新帖。
+- 发行方 @nimbusgamesdev 同期主推同厂《Escape: Malice》Friend Pass（见 x-malice），未见《魇》新档期官宣。

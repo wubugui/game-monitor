@@ -1,0 +1,240 @@
+{
+ "baseline": false,
+ "date": "2026-10-11",
+ "id": "2026-10-11",
+ "image_count": 0,
+ "images": [],
+ "md": "# 2026-10-11 日报\n\n<!-- added:2026-10-11 -->\n\n## 今日结论速览\n\n- **收藏热度显著**：太渊无朔 +39.9%；你就是缘由 +25.5%；追境 +12.0%；童年诡事录绝对升温（代表条 +4.6万 / +1.6万）；别眨眼近 48h 新片「即将发售」口径\n- **新发现**：B 站近 48h 过滤后 48、建议收藏 14；小红书登录态新候选（玩骨頭/佳宝物业热线/纸祭等）；X/Steam 高优先（银松镇/永泉/末班/Unwatching/Laica/树海之路等）\n- **已追踪 X 差分**：Doll Shop T-2、EMBERBOUND 1.8、叫魂日文预告与小红书首曝、Soulcake/JUBAKU/Malice/Coldline 等\n- **登录态**：B 站 ydttteng 有效；小红书已登录只读\n\n---\n\n## 【收藏专区】\n\n<!-- added:2026-10-11 -->\n\n### 热度差分（相对 10-10 同 BV）\n\n数据：`tmp/heat_delta_2026-10-11.tsv` / `tmp/heat_significant_2026-10-11.md`。已剔同名污染。\n\n| 收藏 | 核对结论 | 明细 |\n|---|---|---|\n| ⭐ 太渊无朔 | **显著升温（低基数）** | BV1btHC6bEVr 3117→**4362**（+39.9%） |\n| ⭐ 你就是缘由 | **显著升温（低基数）** | BV1NVH96SETa 792→**994**（+25.5%）；已剔歌曲污染 |\n| ⭐ 追境 | **小幅升温** | BV15GHX6hEjk 351→**393**（+12.0%） |\n| ⭐ 童年诡事录 | **绝对升温** | BV1t6HL62ECy 65.6万→**70.2万**（+7.0%）；BV16SYP6cEML 38.6万→**40.2万**（+4.1%） |\n| ⭐ 别眨眼 | **新片** | BV17Kp46YEZN 新条 1766；口径「即将发售」 |\n| 其余核对收藏 | 持平或无昨日同 BV 基线 | 见全量 tsv |\n\n**反馈复核**：太渊无朔已复核 193 条；你就是缘由 32；追境 1；童年诡事录抽检 40；别眨眼 6。标签为人工复核，未上未审自由模型百分比。\n\n### 叫魂 / 乌合之众（渠道）\n\n- **叫魂**：日文预告约 24.5 万浏览〔X·@JIAOHUN_JP〕；小红书首曝向笔记约 463 赞 / 214 藏 / 32 评，玩家对标还愿〔小红书·叫魂首曝笔记〕\n- **乌合之众**：小红书定档大帖仍约 6063 赞；近两日「给森正学发邮件」整活帖约 1038 赞〔小红书〕\n\n### 今日新增收藏向（完整档案）\n\n本轮补完并入库 **16** 个新收藏档（均含封面 + ≥8 张实机图，已目视抽检）。公开站只标「收藏」；对内题材分层写在各档案 `collection_layer`。\n\n| 名称 | 分层 | 一句话 | 档案 |\n|---|---|---|---|\n| ⭐ 玩骨頭 | 参考 | 藏式定格解密；作者承认 AI、计划 Steam | [xhs-wanguotou](../state/xhs-wanguotou.md) |\n| ⭐ 佳宝物业热线 | 参考 | 千禧物业怪核模拟恐怖，商店页已开 | [xhs-jiabao](../state/xhs-jiabao.md) |\n| ⭐ 纸祭 | 邻近 | 中式竖屏解密，至少第三章；低热 | [xhs-zhiji](../state/xhs-zhiji.md) |\n| ⭐ 勇闯死人谷 | 邻近 | 单人 UE5 中式侧视生存 Demo | [yongchuang-sirengu](../state/yongchuang-sirengu.md) |\n| ⭐ 末班 | 参考 | 中文短篇观察抉择心理恐，10-11 窗口 | [steam-3820460](../state/steam-3820460.md) |\n| ⭐ 树海之路 | 参考 | 夜班出租→树海，tinyBuild，2027 | [steam-4124320](../state/steam-4124320.md) |\n| ⭐ 我将为死者命名 | 参考 | 墓园命名叙事恐，DANGEN，Demo | [steam-4881350](../state/steam-4881350.md) |\n| ⭐ 银松镇 | 参考 | 10-08 发售类银河城生存恐（≠The Pines） | [steam-2333000](../state/steam-2333000.md) |\n| ⭐ Out Fishing | 参考 | 恐怖钓鱼 Demo，坂本叔 1.3万播 | [steam-3660260](../state/steam-3660260.md) |\n| ⭐ 要理问答 | 参考 | 像素恐怖 ARPG，2027 Q3 | [steam-2593320](../state/steam-2593320.md) |\n| ⭐ 永夜协奏曲 | 参考 | 暗黑童话百合 VN，Demo 上线 | [steam-4953580](../state/steam-4953580.md) |\n| ⭐ 惊悚乐园：平田的世界 | 参考 | RPG×互动影游，Demo 反馈偏短/有 bug | [steam-4952700](../state/steam-4952700.md) |\n| ⭐ 幸福里：生门 | 参考 | 1–4 人合作解谜，冲新品节 | [steam-4650270](../state/steam-4650270.md) |\n| ⭐ 永泉 | 参考 | Fullbright 温泉叙事，11-11 + Demo | [steam-3677850](../state/steam-3677850.md) |\n| ⭐ Laica | 参考 | 太空站同居生存恐，2027；预告 17.6万播 | [steam-4037370](../state/steam-4037370.md) |\n| ⭐ Unwatching | 参考 | 洋馆找毁 7 人形，10-11 | [steam-5166790](../state/steam-5166790.md) |\n\n**未建档（故意跳过）**：独立游戏发布会合集、中式都市传说格斗（未定名/素材不足）、渔帆暗涌/渊舟蚀影与 Baitcore（本轮图包未齐）、天使机构（10-10 已有 `x-angelicagency`）、闯百鬼/无归等弱信号。\n\n**反馈口径**：新档项目总结只基于本轮已采集评论做人工归纳；**未发布未复核的自由模型情感百分比**。评论样本不足处标「未知」。\n\n---\n\n## 【B站】\n\n<!-- added:2026-10-11 -->\n\n### 发现方法\n\n近 48h `order=pubdate`，关键词×题材批量；登录 cookie 有效。原始唯一 BV 860 → 过滤 48 → 建议收藏 14。明细：`tmp/discover_new_2026-10-11.md`。\n\n### 建议收藏优先（摘要）\n\nOut Fishing、要理问答 Catechesis、永夜协奏曲、树海之路、中式都市传说格斗（未定名）、天使机构、渔帆暗涌/渊舟蚀影、银松镇、我将为死者命名、勇闯死人谷、Baitcore、惊悚乐园：平田的世界、幸福里：生门。\n\n### 高播非收藏向\n\n极境：垂钓者（67.7万首曝）、再再启程（王老菊相关讨论）、龙窟破坏者等——写入发现表但不进收藏池。\n\n---\n\n## 【小红书】\n\n<!-- added:2026-10-11 -->\n\n登录态只读完成。扫查：`tmp/xhs_sweep_2026-10-11.md`；候选：`tmp/discover_xhs_2026-10-11.md`。\n\n**新候选优先**：玩骨頭（赞 7562，作者承认 AI、计划 Steam）、佳宝物业热线（怪核物业，商店页已开）、纸祭（第三章速通，低热）。\n\n**已建档近况**：叫魂小红书起量；乌合之众定档帖与森正学整活；童年诡事录大帖几乎不涨；镇邪2 / 见诡 / 阴魂街近一周讨论弱。\n\n封面入库：`xhs/jiaohun.jpg`、`wangu.jpg`、`zhiji.jpg`、`jiabao.jpg`、`chuangbaigui.jpg`、`wuhe-2027.jpg`。\n\n---\n\n## 【X】\n\n<!-- added:2026-10-11 -->\n\n要点：`x/2026-10-11-notes.md`。候选：`tmp/discover_x_2026-10-11.md`。\n\n- **发售/档期**：银松镇（10-08 热）、永泉（11-11+Demo）、末班与 Unwatching（10-11）、Doll Shop（T-2，WL 1.5万）、Den-Den（10-12）、Hotel Napoli（Next Fest）、Laica（2027）、树海之路（Playtest/2027）\n- **已追踪更新**：EMBERBOUND itch 1.8；叫魂日文预告；JUBAKU Demo 翻新；Malice Friend Pass；Coldline 冲新品节；Soulcake 展会误认等\n- **AI**：成本倒挂讨论；教妹妹开车续热（已追踪）；民国诡事相关号推 AI 产品未见游戏向新更\n\n中式民俗公开检索噪声大，有效新作信号弱，靠开发者号与日文/英文策展滚雪球。\n\n---\n\n## 【Steam】\n\n<!-- added:2026-10-11 -->\n\n与 X 高优先对齐：`tmp/discover_steam_2026-10-11.md`。另有大量欧美 jump-scare Demo 标低优先。\n\n---\n\n## 【AI】\n\n<!-- added:2026-10-11 -->\n\n- X 上「AI 月费 vs Steam 收入」成本倒挂讨论升温〔X〕\n- 小红书《玩骨頭》作者置顶承认 AI、强调可实机，评论区风格党与拒 AI 并存〔小红书〕\n- 既有 AI 影游池（京门之下、黑水镇、重启：工作日）本日无显著热度跃迁\n\n---\n\n## 附录：文件与阻塞\n\n| 项 | 状态 |\n|---|---|\n| 主日报 | 本文件 |\n| 热度 | `tmp/heat_*_2026-10-11.*` |\n| B站发现 | `tmp/discover_bili_2026-10-11.jsonl` / `discover_new_2026-10-11.md` |\n| 小红书 | `tmp/xhs_sweep_2026-10-11.md` / `discover_xhs_2026-10-11.md` |\n| X | `x/2026-10-11-notes.md` / `tmp/discover_x_2026-10-11.md` |\n| Steam | `tmp/discover_steam_2026-10-11.md` |\n| 登录 | B站✓ 小红书✓ |\n| 阻塞 | 16 个新收藏档已补完入库；部分旧收藏评论仍仅显著升温档深挖 |\n",
+ "new": "",
+ "projects": [
+  {
+   "competitor": true,
+   "cover": "covers/steam-2333000.jpg",
+   "id": "steam-2333000",
+   "name": "银松镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-2593320.jpg",
+   "id": "steam-2593320",
+   "name": "要理问答"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-zhiji.jpg",
+   "id": "xhs-zhiji",
+   "name": "纸祭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3677850.jpg",
+   "id": "steam-3677850",
+   "name": "永泉"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4953580.jpg",
+   "id": "steam-4953580",
+   "name": "永夜协奏曲"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4124320.jpg",
+   "id": "steam-4124320",
+   "name": "树海之路"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3820460.jpg",
+   "id": "steam-3820460",
+   "name": "末班"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4952700.jpg",
+   "id": "steam-4952700",
+   "name": "惊悚乐园：平田的世界"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4650270.jpg",
+   "id": "steam-4650270",
+   "name": "幸福里：生门"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV12Lpt6LEV2.jpg",
+   "id": "yongchuang-sirengu",
+   "name": "勇闯死人谷"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-jiabao.jpg",
+   "id": "xhs-jiabao",
+   "name": "佳宝物业热线"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5166790.jpg",
+   "id": "steam-5166790",
+   "name": "Unwatching -The Seven Dolls-"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15ZijeREHG.jpg",
+   "id": "BV15ZijeREHG",
+   "name": "镇邪2"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-malice.jpg",
+   "id": "x-malice",
+   "name": "逃脱：怨念 Escape: Malice"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-strangetales.jpg",
+   "id": "x-strangetales",
+   "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "id": "p-72baee6fce",
+   "name": "呪縛 Jubaku"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "id": "p-95cb3f1758",
+   "name": "Coldline: Disconnect"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1vLFCzwEq1.jpg",
+   "id": "BV1vLFCzwEq1",
+   "name": "黑水镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/jianguilu-yinhunjie.jpg",
+   "id": "BV1rBX6Y9Euf",
+   "name": "见诡录：阴魂街"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1J6eb6MEhr.jpg",
+   "id": "BV1J6eb6MEhr",
+   "name": "见诡"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/BV1ARYc6cEBN.jpg",
+   "id": "BV1ARYc6cEBN",
+   "name": "教妹妹开车"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "id": "BV1btHC6bEVr",
+   "name": "太渊无朔"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SXYj6mE1g.jpg",
+   "id": "BV1SXYj6mE1g",
+   "name": "京门之下"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "id": "BV1mSa76yEor",
+   "name": "乌合之众"
+  }
+ ],
+ "sections": [
+  "今日结论速览",
+  "【收藏专区】",
+  "【B站】",
+  "【小红书】",
+  "【X】",
+  "【Steam】",
+  "【AI】",
+  "附录：文件与阻塞"
+ ],
+ "summary": "收藏热度差分（太渊无朔/你就是缘由/追境/童年诡事录/别眨眼）+ 新收藏建档 16（玩骨頭/佳宝/纸祭/末班/树海/银松镇等）+ 叫魂小红书起量。",
+ "title": "2026-10-11 日报",
+ "updated": ""
+}

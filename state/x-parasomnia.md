@@ -284,3 +284,8 @@ discovery_date: "2026-10-10"
 
 - 吾好梦中杀二胎 |《parasomnia:no rem》试玩 · 宇宙叉烧 · BV1biHL6JEyu · 2026-10-04 · 播放 143
 - 我梦游症患者？和我的原生家庭 Parasomnia: No REM demo试玩 · 予一yuyuyu · BV141aS6qEr5 · 2026-10-03 · 播放 140
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 开发者 Lari 发布团队故事短片：学生项目起步、梦游主题原创恐怖。（原文："Hey! I’m Lari, one of the people behind Parasomnia: No REM..."）〔X·@ParasomniaNoREM〕https://x.com/ParasomniaNoREM/status/2108585000455286810

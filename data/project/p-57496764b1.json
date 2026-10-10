@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Parasomnia"
@@ -21,6 +22,12 @@
   "悬疑/解谜"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- 开发者 Lari 发布团队故事短片：学生项目起步、梦游主题原创恐怖。（原文：\"Hey! I’m Lari, one of the people behind Parasomnia: No REM...\"）〔X·@ParasomniaNoREM〕https://x.com/ParasomniaNoREM/status/2108585000455286810",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -58,6 +65,6 @@
  "status": "新 Demo（2026-10）",
  "summary": "梦游主题心理恐怖解谜 · 小团队（BELS Games） · 新 Demo（2026-10） · 热度：B站 5 个相关视频合计播放 7226；采集反馈 38 条、弹幕 9 条 玩家关注什么：按关键词粗分，评论最集中的话题是AI争议（5.3%）、配音音乐（5.3%）、催更期待（2.6%）。 在讨论什么：高频词：欢迎、第一、感谢、支持、配音、恭喜；弹幕刷得最多的是「发红，鬼啃十字架了（）」、「我了个高大人类」。",
  "tags": [],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

@@ -342,3 +342,9 @@ discovery_date: "2026-10-10"
 - 受《生化危机》启发的恐怖游戏《Liminal Point》预告片2 · 游民星空资讯君 · BV1sEHAzWEAn · 2025-10-02 · 播放 582
 - Liminal Point · EVO1912 · BV13Bw9eeEMP · 2025-02-17 · 播放 563
 - 【Liminal Point】球一定要会弹 · 最佳独立游戏 · BV1Vp6dBjEi9 · 2026-01-11 · 播放 513
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 开发者坦言《Liminal Point》剧情是全作最难部分。（原文："making Liminal Point's story, might very well be the hardest thing to do in the game."）〔X·@HideWorksGames〕https://x.com/HideWorksGames/status/2108395065974603948
+- 继续引导 wishlist（Steam/Epic/PS5/Xbox）。〔X·@HideWorksGames〕https://x.com/HideWorksGames/status/2108939241526886437

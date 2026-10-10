@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "Strange Tales of Republican China",
@@ -26,6 +27,13 @@
   "AI 驱动"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- @YorollAI 近帖主推 AI 伴侣 Yyo，未见《民国诡事 / Strange Tales》新 Demo/发售向更新。〔X·@YorollAI〕",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -65,6 +73,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

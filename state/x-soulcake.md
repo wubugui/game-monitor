@@ -317,3 +317,9 @@ discovery_date: "2026-10-10"
 - 【灵魂甜品demo】奇幻恋爱AVG，失去情绪的人，如何通过甜品找回感情？ · 九之濑三月yayoi · BV1wHMZ6XETn · 2026-08-04 · 播放 296
 - 你能自由穿梭他人内心，带出其中食材，制作出包含不同情绪的甜品！多结局恋爱探索AVG游戏《灵魂甜品》S · 学吉他的獭宝儿otter · BV1MJuP6EErv · 2026-08-07 · 播放 156
 - 《灵魂甜品Soulcake》多结局恋爱冒险游戏 Demo版全流程实况 · 白条桂 · BV1NH3U6kESp · 2026-08-02 · 播放 147
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- 线下展会反馈：访客常把女主误认为男角/常规 galgame，开发者纠正后惊讶反应多。（原文："Many visitors mistook our heroine for a male character..."）〔X·@Pttz16Pttz〕https://x.com/Pttz16Pttz/status/2108606306143850827
+- 超级ゲ制デー推广：横版探索 ADV + VN，Steam 体验版在线。〔X·@Pttz16Pttz〕https://x.com/Pttz16Pttz/status/2108573640489156943

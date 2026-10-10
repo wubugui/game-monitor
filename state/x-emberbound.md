@@ -369,3 +369,9 @@ Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国
 - 未烬之约第一章实况试玩版后部分。一定要看完哦，后面神秘小彩蛋。 · 璟轩羽泽 · BV1vj336nE3e · 2026-07-26 · 播放 1.1万
 - 未烬之约后半段来喽，第一时间出个视频，好玩的啦 · 山川落晚风 · BV1Wi336qEhF · 2026-07-26 · 播放 1.1万
 - 未烬之约 第二章 晟阳线 · -でしょましょ- · BV1hRaZ6YEu3 · 2026-10-01 · 播放 9189
+
+## X 差分 2026-10-11
+<!-- added:2026-10-11 -->
+
+- itch 上架 Emberbound Version 1.8；Steam Demo 仍审核中、可能再拖。（原文："Emberbound Version 1.8 has been uploaded to itch today! ... The Steam demo is still under review"）〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108857782397194631 （约 347 赞 / 6.5k 浏览）
+- 因第二章延期，将 $15 Patreon 支持活动延长至 10-20。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108581631330283965 （约 1232 赞）

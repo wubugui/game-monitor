@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "aliases": [
   "EMBERBOUND",
@@ -23,6 +24,13 @@
   "叙事/剧情"
  ],
  "history": [
+  {
+   "date": "2026-10-11",
+   "kind": "state",
+   "md": "<!-- added:2026-10-11 -->\n\n- itch 上架 Emberbound Version 1.8；Steam Demo 仍审核中、可能再拖。（原文：\"Emberbound Version 1.8 has been uploaded to itch today! ... The Steam demo is still under review\"）〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108857782397194631 （约 347 赞 / 6.5k 浏览）\n- 因第二章延期，将 $15 Patreon 支持活动延长至 10-20。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108581631330283965 （约 1232 赞）",
+   "report": "2026-10-11",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-10",
    "kind": "state",
@@ -62,6 +70,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 2,
- "updated": "2026-10-10"
+ "update_count": 3,
+ "updated": "2026-10-11"
 }

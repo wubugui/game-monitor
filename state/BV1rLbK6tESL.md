@@ -42,7 +42,7 @@ discovery_date: "2026-10-09"
 - **在讨论什么**：高频词：卤房、游戏、卡牌、喜欢、表情、杀戮；弹幕刷得最多的是「再多看两眼」、「来头挺大！！」。 「[doge]巢母就不放了，放个手游的吧，听说你喜欢是吧」（1866赞）〔B站·BV1rLbK6tESL评论〕
 - **喜欢什么**：好评占比 约 11.4%（关键词粗估）。 「这种的主播喜欢吗？」（237赞）〔B站·BV1rLbK6tESL评论〕；「喜欢老黎这样的小卤房」（71赞）〔B站·BV1rLbK6tESL评论〕
 - **厌恶什么**：差评占比 约 5.3%（关键词粗估）。 「一股子ai味，现在的玩家也是有福了[doge]」（31赞）〔B站·BV1opjz6mEQf评论〕；「你好，按鼠标右键可以暂停。因为是demo版本，可能会有些bug没测出来，非常抱歉 [笑哭]」（27赞）〔B站·BV1gLUYBwExn楼中楼〕
-- **希望什么**：约 1.8% 的评论在表达期待、催更或提建议。 「我什么时候关注他的[笑哭]」（5赞）〔B站·BV1rLbK6tESL评论〕；「风少什么时候玩黑魂2呢[吃瓜]」（4赞）〔B站·BV1opjz6mEQf评论〕
+- **希望什么**：约 1.3% 的评论在表达期待、催更或提建议。 「我什么时候关注他的[笑哭]」（5赞）〔B站·BV1rLbK6tESL评论〕；「风少什么时候玩黑魂2呢[吃瓜]」（4赞）〔B站·BV1opjz6mEQf评论〕
 
 <!-- psum:end -->
 <!-- added:2026-10-09 -->
@@ -240,7 +240,7 @@ discovery_date: "2026-10-09"
 | B站楼中楼 | 335 |
 | B站弹幕 | 523 |
 
-涉及 B站视频 6 个：BV1rLbK6tESL、BV1opjz6mEQf、BV1Djbr6CEsg、BV1gLUYBwExn、BV1QQUYBiEVr、BV1K8UqBMEEa
+涉及 B站视频 6 个：BV1rLbK6tESL、BV1opjz6mEQf、BV1gLUYBwExn、BV1Djbr6CEsg、BV1QQUYBiEVr、BV1K8UqBMEEa
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

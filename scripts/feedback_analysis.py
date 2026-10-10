@@ -499,6 +499,7 @@ def project_summary(pid, md, a):
     small = n < 30
     used = set()
     def q(cands, k=1, minlen=6):
+        cands = [c for c in cands if not c['text'].lstrip().startswith('回复 @')] or []  # 楼中楼回复脱离上下文，不作代表引文
         r = pick(cands, k, used, minlen); return '；'.join(short(c) for c in r)
     tc = collections.Counter(t for c in allc for t in topics(c['text']))
     tops = tc.most_common(3)
@@ -512,7 +513,10 @@ def project_summary(pid, md, a):
     neg = [c for c in allc if lab(c) == 'neg' and (c.get('llm') or not E)]
     if E and len(pos) < 2: pos = [c for c in allc if lab(c) == 'pos']
     if E and len(neg) < 2: neg = [c for c in allc if lab(c) == 'neg']
-    hope = [c for c in allc if HOPE.search(c['text'])]
+    def _hope(t):
+        m = HOPE.search(t)
+        return bool(m) and m.start() < 40 and not t.startswith('回复 @') and not re.search(r'制作人|我们的|欢迎(加入)?愿望单|https?://', t)
+    hope = [c for c in allc if _hope(c['text'])]
     if not E:  # 未复核时，引文只取措辞明确的条目，避免关键词误判
         SP = re.compile(r'好玩|不错|喜欢|惊艳|好评|推荐|好看|精致|用心|神作|佳作|爱了|绝了|上头|真香')
         SN = re.compile(r'垃圾|失望|劝退|差评|退款|无聊|粗糙|难玩|不好玩|拉胯|拉跨|ai味|AI味|bug|BUG|优化差|优化烂|别买|换皮|缝合|圈钱|难绷|尴尬|出戏')

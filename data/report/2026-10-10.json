@@ -18,6 +18,18 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-yanparasomnia.jpg",
    "id": "x-yanparasomnia",
    "name": "魇 Yan: Parasomnia"
@@ -39,12 +51,6 @@
    "cover": "covers/x-rubbings.jpg",
    "id": "p-b4beba7e64",
    "name": "诡拓 Rubbings"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,
@@ -129,12 +135,6 @@
    "cover": "covers/BV1GhHS6QECw.jpg",
    "id": "BV1GhHS6QECw",
    "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,

@@ -9,6 +9,30 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "id": "BV1RVH86hEBF",
+   "name": "南亭湖"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
@@ -21,21 +45,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1J6eb6MEhr.jpg",
    "id": "BV1J6eb6MEhr",
    "name": "见诡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,
@@ -81,12 +93,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1RAeV67Ed9.jpg",
    "id": "BV1RAeV67Ed9",
    "name": "妄生"
@@ -114,12 +120,6 @@
    "cover": "covers/BV1g9ad64EZj.jpg",
    "id": "BV1g9ad64EZj",
    "name": "声探疑云"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
   }
  ],
  "sections": [

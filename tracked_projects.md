@@ -201,3 +201,8 @@
 | ⭐ 永泉 Springs, Eternal | 低保真第一人称叙事探索 | 小团队（Fullbright；发行 Serenity Forge） | Demo（2026-11-11） | 2026-10-11 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3677850/ ；档案 state/steam-3677850.md |
 | ⭐ Laica | 太空站同居×生存恐怖 | 小团队（Santa Studio；发行 ambr） | 开发中（2027） | 2026-10-11 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4037370/ ；档案 state/steam-4037370.md |
 | ⭐ Unwatching -The Seven Dolls- | 第一人称生存恐怖（找毁7人形） | 小团队（Makishiba Games） | 即将推出（2026-10-11） | 2026-10-11 |  |  | 发现来源 Steam/X；Steam https://store.steampowered.com/app/5166790/ ；档案 state/steam-5166790.md |
+| ⭐ 驱灵天师 | 国风民俗志怪 多人联机 PVE 搜打撤（第一/第三人称） | 小团队（GKD工作室） | 抢先体验（商店口径 2026-10-12） | 2026-10-12 | https://www.bilibili.com/video/BV1kEEy6CEZc | 10.7万 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/2490960/ ；档案 state/steam-2490960.md |
+| ⭐ 契命 | 中式恐怖叙事解谜 RPG（驱邪委托 / 超度亡魂） | 个人或小团队（susan / susan studio） | Demo（试玩版，正式版即将推出） | 2026-10-12 | https://www.bilibili.com/video/BV1h2uC6AEBq | 1320 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/4283270/ ；档案 state/steam-4283270.md |
+| ⭐ 巡妖 | 国风 2D 小剧场动作（巡妖司学徒 / 志怪喜剧） | 小团队（楚楚大作坊） | Demo（2026-10-07 上线） | 2026-10-12 | https://www.bilibili.com/video/BV1GC25BVEGx | 614 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/4183150/ ；档案 state/steam-4183150.md |
+| ⭐ 诡影藏锋 | 中式志怪 第一人称搜打撤（UE5，冷兵器） | 大厂（NetEase Games） | 测试中（2026-08 首测；即将推出） | 2026-10-12 | https://www.bilibili.com/video/BV1muTQ6CExQ | 1030.8万 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/4354610/ ；档案 state/steam-4354610.md |
+| ⭐ 黄泉園 | 日本神话 × 海洋恐惧 第一人称探索恐怖（零 UI） | 个人或小团队（Karam works） | 商店页公开（2027） | 2026-10-12 |  |  | 发现来源 X/Steam；Steam https://store.steampowered.com/app/4498100/ ；档案 state/steam-4498100.md |

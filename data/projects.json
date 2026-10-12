@@ -1,6 +1,37 @@
 [
  {
   "competitor": true,
+  "cover": "covers/steam-1859910.jpg",
+  "dev_type": "小团队",
+  "developer": "小团队（Obb Studio Inc.／原始鸟熊，二人）",
+  "disc_platform": "用户指定",
+  "discovery": "用户指定加入邻近收藏（黑色幽默／国产独立叙事对照）；Steam app 1859910",
+  "feedback": null,
+  "found": "2026-10-13",
+  "genre": "武侠养成 RPG／文字冒险（多周目叙事）",
+  "genre_tags": [
+   "收藏",
+   "叙事/剧情",
+   "武侠",
+   "独立",
+   "黑色幽默",
+   "民俗/国风",
+   "RPG"
+  ],
+  "id": "steam-1859910",
+  "link": "https://store.steampowered.com/app/1859910/",
+  "missing_images": null,
+  "name": "活侠传",
+  "note": "",
+  "source": "",
+  "status": "已发售（持续免费大更新）",
+  "status_inferred": null,
+  "summary": "武侠养成 RPG／文字冒险（多周目叙事） · 小团队（Obb Studio Inc.／原始鸟熊，二人） · 已发售（2024-06-14，持续免费大更新） · 热度：本轮人工采集 B 站相关高播视频 20 条合计约 1543 万 播放、约 3.8 万 条视频评论入口；热评主楼 402 条（含楼中楼抽样），未使用自由模型做结论。 玩家关注什么：文本／人物／「丑主角」是否成立；一周目憋屈与多周目「逆天改命」承诺是否兑现；女主线／NTR 与制",
+  "update_count": 0,
+  "updated": "2026-10-13"
+ },
+ {
+  "competitor": true,
   "cover": "covers/steam-4498100.jpg",
   "dev_type": "个人",
   "developer": "个人或小团队（Karam works）",

@@ -207,3 +207,4 @@
 | ⭐ 巡妖 | 国风 2D 小剧场动作（巡妖司学徒 / 志怪喜剧） | 小团队（楚楚大作坊） | Demo（2026-10-07 上线） | 2026-10-12 | https://www.bilibili.com/video/BV1GC25BVEGx | 614 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/4183150/ ；档案 state/steam-4183150.md |
 | ⭐ 诡影藏锋 | 中式志怪 第一人称搜打撤（UE5，冷兵器） | 大厂（NetEase Games） | 测试中（2026-08 首测；即将推出） | 2026-10-12 | https://www.bilibili.com/video/BV1muTQ6CExQ | 1030.8万 | 发现来源 Steam/B站；Steam https://store.steampowered.com/app/4354610/ ；档案 state/steam-4354610.md |
 | ⭐ 黄泉園 | 日本神话 × 海洋恐惧 第一人称探索恐怖（零 UI） | 个人或小团队（Karam works） | 商店页公开（2027） | 2026-10-12 |  |  | 发现来源 X/Steam；Steam https://store.steampowered.com/app/4498100/ ；档案 state/steam-4498100.md |
+| ⭐ 活侠传 | 武侠养成 RPG／文字冒险（多周目叙事） | 小团队（Obb Studio Inc.／原始鸟熊） | 已发售（2024-06-14） | 2026-10-13 | https://www.bilibili.com/video/BV1oW421X7yV | 395.1万 | 邻近·黑色幽默／国产独立叙事；Steam https://store.steampowered.com/app/1859910/ ；档案 state/steam-1859910.md |

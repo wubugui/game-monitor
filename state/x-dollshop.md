@@ -296,3 +296,12 @@ discovery_date: "2026-10-10"
 - 发售倒计时 2 天（10-12）：手绘 cozy horror VN，对准万圣节档期；愿望单已破 15,000。（原文："Countdown: 2 Days before release of #TheDollShop! ... Wishlist"）〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108853533881827381
 - Discord 直播预告同人动画 WIP（@eledamadele）。〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108833288492056773
 - 法语 newsletter 访谈（Niigata 创作轶事）。〔X·@AtelierSento〕https://x.com/AtelierSento/status/2108519084669218904
+
+## X 差分 2026-10-12
+<!-- added:2026-10-12 -->
+
+- **发售日当天（商店页仍标 coming_soon / 2026-10-12）**：开发者 @AtelierSento 10-11 发「The Doll Shop releases tomorrow!」〔X·@AtelierSento〕https://x.com/AtelierSento/status/2109208552158212268（约 679 浏览 / 29 赞）。
+- 电ファミ等日媒转推导致时间线大量 RT；开发者致谢试玩与配音「藤本さんの声は本当に最高です」。〔X·@AtelierSento〕
+- Steam 评测数本轮仍为 0（刚上架窗口）。〔Steam·appreviews app 3851680〕
+- 状态：由「倒计时」进入「发售日」；愿望单阶段结束，转入首日评测观察。
+

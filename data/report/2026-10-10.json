@@ -24,6 +24,36 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "id": "p-72baee6fce",
+   "name": "呪縛 Jubaku"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "id": "p-95cb3f1758",
+   "name": "Coldline: Disconnect"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -60,24 +90,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-jubaku.jpg",
-   "id": "p-72baee6fce",
-   "name": "呪縛 Jubaku"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
@@ -87,12 +99,6 @@
    "cover": "covers/x-omusubi.jpg",
    "id": "x-omusubi",
    "name": "お結び OMUSUBI（缘结迷境）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
   },
   {
    "competitor": false,
@@ -123,12 +129,6 @@
    "cover": "covers/x-hapunan.jpg",
    "id": "x-hapunan",
    "name": "Hapunan"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-coldline.jpg",
-   "id": "p-95cb3f1758",
-   "name": "Coldline: Disconnect"
   },
   {
    "competitor": true,

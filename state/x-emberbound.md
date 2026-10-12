@@ -375,3 +375,10 @@ Fluffore Studio X 号 6265 粉，PV 帖 7.3 万浏览——在本轮所有中国
 
 - itch 上架 Emberbound Version 1.8；Steam Demo 仍审核中、可能再拖。（原文："Emberbound Version 1.8 has been uploaded to itch today! ... The Steam demo is still under review"）〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108857782397194631 （约 347 赞 / 6.5k 浏览）
 - 因第二章延期，将 $15 Patreon 支持活动延长至 10-20。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108581631330283965 （约 1232 赞）
+
+## X 差分 2026-10-12
+<!-- added:2026-10-12 -->
+
+- 10-10 itch v1.8 帖回看：约 **1.2 万**浏览 / **501** 赞 / 38 转（相对录入时继续爬）。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108857782397194631
+- 本窗口无更新帖；Steam Demo 仍「under review」。
+

@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
@@ -18,6 +24,12 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "id": "BV1mSa76yEor",
+   "name": "乌合之众"
   },
   {
    "competitor": true,
@@ -48,18 +60,6 @@
    "cover": "covers/BV1SXYj6mE1g.jpg",
    "id": "BV1SXYj6mE1g",
    "name": "京门之下"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1mSa76yEor.jpg",
-   "id": "BV1mSa76yEor",
-   "name": "乌合之众"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
   },
   {
    "competitor": true,

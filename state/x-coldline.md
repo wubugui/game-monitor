@@ -226,3 +226,10 @@ Grawire Studio X 406 粉，中英双语发帖，有 Steam Demo；画面统一、
 - 冲 Next Fest 前「Operation 2000」愿望单号召。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108920008667525342
 - Mobidictum 2026 展会试玩反馈帖。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108319096471175630
 - 工作室官网上线。〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108195408040067169
+
+## X 差分 2026-10-12
+<!-- added:2026-10-12 -->
+
+- 持续冲 Next Fest 前愿望单：「Operation 2000 before next fest???」〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108920008667525342
+- 10-11 多条氛围图/短片（Hal Mencer、红绿灯等），属日常宣发，无玩法大改声明。
+

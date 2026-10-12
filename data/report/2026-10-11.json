@@ -9,6 +9,24 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/xhs-zhiji.jpg",
+   "id": "xhs-zhiji",
+   "name": "纸祭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-jiabao.jpg",
+   "id": "xhs-jiabao",
+   "name": "佳宝物业热线"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
@@ -18,6 +36,30 @@
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "id": "p-72baee6fce",
+   "name": "呪縛 Jubaku"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "id": "p-95cb3f1758",
+   "name": "Coldline: Disconnect"
   },
   {
    "competitor": true,
@@ -33,6 +75,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "id": "BV1mSa76yEor",
+   "name": "乌合之众"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
@@ -42,18 +90,6 @@
    "cover": "covers/steam-2593320.jpg",
    "id": "steam-2593320",
    "name": "要理问答"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-zhiji.jpg",
-   "id": "xhs-zhiji",
-   "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
-   "name": "玩骨頭"
   },
   {
    "competitor": true,
@@ -105,12 +141,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/xhs-jiabao.jpg",
-   "id": "xhs-jiabao",
-   "name": "佳宝物业热线"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-5166790.jpg",
    "id": "steam-5166790",
    "name": "Unwatching -The Seven Dolls-"
@@ -141,33 +171,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-jubaku.jpg",
-   "id": "p-72baee6fce",
-   "name": "呪縛 Jubaku"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/x-coldline.jpg",
-   "id": "p-95cb3f1758",
-   "name": "Coldline: Disconnect"
   },
   {
    "competitor": true,
@@ -216,12 +222,6 @@
    "cover": "covers/BV1SXYj6mE1g.jpg",
    "id": "BV1SXYj6mE1g",
    "name": "京门之下"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1mSa76yEor.jpg",
-   "id": "BV1mSa76yEor",
-   "name": "乌合之众"
   }
  ],
  "sections": [

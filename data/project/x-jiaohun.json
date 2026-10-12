@@ -1,7 +1,8 @@
 {
  "added_dates": [
   "2026-10-10",
-  "2026-10-11"
+  "2026-10-11",
+  "2026-10-12"
  ],
  "aliases": [
   "JIAOHUN",
@@ -26,6 +27,13 @@
   "民俗/国风"
  ],
  "history": [
+  {
+   "date": "2026-10-12",
+   "kind": "state",
+   "md": "<!-- added:2026-10-12 -->\n\n### 小红书（登录态搜索卡）\n\n- WePlay文化展「中式心理恐怖游戏《叫魂》公布先导预告片」（约 1 天前，赞约 **149**）。〔小红书·搜索结果卡片〕\n- 官方号「中式心理恐怖游戏《叫魂》全球首曝先导预告」仍在综合排序近位，卡赞约 **476**（相对 10-11 的约 463 微涨）。〔小红书·搜索结果卡片〕\n- 笔记详情本轮被 sec 墙拦截，评论原话未更新。\n\n### X\n\n- 日文官方 @JIAOHUN_JP 10-08 仙女镇短片指标回看：约 **37.5 万**浏览 / **197** 赞 / 42 转（相对 10-11 记录的约 24.5 万浏览 / 148 赞继续爬升）。〔X·@JIAOHUN_JP〕https://x.com/JIAOHUN_JP/status/2108228498833981725\n- gamescom asia 账号 10-11 英文推介「Horror game to play at our show this Halloween: JIAOHUN」。〔X·@gamescomasia〕https://x.com/gamescomasia/status/2109117020080132422\n- 本窗口日文官号无更新帖。",
+   "report": "2026-10-12-xhs-x",
+   "title": "小红书 / X 补扫"
+  },
   {
    "date": "2026-10-11",
    "kind": "state",
@@ -73,6 +81,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 3,
- "updated": "2026-10-11"
+ "update_count": 4,
+ "updated": "2026-10-12"
 }

@@ -1,7 +1,8 @@
 {
  "added_dates": [
   "2026-10-10",
-  "2026-10-11"
+  "2026-10-11",
+  "2026-10-12"
  ],
  "aliases": [
   "EMBERBOUND",
@@ -24,6 +25,13 @@
   "叙事/剧情"
  ],
  "history": [
+  {
+   "date": "2026-10-12",
+   "kind": "state",
+   "md": "<!-- added:2026-10-12 -->\n\n- 10-10 itch v1.8 帖回看：约 **1.2 万**浏览 / **501** 赞 / 38 转（相对录入时继续爬）。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/status/2108857782397194631\n- 本窗口无更新帖；Steam Demo 仍「under review」。",
+   "report": "2026-10-12-xhs-x",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-11",
    "kind": "state",
@@ -70,6 +78,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 3,
- "updated": "2026-10-11"
+ "update_count": 4,
+ "updated": "2026-10-12"
 }

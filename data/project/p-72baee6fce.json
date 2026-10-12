@@ -1,7 +1,8 @@
 {
  "added_dates": [
   "2026-10-10",
-  "2026-10-11"
+  "2026-10-11",
+  "2026-10-12"
  ],
  "aliases": [
   "JUBAKU",
@@ -22,6 +23,13 @@
   "恐怖"
  ],
  "history": [
+  {
+   "date": "2026-10-12",
+   "kind": "state",
+   "md": "<!-- added:2026-10-12 -->\n\n- 10-11 继续推 Demo 翻新实机短片（「don’t mind the other tabs」）。〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/2109258772581646669\n- 相对 10-11 记录：无新重大版本声明，属同一轮 Demo overhaul 的跟进宣发。",
+   "report": "2026-10-12-xhs-x",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-11",
    "kind": "state",
@@ -66,6 +74,6 @@
  "status": "Demo（2027 Q1）",
  "summary": "日式心理恐怖（调查闹鬼屋，多结局） · 小团队（BabGamesStudio） · Demo（2027 Q1） · 热度：B站 1 个相关视频合计播放 9637；采集反馈 117 条、弹幕 6 条 玩家关注什么：按关键词粗分，评论最集中的话题是剧情叙事（8.5%）、价格售卖（3.4%）、催更期待（3.4%）。 在讨论什么：高频词：表情、闪耀、色彩、杜野凛世、心白、游戏；弹幕刷得最多的是「宇宙第一C春香」、「70」。",
  "tags": [],
- "update_count": 3,
- "updated": "2026-10-11"
+ "update_count": 4,
+ "updated": "2026-10-12"
 }

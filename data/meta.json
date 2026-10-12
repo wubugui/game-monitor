@@ -1,7 +1,7 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 66,
+ "competitor_count": 67,
  "data_date": "2026-10-12",
  "dev_types": [
   "个人",
@@ -17,7 +17,8 @@
   "Steam/X",
   "X",
   "X/Steam",
-  "小红书"
+  "小红书",
+  "小红书/Steam"
  ],
  "genres": [
   "2027",
@@ -80,10 +81,10 @@
   "解谜",
   "钓鱼"
  ],
- "latest_report": "2026-10-12",
+ "latest_report": "2026-10-12-xhs-x",
  "latest_report_date": "2026-10-12",
- "project_count": 201,
- "report_count": 15,
+ "project_count": 202,
+ "report_count": 16,
  "statuses": [
   "Demo",
   "Demo 已上线",
@@ -125,6 +126,7 @@
   "已发售（2024-09-30，$12.99）",
   "已发售（2025-04-24）",
   "已发售（2025-07-10）",
+  "已发售（2026-04-17）",
   "已发售（2026-08-11）",
   "已发售（2026-08-20）",
   "已发售（2026-08-25）",
@@ -156,8 +158,8 @@
   "首曝（2027 年，PS5/PC）"
  ],
  "today_banner": "",
- "today_new": 5,
- "today_updated": 0,
+ "today_new": 6,
+ "today_updated": 12,
  "today_updates": [
   {
    "competitor": true,
@@ -168,8 +170,20 @@
    "id": "steam-4283270",
    "kind": "new",
    "name": "契命",
-   "note": "项目总结",
+   "note": "官方号「《契命》酥三工作室」旧宣发卡仍在（愿望单 2k、地图优化、新品节等）；无近 48h 高赞新卡。〔小红书·搜索结果卡片〕",
    "status": "Demo（试玩版，正式版即将推出）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3513600.jpg",
+   "disc_platform": "小红书/Steam",
+   "discovery": "小红书补扫（2026-10-12）关键词「女吊 游戏 / 山雨」命中续作探班与玩后感；Steam app 3513600 核实已发售",
+   "genre": "双人合作 3D 中式民俗恐怖解谜（吴越礼制 / 鬼戏 / 目连戏）",
+   "id": "p-2050ec1777",
+   "kind": "new",
+   "name": "女吊",
+   "note": "项目总结",
+   "status": "已发售（2026-04-17）"
   },
   {
    "competitor": true,
@@ -204,7 +218,7 @@
    "id": "steam-2490960",
    "kind": "new",
    "name": "驱灵天师",
-   "note": "项目总结",
+   "note": "官方号近帖多为角色/招式解析（青云人物介绍约 5 天前赞 2；屠夫全解析 09-30 赞 1）——低互动。〔小红书·搜索结果卡片〕",
    "status": "抢先体验（商店口径 2026-10-12）"
   },
   {
@@ -218,6 +232,150 @@
    "name": "黄泉園",
    "note": "项目总结",
    "status": "商店页公开（2027）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/horrorvisuals/status/2102063771288055918 — 检索 horror 策展号时发现：horrorvisuals（15.6 万粉）推荐，2026-09-21，192 赞",
+   "genre": "手绘日式乡村叙事恐怖（人偶匠）",
+   "id": "x-dollshop",
+   "kind": "updated",
+   "name": "The Doll Shop",
+   "note": "发售日当天（商店页仍标 comingsoon / 2026-10-12）：开发者 @AtelierSento 10-11 发「The Doll Shop releases tomorrow!」〔X·@",
+   "status": "即将发售（2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频 BV1mSa76yEor）",
+   "genre": "中式民俗悬疑/黑色幽默",
+   "id": "BV1mSa76yEor",
+   "kind": "updated",
+   "name": "乌合之众",
+   "note": "森正学整活仍在发酵：存在主义救生圈「感谢森正大师送来的十一条领带」（昨天 19:52，赞约 120）；糊狸「森正学你口袋里到底有什么！」（约 9 小时前，赞约 23）；变成烤年糕「大师居然懂这个梗哈哈",
+   "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-jiabao.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6a6c3932000000003301d8ca，赞 762；文案写 Steam 商店页已开",
+   "genre": "千禧物业怪核 / 模拟恐怖",
+   "id": "xhs-jiabao",
+   "kind": "updated",
+   "name": "佳宝物业热线",
+   "note": "坏磁带工作室「一卷泄露的内部录像带…」仍在中式恐怖词下，卡赞约 764（相对 10-11 的 762 持平）。〔小红书·搜索结果卡片〕",
+   "status": "商店页已开（即将宣布）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「【中式恐怖/剧情】相传这座工厂中有冤魂索命。-《南亭湖》Demo试玩实况」· UP 爱讲故事的陈同学 · BV1RVH86hEBF · 2026-10-03 · 播放 2613",
+   "genre": "中式梦核恐怖",
+   "id": "BV1RVH86hEBF",
+   "kind": "updated",
+   "name": "南亭湖",
+   "note": "灰灰啊「中式恐怖游戏《南亭湖》试玩」（10-04，赞约 295，相对 10-11 记录的 286 微涨）。〔小红书·搜索结果卡片〕",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/shinobi602/status/2108637818230898710 — X 检索「interactive film / Chinese」时发现：shinobi602（52.8 万粉）转发「JIAOHUN | Reveal Trailer」，2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣",
+   "genre": "电影化第一人称中式心理恐怖（1999 小镇）",
+   "id": "x-jiaohun",
+   "kind": "updated",
+   "name": "叫魂 JIAOHUN",
+   "note": "WePlay文化展「中式心理恐怖游戏《叫魂》公布先导预告片」（约 1 天前，赞约 149）。〔小红书·搜索结果卡片〕",
+   "status": "首曝（2027 年，PS5/PC）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/FlufforeStudio/status/2080572107352891677 — 检索「#visualnovel wishlist」发现：官方 PV 帖，2026-07-24，1173 赞 / 138 转 / 7.3 万浏览",
+   "genre": "兽人题材现代日常视觉小说",
+   "id": "p-6e867641fa",
+   "kind": "updated",
+   "name": "未烬之约 EMBERBOUND",
+   "note": "itch v1.8 帖回看：约 1.2 万浏览 / 501 赞 / 38 转（相对录入时继续爬）。〔X·@FlufforeStudio〕https://x.com/FlufforeStudio/sta",
+   "status": "开发中（Patreon 第二章测试；Demo 即将）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「中式恐怖 Demo」（每日发现 2026-10-10）；种子视频「以千禧年真实事件改编？全新中式梦核恐游！新婚夫妻惨遭虐杀！凶宅闹鬼不断！《泯灭》demo」· UP 阿虚-Kurv · BV14HHq6uEX5 · 2026-10-03 · 播放 10.5万",
+   "genre": "中式梦核恐怖",
+   "id": "BV14HHq6uEX5",
+   "kind": "updated",
+   "name": "泯灭",
+   "note": "闪球「中式恐怖！最新国产恐游《泯灭》试玩版！」（约 4 天前，赞约 2150）——近一周最高可见卡。〔小红书·搜索结果卡片〕",
+   "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6aabd2700000000027015040，赞 7562 / 藏 2722 / 评 298；作者置顶承认 AI、强调可实机",
+   "genre": "藏式定格解密恐怖（中阴身/红面母）",
+   "id": "xhs-wanguotou",
+   "kind": "updated",
+   "name": "玩骨頭",
+   "note": "蹦萨奇 Studio「藏式解密游戏《玩骨頭》pv概念展示」卡赞约 7568（相对 10-11 的 7562 微涨）。〔小红书·搜索结果卡片〕",
+   "status": "开发中（计划 Steam / 实机 Demo）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-zhiji.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6ac96b6500000000b006ab3「第三章识恶」无剧情速通，赞 21",
+   "genre": "中式悬疑解密恐怖（竖屏/章节）",
+   "id": "xhs-zhiji",
+   "kind": "updated",
+   "name": "纸祭",
+   "note": "「纸祭第三章识恶」类近帖仍可见；另有旧攻略帖（第三/四/五章）在流通。〔小红书·搜索结果卡片〕",
+   "status": "至少做到第三章（识恶）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "disc_platform": "B站",
+   "discovery": "途径未知（种子为 B站视频 BV1gE411y7q8）",
+   "genre": "中式民俗+克苏鲁叙事",
+   "id": "BV1gE411y7q8",
+   "kind": "updated",
+   "name": "请神",
+   "note": "Largeland 官方新帖「游戏《请神》丨回答一个经常被问的问题～」（约 1 天前，赞约 90）——官方仍在主动答疑。〔小红书·搜索结果卡片〕",
+   "status": "Demo"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-coldline.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/GrawireStudio/status/2093677178130989546 — 检索「独立游戏 steam 愿望单」发现：「你不是士兵，也不是英雄。你只是一名潜入敌方设施的维修技师。」2026-08-29",
+   "genre": "像素潜伏维修解谜/谍战叙事",
+   "id": "p-95cb3f1758",
+   "kind": "updated",
+   "name": "Coldline: Disconnect",
+   "note": "持续冲 Next Fest 前愿望单：「Operation 2000 before next fest???」〔X·@GrawireStudio〕https://x.com/GrawireStudio",
+   "status": "开发中（Steam 页+Demo）"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/x-jubaku.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/BabGamesStudio/status/2105557330733736374 — 检索「#horrorgame wishlist」发现：「A routine investigation in Japan… until the house starts remembering.」2026-10-01",
+   "genre": "日式心理恐怖（调查闹鬼屋，多结局）",
+   "id": "p-72baee6fce",
+   "kind": "updated",
+   "name": "呪縛 Jubaku",
+   "note": "继续推 Demo 翻新实机短片（「don’t mind the other tabs」）。〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/",
+   "status": "Demo（2027 Q1）"
   }
  ]
 }

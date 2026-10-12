@@ -1,7 +1,8 @@
 {
  "added_dates": [
   "2026-10-10",
-  "2026-10-11"
+  "2026-10-11",
+  "2026-10-12"
  ],
  "aliases": [
   "Coldline"
@@ -22,6 +23,13 @@
   "悬疑/解谜"
  ],
  "history": [
+  {
+   "date": "2026-10-12",
+   "kind": "state",
+   "md": "<!-- added:2026-10-12 -->\n\n- 持续冲 Next Fest 前愿望单：「Operation 2000 before next fest???」〔X·@GrawireStudio〕https://x.com/GrawireStudio/status/2108920008667525342\n- 10-11 多条氛围图/短片（Hal Mencer、红绿灯等），属日常宣发，无玩法大改声明。",
+   "report": "2026-10-12-xhs-x",
+   "title": "X 差分"
+  },
   {
    "date": "2026-10-11",
    "kind": "state",
@@ -66,6 +74,6 @@
  "status": "开发中（Steam 页+Demo）",
  "summary": "像素潜伏维修解谜/谍战叙事 · 小团队（Grawire Studio） · 开发中（Steam 页+Demo） · 热度：采集反馈 1 条 玩家关注什么：按关键词粗分，评论最集中的话题是催更期待（100.0%）。 在讨论什么：高频词：Demo、提交。",
  "tags": [],
- "update_count": 3,
- "updated": "2026-10-11"
+ "update_count": 4,
+ "updated": "2026-10-12"
 }

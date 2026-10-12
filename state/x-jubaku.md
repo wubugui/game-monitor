@@ -258,3 +258,10 @@ discovery_date: "2026-10-10"
 <!-- added:2026-10-11 -->
 
 - Demo 大翻新上线：故事更清晰、Past 段重做、相机调色、成就/商店、可跳过过场、字幕改进，通关门槛降低。（原文："WE'VE OVERHAULED THE JUBAKU DEMO!"）〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/2108959721076163056
+
+## X 差分 2026-10-12
+<!-- added:2026-10-12 -->
+
+- 10-11 继续推 Demo 翻新实机短片（「don’t mind the other tabs」）。〔X·@BabGamesStudio〕https://x.com/BabGamesStudio/status/2109258772581646669
+- 相对 10-11 记录：无新重大版本声明，属同一轮 Demo overhaul 的跟进宣发。
+

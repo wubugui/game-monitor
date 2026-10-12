@@ -4,7 +4,7 @@ name: The Doll Shop
 competitor: true
 genre: 手绘日式乡村叙事恐怖（人偶匠）
 developer: 小团队（Atelier Sentô，漫画家二人组）
-status: 即将发售（2026-10-12）
+status: 已发售（2026-10-12）
 platform: Steam
 release: 2026 年 10 月 12 日
 link: https://store.steampowered.com/app/3851680/
@@ -57,6 +57,9 @@ discovery_date: "2026-10-10"
 - 状态：即将发售（2026-10-12）
 - 平台：Steam（App 3851680）
 - 发现来源：X · 2026-10-10 · https://x.com/horrorvisuals/status/2102063771288055918
+
+<!-- added:2026-10-13 -->
+- 2026-10-13 差分：已确认 Steam **已发售**（2026-10-12）；@AtelierSento 发售帖约 4209 浏览/83 赞；评测合计约 **13** 条全好评（英/法为主，中文 2）。样本小，不外推百分比。〔X·Steam〕
 
 ## 游戏内容介绍
 

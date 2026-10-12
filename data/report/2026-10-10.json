@@ -18,6 +18,24 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -35,28 +53,10 @@
    "name": "呪縛 Jubaku"
   },
   {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
-  },
-  {
    "competitor": false,
    "cover": "covers/x-coldline.jpg",
    "id": "p-95cb3f1758",
    "name": "Coldline: Disconnect"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,

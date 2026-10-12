@@ -1,0 +1,65 @@
+{
+ "added_dates": [
+  "2026-10-13"
+ ],
+ "aliases": [
+  "炼妖录：无相之人",
+  "炼妖录",
+  "捣鼓作坊"
+ ],
+ "baseline": "2026-10-13",
+ "bvid": null,
+ "competitor": true,
+ "cover": "covers/steam-5135770.jpg",
+ "dev_type": "小团队",
+ "developer": "小团队（捣鼓作坊）",
+ "disc_platform": "Steam",
+ "discovery": "Steam 关键词扫描（志怪，2026-10-13）",
+ "discovery_date": "2026-10-13",
+ "found": "2026-10-13",
+ "genre": "东方志怪卡牌构筑 Roguelite",
+ "genre_tags": [
+  "收藏",
+  "民俗/国风",
+  "独立",
+  "肉鸽/构筑"
+ ],
+ "history": [
+  {
+   "date": "2026-10-13",
+   "kind": "report",
+   "md": "- **新收藏建档 14**：⭐ 山瘟（**10-14 发售**）、⭐ 诡租：205号房（Gameloop，特别好评~109）、⭐ 弃层凶谈、⭐ 人窟日记、⭐ 赌你敢开、⭐ 沣都镇、⭐ 此命无名、⭐ 书包怪谈、⭐ 快乐的晴天娃娃、⭐ 樱桃客栈、⭐ 念 Horizon、⭐ 泣魂、⭐ 炼妖录：无相之人、⭐ 人柱 Hitobashira",
+   "report": "2026-10-13",
+   "title": "2026-10-13 日报"
+  }
+ ],
+ "id": "p-10ca9da4c1",
+ "images": [
+  "frames/steam-5135770_steam01.jpg",
+  "frames/steam-5135770_steam02.jpg",
+  "frames/steam-5135770_steam03.jpg",
+  "frames/steam-5135770_steam04.jpg",
+  "frames/steam-5135770_steam05.jpg",
+  "frames/steam-5135770_steam06.jpg",
+  "frames/steam-5135770_steam07.jpg",
+  "frames/steam-5135770_steam08.jpg"
+ ],
+ "intro": "# ⭐ 炼妖录：无相之人\n<!-- psum:start -->\n<!-- added:2026-10-13 -->\n\n## 项目总结\n\n\n**东方志怪卡牌构筑 Roguelite · 小团队（捣鼓作坊） · 即将推出** · 热度：愿望单/Demo 阶段。无评测 → **未知**。\n\n- **玩家关注什么**：未知（尚无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。\n\n<!-- psum:end -->\n<!-- added:2026-10-13 -->\n\n![cover](covers/steam-5135770.jpg)\n\n<!-- added:2026-10-13 -->\n\n\n\n## 档案\n\n\n- 类型：东方志怪卡牌构筑 Roguelite\n- 开发者：小团队（捣鼓作坊）\n- 状态：即将推出\n- 平台：Steam\n- Steam：app 5135770 · https://store.steampowered.com/app/5135770/\n- 发现来源：Steam 关键词扫描（志怪，2026-10-13）\n- 收藏分层（对内口径）：**邻近**\n- 一句话：击败妖怪、炼化妖魂获妖术；卡牌+遗物+妖相组合的东方志怪 Roguelite。\n\n\n\n## 游戏内容介绍\n\n\n- 东方志怪题材卡牌构筑；远征中形成战斗流派。〔Steam商店页〕\n\n### 实机图（Steam 商店截图，已目视）\n\n![s01](frames/steam-5135770_steam01.jpg)\n![s02](frames/steam-5135770_steam02.jpg)\n![s03](frames/steam-5135770_steam03.jpg)\n![s04](frames/steam-5135770_steam04.jpg)\n![s05](frames/steam-5135770_steam05.jpg)\n![s06](frames/steam-5135770_steam06.jpg)\n![s07](frames/steam-5135770_steam07.jpg)\n![s08](frames/steam-5135770_steam08.jpg)\n\n\n\n## 玩家反馈\n\n无评测 → **未知**。\n\n（无评测摘录）\n\n\n\n## 综合评价\n\n\n- **可靠程度**：愿望单页完整 → **低-中**。\n- **题材位置**：邻近：志怪字面强，玩法是卡牌肉鸽刷怪，与无战斗知识型冒险异趣。\n- **对照价值**：受众可能重叠「喜欢妖怪」，玩法对照价值有限。\n\n\n\n## 来源（发现与资料）\n\n\n- 发现：Steam 关键词扫描（志怪，2026-10-13）\n- 原始：`raw/steam13/5135770.json`、评测 JSON（若有）\n- 封面与实机图：Steam 商店 header + path_full（已下载目视）",
+ "link": "https://store.steampowered.com/app/5135770/",
+ "name": "炼妖录：无相之人",
+ "note": "邻近；玩法异",
+ "platform": "Steam",
+ "psum_md": "<!-- added:2026-10-13 -->\n\n## 项目总结\n\n**东方志怪卡牌构筑 Roguelite · 小团队（捣鼓作坊） · 即将推出** · 热度：愿望单/Demo 阶段。无评测 → **未知**。\n\n- **玩家关注什么**：未知（尚无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。",
+ "release": "即将推出",
+ "source": "",
+ "state_file": "state/steam-5135770.md",
+ "status": "即将推出",
+ "summary": "东方志怪卡牌构筑 Roguelite · 小团队（捣鼓作坊） · 即将推出 · 热度：愿望单/Demo 阶段。无评测 → 未知。 玩家关注什么：未知（尚无可用评测样本）。 在讨论什么：未知。",
+ "tags": [
+  "收藏",
+  "民俗/国风",
+  "独立"
+ ],
+ "update_count": 1,
+ "updated": "2026-10-13"
+}

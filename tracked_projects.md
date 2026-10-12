@@ -21,6 +21,20 @@
 | ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
 | ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 小红书补扫建档；吴越女吊/绍剧；邻近 |
+| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 即将发售（2026-10-14） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam | 邻近；XHS+Steam |
+| ⭐ 弃层凶谈 | 第一人称中式电梯夹层怪谈恐怖 | 小团队（Lakecho Studio） | 即将推出（Demo 已出） | 2026-10-13 | https://store.steampowered.com/app/4568330/ | Steam | 邻近；XHS+Steam |
+| ⭐ 赌你敢开 | 开箱主播第一人称剧情恐怖 | 个人或小团队（TastyPotato） | 即将宣布（Demo 2026-10-02 | 2026-10-13 | https://store.steampowered.com/app/4924120/ | Steam | 参考；XHS+Steam |
+| ⭐ 人窟日记 | 中国本土题材第一人称中式恐怖（潜行/追逐 | 小团队（狗猫鼠工作室） | 即将推出（2026 年内） | 2026-10-13 | https://store.steampowered.com/app/1602300/ | Steam | 邻近；XHS+Steam |
+| ⭐ 诡租：205号房 | 中式出租屋灵异恐怖 | 小团队（Gameloop） | 已发售 | 2026-10-13 | https://store.steampowered.com/app/3694590/ | Steam 特别好评~109 | 邻近；B站实况发现；见诡录同团队 |
+| ⭐ 沣都镇 | 中式民俗悬疑 | 小团队（罗马桥工作室） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5135060/ | Steam | 邻近；Steam 扫描建档 |
+| ⭐ 此命无名 | 志怪叙事解谜 | 小团队（落之工作室） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5373730/ | Steam | 邻近；生死簿十二案 |
+| ⭐ 书包怪谈 | 校园怪谈肉鸽 | 小团队（550 Atelier） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5382350/ | Steam | 参考；规则/构筑向 |
+| ⭐ 快乐的晴天娃娃 | 规则怪谈ADV | 个人/小团队（Starlit Hall） | Demo | 2026-10-13 | https://store.steampowered.com/app/5224770/ | Steam | 参考；民俗馆规则怪谈 |
+| ⭐ 樱桃客栈 | 国风客栈AVG | 小团队（本源界） | Demo | 2026-10-13 | https://store.steampowered.com/app/4886650/ | Steam | 邻近；午夜归房规矩 |
+| ⭐ 念 Horizon | 都市悬疑恐怖 | 小团队（IndigoIce） | 即将Demo | 2026-10-13 | https://store.steampowered.com/app/5352410/ | Steam | 参考；Demo 10-21 |
+| ⭐ 泣魂 | 广州都市怪谈VN | 小团队（灵境研究） | Demo | 2026-10-13 | https://store.steampowered.com/app/5144840/ | Steam | 邻近；人工复核评测 |
+| ⭐ 炼妖录：无相之人 | 志怪卡牌肉鸽 | 小团队（捣鼓作坊） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5135770/ | Steam | 邻近；玩法异 |
+| ⭐ 人柱 Hitobashira | 日式校园PSX恐 | 小团队（Bone Halo） | Demo | 2026-10-13 | https://store.steampowered.com/app/5166850/ | Steam | 参考；日式 |
 | ⭐ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |
 | ⭐ 棺门 | 第一人称民俗恐怖 | 未知（未知） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1pEtm6CEBP | 7072 | 先导PV，愿望单已开 |
 | ⭐ 烟雨山异闻 | 中式民俗悬疑 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1ZYak6aELT | 1616 | 父子坠崖发现洞府 |

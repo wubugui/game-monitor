@@ -15,6 +15,24 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "id": "BV1RVH86hEBF",
+   "name": "南亭湖"
+  },
+  {
+   "competitor": true,
    "cover": "covers/xhs-zhiji.jpg",
    "id": "xhs-zhiji",
    "name": "纸祭"
@@ -33,27 +51,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1S7LR6VEKc.jpg",
    "id": "BV1gE411y7q8",
    "name": "请神"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
   },
   {
    "competitor": true,

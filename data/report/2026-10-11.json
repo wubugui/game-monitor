@@ -15,18 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/xhs-zhiji.jpg",
-   "id": "xhs-zhiji",
-   "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
-   "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
@@ -39,15 +27,33 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-zhiji.jpg",
+   "id": "xhs-zhiji",
+   "name": "纸祭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,
@@ -78,12 +84,6 @@
    "cover": "covers/x-coldline.jpg",
    "id": "p-95cb3f1758",
    "name": "Coldline: Disconnect"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,

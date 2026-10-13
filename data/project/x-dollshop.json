@@ -3,7 +3,8 @@
   "2026-10-10",
   "2026-10-11",
   "2026-10-12",
-  "2026-10-13"
+  "2026-10-13",
+  "2026-10-14"
  ],
  "aliases": [
   "The Doll Shop",
@@ -27,6 +28,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-14",
+   "kind": "state",
+   "md": "- Steam 已发售（不再 coming_soon）；评测合计 **29**（Positive：27/2）。样本仍偏小，不外推到「特别好评」级结论。〔Steam·appreviews〕\n- X：开发者 @AtelierSento 10-13 Launch Video +「进入 Steam popular new releases」帖（约 1959 浏览 / 40 赞）；日文媒体续转。〔X〕\n- 人工复核近期评测 8 条：正面集中于手绘美术、氛围、音乐与剧本扭曲感；差评样本少（2）。",
+   "report": "2026-10-14",
+   "title": "增量（）"
+  },
+  {
    "date": "2026-10-13",
    "kind": "report",
    "md": "- **X**：The Doll Shop 已发售跟进；叫魂日文帖浏览约 **44.8 万**；未见明确未建档中式民俗新作官宣\n\n- The Doll Shop 发售日跟进（见上）",
@@ -36,7 +44,7 @@
   {
    "date": "2026-10-12",
    "kind": "state",
-   "md": "<!-- added:2026-10-12 -->\n\n- **发售日当天（商店页仍标 coming_soon / 2026-10-12）**：开发者 @AtelierSento 10-11 发「The Doll Shop releases tomorrow!」〔X·@AtelierSento〕https://x.com/AtelierSento/status/2109208552158212268（约 679 浏览 / 29 赞）。\n- 电ファミ等日媒转推导致时间线大量 RT；开发者致谢试玩与配音「藤本さんの声は本当に最高です」。〔X·@AtelierSento〕\n- Steam 评测数本轮仍为 0（刚上架窗口）。〔Steam·appreviews app 3851680〕\n- 状态：由「倒计时」进入「发售日」；愿望单阶段结束，转入首日评测观察。",
+   "md": "<!-- added:2026-10-12 -->\n\n- **发售日当天（商店页仍标 coming_soon / 2026-10-12）**：开发者 @AtelierSento 10-11 发「The Doll Shop releases tomorrow!」〔X·@AtelierSento〕https://x.com/AtelierSento/status/2109208552158212268（约 679 浏览 / 29 赞）。\n- 电ファミ等日媒转推导致时间线大量 RT；开发者致谢试玩与配音「藤本さんの声は本当に最高です」。〔X·@AtelierSento〕\n- Steam 评测数本轮仍为 0（刚上架窗口）。〔Steam·appreviews app 3851680〕\n- 状态：由「倒计时」进入「发售日」；愿望单阶段结束，转入首日评测观察。\n\n<!-- added:2026-10-14 -->",
    "report": "2026-10-12-xhs-x",
    "title": "X 差分"
   },
@@ -85,6 +93,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 5,
- "updated": "2026-10-13"
+ "update_count": 6,
+ "updated": "2026-10-14"
 }

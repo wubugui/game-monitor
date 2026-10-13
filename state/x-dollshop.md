@@ -308,3 +308,11 @@ discovery_date: "2026-10-10"
 - Steam 评测数本轮仍为 0（刚上架窗口）。〔Steam·appreviews app 3851680〕
 - 状态：由「倒计时」进入「发售日」；愿望单阶段结束，转入首日评测观察。
 
+<!-- added:2026-10-14 -->
+
+## 增量（2026-10-14）
+
+- Steam 已发售（不再 coming_soon）；评测合计 **29**（Positive：27/2）。样本仍偏小，不外推到「特别好评」级结论。〔Steam·appreviews〕
+- X：开发者 @AtelierSento 10-13 Launch Video +「进入 Steam popular new releases」帖（约 1959 浏览 / 40 赞）；日文媒体续转。〔X〕
+- 人工复核近期评测 8 条：正面集中于手绘美术、氛围、音乐与剧本扭曲感；差评样本少（2）。
+

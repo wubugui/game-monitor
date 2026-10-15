@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
@@ -42,12 +48,6 @@
    "cover": "covers/xhs-wanguotou.jpg",
    "id": "xhs-wanguotou",
    "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,

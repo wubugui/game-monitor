@@ -27,6 +27,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-16",
+   "kind": "report",
+   "md": "继续盯：**山瘟** 评测量与差评 Bug 是否扩散；**小先生：终南长鸣** 差评是否随更新回暖；**祖母** 作为补档邻近样本的对照价值。",
+   "report": "2026-10-16",
+   "title": "2026-10-16 日报"
+  },
+  {
    "date": "2026-10-15",
    "kind": "state",
    "md": "- 新纳入收藏。Steam 状态：coming_soon=False，评测 40（多半差评）。来源：Steam store + appreviews。",
@@ -91,6 +98,6 @@
   "叙事/剧情",
   "悬疑/解谜"
  ],
- "update_count": 5,
- "updated": "2026-10-15"
+ "update_count": 6,
+ "updated": "2026-10-16"
 }

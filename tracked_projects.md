@@ -2,6 +2,10 @@
 
 | 名称 | 类型 | 开发者类型 | 状态 | 发现日期 | B站链接 | 播放 | 备注 |
 |---|---|---|---|---|---|---|---|
+| ⭐ 未春节 Festival of Unborn Spring | 云南昆明民俗青春视觉小说（神话冒险） | 小团队（未春节制作组） | 即将推出（预计2027-02；Demo约2026-10） | 2026-10-16 | https://store.steampowered.com/app/5356780/ | Steam | 邻近；B站先导+Steam；Demo 5397320 并档 |
+| ⭐ 阴阳鉴 | 中式民俗怪谈解谜恐怖（道士勘相） | 小团队 | 即将宣布 | 2026-10-16 | https://store.steampowered.com/app/5093370/ | Steam | 同题材；Steam扫描新建 |
+| ⭐ 荒山诡宿 | 山村旅社民俗灵异（Vlogger 探灵） | 小团队 | 即将推出（2026 Q4） | 2026-10-16 | https://store.steampowered.com/app/4991870/ | Steam | 邻近；Steam扫描新建 |
+| ⭐ 祖母 grandmother | 水墨风中式农村灵堂恐怖解谜 | 小团队 | 已发售（2025-05-05） | 2026-10-16 | https://store.steampowered.com/app/3167220/ | Steam 特别好评~72 | 邻近；Steam扫描补档 |
 | ⭐ 山鬼志：寒衣 | 中国民俗恐怖剧情解谜（寒衣节） | 小团队 | 已发售（2025-05-07） | 2026-10-15 | https://store.steampowered.com/app/3403510/ | Steam 特别好评~90 | 同题材；Steam扫描新建 |
 | ⭐ 回煞录 | 九十年代乡镇医院中式心理惊悚（回煞） | 小团队 | 已发售（2025-05-15） | 2026-10-15 | https://store.steampowered.com/app/3640040/ | Steam 褒贬不一~21 | 邻近；回煞民俗意象 |
 | ⭐ 小先生：终南长鸣 | 中式民俗玄怪恐怖解谜（终南古镇） | 小团队（Liminal Factory） | 已发售（2026-09-11） | 2026-10-15 | https://store.steampowered.com/app/3170460/ | Steam 多半差评~40 | 同题材；与2725040长鸣小区线区分 |
@@ -24,7 +28,7 @@
 | ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
 | ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 小红书补扫建档；吴越女吊/绍剧；邻近 |
-| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 定档日已过仍 coming_soon/评测0（10-15复核） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam | 邻近；继续盯首评 |
+| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 已发售（2026-10-14；评测约7） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam 评测7（6/1） | 邻近；首评已开 |
 | ⭐ 世末终巡 | 诗谜民俗恐怖解谜 | 小团队 | 已发售（2026-10-12） | 2026-10-14 | https://store.steampowered.com/app/4746890/ | Steam 评测2 | 邻近；发售窗刚开 |
 | ⭐ 诡宅祭坛 | 出马仙影游恐怖 | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4754090/ | Steam 特别好评~170 | 邻近；民俗风水 |
 | ⭐ 衔蝶 | 民国上海妖怪叙事AVG | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/3870140/ | Steam 特别好评~101 | 邻近；比拟烟火 |
@@ -39,7 +43,7 @@
 | ⭐ 书包怪谈 | 校园怪谈肉鸽 | 小团队（550 Atelier） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5382350/ | Steam | 参考；规则/构筑向 |
 | ⭐ 快乐的晴天娃娃 | 规则怪谈ADV | 个人/小团队（Starlit Hall） | Demo | 2026-10-13 | https://store.steampowered.com/app/5224770/ | Steam | 参考；民俗馆规则怪谈 |
 | ⭐ 樱桃客栈 | 国风客栈AVG | 小团队（本源界） | Demo | 2026-10-13 | https://store.steampowered.com/app/4886650/ | Steam | 邻近；午夜归房规矩 |
-| ⭐ 念 Horizon | 都市悬疑恐怖 | 小团队（IndigoIce） | 即将Demo | 2026-10-13 | https://store.steampowered.com/app/5352410/ | Steam | 参考；Demo 10-21 |
+| ⭐ 念 Horizon | 都市悬疑恐怖 | 小团队（IndigoIce） | 即将Demo | 2026-10-13 | https://store.steampowered.com/app/5352410/ | Steam | 参考；Demo 10-21；10-16 Demo 5359290 并档 |
 | ⭐ 泣魂 | 广州都市怪谈VN | 小团队（灵境研究） | Demo | 2026-10-13 | https://store.steampowered.com/app/5144840/ | Steam | 邻近；人工复核评测 |
 | ⭐ 炼妖录：无相之人 | 志怪卡牌肉鸽 | 小团队（捣鼓作坊） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5135770/ | Steam | 邻近；玩法异 |
 | ⭐ 人柱 Hitobashira | 日式校园PSX恐 | 小团队（Bone Halo） | Demo | 2026-10-13 | https://store.steampowered.com/app/5166850/ | Steam | 参考；日式 |
@@ -161,8 +165,8 @@
 | ⭐ 别眨眼 | 梦核/阈限空间心理恐怖 | 未知（未知） | 即将发售 | 2026-10-10 | https://www.bilibili.com/video/BV17Kp46YEZN | 1638 | 霸凌后坠入后室；梦核恐怖 |
 | 1999保密协议 | AI互动影游 | 未知（未知） | 商店页上线 | 2026-10-10 | https://www.bilibili.com/video/BV1uiao6oEmy | 1292 | 天命重启原班/暖铁互动；AI影游 |
 | Duola Mage | 二次元动作肉鸽（AI开发） | 未知（未知） | 已发售 | 2026-10-10 | https://www.bilibili.com/video/BV1xZHW6TE9n | 7698 | 自称无站外宣发；AI/UGC编辑器开发 |
-| ⭐ 镇邪2 | 中式民俗联机抓鬼 | 未知（未知） | 首发宣传 | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | 110.5万 | 多人联机+抓鬼炼尸+画符+下墓摸金 |
-| ⭐ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；扮道士单元剧 |
+| ⭐ 镇邪2 | 中式民俗联机抓鬼 / 国风志怪道士（Steam 单机线） | 未知（灵煦工作室等） | 已发售（Steam 镇邪Ⅱ 2026-03-05） | 2026-10-10 | https://www.bilibili.com/video/BV15ZijeREHG | Steam~1169 | 10-16 并 Steam app 3399780（镇邪Ⅱ） |
+| ⭐ 论道聊斋 | 国风志怪剧情独立 | 未知（未知） | Demo（Steam 4548450 即将推出） | 2026-10-10 | https://www.bilibili.com/video/BV1f4Lq6VE65 | 179 | 聊斋志异蓝本；10-16 并 Steam 4548450 |
 | ⭐ 鬼子母 Hariti | 第一人称中式心理恐怖 | 小团队（Ghostcase，《凶寓》《恶意》开发方） | 已发售（2026-08-11） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4018740/ ；X 单帖最高赞 2144；档案 state/x-hariti.md |
 | ⭐ 未烬之约 EMBERBOUND | 兽人题材现代日常视觉小说 | 小团队（Fluffore Studio） | 开发中（Patreon 第二章测试；Demo 即将） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4634770/ ；X 单帖最高赞 1173；档案 state/x-emberbound.md |
 | ⭐ 凶寓 Dread Flats | 第一人称中式怪谈恐怖 | 小团队（Ghostcase） | 已发售（2025-07-10） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3114900/ ；X 单帖最高赞 105；档案 state/x-dreadflats.md |

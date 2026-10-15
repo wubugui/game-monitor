@@ -29,6 +29,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-16",
+   "kind": "state",
+   "md": "- Steam 评测续增：约 **43**（好评 40/3；昨日报约36）。〔Steam〕",
+   "report": "2026-10-16",
+   "title": ""
+  },
+  {
    "date": "2026-10-15",
    "kind": "state",
    "md": "- Steam 评测约 **36**（Positive：34 / 2；较 10-14 的 ~29 续增）。本轮未另抽评论样本，沿用发售窗人工观感：偏正面（美术/氛围）。〔Steam·appreviews〕",
@@ -100,6 +107,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 7,
- "updated": "2026-10-15"
+ "update_count": 8,
+ "updated": "2026-10-16"
 }

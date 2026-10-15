@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -48,12 +54,6 @@
    "cover": "covers/steam-3513600.jpg",
    "id": "p-2050ec1777",
    "name": "女吊"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
   }
  ],
  "sections": [

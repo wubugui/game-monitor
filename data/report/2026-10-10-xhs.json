@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "id": "BV1btHC6bEVr",
+   "name": "太渊无朔"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
@@ -48,12 +54,6 @@
    "cover": "covers/BV1J6eb6MEhr.jpg",
    "id": "BV1J6eb6MEhr",
    "name": "见诡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1btHC6bEVr.jpg",
-   "id": "BV1btHC6bEVr",
-   "name": "太渊无朔"
   },
   {
    "competitor": true,

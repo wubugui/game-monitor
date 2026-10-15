@@ -8,18 +8,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
-  },
-  {
    "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
@@ -45,9 +33,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4037370.jpg",
-   "id": "steam-4037370",
-   "name": "Laica"
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,
@@ -66,6 +54,24 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
   },
   {
    "competitor": true,
@@ -156,12 +162,6 @@
    "cover": "covers/xhs-wanguotou.jpg",
    "id": "xhs-wanguotou",
    "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,

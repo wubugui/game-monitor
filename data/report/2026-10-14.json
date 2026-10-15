@@ -15,30 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4754090.jpg",
-   "id": "p-ad89ac0730",
-   "name": "诡宅祭坛"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3870140.jpg",
-   "id": "p-769465ad17",
-   "name": "衔蝶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4762620.jpg",
-   "id": "p-32fe1bc024",
-   "name": "物理超度"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -69,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4037370.jpg",
-   "id": "steam-4037370",
-   "name": "Laica"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
@@ -96,6 +66,36 @@
    "cover": "covers/BV1xMYY6QEBT.jpg",
    "id": "BV1xMYY6QEBT",
    "name": "小先生"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4754090.jpg",
+   "id": "p-ad89ac0730",
+   "name": "诡宅祭坛"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3870140.jpg",
+   "id": "p-769465ad17",
+   "name": "衔蝶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4762620.jpg",
+   "id": "p-32fe1bc024",
+   "name": "物理超度"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
   },
   {
    "competitor": true,

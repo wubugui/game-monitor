@@ -15,6 +15,48 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1btHC6bEVr.jpg",
+   "id": "BV1btHC6bEVr",
+   "name": "太渊无朔"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3820460.jpg",
    "id": "steam-3820460",
    "name": "末班"
@@ -27,21 +69,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4037370.jpg",
    "id": "steam-4037370",
    "name": "Laica"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,
@@ -63,21 +93,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
    "cover": "covers/xhs-jiabao.jpg",
    "id": "xhs-jiabao",
    "name": "佳宝物业热线"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,
@@ -126,12 +144,6 @@
    "cover": "covers/steam-4124320.jpg",
    "id": "steam-4124320",
    "name": "树海之路"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4881350.jpg",
-   "id": "steam-4881350",
-   "name": "我将为死者命名"
   },
   {
    "competitor": true,
@@ -204,18 +216,6 @@
    "cover": "covers/BV1ARYc6cEBN.jpg",
    "id": "BV1ARYc6cEBN",
    "name": "教妹妹开车"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1btHC6bEVr.jpg",
-   "id": "BV1btHC6bEVr",
-   "name": "太渊无朔"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
   },
   {
    "competitor": true,

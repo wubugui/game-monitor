@@ -25,6 +25,12 @@
  ],
  "history": [
   {
+   "date": "2026-10-15",
+   "kind": "state",
+   "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 12 日」，评测 **5**（5 篇用户评测；+5/−0）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：I love this game and contained within it <3…（原文：I love this game and contained within it <3）〔Steam评测·english〕\n- 推荐：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r…（原文：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r）〔Steam评测·english〕\n- 推荐：i will have to update my review in the future, but i definitely think people should try this one out…（原文：i will have to update my review in the future, but i definitely think people should try this one out）〔Steam评测·english〕",
+   "title": ""
+  },
+  {
    "date": "2026-10-14",
    "kind": "report",
    "md": "- **新收藏建档 5**：⭐ 衔蝶（特别好评~101）、⭐ 诡宅祭坛（特别好评~170）、⭐ 世末终巡（10-12 发售，评测 2）、⭐ 邪祟（评测 3）、⭐ 物理超度（0 评）\n\n- **B 站发现**：近窗关键词扫描 **838** 条；独立向银松镇评测/实况续更，叫魂预告分析，世末终巡全结局实况（低播）\n\n- 《世末终巡》全结局实况约 **142** 播 → 已建档〔B站·侎耳德·BV1xZpz6jET6〕",
@@ -62,6 +68,6 @@
   "悬疑/解谜",
   "叙事/剧情"
  ],
- "update_count": 1,
- "updated": "2026-10-14"
+ "update_count": 2,
+ "updated": "2026-10-15"
 }

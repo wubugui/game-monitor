@@ -26,6 +26,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-15",
+   "kind": "state",
+   "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 8 日」，评测 **1856**（特别好评；+1760/−96）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：「最近2年来上新的最~好玩的游戏！有生化的解密，有寂静岭的恐怖氛围，形似心灵杀手等多部游戏，目前一周目双结局，差一点解锁隐藏结局，但是已经很不错了，在没有攻略的情况下也能完成这么多内容，解密并不复杂，路」〔Steam评测〕\n- 推荐：「非常有感觉，画面风格也是很有特色，算是小精品游戏了」〔Steam评测〕\n- 推荐：Jogo sensacional. Mix de Silent hill e resident evil, e tudo isso 2d com gráficos únicos e um estilo…（原文：Jogo sensacional. Mix de Silent hill e resident evil, e tudo isso 2d com gráficos únicos e um estilo）〔Steam评测·brazilian〕",
+   "report": "2026-10-15",
+   "title": ""
+  },
+  {
    "date": "2026-10-14",
    "kind": "report",
    "md": "- **收藏热度显著（同 BV、人工核对标题归属）**：银松镇攻略/实况续热（+11.5%~+40.4%）；Laica 预告 +5.9%；Out Fishing Demo +8.5%；泯灭 +5.9%；南亭湖 +5.5%；追境 PV 低基数 +8.3%\n\n- **B 站发现**：近窗关键词扫描 **838** 条；独立向银松镇评测/实况续更，叫魂预告分析，世末终巡全结局实况（低播）\n\n- 《银松镇》评测/实况续更：高寒时薪十块全流程约 **2.0 万** 播；麻雀IO评测「年度最佳候选」等〔B站〕",
@@ -87,6 +94,6 @@
   "类银河城",
   "已发售"
  ],
- "update_count": 3,
- "updated": "2026-10-14"
+ "update_count": 4,
+ "updated": "2026-10-15"
 }

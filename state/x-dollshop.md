@@ -316,3 +316,8 @@ discovery_date: "2026-10-10"
 - X：开发者 @AtelierSento 10-13 Launch Video +「进入 Steam popular new releases」帖（约 1959 浏览 / 40 赞）；日文媒体续转。〔X〕
 - 人工复核近期评测 8 条：正面集中于手绘美术、氛围、音乐与剧本扭曲感；差评样本少（2）。
 
+<!-- added:2026-10-15 -->
+
+## 2026-10-15
+
+- Steam 评测约 **36**（Positive：34 / 2；较 10-14 的 ~29 续增）。本轮未另抽评论样本，沿用发售窗人工观感：偏正面（美术/氛围）。〔Steam·appreviews〕

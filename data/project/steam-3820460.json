@@ -27,6 +27,12 @@
  ],
  "history": [
   {
+   "date": "2026-10-15",
+   "kind": "state",
+   "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 11 日」，评测 **8**（8 篇用户评测；+7/−1）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：It's such a good game, despite being so easy.…（原文：It's such a good game, despite being so easy.）〔Steam评测·english〕\n- 推荐：전작은 참 좋았는데...음...…（原文：전작은 참 좋았는데...음...）〔Steam评测·koreana〕",
+   "title": ""
+  },
+  {
    "date": "2026-10-11",
    "kind": "report",
    "md": "- **新发现**：B 站近 48h 过滤后 48、建议收藏 14；小红书登录态新候选（玩骨頭/佳宝物业热线/纸祭等）；X/Steam 高优先（银松镇/永泉/末班/Unwatching/Laica/树海之路等）\n\n- **发售/档期**：银松镇（10-08 热）、永泉（11-11+Demo）、末班与 Unwatching（10-11）、Doll Shop（T-2，WL 1.5万）、Den-Den（10-12）、Hotel Napoli（Next Fest）、Laica（2027）、树海之路（Playtest/2027）",
@@ -74,6 +80,6 @@
   "短篇",
   "中文"
  ],
- "update_count": 1,
- "updated": "2026-10-11"
+ "update_count": 2,
+ "updated": "2026-10-15"
 }

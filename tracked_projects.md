@@ -2,6 +2,9 @@
 
 | 名称 | 类型 | 开发者类型 | 状态 | 发现日期 | B站链接 | 播放 | 备注 |
 |---|---|---|---|---|---|---|---|
+| ⭐ 山鬼志：寒衣 | 中国民俗恐怖剧情解谜（寒衣节） | 小团队 | 已发售（2025-05-07） | 2026-10-15 | https://store.steampowered.com/app/3403510/ | Steam 特别好评~90 | 同题材；Steam扫描新建 |
+| ⭐ 回煞录 | 九十年代乡镇医院中式心理惊悚（回煞） | 小团队 | 已发售（2025-05-15） | 2026-10-15 | https://store.steampowered.com/app/3640040/ | Steam 褒贬不一~21 | 邻近；回煞民俗意象 |
+| ⭐ 小先生：终南长鸣 | 中式民俗玄怪恐怖解谜（终南古镇） | 小团队（Liminal Factory） | 已发售（2026-09-11） | 2026-10-15 | https://store.steampowered.com/app/3170460/ | Steam 多半差评~40 | 同题材；与2725040长鸣小区线区分 |
 | ⭐ 童年诡事录 | 中式民俗/梦核恐怖 | 未知（未知（官方号）） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1zoe26JEwt | 246.1万 | 2002农村、老猫猴、UE5写实；官方声明非AI |
 | ⭐ 太渊无朔 | 中式民俗恐怖 ARPG | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1btHC6bEVr | 2474 | 黄皮子讨封、鬼新娘、挖古墓刷宝 |
 | ⭐ 乌合之众 | 中式民俗悬疑/黑色幽默 | 小团队（小团队（NanZhai Games）） | 即将发售 | 2026-10-09 | https://www.bilibili.com/video/BV1mSa76yEor | 1.5万 | 定档2027-03，大佛吃人 |
@@ -21,7 +24,7 @@
 | ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
 | ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 小红书补扫建档；吴越女吊/绍剧；邻近 |
-| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 定档发售日（2026-10-14；评测窗仍0） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam | 邻近；发售日盯首评 |
+| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 定档日已过仍 coming_soon/评测0（10-15复核） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam | 邻近；继续盯首评 |
 | ⭐ 世末终巡 | 诗谜民俗恐怖解谜 | 小团队 | 已发售（2026-10-12） | 2026-10-14 | https://store.steampowered.com/app/4746890/ | Steam 评测2 | 邻近；发售窗刚开 |
 | ⭐ 诡宅祭坛 | 出马仙影游恐怖 | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4754090/ | Steam 特别好评~170 | 邻近；民俗风水 |
 | ⭐ 衔蝶 | 民国上海妖怪叙事AVG | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/3870140/ | Steam 特别好评~101 | 邻近；比拟烟火 |
@@ -42,7 +45,7 @@
 | ⭐ 人柱 Hitobashira | 日式校园PSX恐 | 小团队（Bone Halo） | Demo | 2026-10-13 | https://store.steampowered.com/app/5166850/ | Steam | 参考；日式 |
 | ⭐ 小先生 | 中式民俗恐怖解谜 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1xMYY6QEBT | 18.4万 | 道士驱邪长鸣镇 |
 | ⭐ 棺门 | 第一人称民俗恐怖 | 未知（未知） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1pEtm6CEBP | 7072 | 先导PV，愿望单已开 |
-| ⭐ 烟雨山异闻 | 中式民俗悬疑 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1ZYak6aELT | 1616 | 父子坠崖发现洞府 |
+| ⭐ 烟雨山异闻 | 中式奇幻悬疑叙事解谜 | 未知 | Demo（Steam 5270150；本体4982080预计2027） | 2026-10-09 | https://store.steampowered.com/app/5270150/ | B站+Steam并档 | 10-15 并入Steam Demo；不另页 |
 | 不问凡尘 | AI修仙RPG（AI NPC） | 未知（未知（有UP主称字节游戏出品）） | 抢先体验 | 2026-10-09 | https://www.bilibili.com/video/BV1BdYQ6aESB | 113.6万 | NPC有记忆与亲密度；9月下旬EA，首周19.9元 |
 | 图灵证言 | AI Agent 悬疑推理+恋爱 | 未知（未知） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1esY76RE5U | 5.3万 | 角色大脑与剧情交给AI Agent |
 | 我们正在生成 | AI生成galgame | 未知（未知（卷积回声工作室）） | Demo/测试 | 2026-10-09 | https://www.bilibili.com/video/BV1DTHW63E4Z | 6.8万 | 需自带API key，PC与安卓 |

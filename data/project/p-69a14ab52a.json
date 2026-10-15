@@ -1,28 +1,34 @@
 {
  "added_dates": [
-  "2026-10-13"
+  "2026-10-15"
  ],
  "aliases": [
-  "樱桃客栈",
-  "本源界游戏工作室"
+  "樱桃客栈"
  ],
- "baseline": "2026-10-13",
+ "baseline": "2026-10-15",
  "bvid": null,
- "competitor": true,
- "cover": "covers/steam-4886650.jpg",
+ "competitor": false,
+ "cover": "covers/steam-5335260.jpg",
  "dev_type": "小团队",
- "developer": "小团队（本源界游戏工作室）",
+ "developer": "本源界游戏工作室",
  "disc_platform": "Steam",
- "discovery": "Steam 关键词扫描（志怪，2026-10-13）",
- "discovery_date": "2026-10-13",
- "found": "2026-10-13",
- "genre": "轻交互国风剧情 AVG（深山客栈规矩）",
+ "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=邻近",
+ "discovery_date": "2026-10-15",
+ "found": "2026-10-15",
+ "genre": "国风轻交互剧情 AVG（客栈规矩）",
  "genre_tags": [
-  "收藏",
+  "已并入steam-4886650",
   "民俗/国风",
   "叙事/剧情"
  ],
  "history": [
+  {
+   "date": "2026-10-15",
+   "kind": "state",
+   "md": "- 新纳入收藏。Steam 状态：coming_soon=False，评测 0（无用户评测）。来源：Steam store + appreviews。",
+   "report": "2026-10-15",
+   "title": ""
+  },
   {
    "date": "2026-10-13",
    "kind": "report",
@@ -33,28 +39,28 @@
  ],
  "id": "p-69a14ab52a",
  "images": [
-  "frames/steam-4886650_steam01.jpg",
-  "frames/steam-4886650_steam02.jpg",
-  "frames/steam-4886650_steam03.jpg",
-  "frames/steam-4886650_steam04.jpg",
-  "frames/steam-4886650_steam05.jpg"
+  "frames/steam-5335260_steam01.jpg",
+  "frames/steam-5335260_steam02.jpg",
+  "frames/steam-5335260_steam03.jpg",
+  "frames/steam-5335260_steam04.jpg",
+  "frames/steam-5335260_steam05.jpg"
  ],
- "intro": "# ⭐ 樱桃客栈\n<!-- psum:start -->\n<!-- added:2026-10-13 -->\n\n## 项目总结\n\n\n**轻交互国风剧情 AVG（深山客栈规矩） · 小团队（本源界游戏工作室） · 即将推出（Demo 已出）** · 热度：愿望单/Demo 阶段。无评测 → **未知**。\n\n- **玩家关注什么**：未知（尚无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。\n\n<!-- psum:end -->\n<!-- added:2026-10-13 -->\n\n![cover](covers/steam-4886650.jpg)\n\n<!-- added:2026-10-13 -->\n\n\n\n## 档案\n\n\n- 类型：轻交互国风剧情 AVG（深山客栈规矩）\n- 开发者：小团队（本源界游戏工作室）\n- 状态：即将推出（Demo 已出）\n- 平台：Steam\n- Steam：app 4886650 · https://store.steampowered.com/app/4886650/\n- 发现来源：Steam 关键词扫描（志怪，2026-10-13）\n- 收藏分层（对内口径）：**邻近**\n- 一句话：接手奶奶深山无名客栈；徒步入山、道具解谜与路径选择；规矩：务必午夜前回房。\n\n\n\n## 游戏内容介绍\n\n\n- 国风剧情 AVG；三餐烟火下暗流；多语言（简中/英/韩/日等）。〔Steam商店页〕\n- Demo app 5335260（2026-10-07）。\n\n### 实机图（Steam 商店截图，已目视）\n\n![s01](frames/steam-4886650_steam01.jpg)\n![s02](frames/steam-4886650_steam02.jpg)\n![s03](frames/steam-4886650_steam03.jpg)\n![s04](frames/steam-4886650_steam04.jpg)\n![s05](frames/steam-4886650_steam05.jpg)\n\n\n\n\n## 玩家反馈\n\n无评测 → **未知**。\n\n（无评测摘录）\n\n\n\n## 综合评价\n\n\n- **可靠程度**：Demo 已上，评测窗未开 → **中**。\n- **题材位置**：邻近：客栈规矩/山野烟火有民俗感，玩法是轻交互 AVG，非志怪冒险操作。\n- **对照价值**：看「午夜前归房」类规矩叙事是否吃到国风治愈+暗涌观众。\n\n\n\n## 来源（发现与资料）\n\n\n- 发现：Steam 关键词扫描（志怪，2026-10-13）\n- 原始：`raw/steam13/4886650.json`、评测 JSON（若有）\n- 封面与实机图：Steam 商店 header + path_full（已下载目视）",
- "link": "https://store.steampowered.com/app/4886650/",
+ "intro": "# ⭐ 樱桃客栈\n<!-- psum:start -->\n<!-- added:2026-10-15 -->\n\n## 项目总结\n\n\n**国风轻交互剧情 AVG（客栈规矩） · Demo · 已发售（2026 年 10 月 7 日）** · Steam 评测 **0** → **未知**，不给百分比。本轮复核 **0** 条。\n\n- **玩家关注什么**：未知（无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。\n\n<!-- psum:end -->\n<!-- added:2026-10-15 -->\n\n![cover](covers/steam-5335260.jpg)\n\n<!-- added:2026-10-15 -->\n\n\n\n## 档案\n\n\n- 类型：国风轻交互剧情 AVG（客栈规矩）\n- 开发者：本源界游戏工作室\n- 状态：Demo · 已发售（2026 年 10 月 7 日）\n- 平台：Steam\n- Steam：app 5335260 · https://store.steampowered.com/app/5335260/\n- 发现来源：Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=邻近\n- 收藏分层（对内口径）：**邻近**\n- 一句话：接手深山无名客栈后，旅人接踵而至；祖训只有一条——务必午夜前回房。\n\n\n\n## 游戏内容介绍\n\n\n- 商店：一款轻交互国风剧情 AVG。你接手奶奶留在深山的无名客栈，告别城市喧嚣。 从山林徒步启程，道具解谜与路径选择交织，山野清风抚平俗世浮躁。形形色色的旅人接踵而至，热闹烟火间暗流涌动。 谨记客栈流传已久的规矩：务必午夜前回房。 樱桃客栈，静候你推门而至。〔Steam商店页〕\n- 截图：本轮下载 5 张商店实机图（已落盘）。\n\n### 实机图（Steam 商店截图，已目视）\n\n![s01](frames/steam-5335260_steam01.jpg)\n![s02](frames/steam-5335260_steam02.jpg)\n![s03](frames/steam-5335260_steam03.jpg)\n![s04](frames/steam-5335260_steam04.jpg)\n![s05](frames/steam-5335260_steam05.jpg)\n\n\n\n## 玩家反馈\n\n\n评测摘要：尚无用户评测。〔Steam·appreviews〕\n\n\n\n\n## 综合评价\n\n\n- **可靠程度**：商店页+实机图可核，评测窗未开 → **低-中**（待评测）。\n- **对照价值**：按「民俗志怪冒险」（志怪为主、恐怖为辅）看其民俗规矩/志怪叙事是否进玩法，而非仅 jump scare。\n- **分层理由**：邻近 — 国风客栈规矩叙事AVG，志怪烟火气",
+ "link": "https://store.steampowered.com/app/5335260/",
  "name": "樱桃客栈",
  "note": "邻近；午夜归房规矩",
  "platform": "Steam",
- "psum_md": "<!-- added:2026-10-13 -->\n\n## 项目总结\n\n**轻交互国风剧情 AVG（深山客栈规矩） · 小团队（本源界游戏工作室） · 即将推出（Demo 已出）** · 热度：愿望单/Demo 阶段。无评测 → **未知**。\n\n- **玩家关注什么**：未知（尚无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。",
- "release": "即将推出（Demo 2026-10-07）",
+ "psum_md": "<!-- added:2026-10-15 -->\n\n## 项目总结\n\n**国风轻交互剧情 AVG（客栈规矩） · Demo · 已发售（2026 年 10 月 7 日）** · Steam 评测 **0** → **未知**，不给百分比。本轮复核 **0** 条。\n\n- **玩家关注什么**：未知（无可用评测样本）。\n- **在讨论什么**：未知。\n- **喜欢什么**：未知。\n- **厌恶什么**：未知。\n- **希望什么**：未知。",
+ "release": "2026 年 10 月 7 日",
  "source": "",
- "state_file": "state/steam-4886650.md",
- "status": "即将推出（Demo 已出）",
- "summary": "轻交互国风剧情 AVG（深山客栈规矩） · 小团队（本源界游戏工作室） · 即将推出（Demo 已出） · 热度：愿望单/Demo 阶段。无评测 → 未知。 玩家关注什么：未知（尚无可用评测样本）。 在讨论什么：未知。",
+ "state_file": "state/steam-5335260.md",
+ "status": "Demo · 已发售（2026 年 10 月 7 日）",
+ "summary": "国风轻交互剧情 AVG（客栈规矩） · Demo · 已发售（2026 年 10 月 7 日） · Steam 评测 0 → 未知，不给百分比。本轮复核 0 条。 玩家关注什么：未知（无可用评测样本）。 在讨论什么：未知。",
  "tags": [
-  "收藏",
+  "已并入steam-4886650",
   "民俗/国风",
   "叙事/剧情"
  ],
- "update_count": 1,
- "updated": "2026-10-13"
+ "update_count": 2,
+ "updated": "2026-10-15"
 }

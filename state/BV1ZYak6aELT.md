@@ -4,10 +4,10 @@ name: 烟雨山异闻
 competitor: true
 genre: 中式民俗悬疑
 developer: 未知
-status: Demo
-platform: 未知
+status: Demo（Steam app 5270150；本体 4982080 预计2027）
+platform: Steam / B站
 release: 未知
-link: https://www.bilibili.com/video/BV1ZYak6aELT
+link: https://store.steampowered.com/app/5270150/
 found: 2026-10-09
 baseline: 2026-10-09
 cover: covers/BV1ZYak6aELT.jpg
@@ -32,6 +32,8 @@ tags: [收藏]
 aliases: [烟雨山异闻]
 discovery_platform: B站
 discovery: "B站搜索关键词「中式民俗恐怖 独立游戏」（每日发现 2026-10-10）；种子视频「【中式民俗/悬疑】父子意外坠崖，却意外发现诡异洞府？-《烟雨山异闻》Demo配音试玩实况」· UP 爱讲故事的陈同学 · BV1ZYak6aELT · 2026-10-02 · 播放 1618"
+steam_appid: 4982080
+steam_demo_appid: 5270150
 discovery_date: "2026-10-09"
 ---
 # ⭐ 烟雨山异闻
@@ -382,3 +384,7 @@ discovery_date: "2026-10-09"
   - 烟雨江湖:零氪+不进大势力+不进门派+初始伙伴散修救出厂狱中洪芝仙（主97级） · 一颗大米星 · BV17ZHi6dE7Q · 2026-10-03 · 播放 3465
   - 烟雨江湖真是太好玩了（） · 龙语寒风 · BV1vmpF6SEey · 2026-10-06 · 播放 1468
 - Steam：商店页/评测（AppID 4982080）
+
+## 2026-10-15
+
+- Steam 核对：正式版 app **4982080**（coming_soon，发售「2027 年」）；Demo app **5270150**（2026-09-24，评测 0）。已并入本档，不另建 ⭐。〔Steam store/api〕

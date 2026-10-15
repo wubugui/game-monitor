@@ -1,5 +1,146 @@
 [
  {
+  "competitor": false,
+  "cover": "covers/steam-5270150.jpg",
+  "dev_type": "未知",
+  "developer": "Southern-twelve Studio",
+  "disc_platform": "Steam",
+  "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=同题材",
+  "feedback": null,
+  "found": "2026-10-15",
+  "genre": "中式奇幻悬疑叙事解谜（烟雨山）",
+  "genre_tags": [
+   "已并入BV1ZYak6aELT",
+   "民俗/国风",
+   "叙事/剧情",
+   "悬疑/解谜"
+  ],
+  "id": "p-4d51d8eab2",
+  "link": "https://store.steampowered.com/app/5270150/",
+  "missing_images": null,
+  "name": "烟雨山异闻",
+  "note": "10-15 并入Steam Demo；不另页",
+  "source": "",
+  "status": "Demo · 已发售（2026 年 9 月 24 日）",
+  "status_inferred": null,
+  "summary": "中式奇幻悬疑叙事解谜（烟雨山） · Demo · 已发售（2026 年 9 月 24 日） · Steam 评测 0 → 未知，不给百分比。本轮复核 0 条。 玩家关注什么：未知（无可用评测样本）。 在讨论什么：未知。",
+  "update_count": 5,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": false,
+  "cover": "covers/steam-5335260.jpg",
+  "dev_type": "小团队",
+  "developer": "本源界游戏工作室",
+  "disc_platform": "Steam",
+  "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=邻近",
+  "feedback": null,
+  "found": "2026-10-15",
+  "genre": "国风轻交互剧情 AVG（客栈规矩）",
+  "genre_tags": [
+   "已并入steam-4886650",
+   "民俗/国风",
+   "叙事/剧情"
+  ],
+  "id": "p-69a14ab52a",
+  "link": "https://store.steampowered.com/app/5335260/",
+  "missing_images": null,
+  "name": "樱桃客栈",
+  "note": "邻近；午夜归房规矩",
+  "source": "",
+  "status": "Demo · 已发售（2026 年 10 月 7 日）",
+  "status_inferred": null,
+  "summary": "国风轻交互剧情 AVG（客栈规矩） · Demo · 已发售（2026 年 10 月 7 日） · Steam 评测 0 → 未知，不给百分比。本轮复核 0 条。 玩家关注什么：未知（无可用评测样本）。 在讨论什么：未知。",
+  "update_count": 2,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/steam-3403510.jpg",
+  "dev_type": "未知",
+  "developer": "坤舆科技",
+  "disc_platform": "Steam",
+  "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=同题材",
+  "feedback": null,
+  "found": "2026-10-15",
+  "genre": "中国民俗恐怖剧情解谜（寒衣节）",
+  "genre_tags": [
+   "收藏",
+   "民俗/国风",
+   "恐怖",
+   "叙事/剧情",
+   "悬疑/解谜"
+  ],
+  "id": "p-3772892a2f",
+  "link": "https://store.steampowered.com/app/3403510/",
+  "missing_images": null,
+  "name": "山鬼志：寒衣",
+  "note": "同题材；Steam扫描新建",
+  "source": "",
+  "status": "已发售（2025 年 5 月 7 日）",
+  "status_inferred": null,
+  "summary": "中国民俗恐怖剧情解谜（寒衣节） · 已发售（2025 年 5 月 7 日） · Steam 评测约 90（特别好评：74 / 16）。本轮人工复核 20 条。 玩家关注什么：玩法流畅度、民俗氛围是否立住、剧情完整性、Bug/优化。 在讨论什么：好评率约 82%（特别好评）；民俗壳与实际体验是否匹配。",
+  "update_count": 1,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/steam-3170460.jpg",
+  "dev_type": "未知",
+  "developer": "Liminal Factory",
+  "disc_platform": "Steam",
+  "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=同题材",
+  "feedback": null,
+  "found": "2026-10-15",
+  "genre": "中式民俗玄怪恐怖解谜冒险（终南古镇）",
+  "genre_tags": [
+   "收藏",
+   "民俗/国风",
+   "恐怖",
+   "叙事/剧情",
+   "悬疑/解谜"
+  ],
+  "id": "p-91f149afe3",
+  "link": "https://store.steampowered.com/app/3170460/",
+  "missing_images": null,
+  "name": "小先生：终南长鸣",
+  "note": "同题材；与2725040长鸣小区线区分",
+  "source": "",
+  "status": "已发售（2026 年 9 月 11 日）",
+  "status_inferred": null,
+  "summary": "中式民俗玄怪恐怖解谜冒险（终南古镇） · 已发售（2026 年 9 月 11 日） · Steam 评测约 40（多半差评：14 / 26）。本轮人工复核 20 条。 玩家关注什么：玩法流畅度、民俗氛围是否立住、剧情完整性、Bug/优化。 在讨论什么：好评率约 35%（多半差评）；民俗壳与实际体验是否匹配。",
+  "update_count": 5,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/steam-3640040.jpg",
+  "dev_type": "未知",
+  "developer": "Archimedes Nicholas Xia",
+  "disc_platform": "Steam",
+  "discovery": "Steam 民俗/志怪/中式恐怖关键词扫描（2026-10-15）；分层=邻近",
+  "feedback": null,
+  "found": "2026-10-15",
+  "genre": "九十年代乡镇医院中式心理惊悚（回煞）",
+  "genre_tags": [
+   "收藏",
+   "民俗/国风",
+   "恐怖",
+   "叙事/剧情"
+  ],
+  "id": "p-46ee7550da",
+  "link": "https://store.steampowered.com/app/3640040/",
+  "missing_images": null,
+  "name": "回煞录",
+  "note": "邻近；回煞民俗意象",
+  "source": "",
+  "status": "已发售（2025 年 5 月 15 日）",
+  "status_inferred": null,
+  "summary": "九十年代乡镇医院中式心理惊悚（回煞） · 已发售（2025 年 5 月 15 日） · Steam 评测约 21（褒贬不一：14 / 7）。本轮人工复核 20 条。 玩家关注什么：玩法流畅度、民俗氛围是否立住、剧情完整性、Bug/优化。 在讨论什么：好评率约 67%（褒贬不一）；民俗壳与实际体验是否匹配。",
+  "update_count": 1,
+  "updated": "2026-10-15"
+ },
+ {
   "competitor": true,
   "cover": "covers/steam-4373160.jpg",
   "dev_type": "未知",
@@ -24,8 +165,8 @@
   "status": "已发售（2026 年 7 月 9 日）",
   "status_inferred": null,
   "summary": "狐仙庙出马仙生存恐怖 · 穷B没钱做游戏 · 已发售（2026 年 7 月 9 日） · Steam 评测合计 3（3 篇用户评测：2 好评 / 1 差评）。本轮人工复核 3 条评测（优先中文，不足则补全语种）。 玩家关注什么：好不好玩/吓不吓人；剧情与氛围是否立住；体量与定价是否匹配（样本=3）。 在讨论什么：题材氛围与玩法手感；与同品类中式/民俗恐的对照。",
-  "update_count": 1,
-  "updated": "2026-10-14"
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -52,8 +193,8 @@
   "status": "已发售（2026 年 7 月 28 日）",
   "status_inferred": null,
   "summary": "深山别墅出马仙灵异（杀青宴祭典） · 已发售 · Steam 中文评测池约 170（特别好评：160 / 10）。本轮人工复核 15 条中文评测。 玩家关注什么：出马仙/民俗风水题材是否立住；影游完成度；卡关与提示；妆造与运镜。 在讨论什么：恐怖氛围 vs 真人影游制作；价格亲民；解密收集。",
-  "update_count": 1,
-  "updated": "2026-10-14"
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -80,8 +221,8 @@
   "status": "已发售（2026 年 4 月 27 日）",
   "status_inferred": null,
   "summary": "民国上海妖怪叙事 AVG · 已发售 · Steam 中文评测池约 101（特别好评：93 / 8）。本轮人工复核 15 条中文评测。 玩家关注什么：故事是否催泪/有深度；上海话配音；像素操作与谜题是否坐牢；Bug。 在讨论什么：与《烟火》对照；叙事碎片化；云存档/全屏边框等技术问题。",
-  "update_count": 1,
-  "updated": "2026-10-14"
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -108,8 +249,8 @@
   "status": "已发售（2026 年 6 月 12 日）",
   "status_inferred": null,
   "summary": "中式民俗恐怖视觉小说（道士×女警物理超度） · MYSTERY CROWN · 已发售（2026 年 6 月 12 日） · Steam 评测窗未开或样本不足 → 未知，不给百分比。 玩家关注什么：未知（无可用评测样本）。 在讨论什么：未知。",
-  "update_count": 1,
-  "updated": "2026-10-14"
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -137,8 +278,8 @@
   "status": "已发售（2026 年 10 月 12 日）",
   "status_inferred": null,
   "summary": "诗谜民俗恐怖解谜（克系超现实村庄审判） · 已发售（2026-10-12） · Steam 评测仅 2 条（全好评，英文）。样本不足 → 不外推百分比。本轮人工复核 2 条。 玩家关注什么：诗谜是否好玩；氛围。 在讨论什么：样本过少，尚无中文评测窗可见讨论。",
-  "update_count": 1,
-  "updated": "2026-10-14"
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -160,13 +301,13 @@
   "link": "https://store.steampowered.com/app/4327330/",
   "missing_images": null,
   "name": "山瘟",
-  "note": "邻近；发售日盯首评",
+  "note": "邻近；继续盯首评",
   "source": "",
-  "status": "定档发售日（2026-10-14；商店仍标 coming_soon / 评测窗未开）",
+  "status": "定档发售日已过（商店仍标 coming_soon / 评测窗仍未开；2026-10-15 复核）",
   "status_inferred": null,
   "summary": "九十年代矿业小镇民俗疫病恐怖（山神碑） · 小团队（FirstMove Studio） · 定档发售日 2026-10-14 · 发售日窗口 Steam 评测仍为 0 → 未知，不给百分比。（见下「发售日窗口」） 玩家关注什么：未知（无可用评测样本）。 在讨论什么：小红书可见相关 Demo/速通卡（详见来源），未进详情评论则不编造。",
-  "update_count": 2,
-  "updated": "2026-10-14"
+  "update_count": 3,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -193,8 +334,8 @@
   "status": "抢先体验（商店口径 2026-10-12）",
   "status_inferred": null,
   "summary": "国风民俗志怪 多人联机 PVE 搜打撤（第一/第三人称） · 小团队（GKD工作室） · 抢先体验（商店口径 2026-10-12） · 热度：B站相关视频 4 条合计 14.9万 播放；本轮人工复核 15 条（含 1 条官方置顶，不计入百分比），未使用自由模型。 玩家关注什么：题材能不能撑住玩法：本轮复核 14 条玩家高赞主评，约 43%（6/14）在讨论「搜打撤」与 PVE/单人模式取舍，约 21%（3/14）讨论道术与民俗设定还原",
-  "update_count": 3,
-  "updated": "2026-10-14"
+  "update_count": 4,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -222,8 +363,66 @@
   "status": "已发售（2026-10-08）",
   "status_inferred": null,
   "summary": "美式小镇生存恐怖·类银河战士恶魔城 · 小团队（Wych Elm；发行 Team17） · 已发售（2026-10-08） · 热度：B站相关视频 1 个，代表/合计播放约 564；采集评论 1 条（本轮未上未审自由模型百分比） 玩家关注什么：发售热度与定价。 在讨论什么：B 站新试玩评论少；海外实况多（本轮未深挖英文评测全文）。",
-  "update_count": 3,
-  "updated": "2026-10-14"
+  "update_count": 4,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/steam-3820460.jpg",
+  "dev_type": "个人",
+  "developer": "个人（Simon Au Yeung）",
+  "disc_platform": "X/Steam",
+  "discovery": "X/Steam 新品扫描（2026-10-11）；中文第一人称心理恐怖，观察环境完成任务后抉择",
+  "feedback": null,
+  "found": "2026-10-11",
+  "genre": "第一人称心理恐怖（短篇观察抉择）",
+  "genre_tags": [
+   "收藏",
+   "心理恐怖",
+   "短篇",
+   "中文",
+   "恐怖"
+  ],
+  "id": "steam-3820460",
+  "link": "https://store.steampowered.com/app/3820460/",
+  "missing_images": null,
+  "name": "末班",
+  "note": "",
+  "source": "",
+  "status": "即将推出（商店口径 2026-10-11）",
+  "status_inferred": null,
+  "summary": "第一人称心理恐怖（短篇观察抉择） · 个人（Simon Au Yeung） · 即将推出（商店口径 2026-10-11） · 热度：B站相关视频 0 个；采集评论 0 条（本轮未上未审自由模型百分比） 玩家关注什么：短篇体量与观察类玩法；本轮 B 站评论样本不足。 在讨论什么：公开讨论尚少（发售当日窗口）。",
+  "update_count": 2,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/steam-5166790.jpg",
+  "dev_type": "小团队",
+  "developer": "小团队（Makishiba Games）",
+  "disc_platform": "Steam/X",
+  "discovery": "Steam/X 扫描（2026-10-11）；洋馆找齐并摧毁 7 个人形后逃离",
+  "feedback": null,
+  "found": "2026-10-11",
+  "genre": "第一人称生存恐怖（找毁 7 人形）",
+  "genre_tags": [
+   "收藏",
+   "生存恐怖",
+   "人形",
+   "短篇",
+   "恐怖"
+  ],
+  "id": "steam-5166790",
+  "link": "https://store.steampowered.com/app/5166790/",
+  "missing_images": null,
+  "name": "Unwatching -The Seven Dolls-",
+  "note": "",
+  "source": "",
+  "status": "即将推出（2026-10-11）",
+  "status_inferred": null,
+  "summary": "第一人称生存恐怖（找毁 7 人形） · 小团队（Makishiba Games） · 即将推出（2026-10-11） · 热度：B站相关视频 0 个；采集评论 0 条（本轮未上未审自由模型百分比） 玩家关注什么：短篇追逃结构。 在讨论什么：本轮无中文评论样本。",
+  "update_count": 2,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -250,8 +449,8 @@
   "status": "Demo（正式 2027）",
   "status_inferred": null,
   "summary": "第一人称恐怖钓鱼（幽灵森林） · 小团队（Mūn Mūn Games；发行 UNIKAT Label） · Demo（正式 2027） · 热度：B站相关视频 1 个，代表/合计播放约 13029；采集评论 12 条（本轮未上未审自由模型百分比） 玩家关注什么：钓鱼手感与防身枪的反差萌。 在讨论什么：像盗贼之海挖虫子；封面被看成荒野哭喊5。",
-  "update_count": 4,
-  "updated": "2026-10-14"
+  "update_count": 5,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -279,8 +478,8 @@
   "status": "开发中（2027）",
   "status_inferred": null,
   "summary": "太空站同居×第一人称生存恐怖 · 小团队（Santa Studio；发行 ambr） · 开发中（2027） · 热度：B站相关视频 0 个；采集评论 12 条（本轮未上未审自由模型百分比） 玩家关注什么：历史莱卡狗典故与「血肉怪物/美丽少女」反差。 在讨论什么：官方预告评论区大量科普莱卡单程任务与致敬。",
-  "update_count": 3,
-  "updated": "2026-10-14"
+  "update_count": 4,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -306,8 +505,8 @@
   "status": "已发售（2026-10-12）",
   "status_inferred": null,
   "summary": "手绘日式乡村叙事恐怖（人偶匠） · 小团队（Atelier Sentô，漫画家二人组） · 即将发售（2026-10-12） · 热度：B站 3 个相关视频合计播放 1875；采集反馈 16 条、弹幕 4 条 玩家关注什么：按关键词粗分，评论最集中的话题是氛围恐怖（37.5%）、催更期待（6.2%）、对比其他（6.2%）。 「我偶尔很害怕日本这种“人形”(:з」∠)」（1赞） 在讨论什么：高频词：表情、啊啊啊、年度、不错、派对、人偶；弹",
-  "update_count": 6,
-  "updated": "2026-10-14"
+  "update_count": 7,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -333,35 +532,8 @@
   "status": "首曝",
   "status_inferred": null,
   "summary": "北宋国风听觉解谜 · 小团队 · 首曝 · 热度：B站 1 个相关视频合计播放 331；采集反馈 9 条 玩家关注什么：按关键词粗分，评论最集中的话题是画面美术（11.1%）、配音音乐（11.1%）、剧情叙事（11.1%）。 在讨论什么：高频词：支持、追境、游戏、感谢、大家、剧情。",
-  "update_count": 6,
-  "updated": "2026-10-14"
- },
- {
-  "competitor": true,
-  "cover": "covers/BV1zoe26JEwt.jpg",
-  "dev_type": "未知",
-  "developer": "未知（官方号）",
-  "disc_platform": "B站",
-  "discovery": "途径未知（种子为 B站视频）；种子视频「《童年诡事录》试玩版」· UP king17__老了 · BV1zoe26JEwt · 2026-09-18 · 播放 246.1万",
-  "feedback": null,
-  "found": "2026-10-09",
-  "genre": "中式民俗/梦核恐怖",
-  "genre_tags": [
-   "收藏",
-   "恐怖",
-   "民俗/国风"
-  ],
-  "id": "BV1zoe26JEwt",
-  "link": "https://www.bilibili.com/video/BV1zoe26JEwt",
-  "missing_images": null,
-  "name": "童年诡事录",
-  "note": "2002农村、老猫猴、UE5写实；官方声明非AI",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "中式民俗/梦核恐怖 · 未知（官方号） · Demo · 热度：B站 10 个相关视频合计播放 418.6万；采集反馈 917 条、弹幕 2454 条 玩家关注什么：观众被「老猫猴子」这类童年吓唬小孩的民间传说吸引，评论区在分享各地版本和自己的童年阴影。 在讨论什么：热门讨论是设定合不合理：农村丢了孩子全村都会出来找，不会只让一个小孩去找。",
-  "update_count": 5,
-  "updated": "2026-10-14"
+  "update_count": 7,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -387,8 +559,8 @@
   "status": "Demo",
   "status_inferred": null,
   "summary": "中式梦核恐怖 · 未知 · Demo · 热度：B站 7 个相关视频合计播放 26.7万；采集反馈 476 条、弹幕 1133 条 玩家关注什么：讨论几乎全部被现实案件带走：观众认为剧情影射 2013 年山东「消失的夫妻」案，开发者公开否认是改编。 在讨论什么：主流情绪是对凶手的愤怒和「支持厉鬼索命」，这些评论针对的是剧情，不是对游戏的差评。",
-  "update_count": 5,
-  "updated": "2026-10-14"
+  "update_count": 6,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -415,8 +587,8 @@
   "status": "已发售",
   "status_inferred": null,
   "summary": "中式民俗恐怖解谜 · 未知 · 已发售 · 热度：B站 5 个相关视频合计播放 67.3万；采集反馈 799 条、弹幕 3729 条 玩家关注什么：最受关注的是主角人设：一个冷静、有真本事的年轻道士，而不是一般恐游里偏弱的主角。 在讨论什么：另一条主线是道教科仪是否专业：念白还是唱、能不能随便请三清。",
-  "update_count": 2,
-  "updated": "2026-10-14"
+  "update_count": 3,
+  "updated": "2026-10-15"
  },
  {
   "competitor": true,
@@ -442,7 +614,34 @@
   "status": "Demo",
   "status_inferred": null,
   "summary": "中式梦核恐怖 · 未知 · Demo · 热度：B站 9 个相关视频合计播放 3.9万；采集反馈 81 条、弹幕 152 条 玩家关注什么：样本少（81 条），评论以开发者、配音演员和实况 UP 的互动为主，关心正式版体量。 在讨论什么：开头歌曲成了梗，配音演员是小学生这件事也引起了讨论。",
-  "update_count": 4,
+  "update_count": 5,
+  "updated": "2026-10-15"
+ },
+ {
+  "competitor": true,
+  "cover": "covers/BV1zoe26JEwt.jpg",
+  "dev_type": "未知",
+  "developer": "未知（官方号）",
+  "disc_platform": "B站",
+  "discovery": "途径未知（种子为 B站视频）；种子视频「《童年诡事录》试玩版」· UP king17__老了 · BV1zoe26JEwt · 2026-09-18 · 播放 246.1万",
+  "feedback": null,
+  "found": "2026-10-09",
+  "genre": "中式民俗/梦核恐怖",
+  "genre_tags": [
+   "收藏",
+   "恐怖",
+   "民俗/国风"
+  ],
+  "id": "BV1zoe26JEwt",
+  "link": "https://www.bilibili.com/video/BV1zoe26JEwt",
+  "missing_images": null,
+  "name": "童年诡事录",
+  "note": "2002农村、老猫猴、UE5写实；官方声明非AI",
+  "source": "B站",
+  "status": "Demo",
+  "status_inferred": null,
+  "summary": "中式民俗/梦核恐怖 · 未知（官方号） · Demo · 热度：B站 10 个相关视频合计播放 418.6万；采集反馈 917 条、弹幕 2454 条 玩家关注什么：观众被「老猫猴子」这类童年吓唬小孩的民间传说吸引，评论区在分享各地版本和自己的童年阴影。 在讨论什么：热门讨论是设定合不合理：农村丢了孩子全村都会出来找，不会只让一个小孩去找。",
+  "update_count": 5,
   "updated": "2026-10-14"
  },
  {
@@ -640,33 +839,6 @@
   "status": "即将推出",
   "status_inferred": null,
   "summary": "志怪叙事解谜（生死簿 / 十二案） · 小团队（落之工作室 / LUOZHI Works） · 即将推出 · 热度：愿望单/Demo 阶段。无评测、发现扫描无高播实况 → 未知。 玩家关注什么：未知（尚无可用评测样本）。 在讨论什么：未知。",
-  "update_count": 1,
-  "updated": "2026-10-13"
- },
- {
-  "competitor": true,
-  "cover": "covers/steam-4886650.jpg",
-  "dev_type": "小团队",
-  "developer": "小团队（本源界游戏工作室）",
-  "disc_platform": "Steam",
-  "discovery": "Steam 关键词扫描（志怪，2026-10-13）",
-  "feedback": null,
-  "found": "2026-10-13",
-  "genre": "轻交互国风剧情 AVG（深山客栈规矩）",
-  "genre_tags": [
-   "收藏",
-   "民俗/国风",
-   "叙事/剧情"
-  ],
-  "id": "p-69a14ab52a",
-  "link": "https://store.steampowered.com/app/4886650/",
-  "missing_images": null,
-  "name": "樱桃客栈",
-  "note": "邻近；午夜归房规矩",
-  "source": "",
-  "status": "即将推出（Demo 已出）",
-  "status_inferred": null,
-  "summary": "轻交互国风剧情 AVG（深山客栈规矩） · 小团队（本源界游戏工作室） · 即将推出（Demo 已出） · 热度：愿望单/Demo 阶段。无评测 → 未知。 玩家关注什么：未知（尚无可用评测样本）。 在讨论什么：未知。",
   "update_count": 1,
   "updated": "2026-10-13"
  },
@@ -949,33 +1121,6 @@
   "status_inferred": null,
   "summary": "中式民俗+克苏鲁叙事 · 未知（Largeland） · Demo · 热度：B站 4 个相关视频合计播放 49.7万；采集反馈 350 条、弹幕 1048 条 玩家关注什么：观众最关注它和 COC 跑团的渊源：不少人认出这是「谢娘娘点化」模组的游戏化，跑团玩家是核心受众。 在讨论什么：讨论围绕中式神祇的形象（越狰狞越安全）和「中式 + 克苏鲁」是否成立。",
   "update_count": 4,
-  "updated": "2026-10-13"
- },
- {
-  "competitor": true,
-  "cover": "covers/BV1ZYak6aELT.jpg",
-  "dev_type": "未知",
-  "developer": "未知",
-  "disc_platform": "B站",
-  "discovery": "B站搜索关键词「中式民俗恐怖 独立游戏」（每日发现 2026-10-10）；种子视频「【中式民俗/悬疑】父子意外坠崖，却意外发现诡异洞府？-《烟雨山异闻》Demo配音试玩实况」· UP 爱讲故事的陈同学 · BV1ZYak6aELT · 2026-10-02 · 播放 1618",
-  "feedback": null,
-  "found": "2026-10-09",
-  "genre": "中式民俗悬疑",
-  "genre_tags": [
-   "收藏",
-   "民俗/国风",
-   "悬疑/解谜"
-  ],
-  "id": "BV1ZYak6aELT",
-  "link": "https://www.bilibili.com/video/BV1ZYak6aELT",
-  "missing_images": null,
-  "name": "烟雨山异闻",
-  "note": "父子坠崖发现洞府",
-  "source": "B站",
-  "status": "Demo",
-  "status_inferred": null,
-  "summary": "中式民俗悬疑 · 未知 · Demo · 热度：B站 5 个相关视频合计播放 3726；采集反馈 25 条、弹幕 12 条 玩家关注什么：按关键词粗分，评论最集中的话题是催更期待（20.0%）、对比其他（12.0%）、画面美术（4.0%）。 在讨论什么：高频词：鹦鹉、不够看、游戏、一些、喜欢、配色；弹幕刷得最多的是「想鼠你啦！」、「紫色的字开大门」。",
-  "update_count": 2,
   "updated": "2026-10-13"
  },
  {
@@ -1401,35 +1546,6 @@
  },
  {
   "competitor": true,
-  "cover": "covers/steam-3820460.jpg",
-  "dev_type": "个人",
-  "developer": "个人（Simon Au Yeung）",
-  "disc_platform": "X/Steam",
-  "discovery": "X/Steam 新品扫描（2026-10-11）；中文第一人称心理恐怖，观察环境完成任务后抉择",
-  "feedback": null,
-  "found": "2026-10-11",
-  "genre": "第一人称心理恐怖（短篇观察抉择）",
-  "genre_tags": [
-   "收藏",
-   "心理恐怖",
-   "短篇",
-   "中文",
-   "恐怖"
-  ],
-  "id": "steam-3820460",
-  "link": "https://store.steampowered.com/app/3820460/",
-  "missing_images": null,
-  "name": "末班",
-  "note": "",
-  "source": "",
-  "status": "即将推出（商店口径 2026-10-11）",
-  "status_inferred": null,
-  "summary": "第一人称心理恐怖（短篇观察抉择） · 个人（Simon Au Yeung） · 即将推出（商店口径 2026-10-11） · 热度：B站相关视频 0 个；采集评论 0 条（本轮未上未审自由模型百分比） 玩家关注什么：短篇体量与观察类玩法；本轮 B 站评论样本不足。 在讨论什么：公开讨论尚少（发售当日窗口）。",
-  "update_count": 1,
-  "updated": "2026-10-11"
- },
- {
-  "competitor": true,
   "cover": "covers/steam-4881350.jpg",
   "dev_type": "个人",
   "developer": "个人（Tiago Rech；发行 DANGEN Entertainment）",
@@ -1546,35 +1662,6 @@
   "status": "Demo（B站首曝）",
   "status_inferred": null,
   "summary": "中式侧视生存恐怖（UE5 / 单人开发） · 个人（彭嘉浩） · Demo（B站首曝） · 热度：B站相关视频 1 个，代表/合计播放约 341；采集评论 2 条（本轮未上未审自由模型百分比） 玩家关注什么：手感与丧尸行为建议（评论区直接给设计意见）。 在讨论什么：有人觉得像以前的闪客快打。",
-  "update_count": 1,
-  "updated": "2026-10-11"
- },
- {
-  "competitor": true,
-  "cover": "covers/steam-5166790.jpg",
-  "dev_type": "小团队",
-  "developer": "小团队（Makishiba Games）",
-  "disc_platform": "Steam/X",
-  "discovery": "Steam/X 扫描（2026-10-11）；洋馆找齐并摧毁 7 个人形后逃离",
-  "feedback": null,
-  "found": "2026-10-11",
-  "genre": "第一人称生存恐怖（找毁 7 人形）",
-  "genre_tags": [
-   "收藏",
-   "生存恐怖",
-   "人形",
-   "短篇",
-   "恐怖"
-  ],
-  "id": "steam-5166790",
-  "link": "https://store.steampowered.com/app/5166790/",
-  "missing_images": null,
-  "name": "Unwatching -The Seven Dolls-",
-  "note": "",
-  "source": "",
-  "status": "即将推出（2026-10-11）",
-  "status_inferred": null,
-  "summary": "第一人称生存恐怖（找毁 7 人形） · 小团队（Makishiba Games） · 即将推出（2026-10-11） · 热度：B站相关视频 0 个；采集评论 0 条（本轮未上未审自由模型百分比） 玩家关注什么：短篇追逃结构。 在讨论什么：本轮无中文评论样本。",
   "update_count": 1,
   "updated": "2026-10-11"
  },

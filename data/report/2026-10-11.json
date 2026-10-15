@@ -15,6 +15,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3820460.jpg",
+   "id": "steam-3820460",
+   "name": "末班"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5166790.jpg",
+   "id": "steam-5166790",
+   "name": "Unwatching -The Seven Dolls-"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
@@ -117,12 +129,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3820460.jpg",
-   "id": "steam-3820460",
-   "name": "末班"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4881350.jpg",
    "id": "steam-4881350",
    "name": "我将为死者命名"
@@ -144,12 +150,6 @@
    "cover": "covers/BV12Lpt6LEV2.jpg",
    "id": "yongchuang-sirengu",
    "name": "勇闯死人谷"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5166790.jpg",
-   "id": "steam-5166790",
-   "name": "Unwatching -The Seven Dolls-"
   },
   {
    "competitor": true,

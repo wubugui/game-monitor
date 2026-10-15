@@ -4,7 +4,8 @@
   "2026-10-11",
   "2026-10-12",
   "2026-10-13",
-  "2026-10-14"
+  "2026-10-14",
+  "2026-10-15"
  ],
  "aliases": [
   "The Doll Shop",
@@ -28,9 +29,15 @@
  ],
  "history": [
   {
+   "date": "2026-10-15",
+   "kind": "state",
+   "md": "- Steam 评测约 **36**（Positive：34 / 2；较 10-14 的 ~29 续增）。本轮未另抽评论样本，沿用发售窗人工观感：偏正面（美术/氛围）。〔Steam·appreviews〕",
+   "title": ""
+  },
+  {
    "date": "2026-10-14",
    "kind": "state",
-   "md": "- Steam 已发售（不再 coming_soon）；评测合计 **29**（Positive：27/2）。样本仍偏小，不外推到「特别好评」级结论。〔Steam·appreviews〕\n- X：开发者 @AtelierSento 10-13 Launch Video +「进入 Steam popular new releases」帖（约 1959 浏览 / 40 赞）；日文媒体续转。〔X〕\n- 人工复核近期评测 8 条：正面集中于手绘美术、氛围、音乐与剧本扭曲感；差评样本少（2）。",
+   "md": "- Steam 已发售（不再 coming_soon）；评测合计 **29**（Positive：27/2）。样本仍偏小，不外推到「特别好评」级结论。〔Steam·appreviews〕\n- X：开发者 @AtelierSento 10-13 Launch Video +「进入 Steam popular new releases」帖（约 1959 浏览 / 40 赞）；日文媒体续转。〔X〕\n- 人工复核近期评测 8 条：正面集中于手绘美术、氛围、音乐与剧本扭曲感；差评样本少（2）。\n\n<!-- added:2026-10-15 -->",
    "report": "2026-10-14",
    "title": "增量（）"
   },
@@ -93,6 +100,6 @@
  "tags": [
   "收藏"
  ],
- "update_count": 6,
- "updated": "2026-10-14"
+ "update_count": 7,
+ "updated": "2026-10-15"
 }

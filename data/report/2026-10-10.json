@@ -24,18 +24,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -45,6 +33,18 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
   },
   {
    "competitor": true,

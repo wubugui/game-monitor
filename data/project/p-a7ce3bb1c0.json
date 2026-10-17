@@ -25,6 +25,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-17",
+   "kind": "report",
+   "md": "数据：`tmp/heat_delta_2026-10-17.tsv`（全量刷新 top5+PV extras，94 档 / 484 行）。只计昨日已有同一 BV 且标题可归属该收藏的条目。「新入榜」高播串台（山鬼歌曲、春节英语介绍、知否祖母、道诡异仙邪祟盘点、末班车纪录片等）**不写入升温结论**。清洗稿见 `tmp/heat_movers_clean_2026-10-17.md`。",
+   "report": "2026-10-17",
+   "title": "2026-10-17 日报"
+  },
+  {
    "date": "2026-10-16",
    "kind": "state",
    "md": "- 新纳入收藏。Steam 状态：coming_soon=False，评测 72（特别好评）。来源：Steam store + appreviews +（未春节）B站先导。",
@@ -57,6 +64,6 @@
   "恐怖",
   "悬疑/解谜"
  ],
- "update_count": 1,
- "updated": "2026-10-16"
+ "update_count": 2,
+ "updated": "2026-10-17"
 }

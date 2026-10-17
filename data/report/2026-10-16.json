@@ -9,33 +9,9 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-5093370.jpg",
-   "id": "p-b24daa8672",
-   "name": "阴阳鉴"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4991870.jpg",
-   "id": "p-cea474f50d",
-   "name": "荒山诡宿"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3167220.jpg",
    "id": "p-a7ce3bb1c0",
    "name": "祖母 grandmother"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5356780.jpg",
-   "id": "p-71e32166fe",
-   "name": "未春节 Festival of Unborn Spring"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
   },
   {
    "competitor": true,
@@ -51,21 +27,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2490960.jpg",
-   "id": "steam-2490960",
-   "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4881350.jpg",
-   "id": "steam-4881350",
-   "name": "我将为死者命名"
   },
   {
    "competitor": true,
@@ -81,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-dollshop.jpg",
-   "id": "x-dollshop",
-   "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -96,6 +54,48 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5093370.jpg",
+   "id": "p-b24daa8672",
+   "name": "阴阳鉴"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4991870.jpg",
+   "id": "p-cea474f50d",
+   "name": "荒山诡宿"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5356780.jpg",
+   "id": "p-71e32166fe",
+   "name": "未春节 Festival of Unborn Spring"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-2490960.jpg",
+   "id": "steam-2490960",
+   "name": "驱灵天师"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "id": "x-dollshop",
+   "name": "The Doll Shop"
   },
   {
    "competitor": true,

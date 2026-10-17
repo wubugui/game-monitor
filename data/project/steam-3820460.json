@@ -27,6 +27,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-17",
+   "kind": "report",
+   "md": "数据：`tmp/heat_delta_2026-10-17.tsv`（全量刷新 top5+PV extras，94 档 / 484 行）。只计昨日已有同一 BV 且标题可归属该收藏的条目。「新入榜」高播串台（山鬼歌曲、春节英语介绍、知否祖母、道诡异仙邪祟盘点、末班车纪录片等）**不写入升温结论**。清洗稿见 `tmp/heat_movers_clean_2026-10-17.md`。",
+   "report": "2026-10-17",
+   "title": "2026-10-17 日报"
+  },
+  {
    "date": "2026-10-15",
    "kind": "state",
    "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 11 日」，评测 **8**（8 篇用户评测；+7/−1）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：It's such a good game, despite being so easy.…（原文：It's such a good game, despite being so easy.）〔Steam评测·english〕\n- 推荐：전작은 참 좋았는데...음...…（原文：전작은 참 좋았는데...음...）〔Steam评测·koreana〕",
@@ -80,6 +87,6 @@
   "短篇",
   "中文"
  ],
- "update_count": 2,
- "updated": "2026-10-15"
+ "update_count": 3,
+ "updated": "2026-10-17"
 }

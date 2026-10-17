@@ -15,9 +15,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4881350.jpg",
-   "id": "steam-4881350",
-   "name": "我将为死者命名"
+   "cover": "covers/steam-3820460.jpg",
+   "id": "steam-3820460",
+   "name": "末班"
   },
   {
    "competitor": true,
@@ -27,21 +27,33 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,
@@ -57,21 +69,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3820460.jpg",
-   "id": "steam-3820460",
-   "name": "末班"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-5166790.jpg",
    "id": "steam-5166790",
    "name": "Unwatching -The Seven Dolls-"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4037370.jpg",
-   "id": "steam-4037370",
-   "name": "Laica"
   },
   {
    "competitor": true,

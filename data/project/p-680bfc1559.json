@@ -1,6 +1,7 @@
 {
  "added_dates": [
-  "2026-10-14"
+  "2026-10-14",
+  "2026-10-17"
  ],
  "aliases": [
   "世末终巡"
@@ -25,6 +26,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-17",
+   "kind": "report",
+   "md": "- **世末终巡**：评测 **2→8**（全好评，英文为主）；B 站同 BV +7.8%（低基数）。样本仍极薄不给%〔Steam·B站〕\n\n- **Steam**：关键词扫描约 **830** app → 新建档 4；山瘟/世末终巡评测窗爬升",
+   "report": "2026-10-17",
+   "title": "2026-10-17 日报"
+  },
+  {
    "date": "2026-10-16",
    "kind": "report",
    "md": "- **收藏热度显著（同 BV、人工核对标题归属）**：追境首曝 PV **+52.9%**（1239→1894，续昨暴涨）；银松镇攻略/实况续热（+3.4%~+17.5%）；世末终巡 +14.9%（低基数）；灵魂甜品 +6.9%；山瘟 Demo +5.1%；诡偶/Out Fishing/泯灭/太渊无朔/我将为死者命名/你就是缘由 约 +3%~+4%",
@@ -34,7 +42,7 @@
   {
    "date": "2026-10-15",
    "kind": "state",
-   "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 12 日」，评测 **5**（5 篇用户评测；+5/−0）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：I love this game and contained within it <3…（原文：I love this game and contained within it <3）〔Steam评测·english〕\n- 推荐：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r…（原文：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r）〔Steam评测·english〕\n- 推荐：i will have to update my review in the future, but i definitely think people should try this one out…（原文：i will have to update my review in the future, but i definitely think people should try this one out）〔Steam评测·english〕",
+   "md": "- Steam 状态：coming_soon=False，发售日「2026 年 10 月 12 日」，评测 **5**（5 篇用户评测；+5/−0）。〔Steam store/api + appreviews〕\n- 近评抽样：\n- 推荐：I love this game and contained within it <3…（原文：I love this game and contained within it <3）〔Steam评测·english〕\n- 推荐：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r…（原文：Fairly short, but very unique puzzle game. I really enjoyed it!  I played on steam deck and didn't r）〔Steam评测·english〕\n- 推荐：i will have to update my review in the future, but i definitely think people should try this one out…（原文：i will have to update my review in the future, but i definitely think people should try this one out）〔Steam评测·english〕\n\n<!-- added:2026-10-17 -->\n\n### 评测窗差分（2026-10-17）\n\nSteam 评测约 **8**（好评 8 / 差评 0；昨日报约 2）。样本仍极薄，不给稳定%。〔Steam·appreviews〕",
    "title": ""
   },
   {
@@ -75,6 +83,6 @@
   "悬疑/解谜",
   "叙事/剧情"
  ],
- "update_count": 3,
- "updated": "2026-10-16"
+ "update_count": 4,
+ "updated": "2026-10-17"
 }

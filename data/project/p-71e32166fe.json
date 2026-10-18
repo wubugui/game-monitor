@@ -24,6 +24,13 @@
  ],
  "history": [
   {
+   "date": "2026-10-19",
+   "kind": "report",
+   "md": "数据：`tmp/heat_delta_2026-10-19.tsv`（全量刷新 top5+PV extras，101 档 / 515 行）。只计昨日已有同一 BV 且标题可归属该收藏的条目。「新入榜」高播串台（邪祟×银松镇解说、诡影藏锋×极限战场、契命×Fate、烟雨山异闻×烟雨江湖、黄泉園×星铁、未春节×英语听力、鬼子母壁画/RPG、凶寓×Dread Disc、Doll Shop×Bramble 等）**不写入升温结论**。清洗稿见 `tmp/heat_movers_clean_2026-10-19.md`。",
+   "report": "2026-10-19",
+   "title": "2026-10-19 日报"
+  },
+  {
    "date": "2026-10-16",
    "kind": "state",
    "md": "- 新纳入收藏。Steam 状态：coming_soon=True，评测 0（无用户评测）。来源：Steam store + appreviews +（未春节）B站先导。",
@@ -57,6 +64,6 @@
   "民俗/国风",
   "叙事/剧情"
  ],
- "update_count": 1,
- "updated": "2026-10-16"
+ "update_count": 2,
+ "updated": "2026-10-19"
 }

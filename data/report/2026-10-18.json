@@ -9,24 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-5326910.jpg",
-   "id": "p-979bce17cb",
-   "name": "阴债"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "id": "p-330057f22b",
-   "name": "升棺发财"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3593940.jpg",
-   "id": "p-21d8dd8ab7",
-   "name": "出马"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4373160.jpg",
    "id": "p-6ca2ff6ae8",
    "name": "邪祟"
@@ -51,12 +33,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -78,6 +54,30 @@
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5326910.jpg",
+   "id": "p-979bce17cb",
+   "name": "阴债"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4840290.jpg",
+   "id": "p-330057f22b",
+   "name": "升棺发财"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3593940.jpg",
+   "id": "p-21d8dd8ab7",
+   "name": "出马"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
   },
   {
    "competitor": false,

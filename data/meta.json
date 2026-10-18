@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-10-18",
+ "data_date": "2026-10-19",
  "dev_types": [
   "个人",
   "小团队",
@@ -91,10 +91,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-18",
- "latest_report_date": "2026-10-18",
+ "latest_report": "2026-10-19",
+ "latest_report_date": "2026-10-19",
  "project_count": 236,
- "report_count": 22,
+ "report_count": 23,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -173,7 +173,7 @@
   "已发售（2026-08-25）",
   "已发售（2026-10-08）",
   "已发售（2026-10-12）",
-  "已发售（2026-10-14；首评窗爬升，评测约17；2026-10-18 复核）",
+  "已发售（2026-10-14；首评窗爬升，评测约18；2026-10-19 复核）",
   "已发售（Steam 2024-07-05）",
   "已发售（Steam 2024-12-11）",
   "已发售（Steam 2026-03-05）",
@@ -202,45 +202,9 @@
   "首曝（2027 年，PS5/PC）"
  ],
  "today_banner": "",
- "today_new": 3,
+ "today_new": 0,
  "today_updated": 2,
  "today_updates": [
-  {
-   "competitor": true,
-   "cover": "covers/steam-3593940.jpg",
-   "disc_platform": "Steam",
-   "discovery": "Steam 民俗/出马仙关键词扫描（2026-10-18）；分层=邻近（出马仙民俗向，偏互动影游+挂机，非志怪冒险主轴）",
-   "genre": "出马仙题材 AVG+挂机互动影游",
-   "id": "p-21d8dd8ab7",
-   "kind": "new",
-   "name": "出马",
-   "note": "项目总结",
-   "status": "已发售（2025 年 5 月 27 日）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "disc_platform": "Steam",
-   "discovery": "Steam 民俗恐怖关键词扫描（2026-10-18）；分层=同题材（民俗悬疑解密主轴）",
-   "genre": "中国民俗风格恐怖悬疑解密",
-   "id": "p-330057f22b",
-   "kind": "new",
-   "name": "升棺发财",
-   "note": "项目总结",
-   "status": "即将宣布"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5326910.jpg",
-   "disc_platform": "Steam",
-   "discovery": "Steam 民俗/道士/驱邪关键词扫描（2026-10-18）；分层=同题材（志怪/道士因果主轴，恐怖为辅包装）",
-   "genre": "中式民俗恐怖道士叙事冒险",
-   "id": "p-979bce17cb",
-   "kind": "new",
-   "name": "阴债",
-   "note": "项目总结",
-   "status": "即将推出"
-  },
   {
    "competitor": true,
    "cover": "covers/steam-4746890.jpg",
@@ -250,7 +214,7 @@
    "id": "p-680bfc1559",
    "kind": "updated",
    "name": "世末终巡",
-   "note": "Steam 评测：8→10（全好评；昨日报约8）。样本仍极薄，不给%。英文/葡语向赞氛围、诗谜、美术。〔Steam〕",
+   "note": "Steam 评测：10→10（全好评；相对昨日报无增量）。样本仍极薄，不给%。〔Steam·约 02:05 CST〕",
    "status": "已发售（2026 年 10 月 12 日）"
   },
   {
@@ -262,8 +226,8 @@
    "id": "p-dd4450b100",
    "kind": "updated",
    "name": "山瘟",
-   "note": "Steam 评测窗：12→17（好评16 / 差评1；昨日报约12）。样本仍偏薄，不给稳定好评百分比。〔Steam·约 02:15 CST〕",
-   "status": "已发售（2026-10-14；首评窗爬升，评测约17；2026-10-18 复核）"
+   "note": "Steam 评测窗：17→18（好评17 / 差评1；昨日报约17）。样本仍偏薄，不给稳定好评百分比。〔Steam·约 02:05 CST〕",
+   "status": "已发售（2026-10-14；首评窗爬升，评测约18；2026-10-19 复核）"
   }
  ]
 }

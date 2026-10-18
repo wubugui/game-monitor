@@ -18,9 +18,21 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "id": "p-af2615f3bf",
+   "name": "鬼子母 Hariti"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
@@ -150,12 +162,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-hariti.jpg",
-   "id": "p-af2615f3bf",
-   "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1E3NgzWEVh.jpg",
    "id": "BV1E3NgzWEVh",
    "name": "阴界诡录：尸语公寓"
@@ -219,12 +225,6 @@
    "cover": "covers/x-nameonly.jpg",
    "id": "x-nameonly",
    "name": "只有她知晓光辉的名字 The Name Only She Knew"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,

@@ -35,7 +35,7 @@
 | ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
 | ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 小红书补扫建档；吴越女吊/绍剧；邻近 |
-| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 已发售（2026-10-14；评测约7） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam 评测17（16/1）| 邻近；首评已开 |
+| ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 已发售（2026-10-14；评测约7） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam 评测18（17/1）| 邻近；首评已开 |
 | ⭐ 世末终巡 | 诗谜民俗恐怖解谜 | 小团队 | 已发售（2026-10-12） | 2026-10-14 | https://store.steampowered.com/app/4746890/ | Steam 评测10（10/0）| 邻近；发售窗刚开 |
 | ⭐ 诡宅祭坛 | 出马仙影游恐怖 | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4754090/ | Steam 特别好评~170 | 邻近；民俗风水 |
 | ⭐ 衔蝶 | 民国上海妖怪叙事AVG | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/3870140/ | Steam 特别好评~101 | 邻近；比拟烟火 |

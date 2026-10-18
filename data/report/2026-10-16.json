@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/steam-5356780.jpg",
+   "id": "p-71e32166fe",
+   "name": "未春节 Festival of Unborn Spring"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -24,12 +30,6 @@
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
   },
   {
    "competitor": true,
@@ -51,6 +51,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3167220.jpg",
    "id": "p-a7ce3bb1c0",
    "name": "祖母 grandmother"
@@ -66,12 +78,6 @@
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5356780.jpg",
-   "id": "p-71e32166fe",
-   "name": "未春节 Festival of Unborn Spring"
   },
   {
    "competitor": true,
@@ -96,12 +102,6 @@
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
   },
   {
    "competitor": true,

@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3870140.jpg",
-   "id": "p-769465ad17",
-   "name": "衔蝶"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -45,15 +39,27 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4037370.jpg",
-   "id": "steam-4037370",
-   "name": "Laica"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3870140.jpg",
+   "id": "p-769465ad17",
+   "name": "衔蝶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
   },
   {
    "competitor": true,
@@ -102,12 +108,6 @@
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   }
  ],
  "sections": [

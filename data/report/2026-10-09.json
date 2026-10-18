@@ -17,6 +17,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/BV1FSh265Ee8.jpg",
+   "id": "BV1FSh265Ee8",
+   "name": "Rain98"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-3170460.jpg",
    "id": "p-91f149afe3",
@@ -615,12 +621,6 @@
    "cover": "covers/BV1fAhH6BEGP.jpg",
    "id": "BV1fAhH6BEGP",
    "name": "三国乱世苍生"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1FSh265Ee8.jpg",
-   "id": "BV1FSh265Ee8",
-   "name": "Rain98"
   },
   {
    "competitor": false,

@@ -1,8 +1,8 @@
 {
  "baseline_only": false,
  "baseline_report": "2026-10-09",
- "competitor_count": 96,
- "data_date": "2026-10-17",
+ "competitor_count": 99,
+ "data_date": "2026-10-18",
  "dev_types": [
   "个人",
   "小团队",
@@ -91,10 +91,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-17",
- "latest_report_date": "2026-10-17",
- "project_count": 233,
- "report_count": 21,
+ "latest_report": "2026-10-18",
+ "latest_report_date": "2026-10-18",
+ "project_count": 236,
+ "report_count": 22,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -132,6 +132,7 @@
   "即将发售（2027 年 2 月）",
   "即将发售（Steam 2026-10-12）",
   "即将发售（即将宣布）",
+  "即将宣布",
   "即将宣布（Demo 2026-10-02）",
   "即将宣布（Demo 定档 2026-10-21）",
   "即将推出",
@@ -152,6 +153,7 @@
   "已发售（2024-09-30，$12.99）",
   "已发售（2025 年 3 月 12 日）",
   "已发售（2025 年 5 月 15 日）",
+  "已发售（2025 年 5 月 27 日）",
   "已发售（2025 年 5 月 7 日）",
   "已发售（2025 年 6 月 5 日）",
   "已发售（2025 年 8 月 13 日）",
@@ -171,7 +173,7 @@
   "已发售（2026-08-25）",
   "已发售（2026-10-08）",
   "已发售（2026-10-12）",
-  "已发售（2026-10-14；首评窗爬升，评测约12；2026-10-17 复核）",
+  "已发售（2026-10-14；首评窗爬升，评测约17；2026-10-18 复核）",
   "已发售（Steam 2024-07-05）",
   "已发售（Steam 2024-12-11）",
   "已发售（Steam 2026-03-05）",
@@ -200,56 +202,44 @@
   "首曝（2027 年，PS5/PC）"
  ],
  "today_banner": "",
- "today_new": 4,
+ "today_new": 3,
  "today_updated": 2,
  "today_updates": [
   {
    "competitor": true,
-   "cover": "covers/steam-3432160.jpg",
-   "disc_platform": "Steam/B站",
-   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-17）；分层=邻近",
-   "genre": "中式近代民俗恐怖解密（山中老宅）",
-   "id": "p-f0e0839d95",
+   "cover": "covers/steam-3593940.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 民俗/出马仙关键词扫描（2026-10-18）；分层=邻近（出马仙民俗向，偏互动影游+挂机，非志怪冒险主轴）",
+   "genre": "出马仙题材 AVG+挂机互动影游",
+   "id": "p-21d8dd8ab7",
    "kind": "new",
-   "name": "囍",
+   "name": "出马",
    "note": "项目总结",
-   "status": "已发售（2025 年 3 月 12 日）"
+   "status": "已发售（2025 年 5 月 27 日）"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1772060.jpg",
-   "disc_platform": "Steam/B站",
-   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-17）；分层=同题材",
-   "genre": "民俗色彩3D横板叙事恐怖（夜嫁/枉死城）",
-   "id": "p-8168ed0844",
+   "cover": "covers/steam-4840290.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 民俗恐怖关键词扫描（2026-10-18）；分层=同题材（民俗悬疑解密主轴）",
+   "genre": "中国民俗风格恐怖悬疑解密",
+   "id": "p-330057f22b",
    "kind": "new",
-   "name": "过阴",
+   "name": "升棺发财",
    "note": "项目总结",
-   "status": "已发售（2023 年 7 月 12 日）"
+   "status": "即将宣布"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3432650.jpg",
-   "disc_platform": "Steam/B站",
-   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-17）；分层=邻近",
-   "genre": "东南亚背景融合中式民俗的恐怖剧情",
-   "id": "p-b1bd7fdc25",
+   "cover": "covers/steam-5326910.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 民俗/道士/驱邪关键词扫描（2026-10-18）；分层=同题材（志怪/道士因果主轴，恐怖为辅包装）",
+   "genre": "中式民俗恐怖道士叙事冒险",
+   "id": "p-979bce17cb",
    "kind": "new",
-   "name": "追曙",
+   "name": "阴债",
    "note": "项目总结",
-   "status": "已发售（2026 年 5 月 11 日）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3686930.jpg",
-   "disc_platform": "Steam/B站",
-   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-17）；分层=同题材",
-   "genre": "中式民俗恐怖解谜（頭七论坛/西封杂志）",
-   "id": "p-e3b7173ecf",
-   "kind": "new",
-   "name": "頭七",
-   "note": "项目总结",
-   "status": "已发售（2025 年 8 月 13 日）"
+   "status": "即将推出"
   },
   {
    "competitor": true,
@@ -260,7 +250,7 @@
    "id": "p-680bfc1559",
    "kind": "updated",
    "name": "世末终巡",
-   "note": "评测窗差分（2026-10-17）",
+   "note": "Steam 评测：8→10（全好评；昨日报约8）。样本仍极薄，不给%。英文/葡语向赞氛围、诗谜、美术。〔Steam〕",
    "status": "已发售（2026 年 10 月 12 日）"
   },
   {
@@ -272,8 +262,8 @@
    "id": "p-dd4450b100",
    "kind": "updated",
    "name": "山瘟",
-   "note": "九十年代矿业小镇民俗疫病恐怖 · 已发售（2026-10-14） · Steam 评测 9→12（好评：好评 11 / 差评 1）。相对昨日报约 9（7好/2差）。样本仍偏薄，不给稳定好评百分比（点算",
-   "status": "已发售（2026-10-14；首评窗爬升，评测约12；2026-10-17 复核）"
+   "note": "Steam 评测窗：12→17（好评16 / 差评1；昨日报约12）。样本仍偏薄，不给稳定好评百分比。〔Steam·约 02:15 CST〕",
+   "status": "已发售（2026-10-14；首评窗爬升，评测约17；2026-10-18 复核）"
   }
  ]
 }

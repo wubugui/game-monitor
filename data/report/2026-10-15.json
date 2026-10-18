@@ -27,15 +27,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4037370.jpg",
-   "id": "steam-4037370",
-   "name": "Laica"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4037370.jpg",
+   "id": "steam-4037370",
+   "name": "Laica"
   },
   {
    "competitor": true,

@@ -8,12 +8,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": true,
-   "cover": "covers/steam-5356780.jpg",
-   "id": "p-71e32166fe",
-   "name": "未春节 Festival of Unborn Spring"
-  },
-  {
    "competitor": false,
    "cover": "covers/steam-5270150.jpg",
    "id": "p-4d51d8eab2",
@@ -39,12 +33,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4498100.jpg",
-   "id": "steam-4498100",
-   "name": "黄泉園"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4354610.jpg",
    "id": "steam-4354610",
    "name": "诡影藏锋"
@@ -60,24 +48,6 @@
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-hariti.jpg",
-   "id": "p-af2615f3bf",
-   "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
@@ -99,15 +69,45 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5356780.jpg",
+   "id": "p-71e32166fe",
+   "name": "未春节 Festival of Unborn Spring"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4498100.jpg",
+   "id": "steam-4498100",
+   "name": "黄泉園"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "id": "p-af2615f3bf",
+   "name": "鬼子母 Hariti"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
   }
  ],
  "sections": [

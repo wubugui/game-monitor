@@ -9,9 +9,9 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-5356780.jpg",
-   "id": "p-71e32166fe",
-   "name": "未春节 Festival of Unborn Spring"
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
   },
   {
    "competitor": true,
@@ -33,12 +33,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -48,6 +42,24 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5356780.jpg",
+   "id": "p-71e32166fe",
+   "name": "未春节 Festival of Unborn Spring"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,
@@ -81,12 +93,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2490960.jpg",
    "id": "steam-2490960",
    "name": "驱灵天师"
@@ -102,12 +108,6 @@
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
   },
   {
    "competitor": true,

@@ -33,6 +33,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -42,6 +48,12 @@
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
   },
   {
    "competitor": true,
@@ -57,21 +69,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-5356780.jpg",
    "id": "p-71e32166fe",
    "name": "未春节 Festival of Unborn Spring"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
   },
   {
    "competitor": true,

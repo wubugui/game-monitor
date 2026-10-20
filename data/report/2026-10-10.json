@@ -24,15 +24,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
@@ -45,12 +51,6 @@
    "cover": "covers/x-hariti.jpg",
    "id": "p-af2615f3bf",
    "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,

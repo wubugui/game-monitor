@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-10-20",
+ "data_date": "2026-10-21",
  "dev_types": [
   "个人",
   "小团队",
@@ -91,10 +91,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-20",
- "latest_report_date": "2026-10-20",
+ "latest_report": "2026-10-21",
+ "latest_report_date": "2026-10-21",
  "project_count": 236,
- "report_count": 24,
+ "report_count": 25,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -173,7 +173,7 @@
   "已发售（2026-08-25）",
   "已发售（2026-10-08）",
   "已发售（2026-10-12）",
-  "已发售（2026-10-14；首评窗爬升，评测约20；2026-10-20 复核）",
+  "已发售（2026-10-14；首评窗爬升，评测约22；2026-10-21 复核）",
   "已发售（Steam 2024-07-05）",
   "已发售（Steam 2024-12-11）",
   "已发售（Steam 2026-03-05）",
@@ -203,7 +203,7 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 3,
+ "today_updated": 2,
  "today_updates": [
   {
    "competitor": true,
@@ -214,7 +214,7 @@
    "id": "p-680bfc1559",
    "kind": "updated",
    "name": "世末终巡",
-   "note": "评测总量：10→11（全好评 11）。样本仍极薄不给%。〔Steam〕",
+   "note": "评测总量：11→11（全好评；相对昨日报无增量）。样本仍极薄，不给%。〔Steam〕",
    "status": "已发售（2026 年 10 月 12 日）"
   },
   {
@@ -226,20 +226,8 @@
    "id": "p-dd4450b100",
    "kind": "updated",
    "name": "山瘟",
-   "note": "评测总量：18→20（好评 19 / 差评 1；相对昨日报 18）。样本仍薄，不给稳定好评%。〔Steam appreviews language=all〕",
-   "status": "已发售（2026-10-14；首评窗爬升，评测约20；2026-10-20 复核）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "disc_platform": "B站",
-   "discovery": "B站搜索关键词「首曝PV 游戏」「愿望单 游戏」「解谜游戏 独立游戏」；种子视频「【独立游戏】小团队做的北宋国风解谜，首曝PV来了丨《追境》Steam愿望单开启」· UP 追境-独立游戏 · BV15GHX6hEjk · 2026-10-08 · 播放 331",
-   "genre": "北宋国风听觉解谜",
-   "id": "BV15GHX6hEjk",
-   "kind": "updated",
-   "name": "追境",
-   "note": "首曝 PV BV15GHX6hEjk 3653→4970（+36.1%，续昨升温链）。〔B站〕",
-   "status": "首曝"
+   "note": "评测总量：20→22（好评 21 / 差评 1）。样本仍偏薄，不给稳定%。〔Steam〕",
+   "status": "已发售（2026-10-14；首评窗爬升，评测约22；2026-10-21 复核）"
   }
  ]
 }

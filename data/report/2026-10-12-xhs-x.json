@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "id": "BV1RVH86hEBF",
+   "name": "南亭湖"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4283270.jpg",
    "id": "steam-4283270",
    "name": "契命"
@@ -30,12 +36,6 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
   },
   {
    "competitor": true,

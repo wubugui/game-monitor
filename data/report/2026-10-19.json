@@ -51,6 +51,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -63,9 +69,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
   },
   {
    "competitor": true,
@@ -93,21 +99,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-dreadflats.jpg",
    "id": "p-d2fd5a87c5",
    "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
   }
  ],
  "sections": [

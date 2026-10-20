@@ -203,7 +203,7 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 2,
+ "today_updated": 3,
  "today_updates": [
   {
    "competitor": true,
@@ -228,6 +228,18 @@
    "name": "山瘟",
    "note": "评测总量：18→20（好评 19 / 差评 1；相对昨日报 18）。样本仍薄，不给稳定好评%。〔Steam appreviews language=all〕",
    "status": "已发售（2026-10-14；首评窗爬升，评测约20；2026-10-20 复核）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站搜索关键词「首曝PV 游戏」「愿望单 游戏」「解谜游戏 独立游戏」；种子视频「【独立游戏】小团队做的北宋国风解谜，首曝PV来了丨《追境》Steam愿望单开启」· UP 追境-独立游戏 · BV15GHX6hEjk · 2026-10-08 · 播放 331",
+   "genre": "北宋国风听觉解谜",
+   "id": "BV15GHX6hEjk",
+   "kind": "updated",
+   "name": "追境",
+   "note": "首曝 PV BV15GHX6hEjk 3653→4970（+36.1%，续昨升温链）。〔B站〕",
+   "status": "首曝"
   }
  ]
 }

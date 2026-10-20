@@ -15,6 +15,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-emberbound.jpg",
    "id": "p-6e867641fa",
    "name": "未烬之约 EMBERBOUND"
@@ -30,12 +42,6 @@
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,
@@ -90,12 +96,6 @@
    "cover": "covers/xhs-zhiji.jpg",
    "id": "xhs-zhiji",
    "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
-   "name": "玩骨頭"
   },
   {
    "competitor": true,

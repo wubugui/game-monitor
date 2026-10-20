@@ -45,6 +45,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1xMYY6QEBT.jpg",
    "id": "BV1xMYY6QEBT",
    "name": "小先生"
@@ -54,12 +60,6 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
   },
   {
    "competitor": true,

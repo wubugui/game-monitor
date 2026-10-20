@@ -9,18 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-5326910.jpg",
-   "id": "p-979bce17cb",
-   "name": "阴债"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "id": "p-330057f22b",
-   "name": "升棺发财"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4373160.jpg",
    "id": "p-6ca2ff6ae8",
    "name": "邪祟"
@@ -45,6 +33,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -63,9 +57,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
+   "cover": "covers/steam-5326910.jpg",
+   "id": "p-979bce17cb",
+   "name": "阴债"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4840290.jpg",
+   "id": "p-330057f22b",
+   "name": "升棺发财"
   },
   {
    "competitor": true,

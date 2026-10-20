@@ -18,6 +18,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-emberbound.jpg",
    "id": "p-6e867641fa",
    "name": "未烬之约 EMBERBOUND"
@@ -39,12 +45,6 @@
    "cover": "covers/x-hariti.jpg",
    "id": "p-af2615f3bf",
    "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
   },
   {
    "competitor": true,

@@ -15,21 +15,27 @@
   },
   {
    "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-emberbound.jpg",
    "id": "p-6e867641fa",
    "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "id": "BV1RVH86hEBF",
+   "name": "南亭湖"
   },
   {
    "competitor": true,
@@ -54,12 +60,6 @@
    "cover": "covers/xhs-zhiji.jpg",
    "id": "xhs-zhiji",
    "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
-   "name": "玩骨頭"
   },
   {
    "competitor": true,

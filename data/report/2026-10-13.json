@@ -33,21 +33,27 @@
   },
   {
    "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "id": "xhs-wanguotou",
+   "name": "玩骨頭"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1RVH86hEBF.jpg",
-   "id": "BV1RVH86hEBF",
-   "name": "南亭湖"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RVH86hEBF.jpg",
+   "id": "BV1RVH86hEBF",
+   "name": "南亭湖"
   },
   {
    "competitor": true,
@@ -156,12 +162,6 @@
    "cover": "covers/xhs-zhiji.jpg",
    "id": "xhs-zhiji",
    "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
-   "name": "玩骨頭"
   },
   {
    "competitor": true,

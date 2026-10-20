@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/steam-3686930.jpg",
+   "id": "p-e3b7173ecf",
+   "name": "頭七"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4373160.jpg",
    "id": "p-6ca2ff6ae8",
    "name": "邪祟"
@@ -33,6 +39,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "id": "p-e77cbd7801",
+   "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -51,21 +63,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-soulcake.jpg",
-   "id": "p-e77cbd7801",
-   "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3686930.jpg",
-   "id": "p-e3b7173ecf",
-   "name": "頭七"
   },
   {
    "competitor": true,

@@ -240,7 +240,7 @@ def analyze(pid, md):
     appids = set(re.findall(r'store\.steampowered\.com/app/(\d+)', md))
     slug = pid[2:] if pid.startswith('x-') else None
     st = steam_reviews(appids, slug)
-    mq = md_quotes(body)
+    mq = [q for q in md_quotes(body) if q['kind'] != 'xhs']  # 渠道仅 B站/X/Steam
     # drop md-quoted Steam lines if raw Steam present (avoid double count)
     if st: mq = [q for q in mq if q['kind'] != 'steam']
     if not cs:  # 原始 JSON 未落盘（如 X 来源项目）：退回档案里已带来源标签的 B站原话
@@ -423,7 +423,7 @@ def render(a, date):
     groups = [('好评', [c for c in allc if c['s'] == 'pos']), ('差评 / 反对意见', [c for c in allc if c['s'] == 'neg'])]
     for t, _ in tc.most_common(4): groups.append((f'话题：{t}', [c for c in allc if t in c['t']]))
     nonbili = [c for c in allc if c['kind'] != 'bili']
-    if nonbili: groups.append(('B站以外（X / 小红书 / Steam）', nonbili))
+    if nonbili: groups.append(('B站以外（X / Steam）', nonbili))
     for g, cands in groups:
         if E and not g.startswith('B站以外'):
             lc = [c for c in cands if c.get('llm')]

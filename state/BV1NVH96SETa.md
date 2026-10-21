@@ -262,7 +262,7 @@ Demo宣传强调选择题与校园心理恐怖。
 | B站楼中楼 | 64 |
 | B站弹幕 | 4 |
 
-涉及 B站视频 4 个：BV1NVH96SETa、BV1DwjR67ECE、BV12VAMz4Evx、BV1EcfyBqEUH
+涉及 B站视频 4 个：BV1NVH96SETa、BV12VAMz4Evx、BV1EcfyBqEUH、BV1DwjR67ECE
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 

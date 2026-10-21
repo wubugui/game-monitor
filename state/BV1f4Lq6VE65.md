@@ -163,7 +163,7 @@ discovery_date: "2026-10-10"
 | B站评论 | 1 |
 | Steam评测(档案摘录) | 1 |
 
-涉及 B站视频 6 个：BV1f4Lq6VE65、BV1hxLK6CEQn、BV1SD4C63EZu、BV14ZLt6wEc3、BV1mCXSBDEPM、BV1ToRsBXEjL
+涉及 B站视频 6 个：BV1f4Lq6VE65、BV1ToRsBXEjL、BV1hxLK6CEQn、BV1SD4C63EZu、BV14ZLt6wEc3、BV1mCXSBDEPM
 
 **情感分布（粗略：关键词规则全量分类，尚未做模型抽样，可能大幅偏向「中性」）**
 
@@ -189,7 +189,7 @@ discovery_date: "2026-10-10"
 
 - 「[笑哭]这ai人物有点搞笑」 〔B站·BV1ToRsBXEjL评论〕
 
-**B站以外（X / 小红书 / Steam）**
+**B站以外（X / Steam）**
 
 - 「走入充满人心、执念与因果的东方怪谈世界」 〔Steam·商店页〕
 
@@ -197,6 +197,7 @@ discovery_date: "2026-10-10"
 
 <!-- added:2026-10-21 -->
 <!-- feedback:end -->
+
 
 
 

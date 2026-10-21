@@ -77,7 +77,7 @@
     const today = meta.today_updates || [];
     const todayNew = meta.today_new != null ? meta.today_new : today.filter(x => x.kind === 'new').length;
     const todayUpd = meta.today_updated != null ? meta.today_updated : today.filter(x => x.kind === 'updated').length;
-    let h = `<h1>游戏项目监控</h1><div class="sub">B 站 + X + 小红书 · 收藏、独立开发者与中型厂商 · 数据截至 ${esc(meta.data_date || '—')}</div>
+    let h = `<h1>游戏项目监控</h1><div class="sub">B 站 + X + Steam · 收藏、独立开发者与中型厂商 · 数据截至 ${esc(meta.data_date || '—')}</div>
     <div class="stats"><div class="stat"><b>${meta.project_count}</b><span>跟踪项目</span></div><div class="stat"><b>${meta.competitor_count}</b><span>⭐ 收藏</span></div><div class="stat"><b>${todayNew + todayUpd}</b><span>今日新增/更新</span></div><div class="stat"><b>${meta.report_count}</b><span>历史日报</span></div></div>`;
 
     // 「今日更新」 — only NEW / UPDATED that day; older games live in 项目库

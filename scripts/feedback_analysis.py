@@ -2,7 +2,7 @@
 """玩家反馈分析：从全部已采集原始数据生成每个项目的「玩家反馈分析」小节。
 用法: python3 scripts/feedback_analysis.py [--only competitors|others|all] [--ids a,b] [--date YYYY-MM-DD] [--dry]
 数据: tmp/comments (B站评论/楼中楼/弹幕 XML+protobuf 分段), tmp/x/steam + raw/comp (Steam 评测),
-      state/*.md 中已带来源标签的非 B站 原话（X / 小红书 / Steam 等）。
+      state/*.md 中已带来源标签的非 B站 原话（X / Steam 等）。
 幂等：分析块被 <!-- feedback:start/end --> 包裹，重复运行会替换；原文列表折叠进 <details>（只折叠一次）。
 高亮：新块前放 <!-- added:DATE -->，块后重放插入点原有的 marker，旧内容高亮范围不变。"""
 import re, os, sys, json, glob, collections, argparse, math
@@ -125,7 +125,7 @@ def md_quotes(body, bili=False):
         isb = tag.startswith('B站') or 'B站' in tag[:4]
         if isb != bili: continue
         m = re.search(r'(\d+)\s*赞', mid)
-        kind = 'bili' if isb else 'xhs' if '小红书' in tag else 'x' if re.match(r'X|推特|@', tag) or 'X' in tag[:3] else 'steam' if 'Steam' in tag else 'other'
+        kind = 'bili' if isb else 'x' if re.match(r'X|推特|@', tag) or (tag[:3].find('X')>=0) else 'steam' if 'Steam' in tag else 'other'
         out.append(dict(text=t, like=int(m.group(1)) if m else 0, src=tag, kind=kind))
     seen = set(); res = []
     for q in out:
@@ -225,7 +225,7 @@ def analyze(pid, md):
         x = x.strip().strip('"\'《》')
         if len(x) >= 3: keys.add(x.lower())
         elif len(x) == 2: keys.add('《' + x.lower() + '》')  # 两字名太泛，要求书名号
-        for part in re.split(r'[：:（）()\s/|·《》]+', x):
+        for part in re.split(r'[：:()\s/|·《》]+', x):
             if len(part) >= (3 if re.search(r'[\u4e00-\u9fff]', part) else 4): keys.add(part.lower())
     for b in bvs:
         v = (jl(f'{CM}/{b}_view.json') or {}).get('data') or {}
@@ -240,7 +240,7 @@ def analyze(pid, md):
     appids = set(re.findall(r'store\.steampowered\.com/app/(\d+)', md))
     slug = pid[2:] if pid.startswith('x-') else None
     st = steam_reviews(appids, slug)
-    mq = [q for q in md_quotes(body) if q['kind'] != 'xhs']  # 渠道仅 B站/X/Steam
+    mq = [q for q in md_quotes(body) if q['kind'] in ('bili','x','steam','other')]  # channels: B站/X/Steam
     # drop md-quoted Steam lines if raw Steam present (avoid double count)
     if st: mq = [q for q in mq if q['kind'] != 'steam']
     if not cs:  # 原始 JSON 未落盘（如 X 来源项目）：退回档案里已带来源标签的 B站原话
@@ -331,7 +331,7 @@ def render(a, date):
     src = collections.Counter()
     for c in a['cs']: src['B站楼中楼' if '楼中楼' in c['src'] else 'B站评论'] += 1
     for c in a['st']: src['Steam评测'] += 1
-    for c in a['mq']: src[{'xhs': '小红书', 'x': 'X 回复/提及', 'steam': 'Steam评测(档案摘录)', 'other': '其他来源'}[c['kind']]] += 1
+    for c in a['mq']: src[{'xhs': '其他来源', 'x': 'X 回复/提及', 'steam': 'Steam评测(档案摘录)', 'other': '其他来源'}[c['kind']]] += 1
     ndm = len(a['dm_all'])
     E = a.get('est')
     if E:  # LLM 抽样估计：比例来自均匀随机样本

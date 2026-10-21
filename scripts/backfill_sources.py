@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# LEGACY DISABLED GUARD: do not backfill former notes-app sources.
+import sys
+print("backfill_sources disabled", file=sys.stderr)
+sys.exit(0)
+
 """Backfill 来源 metadata/attribution into state/*.md (idempotent). Never invents: unknown -> 未知."""
 import json, os, re, glob, datetime
 os.chdir(os.path.join(os.path.dirname(__file__), '..'))
@@ -71,9 +76,9 @@ def find_q(q):
         for kk,(b,t) in qidx.items():
             if kk.startswith(k[:12]) and len(k)>=12 or (len(kk)>=12 and k.startswith(kk)): return f'〔B站·{b}{t}〕'
     if len(k)>=6 and k[:16] in steamtxt: return '〔Steam评测〕'
-    if len(k)>=6 and k[:16] in xhstxt: return '〔小红书笔记〕'
+    if len(k)>=6 and k[:16] in xhstxt: return ''
     return None
-PLAT_ORDER=['B站','小红书','X','Steam','TapTap','用户指定']
+PLAT_ORDER=['B站','LEGACY_DISABLED','X','Steam','TapTap','用户指定']
 stats=dict(files=0, unknown=0, tagged=0, untagged=0)
 unknown_list=[]
 for path in sorted(glob.glob('state/*.md')):
@@ -112,12 +117,12 @@ for path in sorted(glob.glob('state/*.md')):
     out=[]; sec=''
     for line in body.split('\n'):
         if line.startswith('## '): sec=line
-        if ('评价' in sec or '小红书' in sec or '玩家' in sec) and '「' in line and '〔' not in line and (line.lstrip().startswith(('-','>','*')) ):
+        if ('评价' in sec or 'LEGACY_DISABLED' in sec or '玩家' in sec) and '「' in line and '〔' not in line and (line.lstrip().startswith(('-','>','*')) ):
             tags=[]
             for q in re.findall(r'「([^」]{4,})」',line):
                 t=find_q(q)
                 if t and t not in tags: tags.append(t)
-            if not tags and '小红书' in sec: tags=['〔小红书笔记〕']
+            if not tags and 'LEGACY_DISABLED' in sec: tags=['']
             if tags: line=line+' '+''.join(tags); stats['tagged']+=1
             else: stats['untagged']+=1
         out.append(line)
@@ -145,11 +150,11 @@ for path in sorted(glob.glob('state/*.md')):
     sa=list(dict.fromkeys(re.findall(r'store\.steampowered\.com/app/(\d+)|[Aa]pp ?[Ii][Dd][:： ]*(\d{5,})',body)))
     sa=[a or b for a,b in sa]
     if sa or 'Steam' in body: lines.append('- Steam：商店页/评测' + (f'（AppID {", ".join(sa)}）' if sa else '（正文中引用）'))
-    if '小红书' in body: lines.append('- 小红书：登录态搜索笔记（标题/作者/日期/赞见正文「小红书」小节）')
+    if 'LEGACY_DISABLED' in body: lines.append('- LEGACY_DISABLED：登录态搜索笔记（标题/作者/日期/赞见正文「LEGACY_DISABLED」小节）')
     
     if len(lines)==8: lines.append('- 未知')
     body=body+'\n'+'\n'.join(lines)+'\n'
     open(path,'w').write(f'---\n{fm2.strip()}\n---\n'+body.lstrip('\n') if m else body)
     stats['files']+=1
 print(stats); print('unknown:',unknown_list)
-import subprocess; subprocess.run(['python3','scripts/xhs_sources.py','--write'])  # itemize 小红书/X sources
+import subprocess; subprocess.run(['python3','scripts/xhs_sources.py','--write'])  # itemize LEGACY_DISABLED/X sources

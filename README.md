@@ -85,7 +85,6 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 - 图片用仓库相对路径：`![](covers/BVxxx.jpg)` 或 `![](../covers/BVxxx.jpg)` 都可以；也可用 `https://` 外链。
 - 历史日报**永不删除、不改名**。
 
-
 ### 4. 增量高亮（每日差分）
 
 网站只高亮**最新一份日报日期**当天新写入的内容；已经在更早日报里出现过的内容保持普通样式，不会重复标黄。
@@ -111,7 +110,6 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 - front matter 可写 `baseline: YYYY-MM-DD` 记录该项目的建档日。
 
 `scripts/build_site.py` 会把 `baseline_only` / `latest_report_date` / `today_updates` 写入 `data/meta.json`；`assets/app.js` 首页用 `today_updates` 置顶「今日更新」，并在项目页与日报里根据注释包一层 `.added-block` 决定是否黄底高亮。
-
 
 ## 网站结构
 
@@ -145,9 +143,9 @@ aliases: [Fools, Maniacs and Liars]   # 可选，日报里的别名，用于把�
 
 每个 `state/*.md` 必须带来源信息（由 `scripts/backfill_sources.py` 回填，幂等，可重复运行；新项目建档时同样执行）：
 
-- **front matter**：`discovery_platform`（B站 / 小红书 / X / Steam / TapTap / 用户指定 / 未知）、`discovery`（途径：B站搜索关键词「…」/ 相关视频滚雪 / 同名核验 / 每日发现，附种子视频标题 · UP · BV · 日期 · 播放）、`discovery_date`。查不到写「未知」，不编造。
-- **文末「## 来源（发现与资料）」**：发现来源 + 资料来源清单（B站视频：标题 · UP主 · BV · 日期 · 播放；已剔除的同名/弱相关单独计数；Steam/TapTap/小红书/X/官网）。该节前置 `<!-- added:meta -->`，网页不作当日 diff 高亮。
-- **行内标注**：「实际评价」里每条原话后加 `〔B站·BVxxx评论〕` `〔B站·BVxxx弹幕〕` `〔Steam评测〕` `〔小红书笔记〕`；「关注度与数据」节首注明数据口径。只按原始数据（tmp/comments、raw/steam、小红书扫描记录）匹配，匹配不到不打标签。
+- **front matter**：`discovery_platform`（B站 / X / Steam / TapTap / 用户指定 / 未知）、`discovery`（途径：B站搜索关键词「…」/ 相关视频滚雪 / 同名核验 / 每日发现，附种子视频标题 · UP · BV · 日期 · 播放）、`discovery_date`。查不到写「未知」，不编造。
+- **文末「## 来源（发现与资料）」**：发现来源 + 资料来源清单（B站视频：标题 · UP主 · BV · 日期 · 播放；已剔除的同名/弱相关单独计数；Steam/TapTap/X/官网）。该节前置 `<!-- added:meta -->`，网页不作当日 diff 高亮。
+- **行内标注**：「实际评价」里每条原话后加 `〔B站·BVxxx评论〕` `〔B站·BVxxx弹幕〕` `〔Steam评测〕` ``；「关注度与数据」节首注明数据口径。只按原始数据（tmp/comments、raw/steam、早期公开材料扫描记录）匹配，匹配不到不打标签。
 - **网页**：卡片和首页「今日更新」显示发现来源徽章；项目页显示「发现来源」；项目库可按发现来源筛选。
 
 ## 更新日志

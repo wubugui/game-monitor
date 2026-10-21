@@ -34,16 +34,16 @@
 | ⭐ 重启：工作日 | 悬疑恐怖 AI互动影游 | 未知（未知（NOXlabs）） | 首曝 | 2026-10-09 | https://www.bilibili.com/video/BV1GhHS6QECw | 7150 | 七日循环上班 |
 | ⭐ 见诡 | 中式民俗恐怖解谜 | 未知（未知） | Demo | 2026-10-09 | https://www.bilibili.com/video/BV1J6eb6MEhr | 2.6万 | 走阴潜入亡者记忆 |
 | ⭐ 见诡录：阴魂街 | 中式民俗/都市步行恐怖（找异常+池核+迷宫） | 个人（Gameloop / 游戏循环GameLoop） | 已发售 | 2026-10-09 | https://www.bilibili.com/video/BV1rBX6Y9Euf | 443万 | 广东旧街找异常；系列第二作（前作色孽）；Steam ¥29 特别好评；与《见诡》同名混淆已独立建档 |
-| ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 小红书补扫建档；吴越女吊/绍剧；邻近 |
+| ⭐ 女吊 | 双人合作中式民俗恐怖解谜 | 小团队（山雨工作室 / Pilot Games） | 已发售 | 2026-10-12 | https://store.steampowered.com/app/3513600/ | Steam Mixed ~3033 | 早期发现建档；吴越女吊/绍剧；邻近 |
 | ⭐ 山瘟 | 九十年代矿业小镇民俗疫病恐怖（山神碑） | 小团队（FirstMove Studio） | 已发售（2026-10-14；评测约20） | 2026-10-13 | https://store.steampowered.com/app/4327330/ | Steam 评测20（19/1）| 邻近；首评已开 |
 | ⭐ 世末终巡 | 诗谜民俗恐怖解谜 | 小团队 | 已发售（2026-10-12） | 2026-10-14 | https://store.steampowered.com/app/4746890/ | Steam 评测11（11/0）| 邻近；发售窗刚开 |
 | ⭐ 诡宅祭坛 | 出马仙影游恐怖 | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4754090/ | Steam 特别好评~170 | 邻近；民俗风水 |
 | ⭐ 衔蝶 | 民国上海妖怪叙事AVG | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/3870140/ | Steam 特别好评~101 | 邻近；比拟烟火 |
 | ⭐ 邪祟 | 狐仙庙出马仙生存恐 | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4373160/ | Steam 评测3 | 邻近 |
 | ⭐ 物理超度 | 道士×女警民俗VN | 小团队 | 已发售 | 2026-10-14 | https://store.steampowered.com/app/4762620/ | Steam 0评 | 邻近；样本未知 |
-| ⭐ 弃层凶谈 | 第一人称中式电梯夹层怪谈恐怖 | 小团队（Lakecho Studio） | 即将推出（Demo 已出） | 2026-10-13 | https://store.steampowered.com/app/4568330/ | Steam | 邻近；XHS+Steam |
-| ⭐ 赌你敢开 | 开箱主播第一人称剧情恐怖 | 个人或小团队（TastyPotato） | 即将宣布（Demo 2026-10-02 | 2026-10-13 | https://store.steampowered.com/app/4924120/ | Steam | 参考；XHS+Steam |
-| ⭐ 人窟日记 | 中国本土题材第一人称中式恐怖（潜行/追逐 | 小团队（狗猫鼠工作室） | 即将推出（2026 年内） | 2026-10-13 | https://store.steampowered.com/app/1602300/ | Steam | 邻近；XHS+Steam |
+| ⭐ 弃层凶谈 | 第一人称中式电梯夹层怪谈恐怖 | 小团队（Lakecho Studio） | 即将推出（Demo 已出） | 2026-10-13 | https://store.steampowered.com/app/4568330/ | Steam | 邻近；Steam |
+| ⭐ 赌你敢开 | 开箱主播第一人称剧情恐怖 | 个人或小团队（TastyPotato） | 即将宣布（Demo 2026-10-02 | 2026-10-13 | https://store.steampowered.com/app/4924120/ | Steam | 参考；Steam |
+| ⭐ 人窟日记 | 中国本土题材第一人称中式恐怖（潜行/追逐 | 小团队（狗猫鼠工作室） | 即将推出（2026 年内） | 2026-10-13 | https://store.steampowered.com/app/1602300/ | Steam | 邻近；Steam |
 | ⭐ 诡租：205号房 | 中式出租屋灵异恐怖 | 小团队（Gameloop） | 已发售 | 2026-10-13 | https://store.steampowered.com/app/3694590/ | Steam 特别好评~109 | 邻近；B站实况发现；见诡录同团队 |
 | ⭐ 沣都镇 | 中式民俗悬疑 | 小团队（罗马桥工作室） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5135060/ | Steam | 邻近；Steam 扫描建档 |
 | ⭐ 此命无名 | 志怪叙事解谜 | 小团队（落之工作室） | 即将推出 | 2026-10-13 | https://store.steampowered.com/app/5373730/ | Steam | 邻近；生死簿十二案 |
@@ -219,9 +219,9 @@
 | The Devil is in the Details（细节决定成败） | 找异常 × 生存恐怖 | 小团队（HideWorks） | 已发售（2024-09-30） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/2790790/ ；X 单帖最高赞 13；档案 state/x-devildetails.md |
 
 <!-- added:2026-10-11 -->
-| ⭐ 玩骨頭 | 藏式定格解密恐怖（中阴身/红面母） | 小团队（蹦萨奇 Studio） | 开发中（计划 Steam / 实机 Demo） | 2026-10-11 | https://www.bilibili.com/video/BV1RJeG62Ezh | 5046 | 发现来源 小红书；作者承认 AI；档案 state/xhs-wanguotou.md |
-| ⭐ 佳宝物业热线 | 千禧物业怪核 / 模拟恐怖 | 小团队（Bad Tape Studio / 坏磁带工作室） | 商店页已开（即将宣布） | 2026-10-11 | https://www.bilibili.com/video/BV13c3g6kEuB | 1.6万 | 发现来源 小红书；Steam https://store.steampowered.com/app/4793680/ ；档案 state/xhs-jiabao.md |
-| ⭐ 纸祭 | 中式悬疑解密恐怖（竖屏/章节） | 未知 | 至少第三章 | 2026-10-11 | https://www.bilibili.com/video/BV1MUtB6wEfN | 208 | 发现来源 小红书；档案 state/xhs-zhiji.md |
+| ⭐ 玩骨頭 | 藏式定格解密恐怖（中阴身/红面母） | 小团队（蹦萨奇 Studio） | 开发中（计划 Steam / 实机 Demo） | 2026-10-11 | https://www.bilibili.com/video/BV1RJeG62Ezh | 5046 | 发现来源 未知；作者承认 AI；档案 state/xhs-wanguotou.md |
+| ⭐ 佳宝物业热线 | 千禧物业怪核 / 模拟恐怖 | 小团队（Bad Tape Studio / 坏磁带工作室） | 商店页已开（即将宣布） | 2026-10-11 | https://www.bilibili.com/video/BV13c3g6kEuB | 1.6万 | 发现来源 未知；Steam https://store.steampowered.com/app/4793680/ ；档案 state/xhs-jiabao.md |
+| ⭐ 纸祭 | 中式悬疑解密恐怖（竖屏/章节） | 未知 | 至少第三章 | 2026-10-11 | https://www.bilibili.com/video/BV1MUtB6wEfN | 208 | 发现来源 未知；档案 state/xhs-zhiji.md |
 | ⭐ 勇闯死人谷 | 中式侧视生存恐怖（UE5 / 单人） | 个人（彭嘉浩） | Demo | 2026-10-11 | https://www.bilibili.com/video/BV12Lpt6LEV2 | 339 | 发现来源 B站；档案 state/yongchuang-sirengu.md |
 | ⭐ 末班 | 第一人称心理恐怖（短篇观察抉择） | 个人（Simon Au Yeung） | 即将推出（2026-10-11） | 2026-10-11 |  |  | 发现来源 X/Steam；Steam https://store.steampowered.com/app/3820460/ ；档案 state/steam-3820460.md |
 | ⭐ 树海之路 Road to Jukai | 日式民俗心理恐怖（夜班出租→树海） | 小团队（Endflame；发行 tinyBuild） | Playtest / 2027 | 2026-10-11 | https://www.bilibili.com/video/BV1XPp86hEAc | 2870 | 发现来源 B站/X；Steam https://store.steampowered.com/app/4124320/ ；档案 state/steam-4124320.md |

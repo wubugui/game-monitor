@@ -28,9 +28,9 @@ images:
   - frames/BV1zoe26JEwt_s2_02.jpg
   - frames/BV1zoe26JEwt_s2_03.jpg
   - frames/BV1zoe26JEwt_s2_04.jpg
-  - images/xhs/tongnian-lanruoyu.jpg
-  - images/xhs/tongnian-xiaofan.jpg
-  - images/xhs/tongnian-king17.jpg
+  - images/legacy/tongnian-lanruoyu.jpg
+  - images/legacy/tongnian-xiaofan.jpg
+  - images/legacy/tongnian-king17.jpg
 tags: [收藏]
 aliases: [童年诡事录]
 discovery_platform: B站
@@ -516,25 +516,25 @@ Demo试玩与开发相关视频为主；画面多见传统宅门与室内生活�
 
 **代表笔记（进过详情）**
 
-- 蓝若羽《中式恐怖游戏佳作！〈童年诡事录〉千禧诡事》（09-12，视频）：赞 **6063** / 藏 **3611** / 评 **196**。摘要写成「好像回到那个时代」「国产难得有这么好的游戏」。封面入库 `images/xhs/tongnian-lanruoyu.jpg`。  <!-- added:2026-10-10 -->
+- 蓝若羽《中式恐怖游戏佳作！〈童年诡事录〉千禧诡事》（09-12，视频）：赞 **6063** / 藏 **3611** / 评 **196**。摘要写成「好像回到那个时代」「国产难得有这么好的游戏」。封面入库 `images/legacy/tongnian-lanruoyu.jpg`。  <!-- added:2026-10-10 -->
   - 繁花（73赞）：「这个主播好有高能提示，不说脏话，不玩烂梗，不大吵大叫」——玩家在夸实况体验，不完全等于夸游戏。  <!-- added:2026-10-10 -->
   - 青天揽月：「这个氛围看着好牛逼」。  <!-- added:2026-10-10 -->
   - 回关回关（9赞）：吐槽敲门「自己说不让敲三下，结果自己敲了三下」。  <!-- added:2026-10-10 -->
   - 曼波小火车（2赞）：「比还愿差多了」；渝凌本凌：「那个竹林里很像粽子雨村」——对标《还愿》、粽子雨村。  <!-- added:2026-10-10 -->
   - 有人问在哪玩，回复「steam」。 〔B站·BV15i7S6CEQm评论〕
 
-- 小凡《【童年诡事录】真给我玩爽了！！》（09-24）：赞 1437 / 藏 633 / 评 26。封面 `images/xhs/tongnian-xiaofan.jpg`。正文几乎只有标题和话题。
+- 小凡《【童年诡事录】真给我玩爽了！！》（09-24）：赞 1437 / 藏 633 / 评 26。封面 `images/legacy/tongnian-xiaofan.jpg`。正文几乎只有标题和话题。
   - 「老猫猴子其实是山东人吓唬小孩子的」；「那你不开门不就行了，会不会有别的结局？」；「代入主角确实很吓人，所以我带入怪物。」  <!-- added:2026-10-10 -->
 
-- king17《〈童年诡事录〉试玩版》（09-18）：赞 1323（搜索卡）。封面 `images/xhs/tongnian-king17.jpg`。
+- king17《〈童年诡事录〉试玩版》（09-18）：赞 1323（搜索卡）。封面 `images/legacy/tongnian-king17.jpg`。
 
 **搜索卡其他高互动（未进详情）**：橪韭Ran「回到童年被超绝猴子追」ep1（963赞）、灰灰啊（264）、Hea7en睡不着（134）、绒夜真妹全流程（123）等；另有「梦核？千禧年？2002年的乡村故事」「来自失望00后的demo试玩」等低赞卡。  <!-- added:2026-10-10 -->
 
 **关注度判断（早期观察，渠道已停用）**：头部单帖即可破六千赞三千藏，远高于 B 站评论密度所显示的「讨论深度」——流量大、怀旧共鸣强，但具体游戏性吐槽仍偏少。玩家拿《还愿》、粽子雨村作参照，是该侧的主要对标。  <!-- added:2026-10-10 -->
 
-![tongnian-lanruoyu](images/xhs/tongnian-lanruoyu.jpg)
+![tongnian-lanruoyu](images/legacy/tongnian-lanruoyu.jpg)
 
-![tongnian-xiaofan](images/xhs/tongnian-xiaofan.jpg)
+![tongnian-xiaofan](images/legacy/tongnian-xiaofan.jpg)
 
 <!-- added:meta -->
 

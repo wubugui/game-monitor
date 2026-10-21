@@ -26,10 +26,10 @@ images:
   - frames/BV1SXYj6mE1g_steam04.jpg
   - frames/BV1SXYj6mE1g_steam05.jpg
   - frames/BV1SXYj6mE1g_steam06.jpg
-  - images/xhs/jingmen-pv-chaguan.jpg
-  - images/xhs/jingmen-ai.jpg
-  - images/xhs/jingmen-siming-pv.jpg
-  - images/xhs/jingmen-siming-yest.jpg
+  - images/legacy/jingmen-pv-chaguan.jpg
+  - images/legacy/jingmen-ai.jpg
+  - images/legacy/jingmen-siming-pv.jpg
+  - images/legacy/jingmen-siming-yest.jpg
 tags: [收藏]
 aliases: [京门之下]
 discovery_platform: B站
@@ -326,7 +326,7 @@ discovery_date: "2026-10-09"
 
 - 「《京门之下》是我们继《列车怪谈》之后，制作的第二款互动影游。 这一次我们大胆地选取了“国风 + 悬疑探案”这一兼具文化底蕴与叙事张力的题材。 像《列车怪谈》是一场封闭空间内的心理博弈与惊悚脱逃，《京门之下》则是我们试图打破传统互动影游边界的一次野心之作——我们希望借助前沿的AI视频生成与视听管线，还原出一个兼具水墨雅韵与人间烟火的古风悬疑大世界。 感谢各位玩家的支持！还请期待我们的作品！」（28赞） 〔B站·BV1SXYj6mE1g评论〕
 - 「京门之下终于来了！这次是真的crush出场🥺虽然以一个有些狼狈的中毒者身份出现嗯…但是也很帅吧很善良的一个古风小生！！！」（11赞） 〔B站·BV1qwHTzDEJd评论〕
-- 「这部我听安利之前一直想买，可是盲入了几十部踩雷概率高的吓人后学乖了。买之前xhs搜了下风评，发现好评巨多，但有个姐妹分享了女主有段剧情……看完我就没买了。」（9赞） 〔B站·BV1we5N6xEpP评论〕
+- 「这部我听安利之前一直想买，可是盲入了几十部踩雷概率高的吓人后学乖了。买之前网上搜了下风评，发现好评巨多，但有个姐妹分享了女主有段剧情……看完我就没买了。」（9赞） 〔B站·BV1we5N6xEpP评论〕
 
 **差评 / 反对意见**
 
@@ -485,7 +485,7 @@ discovery_date: "2026-10-09"
 
 **代表笔记**
 
-- 游戏茶馆《悬疑探案互动影游〈京门之下〉首曝PV!》（09-15，声明含 AI）：赞 **261** / 藏 **109** / 评 **51**。封面 `images/xhs/jingmen-pv-chaguan.jpg`。摘要：盛世县城、旧案、刑房女书吏谢宁。
+- 游戏茶馆《悬疑探案互动影游〈京门之下〉首曝PV!》（09-15，声明含 AI）：赞 **261** / 藏 **109** / 评 **51**。封面 `images/legacy/jingmen-pv-chaguan.jpg`。摘要：盛世县城、旧案、刑房女书吏谢宁。
   - 饮水思源（4赞）：「是橙光那个吗？ai？我服了我一直都没舍得玩，结果ai游戏都出了」  <!-- added:2026-10-10 -->
   - 一粒椒盐奶糖（3赞）：「我他妈也是没舍得充花 居然上AI游戏了」  <!-- added:2026-10-10 -->
   - 明越（12赞）问是不是橙光改编；福缘美财（9赞）回「版权全是官方对接的，作者全程不参与」  <!-- added:2026-10-10 -->
@@ -494,17 +494,17 @@ discovery_date: "2026-10-09"
   - Tropic（13赞）：「纯ai为啥不去看短剧」  <!-- added:2026-10-10 -->
   - 开庭偷看众合网课（7赞）：「这文游都还没完结呢，这怎么拍游戏啊？」  <!-- added:2026-10-10 -->
 
-- 游戏茶馆《以AI探索互动影游未来》（09-18）：赞 39 / 藏 29 / 评 2。封面 `images/xhs/jingmen-ai.jpg`。评论几乎是招聘号互@，无玩后反馈。
+- 游戏茶馆《以AI探索互动影游未来》（09-18）：赞 39 / 藏 29 / 评 2。封面 `images/legacy/jingmen-ai.jpg`。评论几乎是招聘号互@，无玩后反馈。
 
-- 司命官方首曝 PV（09-11）：赞 28（卡）。封面 `images/xhs/jingmen-siming-pv.jpg`。与茶馆 PV 同一产品分发。
+- 司命官方首曝 PV（09-11）：赞 28（卡）。封面 `images/legacy/jingmen-siming-pv.jpg`。与茶馆 PV 同一产品分发。
 
-- 司命 CP 短视频「你若想杀我…谢宁×穆沨」（昨天）：赞 15 / 藏 2 / 评 0（「这是一片荒地」）。封面 `images/xhs/jingmen-siming-yest.jpg`。官方持续发但互动很低；搜索卡上另有 1 天前赞 25、3 天前赞 56 等无标题司命视频。  <!-- added:2026-10-10 -->
+- 司命 CP 短视频「你若想杀我…谢宁×穆沨」（昨天）：赞 15 / 藏 2 / 评 0（「这是一片荒地」）。封面 `images/legacy/jingmen-siming-yest.jpg`。官方持续发但互动很低；搜索卡上另有 1 天前赞 25、3 天前赞 56 等无标题司命视频。  <!-- added:2026-10-10 -->
 
 **玩家侧其他卡**：鲨与摇尾巴 CP 向 127 赞；隙枝雀问立绘颜值 98 赞；月萤「玩到假结婚」33 赞；Nicole. 攻略帖；橙光 APP 周边上新。  <!-- added:2026-10-10 -->
 
 **关注度判断（早期观察，渠道已停用）**：宣发有量，但评论敌意集中在「橙光 IP + AI 收费 + 融燕云」；官方自运营赞数个位数到几十，说明该侧尚未形成付费意愿。  <!-- added:2026-10-10 -->
 
-![jingmen-pv](images/xhs/jingmen-pv-chaguan.jpg)
+![jingmen-pv](images/legacy/jingmen-pv-chaguan.jpg)
 
 <!-- added:meta -->
 

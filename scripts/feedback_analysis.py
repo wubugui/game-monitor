@@ -331,7 +331,7 @@ def render(a, date):
     src = collections.Counter()
     for c in a['cs']: src['B站楼中楼' if '楼中楼' in c['src'] else 'B站评论'] += 1
     for c in a['st']: src['Steam评测'] += 1
-    for c in a['mq']: src[{'xhs': '其他来源', 'x': 'X 回复/提及', 'steam': 'Steam评测(档案摘录)', 'other': '其他来源'}[c['kind']]] += 1
+    for c in a['mq']: src[{'legacy': '其他来源', 'x': 'X 回复/提及', 'steam': 'Steam评测(档案摘录)', 'other': '其他来源'}.get(c['kind'], '其他来源')] += 1
     ndm = len(a['dm_all'])
     E = a.get('est')
     if E:  # LLM 抽样估计：比例来自均匀随机样本

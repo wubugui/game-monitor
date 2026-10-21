@@ -28,8 +28,8 @@ images:
   - frames/BV14HHq6uEX5_s2_02.jpg
   - frames/BV14HHq6uEX5_s2_03.jpg
   - frames/BV14HHq6uEX5_s2_04.jpg
-  - images/xhs/minmie-banana.jpg
-  - images/xhs/minmie-yueban.jpg
+  - images/legacy/minmie-banana.jpg
+  - images/legacy/minmie-yueban.jpg
 tags: [收藏]
 aliases: [泯灭 demo, 《泯灭》]
 discovery_platform: B站
@@ -503,17 +503,17 @@ discovery_date: "2026-10-09"
 
 **代表笔记**
 
-- 香蕉星《「消失的夫妻」案件改编中式恐游〈泯灭〉》（09-29，视频）：赞 **416** / 藏 **164** / 评 **25**。封面 `images/xhs/minmie-banana.jpg`。试玩版一命速通。 〔B站·BV1Msat6kE5L评论〕
+- 香蕉星《「消失的夫妻」案件改编中式恐游〈泯灭〉》（09-29，视频）：赞 **416** / 藏 **164** / 评 **25**。封面 `images/legacy/minmie-banana.jpg`。试玩版一命速通。 〔B站·BV1Msat6kE5L评论〕
   - 不完全果皮箱（20赞）：「为啥是凶手视角？真实事件拿来消遣怪怪的」  <!-- added:2026-10-10 -->
   - 王敌敌（17赞）：「这不太好吧」；棉花小糖果（16赞）：「把这个惨案做成游戏？？？还有没有人性！」；后花园（10赞）：「这真的不太好吧」  <!-- added:2026-10-10 -->
   - 作者香蕉星（6赞）：「可能作者想做凶手被怨灵复仇这种角度 但游玩的时候代入凶手的视角感受是有点奇怪和不适的」  <!-- added:2026-10-10 -->
   - f5（8赞）：补充现实判决（未成年减刑），认为游戏结局是民众想看的「罪有应得」，但现实不是游戏。  <!-- added:2026-10-10 -->
 
-**搜索卡其他实况**：不催更A 249 赞、月半杨 DEMO 214（封面另存 `images/xhs/minmie-yueban.jpg`）、卡子速通 153、灰灰啊 107、电子羊/松鼠i/绒夜真妹等。北寻 720 赞标题像剧本杀/无限流口吻，未进详情，**先不当成游戏口碑**。
+**搜索卡其他实况**：不催更A 249 赞、月半杨 DEMO 214（封面另存 `images/legacy/minmie-yueban.jpg`）、卡子速通 153、灰灰啊 107、电子羊/松鼠i/绒夜真妹等。北寻 720 赞标题像剧本杀/无限流口吻，未进详情，**先不当成游戏口碑**。
 
 **关注度判断（早期观察，渠道已停用）**：伦理反对声很集中，与 B 站楼中楼「真实案件改编」争议同向；短视频流量在涨，但信任与口碑风险高。  <!-- added:2026-10-10 -->
 
-![minmie](images/xhs/minmie-banana.jpg)
+![minmie](images/legacy/minmie-banana.jpg)
 
 <!-- added:meta -->
 

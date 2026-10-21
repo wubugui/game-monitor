@@ -23,7 +23,7 @@ if [ -n "$missing" ]; then
   echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" >&2
 fi
 paths=()
-for p in tracked_projects.md state reports covers frames sheets x xhs images data .nojekyll README.md index.html assets scripts; do [ -e "$p" ] && paths+=("$p"); done
+for p in tracked_projects.md state reports covers frames sheets x legacy images data .nojekyll README.md index.html assets scripts; do [ -e "$p" ] && paths+=("$p"); done
 git add -A -- "${paths[@]}"
 # 隐私闸：暂存内容出现内部词汇则中止
 PRIV_FILE="$HOME/private/publish_terms.re"

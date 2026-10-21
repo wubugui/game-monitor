@@ -28,7 +28,7 @@ images:
   - frames/BV1RAeV67Ed9_s2_02.jpg
   - frames/BV1RAeV67Ed9_s2_03.jpg
   - frames/BV1RAeV67Ed9_s2_04.jpg
-  - images/xhs/wangsheng-maomao.jpg
+  - images/legacy/wangsheng-maomao.jpg
 tags: [收藏]
 aliases: [妄生]
 discovery_platform: B站
@@ -515,13 +515,13 @@ Steam匹配「妄生 - Wandering Souls」。中式/灵魂流浪意象。相关�
 
 **代表笔记**
 
-- 猫猫山《中式志怪微恐悬疑游戏〈妄生〉demo实况》（07-12）：赞 **234** / 藏 **102** / 评 **2**。封面 `images/xhs/wangsheng-maomao.jpg`。第一回「人哭狗」：夜里赶路的商贩、密林里会说人话的野狗。评论只有「声音超级熟」——几乎无深度讨论。  <!-- added:2026-10-10 -->
+- 猫猫山《中式志怪微恐悬疑游戏〈妄生〉demo实况》（07-12）：赞 **234** / 藏 **102** / 评 **2**。封面 `images/legacy/wangsheng-maomao.jpg`。第一回「人哭狗」：夜里赶路的商贩、密林里会说人话的野狗。评论只有「声音超级熟」——几乎无深度讨论。  <!-- added:2026-10-10 -->
 
 **搜索卡其他**：李佛爷「还得是中式恐怖…聊斋氛围」445 赞；FFan「解谜游戏…是在看小说吧」295；玩游戏的小王「文学性很强，游戏性很差」88——这条与 B 站「文学性强、游戏性弱」口径一致；富贵鹅/悠闲的花生等低赞实况；另有「免安装中文版」资源号，只记一笔不当口碑。shiraki（09-21，4赞）问正式版何时发布。  <!-- added:2026-10-10 -->
 
 **关注度判断（早期观察，渠道已停用）**：中低热，口碑关键词仍是聊斋氛围 vs 游戏性差；不足以单独改靠谱判断。
 
-![wangsheng](images/xhs/wangsheng-maomao.jpg)
+![wangsheng](images/legacy/wangsheng-maomao.jpg)
 
 <!-- added:meta -->
 

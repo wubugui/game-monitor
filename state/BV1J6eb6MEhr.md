@@ -28,9 +28,9 @@ images:
   - frames/BV1J6eb6MEhr_steam01.jpg
   - frames/BV1J6eb6MEhr_steam02.jpg
   - frames/BV1J6eb6MEhr_steam03.jpg
-  - images/xhs/jiangu-demo.jpg
-  - images/xhs/jiangu-pv.jpg
-  - images/xhs/jiangu-art.jpg
+  - images/legacy/jiangu-demo.jpg
+  - images/legacy/jiangu-pv.jpg
+  - images/legacy/jiangu-art.jpg
 tags: [收藏]
 aliases: [见诡]
 discovery_platform: B站
@@ -467,25 +467,25 @@ discovery_date: "2026-10-09"
 
 **代表笔记**
 
-- 砂糖桔《约你一起走阴 | 〈见诡〉DEMO发布》（09-07）：赞 1473（卡）/ 评约 100。封面 `images/xhs/jiangu-demo.jpg`。单元剧；本 demo 当节目摄影师，跟两位通灵主播走阴回案发日；旧物推理、镜头记录「不存在的东西」，别被鬼发现。求愿望单。  <!-- added:2026-10-10 -->
+- 砂糖桔《约你一起走阴 | 〈见诡〉DEMO发布》（09-07）：赞 1473（卡）/ 评约 100。封面 `images/legacy/jiangu-demo.jpg`。单元剧；本 demo 当节目摄影师，跟两位通灵主播走阴回案发日；旧物推理、镜头记录「不存在的东西」，别被鬼发现。求愿望单。  <!-- added:2026-10-10 -->
   - 三花怪盗：连夜通关，美术能打，但「高频耳鸣声过于刺耳」。作者：「正式版大部分音效会调整，之前没找到合适音效临时用着。」  <!-- added:2026-10-10 -->
   - Boo：台词不要一行字不停往左跳，眼晕。作者：程序是美术做的，正式版再调字幕。
   - 笙歌不见故人散：喜欢千禧画风和氛围；双胞胎都像乐子人；剧情顺、没有谜语人文青病；互动沉浸；配音对味、粤语好听；解谜不难、不看攻略也能过；求 ESC 点击也能退。作者：解密界面鼠标右键退出，AD 切场景，正式版会加操作提示。
   - 71：「有手柄适配吗」作者：「暂时没有」。  <!-- added:2026-10-10 -->
   - 温玖：因为 PV 粤语配音来的，实机双胞胎只有语气词、故事角色才有配音；解密偏弱、单线、剧情好猜。作者：正式版仍是语气词配音（后文截断）。
 
-- 砂糖桔 PV 首曝（08-15）：赞 2826（卡）。封面 `images/xhs/jiangu-pv.jpg`。
+- 砂糖桔 PV 首曝（08-15）：赞 2826（卡）。封面 `images/legacy/jiangu-pv.jpg`。
 
-- 星星stardust《美术好棒，和双胞胎灵异直播的中式民俗恐游》（09-02）：赞 **3265** / 藏 **1134** / 评 38。封面 `images/xhs/jiangu-art.jpg`。玩完 demo 意犹未尽；约 1 小时，仅 Win，正式版 2027；广谱粤语语气词；点击探索、可改名、拍摄机位；镜子里有兄弟身影、八音盒里是往事；个人觉得 demo 不太恐怖，结尾要警惕。引用阿柑台词：「有我们两个在，不管发生什么都会保护你的」/「如果只剩下我们两个人你可要罩着我哦」。  <!-- added:2026-10-10 -->
+- 星星stardust《美术好棒，和双胞胎灵异直播的中式民俗恐游》（09-02）：赞 **3265** / 藏 **1134** / 评 38。封面 `images/legacy/jiangu-art.jpg`。玩完 demo 意犹未尽；约 1 小时，仅 Win，正式版 2027；广谱粤语语气词；点击探索、可改名、拍摄机位；镜子里有兄弟身影、八音盒里是往事；个人觉得 demo 不太恐怖，结尾要警惕。引用阿柑台词：「有我们两个在，不管发生什么都会保护你的」/「如果只剩下我们两个人你可要罩着我哦」。  <!-- added:2026-10-10 -->
   - 商店页找不到 demo，作者让勾选 Steam 商店偏好；「我真的很吃双胞胎+中式民俗」；多人求 Mac；「美术不错！蹲」。  <!-- added:2026-10-10 -->
 
 **其他卡**：阿霖全流程 1056、荧苓「跟小伙伴一起做的独游」643、捡南子规文游测评 460、砂糖桔进度说明 272、灵森试玩 270 等。  <!-- added:2026-10-10 -->
 
 **关注度判断（早期观察，渠道已停用）**：demo 口碑偏爱美术、粤语、双胞胎主播；差评集中在耳鸣、字幕跳动、解密偏简单、无手柄、无 Mac。作者亲自回是强信号。正式版窗口写 2027，与乌合之众同属「远档期期待盘」。  <!-- added:2026-10-10 -->
 
-![jiangu-art](images/xhs/jiangu-art.jpg)
+![jiangu-art](images/legacy/jiangu-art.jpg)
 
-![jiangu-demo](images/xhs/jiangu-demo.jpg)
+![jiangu-demo](images/legacy/jiangu-demo.jpg)
 
 <!-- added:meta -->
 

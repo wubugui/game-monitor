@@ -35,7 +35,7 @@ images:
   - frames/jianguilu-yinhunjie_steam07.jpg
   - frames/jianguilu-yinhunjie_steam08.jpg
   - frames/jianguilu-yinhunjie_steam09.jpg
-  - images/xhs/yinhunjie-xiaomai.jpg
+  - images/legacy/yinhunjie-xiaomai.jpg
 tags: [收藏, 中式恐怖, 找异常, 步行模拟, 已发售]
 aliases: [见诡录：阴魂街, 见诡录阴魂街, 阴魂街, Haunting Record: Phantom Street, Haunting Record Phantom Street]
 steam_appid: 3387330
@@ -550,7 +550,7 @@ discovery_date: "2026-10-09"
 
 **代表笔记**
 
-- 小埋同学《中式找异常游戏〈见诡录阴魂街〉极限速通！》（06-11）：赞 **2887** / 藏 **922** / 评 **148**。封面 `images/xhs/yinhunjie-xiaomai.jpg`。
+- 小埋同学《中式找异常游戏〈见诡录阴魂街〉极限速通！》（06-11）：赞 **2887** / 藏 **922** / 评 **148**。封面 `images/legacy/yinhunjie-xiaomai.jpg`。
   - 奈何桥上讲筷子插在食物上等于给死人吃（52赞）——民俗知识共鸣。
   - 小红薯（130赞）：「停停停给我5块钱怎么这么坑」——吐槽游戏内消费/梗。  <!-- added:2026-10-10 -->
   - 夕颜（28赞）：「我宣布小埋是最有安全感的游戏主播」——夸主播多于夸游戏。  <!-- added:2026-10-10 -->
@@ -560,7 +560,7 @@ discovery_date: "2026-10-09"
 
 **关注度判断（早期观察，渠道已停用）**：找异常赛道速通仍能吃到两千赞级流量；与《见诡》同名混淆在别处同样存在，监测必须拆档。
 
-![yinhunjie](images/xhs/yinhunjie-xiaomai.jpg)
+![yinhunjie](images/legacy/yinhunjie-xiaomai.jpg)
 
 <!-- added:meta -->
 

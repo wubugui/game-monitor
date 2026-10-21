@@ -67,7 +67,7 @@ steamtxt=''
 for f in glob.glob('raw/steam/*')+glob.glob('raw/comp/steam_*'):
     try: steamtxt+=norm(open(f,errors='ignore').read().encode().decode('unicode_escape','ignore')) if False else re.sub(r'[\s\W_]+','',open(f,errors='ignore').read())
     except Exception: pass
-xhstxt=''.join(re.sub(r'[\s\W_]+','',open(f).read()) for f in glob.glob('tmp/xhs*.md')+glob.glob('xhs/*.md'))
+legacy_blob=''.join(re.sub(r'[\s\W_]+','',open(f).read()) for f in glob.glob('tmp/legacy*.md')+glob.glob('legacy/*.md'))
 def find_q(q):
     k=norm(q)
     if len(k)<4: return None
@@ -76,7 +76,7 @@ def find_q(q):
         for kk,(b,t) in qidx.items():
             if kk.startswith(k[:12]) and len(k)>=12 or (len(kk)>=12 and k.startswith(kk)): return f'〔B站·{b}{t}〕'
     if len(k)>=6 and k[:16] in steamtxt: return '〔Steam评测〕'
-    if len(k)>=6 and k[:16] in xhstxt: return ''
+    if len(k)>=6 and k[:16] in legacy_blob: return ''
     return None
 PLAT_ORDER=['B站','LEGACY_DISABLED','X','Steam','TapTap','用户指定']
 stats=dict(files=0, unknown=0, tagged=0, untagged=0)
@@ -157,4 +157,4 @@ for path in sorted(glob.glob('state/*.md')):
     open(path,'w').write(f'---\n{fm2.strip()}\n---\n'+body.lstrip('\n') if m else body)
     stats['files']+=1
 print(stats); print('unknown:',unknown_list)
-import subprocess; subprocess.run(['python3','scripts/xhs_sources.py','--write'])  # itemize LEGACY_DISABLED/X sources
+import subprocess; subprocess.run(['python3','scripts/disabled_sources.py','--write'])  # itemize LEGACY_DISABLED/X sources

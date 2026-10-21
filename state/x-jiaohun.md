@@ -12,7 +12,7 @@ found: 2026-10-10
 baseline: 2026-10-10
 cover: covers/x-jiaohun.jpg
 images:
-  - xhs/jiaohun.jpg
+  - legacy/jiaohun.jpg
   - frames/x-jiaohun_steam01.jpg
   - frames/x-jiaohun_steam02.jpg
   - frames/x-jiaohun_steam03.jpg
@@ -255,7 +255,7 @@ discovery_date: "2026-10-10"
 
 ## 2026-10-11 早期观察（已停用）
 
-登录态只读扫到官方/宣发向笔记：赞约 **463** / 藏约 **214** / 评约 **32**（综合排序近两日可见）。玩家第一反应多对标《还愿》/赤烛气质。封面入库 `xhs/jiaohun.jpg`。
+登录态只读扫到官方/宣发向笔记：赞约 **463** / 藏约 **214** / 评约 **32**（综合排序近两日可见）。玩家第一反应多对标《还愿》/赤烛气质。封面入库 `legacy/jiaohun.jpg`。
 
 ## 来源（发现与资料）
 

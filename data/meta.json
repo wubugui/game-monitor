@@ -203,8 +203,20 @@
  ],
  "today_banner": "",
  "today_new": 0,
- "today_updated": 67,
+ "today_updated": 99,
  "today_updates": [
+  {
+   "competitor": true,
+   "cover": "covers/x-hapunan.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/nemusanji/status/2092710573939253503 — 检索「filipino horror」发现：主播 nemusanji 开播「New Filipino horror game!」，2026-08-26",
+   "genre": "菲律宾都市传说心理恐怖（夜市摆摊）",
+   "id": "x-hapunan",
+   "kind": "updated",
+   "name": "Hapunan",
+   "note": "实际评价",
+   "status": "已发售（2026-08-25）"
+  },
   {
    "competitor": true,
    "cover": "covers/x-hearforest.jpg",
@@ -243,6 +255,54 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-dollshop.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/horrorvisuals/status/2102063771288055918 — 检索 horror 策展号时发现：horrorvisuals（15.6 万粉）推荐，2026-09-21，192 赞",
+   "genre": "手绘日式乡村叙事恐怖（人偶匠）",
+   "id": "x-dollshop",
+   "kind": "updated",
+   "name": "The Doll Shop",
+   "note": "实际评价",
+   "status": "已发售（2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5166790.jpg",
+   "disc_platform": "Steam/X",
+   "discovery": "Steam/X 扫描（2026-10-11）；洋馆找齐并摧毁 7 个人形后逃离",
+   "genre": "第一人称生存恐怖（找毁 7 人形）",
+   "id": "steam-5166790",
+   "kind": "updated",
+   "name": "Unwatching -The Seven Dolls-",
+   "note": "项目总结",
+   "status": "即将推出（2026-10-11）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-whatactsup.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2103439388310987206 — 检索 indie_guider 时发现：「心理寫實敘事冒險遊戲《What Acts up》現已公開 Steam Demo」，2026-09-25",
+   "genre": "社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互）",
+   "id": "x-whatactsup",
+   "kind": "updated",
+   "name": "What Acts up",
+   "note": "实际评价",
+   "status": "Demo（Steam）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-omusubi.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/studio_libera/status/2106323875973808548 — 检索「和風ホラー」发现：「個人制作した和風ホラーADVゲーム『お結び』が #Steamオータムセール で1280円→998円」，2026-10-03，212 赞 / 3 万浏览",
+   "genre": "日式恐怖 ADV（三途之川）",
+   "id": "x-omusubi",
+   "kind": "updated",
+   "name": "お結び OMUSUBI（缘结迷境）",
+   "note": "实际评价",
+   "status": "已发售（2024-08-01，2 周年）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "disc_platform": "Steam",
    "discovery": "Steam 民俗/folk horror 关键词扫描（2026-10-14）命中；2026-10-12 刚发售",
@@ -267,6 +327,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-5382350.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（怪谈，2026-10-13）",
+   "genre": "校园怪谈肉鸽（扫雷推理 × 道具构筑）",
+   "id": "p-935b02fc5a",
+   "kind": "updated",
+   "name": "书包怪谈",
+   "note": "项目总结",
+   "status": "即将推出（抢先体验意向）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1SXYj6mE1g.jpg",
    "disc_platform": "B站",
    "discovery": "B站搜索关键词「首曝PV 游戏」；种子视频「《京门之下》首曝PV——绝美国风AI影游，这盛世烟火之下，却尽是魑魅，遍布杀机！」· UP 司命互动影游 · BV1SXYj6mE1g · 2026-09-11 · 播放 2.2万",
@@ -276,6 +348,18 @@
    "name": "京门之下",
    "note": "实际评价（登录态评论 + 弹幕，具体原话）",
    "status": "即将发售"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5166850.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（民俗，2026-10-13）",
+   "genre": "90年代日本高中 PSX 风恐怖",
+   "id": "p-d2844d718b",
+   "kind": "updated",
+   "name": "人柱 Hitobashira",
+   "note": "项目总结",
+   "status": "Demo 已出（2026-09-15）"
   },
   {
    "competitor": true,
@@ -303,6 +387,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/xhs-jiabao.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6a6c3932000000003301d8ca，赞 762；文案写 Steam 商店页已开",
+   "genre": "千禧物业怪核 / 模拟恐怖",
+   "id": "xhs-jiabao",
+   "kind": "updated",
+   "name": "佳宝物业热线",
+   "note": "项目总结",
+   "status": "商店页已开（即将宣布）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1AtYE6kESe.jpg",
    "disc_platform": "B站",
    "discovery": "B站搜索关键词「民俗恐怖 游戏 Demo」（每日发现 2026-10-10）；种子视频「中式民俗悬疑独立游戏《冥娘引》Demo实机视频」· UP 橘子喵w · BV1AtYE6kESe · 2026-09-09 · 播放 154",
@@ -312,6 +408,18 @@
    "name": "冥娘引",
    "note": "实际评价（登录态评论/楼中楼/弹幕 + Steam）",
    "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/dctyuin/status/2014709521466458380 — 检索「Hariti / Ghostcase / 凶寓」时滚雪球发现；日本玩家帖密集提及「凶寓チーム」",
+   "genre": "第一人称中式怪谈恐怖",
+   "id": "p-d2fd5a87c5",
+   "kind": "updated",
+   "name": "凶寓 Dread Flats",
+   "note": "实际评价",
+   "status": "已发售（2025-07-10）"
   },
   {
    "competitor": true,
@@ -339,6 +447,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV12Lpt6LEV2.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站近48h发现（2026-10-11）；BV12Lpt6LEV2，播放约 339，UP 彭嘉浩「发出来给点建议」",
+   "genre": "中式侧视生存恐怖（UE5 / 单人开发）",
+   "id": "yongchuang-sirengu",
+   "kind": "updated",
+   "name": "勇闯死人谷",
+   "note": "项目总结",
+   "status": "Demo（B站首曝）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4840290.jpg",
    "disc_platform": "Steam",
    "discovery": "Steam 民俗恐怖关键词扫描（2026-10-18）；分层=同题材（民俗悬疑解密主轴）",
@@ -360,6 +480,30 @@
    "name": "南亭湖",
    "note": "实际评价（登录态评论 + 弹幕，具体原话）",
    "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-nameonly.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2105266410075111542 — 检索「視覺小說」发现：「香港獨立創作團隊紳士帽動畫製作組公開《The Name Only She Knew》Steam 頁面」，2026-09-30",
+   "genre": "手绘逐格动画奇幻视觉小说",
+   "id": "x-nameonly",
+   "kind": "updated",
+   "name": "只有她知晓光辉的名字 The Name Only She Knew",
+   "note": "实际评价",
+   "status": "即将发售（2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/shinobi602/status/2108637818230898710 — X 检索「interactive film / Chinese」时发现：shinobi602（52.8 万粉）转发「JIAOHUN | Reveal Trailer」，2026-10-09，361 赞 / 2 万浏览；同日 Triple-i Initiative 展会官宣",
+   "genre": "电影化第一人称中式心理恐怖（1999 小镇）",
+   "id": "x-jiaohun",
+   "kind": "updated",
+   "name": "叫魂 JIAOHUN",
+   "note": "实际评价",
+   "status": "首曝（2027 年，PS5/PC）"
   },
   {
    "competitor": true,
@@ -531,6 +675,42 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-5224770.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（民俗/怪谈，2026-10-13）",
+   "genre": "规则怪谈文字冒险（民俗展览馆）",
+   "id": "p-99a0661b29",
+   "kind": "updated",
+   "name": "快乐的晴天娃娃",
+   "note": "项目总结",
+   "status": "即将推出（试玩版已出）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5352410.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（中式恐怖，2026-10-13）",
+   "genre": "现代都市悬疑剧情恐怖",
+   "id": "p-8b84f7a87f",
+   "kind": "updated",
+   "name": "念 Horizon",
+   "note": "项目总结",
+   "status": "即将宣布（Demo 定档 2026-10-21）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4952700.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站近48h发现（2026-10-11）；BV1Daph6wEn9 全新 PV",
+   "genre": "RPG冒险×互动影游（无限流改编气质）",
+   "id": "steam-4952700",
+   "kind": "updated",
+   "name": "惊悚乐园：平田的世界",
+   "note": "项目总结",
+   "status": "Demo（正式 2026-12-15）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4881350.jpg",
    "disc_platform": "B站",
    "discovery": "B站近48h发现（2026-10-11）；BV1HCp46MECo Demo 试玩",
@@ -552,6 +732,30 @@
    "name": "无人",
    "note": "实际评价（登录态评论/楼中楼/弹幕 + Steam）",
    "status": "已发售（Steam 2024-12-11）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5356780.jpg",
+   "disc_platform": "Steam/B站",
+   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-16）；分层=邻近",
+   "genre": "云南昆明民俗青春视觉小说（神话冒险）",
+   "id": "p-71e32166fe",
+   "kind": "updated",
+   "name": "未春节 Festival of Unborn Spring",
+   "note": "项目总结",
+   "status": "即将发售（2027 年 2 月）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/FlufforeStudio/status/2080572107352891677 — 检索「#visualnovel wishlist」发现：官方 PV 帖，2026-07-24，1173 赞 / 138 转 / 7.3 万浏览",
+   "genre": "兽人题材现代日常视觉小说",
+   "id": "p-6e867641fa",
+   "kind": "updated",
+   "name": "未烬之约 EMBERBOUND",
+   "note": "实际评价",
+   "status": "开发中（Patreon 第二章测试；Demo 即将）"
   },
   {
    "competitor": true,
@@ -603,6 +807,30 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-strangetales.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/YorollAI/status/2095446168855625991 — 检索「Chinese myth / strange tales」发现：「The free Steam Demo for Strange Tales of Republican China is NOW Available!」，2026-09-03，203 赞 / 4.2 万浏览",
+   "genre": "民国中式民俗恐怖·AI 互动影像解谜",
+   "id": "x-strangetales",
+   "kind": "updated",
+   "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）",
+   "note": "实际评价",
+   "status": "Demo（Steam 免费 Demo，正式版即将推出）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4953580.jpg",
+   "disc_platform": "B站",
+   "discovery": "B站近48h发现（2026-10-11）；BV1Fkps6cErD 官方 Demo 上线片",
+   "genre": "暗黑童话百合视觉小说",
+   "id": "steam-4953580",
+   "kind": "updated",
+   "name": "永夜协奏曲",
+   "note": "项目总结",
+   "status": "Demo 已上线"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3677850.jpg",
    "disc_platform": "X",
    "discovery": "X 扫描（2026-10-11）；@nexindie 推送 Gone Home 团队新作",
@@ -624,6 +852,18 @@
    "name": "沣都镇",
    "note": "项目总结",
    "status": "即将推出（商店口径）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5144840.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（中式恐怖，2026-10-13）",
+   "genre": "广州都市怪谈视觉小说（灵境 / 夜游神）",
+   "id": "p-67664ead75",
+   "kind": "updated",
+   "name": "泣魂",
+   "note": "项目总结",
+   "status": "Demo 已出（2026-09-17）"
   },
   {
    "competitor": true,
@@ -651,6 +891,30 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-soulcake.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Pttz16Pttz/status/2072587820586475540 — 检索「#visualnovel wishlist」发现：「My partner and I (2-person studio) made Amare game VN Soulcake…」2026-07-02",
+   "genre": "女性向奇幻恋爱探索 AVG（百合/GB）",
+   "id": "p-e77cbd7801",
+   "kind": "updated",
+   "name": "灵魂甜品 Soulcake",
+   "note": "实际评价",
+   "status": "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5135770.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 关键词扫描（志怪，2026-10-13）",
+   "genre": "东方志怪卡牌构筑 Roguelite",
+   "id": "p-10ca9da4c1",
+   "kind": "updated",
+   "name": "炼妖录：无相之人",
+   "note": "项目总结",
+   "status": "即将推出"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "disc_platform": "Steam",
    "discovery": "Steam 民俗/道士关键词扫描（2026-10-14）",
@@ -660,6 +924,18 @@
    "name": "物理超度",
    "note": "项目总结",
    "status": "已发售（2026 年 6 月 12 日）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-wanguotou.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6aabd2700000000027015040，赞 7562 / 藏 2722 / 评 298；作者置顶承认 AI、强调可实机",
+   "genre": "藏式定格解密恐怖（中阴身/红面母）",
+   "id": "xhs-wanguotou",
+   "kind": "updated",
+   "name": "玩骨頭",
+   "note": "项目总结",
+   "status": "开发中（计划 Steam / 实机 Demo）"
   },
   {
    "competitor": true,
@@ -684,6 +960,30 @@
    "name": "童年诡事录",
    "note": "实际评价（登录态评论 + 弹幕，具体原话）",
    "status": "Demo"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/xhs-zhiji.jpg",
+   "disc_platform": "小红书",
+   "discovery": "小红书登录态扫查（2026-10-11）；笔记 6ac96b6500000000b006ab3「第三章识恶」无剧情速通，赞 21",
+   "genre": "中式悬疑解密恐怖（竖屏/章节）",
+   "id": "xhs-zhiji",
+   "kind": "updated",
+   "name": "纸祭",
+   "note": "项目总结",
+   "status": "至少做到第三章（识恶）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4991870.jpg",
+   "disc_platform": "Steam/B站",
+   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-16）；分层=邻近",
+   "genre": "山村旅社民俗灵异（Vlogger 探灵）",
+   "id": "p-cea474f50d",
+   "kind": "updated",
+   "name": "荒山诡宿",
+   "note": "项目总结",
+   "status": "即将发售（2026 年第四季度）"
   },
   {
    "competitor": true,
@@ -795,6 +1095,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-rubbings.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/erabit_studios/status/2060050973268033636 — 发行商 Erabit 宣传 Steam「悬疑游戏节」(5/29–6/7) 帖中列出「📜 Rubbings – Chin…」，2026-05-28",
+   "genre": "中式民俗微恐悬疑推理",
+   "id": "p-b4beba7e64",
+   "kind": "updated",
+   "name": "诡拓 Rubbings",
+   "note": "实际评价",
+   "status": "已发售（2025-04-24）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3694590.jpg",
    "disc_platform": "B站/Steam",
    "discovery": "B站发现扫描（2026-10-13）关键词「中式恐怖 独立游戏」命中实况 BV1cYpn6DELG（约 2.7 万播）；Steam app 3694590 核实",
@@ -879,6 +1191,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-farrealm.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/indie_guider/status/2102292784938102833 — 检索 indie_guider（台湾独立游戏资讯号）时发现：「敘事導向 2D 像素遊戲《遙之境》Demo 現已於 Steam 開放免費試玩」，2026-09-22",
+   "genre": "台味叙事 2D 像素冒险（妖怪世界）",
+   "id": "x-farrealm",
+   "kind": "updated",
+   "name": "遥之境 Far Realm",
+   "note": "实际评价",
+   "status": "Demo（2026-09-21 起）"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4373160.jpg",
    "disc_platform": "Steam",
    "discovery": "Steam 民俗/志怪扫描（2026-10-14）；含 Demo 4517720",
@@ -939,6 +1263,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-5326910.jpg",
+   "disc_platform": "Steam",
+   "discovery": "Steam 民俗/道士/驱邪关键词扫描（2026-10-18）；分层=同题材（志怪/道士因果主轴，恐怖为辅包装）",
+   "genre": "中式民俗恐怖道士叙事冒险",
+   "id": "p-979bce17cb",
+   "kind": "updated",
+   "name": "阴债",
+   "note": "项目总结",
+   "status": "即将推出"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1E3NgzWEVh.jpg",
    "disc_platform": "B站",
    "discovery": "B站搜索关键词「找异常 中式恐怖 新作」（每日发现 2026-10-10，命中视频「中式找异常恐怖游戏《阴界诡录：尸语公寓》」· UP 水原夢乃 · BV1BpMc6REGy）；种子视频「未知」· UP 未知 · BV1E3NgzWEVh · 未知 · 播放 未知",
@@ -948,6 +1284,30 @@
    "name": "阴界诡录：尸语公寓",
    "note": "实际评价（登录态评论/楼中楼/弹幕 + Steam）",
    "status": "已发售（Steam 2026-03-05）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5093370.jpg",
+   "disc_platform": "Steam/B站",
+   "discovery": "Steam/B站 民俗志怪关键词扫描（2026-10-16）；分层=同题材",
+   "genre": "中式民俗怪谈解谜恐怖（道士勘相）",
+   "id": "p-b24daa8672",
+   "kind": "updated",
+   "name": "阴阳鉴",
+   "note": "项目总结",
+   "status": "即将发售（即将宣布）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-chulingguan.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/hapi46085111/status/2068127289213378612 — 检索「恐怖遊戲 steam」发现：「我們用 AI 做了一款恐怖遊戲——但它想說的,是最像人的那種故事。」2026-06-20",
+   "genre": "AI 美术叙事解谜恐怖（理解怨灵、无战斗）",
+   "id": "p-787dd22ae5",
+   "kind": "updated",
+   "name": "除靈館 Haunted House",
+   "note": "实际评价",
+   "status": "开发中（Steam 页，2026 Q4）"
   },
   {
    "competitor": true,
@@ -984,6 +1344,30 @@
    "name": "驱灵天师",
    "note": "项目总结",
    "status": "抢先体验（商店口径 2026-10-12）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hariti.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/IGN/status/2086981301324640614 — IGN 官方号转发预告「First-person psychological Chinese horror game Hariti…」，2026-08-11，2144 赞 / 34.2 万浏览",
+   "genre": "第一人称中式心理恐怖",
+   "id": "p-af2615f3bf",
+   "kind": "updated",
+   "name": "鬼子母 Hariti",
+   "note": "实际评价",
+   "status": "已发售（2026-08-11）"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-yanparasomnia.jpg",
+   "disc_platform": "X",
+   "discovery": "X（2026-10-10 深挖）；种子帖 https://x.com/Pirat_Nation/status/2067561165064970726 — 检索「chinese horror / jiangshi」发现：Pirat_Nation（35.8 万粉）转发预告，2026-06-18，157 赞 / 1.7 万浏览",
+   "genre": "东南亚华人民俗·固定视角生存恐怖（单人/双人合作）",
+   "id": "x-yanparasomnia",
+   "kind": "updated",
+   "name": "魇 Yan: Parasomnia",
+   "note": "实际评价",
+   "status": "开发中（据 X 消息延期至 2027-08）"
   },
   {
    "competitor": true,

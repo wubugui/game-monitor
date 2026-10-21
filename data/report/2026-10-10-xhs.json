@@ -9,9 +9,27 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/BV1vLFCzwEq1.jpg",
+   "id": "BV1vLFCzwEq1",
+   "name": "黑水镇"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1RAeV67Ed9.jpg",
+   "id": "BV1RAeV67Ed9",
+   "name": "妄生"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1mSa76yEor.jpg",
+   "id": "BV1mSa76yEor",
+   "name": "乌合之众"
   },
   {
    "competitor": true,
@@ -33,18 +51,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1mSa76yEor.jpg",
-   "id": "BV1mSa76yEor",
-   "name": "乌合之众"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1vLFCzwEq1.jpg",
-   "id": "BV1vLFCzwEq1",
-   "name": "黑水镇"
-  },
-  {
-   "competitor": true,
    "cover": "covers/jianguilu-yinhunjie.jpg",
    "id": "BV1rBX6Y9Euf",
    "name": "见诡录：阴魂街"
@@ -60,12 +66,6 @@
    "cover": "covers/BV1SXYj6mE1g.jpg",
    "id": "BV1SXYj6mE1g",
    "name": "京门之下"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1RAeV67Ed9.jpg",
-   "id": "BV1RAeV67Ed9",
-   "name": "妄生"
   }
  ],
  "sections": [

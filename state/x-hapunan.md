@@ -28,7 +28,7 @@ discovery_date: "2026-10-10"
 ---
 # ⭐ Hapunan
 <!-- psum:start -->
-<!-- added:2026-10-10 -->
+<!-- added:2026-10-21 -->
 
 ## 项目总结
 
@@ -103,9 +103,13 @@ discovery_date: "2026-10-10"
 - Steam 评测：Positive，好评 33 / 差评 4 / 共 37（已发售）
 - B站：登录态全量采集 2026-10-10，相关视频 19 条、合计播放约 40.8万；最高《邻家女孩都是犯罪团伙的一份子！！【Hapunan》20.9万（详见下方「B站数据」）
 
+<!-- added:2026-10-21 -->
+<!-- recrawl:2026-10-21 -->
+**B站评论/弹幕全量重抓（2026-10-21，登录态）**：高播放 top5 视频 BV1HEXMBZEmn（21.0万播放）；BV1ncKPenEdZ（7.3万播放）；BV1q6AoeXEyh（6.8万播放）；BV1Nx4y1h77T（2.8万播放）；BV1BHta6xEMm（1.4万播放）。评论含楼中楼、弹幕按分段全量拉取，标题与本游戏无关的视频不计入分析。
+
 ## 实际评价
 <!-- feedback:start -->
-<!-- added:2026-10-10 -->
+<!-- added:2026-10-21 -->
 
 ### 玩家反馈分析
 
@@ -205,13 +209,13 @@ discovery_date: "2026-10-10"
 - 「主角算是非法贩卖炸猪皮吗？还是说算是巴鲁特的一个佐料来卖呢🤔」（32赞） 〔B站·BV1ncKPenEdZ评论〕
 - 「想到主角是为家庭生计，只能买鸡蛋的穷苦人，就很不希望出什么事。」（26赞） 〔B站·BV1ncKPenEdZ评论〕
 
-**B站以外（X / 小红书 / Steam）**
+**B站以外（X / Steam）**
 
 - 「Hapunan真是个惊喜！我玩过不少令人毛骨悚然的工作模拟器，但这款游戏充满了严肃的戏剧性。情感场景、震惊事件、甜蜜友谊、揭开的秘密、噩梦……这款游戏应有尽有。Th…（原文：Hapunan is a real treat! I've played quite a few creepy job simulators but this one packs some serious drama. Emotional scenes, shocking events, sweet friendships, unveiled secrets, nightmares... this game has it all. Th…）」（6赞） 〔Steam评测〕
 - 「故事很棒！结尾有点突兀，我不得不这么说，但其余部分非常精彩！这是我玩过的最好的菲律宾独立游戏之一。强烈推荐 https://youtu.be/sZ3ID7l4dS0（原文：Great story! Ending was a bit abrupt I have to say, but the rest of the games was awesome! One of the best Filipino Indie Games I have played. Definitely recommend https://youtu.be/sZ3ID7l4dS0）」（1赞） 〔Steam评测〕
 - 「我会把它形容为非常可爱的“屎”但带菲律宾味！这不是贬义，而是说我本来期待更糟的，结果却是一颗珍珠。可惜 Jaeyna！（原文：Lo definirei una cacata molto carina ma filippina! Che non è dispregiativo ma è per dire che mi aspettavo peggio ed invece grande perla. Peccato per Jaeyna!）」（1赞） 〔Steam评测〕
 
-> 分类方法（粗略）：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-10。
+> 分类方法（粗略）：情感与话题为规则词典自动分类（`scripts/feedback_analysis.py`），反讽、梗和外文可能误判。抽样 60 条与大模型判断对照，一致率约 65%，主要偏差是把带态度的评论判成「中性」，所以好评和差评的实际比例都比表里高，看相对高低和趋势即可。数据截至 2026-10-21。
 
 <!-- feedback:end -->
 <!-- added:meta -->

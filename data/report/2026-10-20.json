@@ -57,6 +57,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1xMYY6QEBT.jpg",
    "id": "BV1xMYY6QEBT",
    "name": "小先生"
@@ -108,12 +114,6 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
   }
  ],
  "sections": [

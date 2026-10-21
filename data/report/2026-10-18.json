@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/steam-4840290.jpg",
+   "id": "p-330057f22b",
+   "name": "升棺发财"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -66,12 +72,6 @@
    "cover": "covers/steam-5326910.jpg",
    "id": "p-979bce17cb",
    "name": "阴债"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "id": "p-330057f22b",
-   "name": "升棺发财"
   },
   {
    "competitor": true,

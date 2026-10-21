@@ -734,7 +734,7 @@
  },
  {
   "competitor": true,
-  "cover": "covers/xhs-wanguotou.jpg",
+  "cover": "covers/wanguotou.jpg",
   "dev_type": "小团队",
   "developer": "小团队（蹦萨奇 Studio）",
   "disc_platform": "未知",
@@ -750,7 +750,7 @@
    "解密",
    "恐怖"
   ],
-  "id": "xhs-wanguotou",
+  "id": "wanguotou",
   "link": "https://www.bilibili.com/video/BV1RJeG62Ezh",
   "missing_images": null,
   "name": "玩骨頭",
@@ -1876,7 +1876,7 @@
  },
  {
   "competitor": true,
-  "cover": "covers/xhs-zhiji.jpg",
+  "cover": "covers/zhiji.jpg",
   "dev_type": "未知",
   "developer": "未知（柔嘉维则等宣发；关联勾陈一争议讨论）",
   "disc_platform": "未知",
@@ -1893,7 +1893,7 @@
    "民俗/国风",
    "悬疑/解谜"
   ],
-  "id": "xhs-zhiji",
+  "id": "zhiji",
   "link": "未知",
   "missing_images": null,
   "name": "纸祭",
@@ -1961,7 +1961,7 @@
  },
  {
   "competitor": true,
-  "cover": "covers/xhs-jiabao.jpg",
+  "cover": "covers/jiabao.jpg",
   "dev_type": "小团队",
   "developer": "小团队（Bad Tape Studio / 坏磁带工作室）",
   "disc_platform": "未知",
@@ -1977,7 +1977,7 @@
    "恐怖",
    "模拟经营"
   ],
-  "id": "xhs-jiabao",
+  "id": "jiabao",
   "link": "https://store.steampowered.com/app/4793680/",
   "missing_images": null,
   "name": "佳宝物业热线",

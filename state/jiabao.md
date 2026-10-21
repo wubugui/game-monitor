@@ -1,5 +1,5 @@
 ---
-id: xhs-jiabao
+id: jiabao
 name: 佳宝物业热线
 competitor: true
 genre: 千禧物业怪核 / 模拟恐怖
@@ -10,18 +10,18 @@ release: 即将宣布
 link: https://store.steampowered.com/app/4793680/
 found: 2026-10-11
 baseline: 2026-10-11
-cover: covers/xhs-jiabao.jpg
+cover: covers/jiabao.jpg
 images:
-  - frames/xhs-jiabao_steam04.jpg
-  - frames/xhs-jiabao_steam03.jpg
-  - frames/xhs-jiabao_steam05.jpg
-  - frames/xhs-jiabao_steam01.jpg
-  - frames/xhs-jiabao_steam02.jpg
-  - frames/xhs-jiabao_extra_movie1.jpg
-  - frames/xhs-jiabao_BV1ZzGF6fEKq_v03.jpg
-  - frames/xhs-jiabao_BV1mruA65EP1_v03.jpg
-  - frames/xhs-jiabao_BV13c3g6kEuB_v02.jpg
-  - frames/xhs-jiabao_BV1mruA65EP1_v04.jpg
+  - frames/jiabao_steam04.jpg
+  - frames/jiabao_steam03.jpg
+  - frames/jiabao_steam05.jpg
+  - frames/jiabao_steam01.jpg
+  - frames/jiabao_steam02.jpg
+  - frames/jiabao_extra_movie1.jpg
+  - frames/jiabao_BV1ZzGF6fEKq_v03.jpg
+  - frames/jiabao_BV1mruA65EP1_v03.jpg
+  - frames/jiabao_BV13c3g6kEuB_v02.jpg
+  - frames/jiabao_BV1mruA65EP1_v04.jpg
 tags: [收藏, 怪核, 模拟恐怖, 千禧]
 aliases: [佳宝物业热线, 佳宝大厦, Bad Tape Studio, 坏磁带]
 steam_appid: 4793680
@@ -47,7 +47,7 @@ collection_layer: 参考
 <!-- psum:end -->
 <!-- added:2026-10-11 -->
 
-![cover](covers/xhs-jiabao.jpg)
+![cover](covers/jiabao.jpg)
 
 <!-- added:2026-10-11 -->
 
@@ -69,16 +69,16 @@ collection_layer: 参考
 
 ### 实机截图（已目视抽检为本作）
 
-![xhs-jiabao_steam04.jpg](frames/xhs-jiabao_steam04.jpg)
-![xhs-jiabao_steam03.jpg](frames/xhs-jiabao_steam03.jpg)
-![xhs-jiabao_steam05.jpg](frames/xhs-jiabao_steam05.jpg)
-![xhs-jiabao_steam01.jpg](frames/xhs-jiabao_steam01.jpg)
-![xhs-jiabao_steam02.jpg](frames/xhs-jiabao_steam02.jpg)
-![xhs-jiabao_extra_movie1.jpg](frames/xhs-jiabao_extra_movie1.jpg)
-![xhs-jiabao_BV1ZzGF6fEKq_v03.jpg](frames/xhs-jiabao_BV1ZzGF6fEKq_v03.jpg)
-![xhs-jiabao_BV1mruA65EP1_v03.jpg](frames/xhs-jiabao_BV1mruA65EP1_v03.jpg)
-![xhs-jiabao_BV13c3g6kEuB_v02.jpg](frames/xhs-jiabao_BV13c3g6kEuB_v02.jpg)
-![xhs-jiabao_BV1mruA65EP1_v04.jpg](frames/xhs-jiabao_BV1mruA65EP1_v04.jpg)
+![jiabao_steam04.jpg](frames/jiabao_steam04.jpg)
+![jiabao_steam03.jpg](frames/jiabao_steam03.jpg)
+![jiabao_steam05.jpg](frames/jiabao_steam05.jpg)
+![jiabao_steam01.jpg](frames/jiabao_steam01.jpg)
+![jiabao_steam02.jpg](frames/jiabao_steam02.jpg)
+![jiabao_extra_movie1.jpg](frames/jiabao_extra_movie1.jpg)
+![jiabao_BV1ZzGF6fEKq_v03.jpg](frames/jiabao_BV1ZzGF6fEKq_v03.jpg)
+![jiabao_BV1mruA65EP1_v03.jpg](frames/jiabao_BV1mruA65EP1_v03.jpg)
+![jiabao_BV13c3g6kEuB_v02.jpg](frames/jiabao_BV13c3g6kEuB_v02.jpg)
+![jiabao_BV1mruA65EP1_v04.jpg](frames/jiabao_BV1mruA65EP1_v04.jpg)
 
 ## 资料来源
 

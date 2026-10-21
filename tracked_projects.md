@@ -219,9 +219,9 @@
 | The Devil is in the Details（细节决定成败） | 找异常 × 生存恐怖 | 小团队（HideWorks） | 已发售（2024-09-30） | 2026-10-10 |  |  | 发现来源 X（第三轮·时间线追踪）；Steam https://store.steampowered.com/app/2790790/ ；X 单帖最高赞 13；档案 state/x-devildetails.md |
 
 <!-- added:2026-10-11 -->
-| ⭐ 玩骨頭 | 藏式定格解密恐怖（中阴身/红面母） | 小团队（蹦萨奇 Studio） | 开发中（计划 Steam / 实机 Demo） | 2026-10-11 | https://www.bilibili.com/video/BV1RJeG62Ezh | 5046 | 发现来源 未知；作者承认 AI；档案 state/xhs-wanguotou.md |
-| ⭐ 佳宝物业热线 | 千禧物业怪核 / 模拟恐怖 | 小团队（Bad Tape Studio / 坏磁带工作室） | 商店页已开（即将宣布） | 2026-10-11 | https://www.bilibili.com/video/BV13c3g6kEuB | 1.6万 | 发现来源 未知；Steam https://store.steampowered.com/app/4793680/ ；档案 state/xhs-jiabao.md |
-| ⭐ 纸祭 | 中式悬疑解密恐怖（竖屏/章节） | 未知 | 至少第三章 | 2026-10-11 | https://www.bilibili.com/video/BV1MUtB6wEfN | 208 | 发现来源 未知；档案 state/xhs-zhiji.md |
+| ⭐ 玩骨頭 | 藏式定格解密恐怖（中阴身/红面母） | 小团队（蹦萨奇 Studio） | 开发中（计划 Steam / 实机 Demo） | 2026-10-11 | https://www.bilibili.com/video/BV1RJeG62Ezh | 5046 | 发现来源 未知；作者承认 AI；档案 state/wanguotou.md |
+| ⭐ 佳宝物业热线 | 千禧物业怪核 / 模拟恐怖 | 小团队（Bad Tape Studio / 坏磁带工作室） | 商店页已开（即将宣布） | 2026-10-11 | https://www.bilibili.com/video/BV13c3g6kEuB | 1.6万 | 发现来源 未知；Steam https://store.steampowered.com/app/4793680/ ；档案 state/jiabao.md |
+| ⭐ 纸祭 | 中式悬疑解密恐怖（竖屏/章节） | 未知 | 至少第三章 | 2026-10-11 | https://www.bilibili.com/video/BV1MUtB6wEfN | 208 | 发现来源 未知；档案 state/zhiji.md |
 | ⭐ 勇闯死人谷 | 中式侧视生存恐怖（UE5 / 单人） | 个人（彭嘉浩） | Demo | 2026-10-11 | https://www.bilibili.com/video/BV12Lpt6LEV2 | 339 | 发现来源 B站；档案 state/yongchuang-sirengu.md |
 | ⭐ 末班 | 第一人称心理恐怖（短篇观察抉择） | 个人（Simon Au Yeung） | 即将推出（2026-10-11） | 2026-10-11 |  |  | 发现来源 X/Steam；Steam https://store.steampowered.com/app/3820460/ ；档案 state/steam-3820460.md |
 | ⭐ 树海之路 Road to Jukai | 日式民俗心理恐怖（夜班出租→树海） | 小团队（Endflame；发行 tinyBuild） | Playtest / 2027 | 2026-10-11 | https://www.bilibili.com/video/BV1XPp86hEAc | 2870 | 发现来源 B站/X；Steam https://store.steampowered.com/app/4124320/ ；档案 state/steam-4124320.md |

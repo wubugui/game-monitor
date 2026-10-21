@@ -39,8 +39,8 @@
   },
   {
    "competitor": true,
-   "cover": "covers/xhs-wanguotou.jpg",
-   "id": "xhs-wanguotou",
+   "cover": "covers/wanguotou.jpg",
+   "id": "wanguotou",
    "name": "玩骨頭"
   },
   {
@@ -69,8 +69,8 @@
   },
   {
    "competitor": true,
-   "cover": "covers/xhs-zhiji.jpg",
-   "id": "xhs-zhiji",
+   "cover": "covers/zhiji.jpg",
+   "id": "zhiji",
    "name": "纸祭"
   },
   {
@@ -81,8 +81,8 @@
   },
   {
    "competitor": true,
-   "cover": "covers/xhs-jiabao.jpg",
-   "id": "xhs-jiabao",
+   "cover": "covers/jiabao.jpg",
+   "id": "jiabao",
    "name": "佳宝物业热线"
   },
   {

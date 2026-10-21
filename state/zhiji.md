@@ -1,5 +1,5 @@
 ---
-id: xhs-zhiji
+id: zhiji
 name: 纸祭
 competitor: true
 genre: 中式悬疑解密恐怖（竖屏/章节）
@@ -10,18 +10,18 @@ release: 未知
 link: 未知
 found: 2026-10-11
 baseline: 2026-10-11
-cover: covers/xhs-zhiji.jpg
+cover: covers/zhiji.jpg
 images:
-  - frames/xhs-zhiji_fx03.jpg
-  - frames/xhs-zhiji_fx05.jpg
-  - frames/xhs-zhiji_fx04.jpg
-  - frames/xhs-zhiji_fx01.jpg
-  - frames/xhs-zhiji_fx11.jpg
-  - frames/xhs-zhiji_fx12.jpg
-  - frames/xhs-zhiji_fx02.jpg
-  - frames/xhs-zhiji_fx07.jpg
-  - frames/xhs-zhiji_fx10.jpg
-  - frames/xhs-zhiji_fx09.jpg
+  - frames/zhiji_fx03.jpg
+  - frames/zhiji_fx05.jpg
+  - frames/zhiji_fx04.jpg
+  - frames/zhiji_fx01.jpg
+  - frames/zhiji_fx11.jpg
+  - frames/zhiji_fx12.jpg
+  - frames/zhiji_fx02.jpg
+  - frames/zhiji_fx07.jpg
+  - frames/zhiji_fx10.jpg
+  - frames/zhiji_fx09.jpg
 tags: [收藏, 中式, 解密, 章节]
 aliases: [纸祭, 纸祭 第三章, 识恶]
 discovery_platform: 未知
@@ -46,7 +46,7 @@ collection_layer: 邻近
 <!-- psum:end -->
 <!-- added:2026-10-11 -->
 
-![cover](covers/xhs-zhiji.jpg)
+![cover](covers/zhiji.jpg)
 
 <!-- added:2026-10-11 -->
 
@@ -66,16 +66,16 @@ collection_layer: 邻近
 
 ### 实机截图（已目视抽检为本作）
 
-![xhs-zhiji_fx03.jpg](frames/xhs-zhiji_fx03.jpg)
-![xhs-zhiji_fx05.jpg](frames/xhs-zhiji_fx05.jpg)
-![xhs-zhiji_fx04.jpg](frames/xhs-zhiji_fx04.jpg)
-![xhs-zhiji_fx01.jpg](frames/xhs-zhiji_fx01.jpg)
-![xhs-zhiji_fx11.jpg](frames/xhs-zhiji_fx11.jpg)
-![xhs-zhiji_fx12.jpg](frames/xhs-zhiji_fx12.jpg)
-![xhs-zhiji_fx02.jpg](frames/xhs-zhiji_fx02.jpg)
-![xhs-zhiji_fx07.jpg](frames/xhs-zhiji_fx07.jpg)
-![xhs-zhiji_fx10.jpg](frames/xhs-zhiji_fx10.jpg)
-![xhs-zhiji_fx09.jpg](frames/xhs-zhiji_fx09.jpg)
+![zhiji_fx03.jpg](frames/zhiji_fx03.jpg)
+![zhiji_fx05.jpg](frames/zhiji_fx05.jpg)
+![zhiji_fx04.jpg](frames/zhiji_fx04.jpg)
+![zhiji_fx01.jpg](frames/zhiji_fx01.jpg)
+![zhiji_fx11.jpg](frames/zhiji_fx11.jpg)
+![zhiji_fx12.jpg](frames/zhiji_fx12.jpg)
+![zhiji_fx02.jpg](frames/zhiji_fx02.jpg)
+![zhiji_fx07.jpg](frames/zhiji_fx07.jpg)
+![zhiji_fx10.jpg](frames/zhiji_fx10.jpg)
+![zhiji_fx09.jpg](frames/zhiji_fx09.jpg)
 
 ## 资料来源
 

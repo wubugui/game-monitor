@@ -1,5 +1,5 @@
 ---
-id: xhs-wanguotou
+id: wanguotou
 name: 玩骨頭
 competitor: true
 genre: 藏式定格解密恐怖（中阴身/红面母）
@@ -10,18 +10,18 @@ release: 未知（作者称十月左右 Demo）
 link: https://www.bilibili.com/video/BV1RJeG62Ezh
 found: 2026-10-11
 baseline: 2026-10-11
-cover: covers/xhs-wanguotou.jpg
+cover: covers/wanguotou.jpg
 images:
-  - frames/xhs-wanguotou_fx01.jpg
-  - frames/xhs-wanguotou_fx02.jpg
-  - frames/xhs-wanguotou_fx11.jpg
-  - frames/xhs-wanguotou_fx03.jpg
-  - frames/xhs-wanguotou_fx10.jpg
-  - frames/xhs-wanguotou_fx04.jpg
-  - frames/xhs-wanguotou_fx05.jpg
-  - frames/xhs-wanguotou_fx08.jpg
-  - frames/xhs-wanguotou_fx09.jpg
-  - frames/xhs-wanguotou_fx07.jpg
+  - frames/wanguotou_fx01.jpg
+  - frames/wanguotou_fx02.jpg
+  - frames/wanguotou_fx11.jpg
+  - frames/wanguotou_fx03.jpg
+  - frames/wanguotou_fx10.jpg
+  - frames/wanguotou_fx04.jpg
+  - frames/wanguotou_fx05.jpg
+  - frames/wanguotou_fx08.jpg
+  - frames/wanguotou_fx09.jpg
+  - frames/wanguotou_fx07.jpg
 tags: [收藏, 定格, 藏式, AI, 解密]
 aliases: [玩骨头, 玩骨頭, 蹦萨奇, 藏式解密]
 discovery_platform: 未知
@@ -48,7 +48,7 @@ collection_layer: 参考
 <!-- psum:end -->
 <!-- added:2026-10-11 -->
 
-![cover](covers/xhs-wanguotou.jpg)
+![cover](covers/wanguotou.jpg)
 
 <!-- added:2026-10-11 -->
 
@@ -68,16 +68,16 @@ collection_layer: 参考
 
 ### 实机截图（已目视抽检为本作）
 
-![xhs-wanguotou_fx01.jpg](frames/xhs-wanguotou_fx01.jpg)
-![xhs-wanguotou_fx02.jpg](frames/xhs-wanguotou_fx02.jpg)
-![xhs-wanguotou_fx11.jpg](frames/xhs-wanguotou_fx11.jpg)
-![xhs-wanguotou_fx03.jpg](frames/xhs-wanguotou_fx03.jpg)
-![xhs-wanguotou_fx10.jpg](frames/xhs-wanguotou_fx10.jpg)
-![xhs-wanguotou_fx04.jpg](frames/xhs-wanguotou_fx04.jpg)
-![xhs-wanguotou_fx05.jpg](frames/xhs-wanguotou_fx05.jpg)
-![xhs-wanguotou_fx08.jpg](frames/xhs-wanguotou_fx08.jpg)
-![xhs-wanguotou_fx09.jpg](frames/xhs-wanguotou_fx09.jpg)
-![xhs-wanguotou_fx07.jpg](frames/xhs-wanguotou_fx07.jpg)
+![wanguotou_fx01.jpg](frames/wanguotou_fx01.jpg)
+![wanguotou_fx02.jpg](frames/wanguotou_fx02.jpg)
+![wanguotou_fx11.jpg](frames/wanguotou_fx11.jpg)
+![wanguotou_fx03.jpg](frames/wanguotou_fx03.jpg)
+![wanguotou_fx10.jpg](frames/wanguotou_fx10.jpg)
+![wanguotou_fx04.jpg](frames/wanguotou_fx04.jpg)
+![wanguotou_fx05.jpg](frames/wanguotou_fx05.jpg)
+![wanguotou_fx08.jpg](frames/wanguotou_fx08.jpg)
+![wanguotou_fx09.jpg](frames/wanguotou_fx09.jpg)
+![wanguotou_fx07.jpg](frames/wanguotou_fx07.jpg)
 
 ## 资料来源
 

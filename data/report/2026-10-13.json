@@ -15,21 +15,51 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4924120.jpg",
+   "id": "p-43b21b480d",
+   "name": "赌你敢开"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3694590.jpg",
+   "id": "p-acdea54c0c",
+   "name": "诡租：205号房"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5135060.jpg",
+   "id": "p-43f95eada2",
+   "name": "沣都镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2333000.jpg",
-   "id": "steam-2333000",
-   "name": "银松镇"
+   "cover": "covers/steam-5166850.jpg",
+   "id": "p-d2844d718b",
+   "name": "人柱 Hitobashira"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
+   "cover": "covers/steam-2490960.jpg",
+   "id": "steam-2490960",
+   "name": "驱灵天师"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-2333000.jpg",
+   "id": "steam-2333000",
+   "name": "银松镇"
   },
   {
    "competitor": true,
@@ -48,6 +78,12 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
   },
   {
    "competitor": false,
@@ -69,12 +105,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2490960.jpg",
-   "id": "steam-2490960",
-   "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-jiaohun.jpg",
    "id": "x-jiaohun",
    "name": "叫魂 JIAOHUN"
@@ -87,18 +117,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4924120.jpg",
-   "id": "p-43b21b480d",
-   "name": "赌你敢开"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3694590.jpg",
-   "id": "p-acdea54c0c",
-   "name": "诡租：205号房"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-5135770.jpg",
    "id": "p-10ca9da4c1",
    "name": "炼妖录：无相之人"
@@ -108,12 +126,6 @@
    "cover": "covers/steam-5144840.jpg",
    "id": "p-67664ead75",
    "name": "泣魂"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5135060.jpg",
-   "id": "p-43f95eada2",
-   "name": "沣都镇"
   },
   {
    "competitor": true,
@@ -135,21 +147,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-1602300.jpg",
    "id": "p-93bde32e6f",
    "name": "人窟日记"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5166850.jpg",
-   "id": "p-d2844d718b",
-   "name": "人柱 Hitobashira"
   },
   {
    "competitor": true,

@@ -15,6 +15,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3593940.jpg",
+   "id": "p-21d8dd8ab7",
+   "name": "出马"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -33,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -51,15 +57,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
   },
   {
    "competitor": true,
@@ -72,12 +78,6 @@
    "cover": "covers/steam-5326910.jpg",
    "id": "p-979bce17cb",
    "name": "阴债"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3593940.jpg",
-   "id": "p-21d8dd8ab7",
-   "name": "出马"
   },
   {
    "competitor": false,

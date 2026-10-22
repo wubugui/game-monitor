@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -45,15 +51,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
   },
   {
    "competitor": true,
@@ -69,21 +75,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
    "cover": "covers/steam-4283270.jpg",
    "id": "steam-4283270",
    "name": "契命"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": true,

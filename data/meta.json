@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-10-21",
+ "data_date": "2026-10-22",
  "dev_types": [
   "个人",
   "小团队",
@@ -89,10 +89,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-21",
- "latest_report_date": "2026-10-21",
+ "latest_report": "2026-10-22",
+ "latest_report_date": "2026-10-22",
  "project_count": 236,
- "report_count": 25,
+ "report_count": 26,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -308,7 +308,7 @@
    "id": "p-680bfc1559",
    "kind": "updated",
    "name": "世末终巡",
-   "note": "评测总量：11→11（全好评；相对昨日报无增量）。样本仍极薄，不给%。〔Steam〕",
+   "note": "项目总结",
    "status": "已发售（2026 年 10 月 12 日）"
   },
   {
@@ -620,7 +620,7 @@
    "id": "p-dd4450b100",
    "kind": "updated",
    "name": "山瘟",
-   "note": "评测总量：20→22（好评 21 / 差评 1）。样本仍偏薄，不给稳定%。〔Steam〕",
+   "note": "项目总结",
    "status": "已发售（2026-10-14；首评窗爬升，评测约22；2026-10-21 复核）"
   },
   {

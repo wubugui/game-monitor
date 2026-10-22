@@ -24,9 +24,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
   },
   {
    "competitor": true,
@@ -36,15 +42,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
@@ -111,12 +123,6 @@
    "cover": "covers/x-strangetales.jpg",
    "id": "x-strangetales",
    "name": "民国诡事 Old China: Strange Tales（Strange Tales of Republican China）"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Kp46YEZN.jpg",
-   "id": "BV17Kp46YEZN",
-   "name": "别眨眼"
   },
   {
    "competitor": true,
@@ -195,12 +201,6 @@
    "cover": "covers/x-nextdawn.jpg",
    "id": "p-c18d4869b6",
    "name": "致下一个黎明 To the next dawn"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
   },
   {
    "competitor": false,

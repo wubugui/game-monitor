@@ -15,6 +15,24 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -39,21 +57,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/wanguotou.jpg",
    "id": "wanguotou",
    "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
@@ -72,12 +78,6 @@
    "cover": "covers/zhiji.jpg",
    "id": "zhiji",
    "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
   },
   {
    "competitor": true,

@@ -21,21 +21,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3694590.jpg",
-   "id": "p-acdea54c0c",
-   "name": "诡租：205号房"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5135060.jpg",
-   "id": "p-43f95eada2",
-   "name": "沣都镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
+   "cover": "covers/steam-5135770.jpg",
+   "id": "p-10ca9da4c1",
+   "name": "炼妖录：无相之人"
   },
   {
    "competitor": true,
@@ -51,6 +39,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-5382350.jpg",
+   "id": "p-935b02fc5a",
+   "name": "书包怪谈"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-2490960.jpg",
    "id": "steam-2490960",
    "name": "驱灵天师"
@@ -63,9 +57,21 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
   },
   {
    "competitor": true,
@@ -81,9 +87,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
+   "cover": "covers/steam-3694590.jpg",
+   "id": "p-acdea54c0c",
+   "name": "诡租：205号房"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5135060.jpg",
+   "id": "p-43f95eada2",
+   "name": "沣都镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
   },
   {
    "competitor": false,
@@ -117,12 +135,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-5135770.jpg",
-   "id": "p-10ca9da4c1",
-   "name": "炼妖录：无相之人"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-5144840.jpg",
    "id": "p-67664ead75",
    "name": "泣魂"
@@ -153,21 +165,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-5382350.jpg",
-   "id": "p-935b02fc5a",
-   "name": "书包怪谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/zhiji.jpg",
    "id": "zhiji",
    "name": "纸祭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
   }
  ],
  "sections": [

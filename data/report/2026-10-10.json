@@ -24,15 +24,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
-   "cover": "covers/BV17Kp46YEZN.jpg",
-   "id": "BV17Kp46YEZN",
-   "name": "别眨眼"
+   "cover": "covers/x-hapunan.jpg",
+   "id": "x-hapunan",
+   "name": "Hapunan"
   },
   {
    "competitor": true,
@@ -48,15 +48,27 @@
   },
   {
    "competitor": true,
-   "cover": "covers/x-dreadflats.jpg",
-   "id": "p-d2fd5a87c5",
-   "name": "凶寓 Dread Flats"
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-dreadflats.jpg",
+   "id": "p-d2fd5a87c5",
+   "name": "凶寓 Dread Flats"
   },
   {
    "competitor": true,
@@ -75,12 +87,6 @@
    "cover": "covers/x-dollshop.jpg",
    "id": "x-dollshop",
    "name": "The Doll Shop"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
   },
   {
    "competitor": false,
@@ -153,12 +159,6 @@
    "cover": "covers/x-hearforest.jpg",
    "id": "x-hearforest",
    "name": "I Hear the Forest"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-hapunan.jpg",
-   "id": "x-hapunan",
-   "name": "Hapunan"
   },
   {
    "competitor": true,

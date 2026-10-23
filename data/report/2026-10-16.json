@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-5093370.jpg",
-   "id": "p-b24daa8672",
-   "name": "阴阳鉴"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
@@ -51,6 +45,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -75,15 +75,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
+   "cover": "covers/steam-5093370.jpg",
+   "id": "p-b24daa8672",
+   "name": "阴阳鉴"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
   },
   {
    "competitor": true,
@@ -114,12 +120,6 @@
    "cover": "covers/BV1btHC6bEVr.jpg",
    "id": "BV1btHC6bEVr",
    "name": "太渊无朔"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
   }
  ],
  "sections": [

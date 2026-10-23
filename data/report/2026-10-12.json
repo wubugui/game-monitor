@@ -9,15 +9,9 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4183150.jpg",
-   "id": "steam-4183150",
-   "name": "巡妖"
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
   },
   {
    "competitor": true,
@@ -33,15 +27,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3513600.jpg",
-   "id": "p-2050ec1777",
-   "name": "女吊"
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
+   "cover": "covers/steam-4183150.jpg",
+   "id": "steam-4183150",
+   "name": "巡妖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3513600.jpg",
+   "id": "p-2050ec1777",
+   "name": "女吊"
   },
   {
    "competitor": true,

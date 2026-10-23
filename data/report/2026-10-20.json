@@ -33,9 +33,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,
@@ -48,6 +48,12 @@
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
   },
   {
    "competitor": true,
@@ -75,6 +81,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3170460.jpg",
    "id": "p-91f149afe3",
    "name": "小先生：终南长鸣"
@@ -99,21 +111,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/wanguotou.jpg",
    "id": "wanguotou",
    "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
   }
  ],
  "sections": [

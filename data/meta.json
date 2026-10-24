@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-10-23",
+ "data_date": "2026-10-24",
  "dev_types": [
   "个人",
   "小团队",
@@ -89,10 +89,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-23",
- "latest_report_date": "2026-10-23",
+ "latest_report": "2026-10-24",
+ "latest_report_date": "2026-10-24",
  "project_count": 236,
- "report_count": 27,
+ "report_count": 28,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -236,7 +236,7 @@
    "id": "steam-4037370",
    "kind": "updated",
    "name": "Laica",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "开发中（2027）"
   },
   {
@@ -248,7 +248,7 @@
    "id": "steam-3660260",
    "kind": "updated",
    "name": "Out Fishing",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（正式 2027）"
   },
   {
@@ -272,7 +272,7 @@
    "id": "steam-5166790",
    "kind": "updated",
    "name": "Unwatching -The Seven Dolls-",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（2026-10-11）"
   },
   {
@@ -308,7 +308,7 @@
    "id": "p-680bfc1559",
    "kind": "updated",
    "name": "世末终巡",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 10 月 12 日）"
   },
   {
@@ -332,7 +332,7 @@
    "id": "p-935b02fc5a",
    "kind": "updated",
    "name": "书包怪谈",
-   "note": "B站评论/弹幕全量重抓（2026-10-23，登录态）：高播放 top5 视频 BV1t8NnerE1s（122.5万播放）；BV1CrWqzpEc7（25.3万播放）；BV13Z421E7Mu（20",
+   "note": "项目总结",
    "status": "即将推出（抢先体验意向）"
   },
   {
@@ -356,7 +356,7 @@
    "id": "p-d2844d718b",
    "kind": "updated",
    "name": "人柱 Hitobashira",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo 已出（2026-09-15）"
   },
   {
@@ -368,7 +368,7 @@
    "id": "p-93bde32e6f",
    "kind": "updated",
    "name": "人窟日记",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（2026 年内）"
   },
   {
@@ -392,7 +392,7 @@
    "id": "jiabao",
    "kind": "updated",
    "name": "佳宝物业热线",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "商店页已开（即将宣布）"
   },
   {
@@ -428,7 +428,7 @@
    "id": "p-21d8dd8ab7",
    "kind": "updated",
    "name": "出马",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 5 月 27 日）"
   },
   {
@@ -452,7 +452,7 @@
    "id": "yongchuang-sirengu",
    "kind": "updated",
    "name": "勇闯死人谷",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（B站首曝）"
   },
   {
@@ -464,7 +464,7 @@
    "id": "p-330057f22b",
    "kind": "updated",
    "name": "升棺发财",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将宣布"
   },
   {
@@ -512,7 +512,7 @@
    "id": "p-f0e0839d95",
    "kind": "updated",
    "name": "囍",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 3 月 12 日）"
   },
   {
@@ -524,7 +524,7 @@
    "id": "p-46ee7550da",
    "kind": "updated",
    "name": "回煞录",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 5 月 15 日）"
   },
   {
@@ -560,7 +560,7 @@
    "id": "steam-4283270",
    "kind": "updated",
    "name": "契命",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（试玩版，正式版即将推出）"
   },
   {
@@ -572,7 +572,7 @@
    "id": "p-2050ec1777",
    "kind": "updated",
    "name": "女吊",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026-04-17）"
   },
   {
@@ -608,7 +608,7 @@
    "id": "p-91f149afe3",
    "kind": "updated",
    "name": "小先生：终南长鸣",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 9 月 11 日）"
   },
   {
@@ -620,7 +620,7 @@
    "id": "p-dd4450b100",
    "kind": "updated",
    "name": "山瘟",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026-10-14；首评窗爬升，评测约22；2026-10-21 复核）"
   },
   {
@@ -632,7 +632,7 @@
    "id": "p-3772892a2f",
    "kind": "updated",
    "name": "山鬼志：寒衣",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 5 月 7 日）"
   },
   {
@@ -644,7 +644,7 @@
    "id": "steam-4183150",
    "kind": "updated",
    "name": "巡妖",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（2026-10-07 上线）"
   },
   {
@@ -656,7 +656,7 @@
    "id": "steam-4650270",
    "kind": "updated",
    "name": "幸福里：生门",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将新品节试玩"
   },
   {
@@ -668,7 +668,7 @@
    "id": "p-a40b54b4db",
    "kind": "updated",
    "name": "弃层凶谈",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（Demo 已出）"
   },
   {
@@ -680,7 +680,7 @@
    "id": "p-99a0661b29",
    "kind": "updated",
    "name": "快乐的晴天娃娃",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（试玩版已出）"
   },
   {
@@ -692,7 +692,7 @@
    "id": "p-8b84f7a87f",
    "kind": "updated",
    "name": "念 Horizon",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将宣布（Demo 定档 2026-10-21）"
   },
   {
@@ -704,7 +704,7 @@
    "id": "steam-4952700",
    "kind": "updated",
    "name": "惊悚乐园：平田的世界",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（正式 2026-12-15）"
   },
   {
@@ -716,7 +716,7 @@
    "id": "steam-4881350",
    "kind": "updated",
    "name": "我将为死者命名",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（正式 2027）"
   },
   {
@@ -740,7 +740,7 @@
    "id": "p-71e32166fe",
    "kind": "updated",
    "name": "未春节 Festival of Unborn Spring",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将发售（2027 年 2 月）"
   },
   {
@@ -764,7 +764,7 @@
    "id": "steam-3820460",
    "kind": "updated",
    "name": "末班",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（商店口径 2026-10-11）"
   },
   {
@@ -776,7 +776,7 @@
    "id": "steam-4124320",
    "kind": "updated",
    "name": "树海之路",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Playtest / 2027"
   },
   {
@@ -800,7 +800,7 @@
    "id": "p-1ce1fa5313",
    "kind": "updated",
    "name": "此命无名",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出"
   },
   {
@@ -824,7 +824,7 @@
    "id": "steam-4953580",
    "kind": "updated",
    "name": "永夜协奏曲",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo 已上线"
   },
   {
@@ -836,7 +836,7 @@
    "id": "steam-3677850",
    "kind": "updated",
    "name": "永泉",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（正式 2026-11-11）"
   },
   {
@@ -848,7 +848,7 @@
    "id": "p-43f95eada2",
    "kind": "updated",
    "name": "沣都镇",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出（商店口径）"
   },
   {
@@ -860,7 +860,7 @@
    "id": "p-67664ead75",
    "kind": "updated",
    "name": "泣魂",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo 已出（2026-09-17）"
   },
   {
@@ -884,7 +884,7 @@
    "id": "steam-1859910",
    "kind": "updated",
    "name": "活侠传",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（持续免费大更新）"
   },
   {
@@ -908,7 +908,7 @@
    "id": "p-10ca9da4c1",
    "kind": "updated",
    "name": "炼妖录：无相之人",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将推出"
   },
   {
@@ -920,7 +920,7 @@
    "id": "p-32fe1bc024",
    "kind": "updated",
    "name": "物理超度",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 6 月 12 日）"
   },
   {
@@ -932,7 +932,7 @@
    "id": "wanguotou",
    "kind": "updated",
    "name": "玩骨頭",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "开发中（计划 Steam / 实机 Demo）"
   },
   {
@@ -944,7 +944,7 @@
    "id": "p-a7ce3bb1c0",
    "kind": "updated",
    "name": "祖母 grandmother",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 6 月 5 日）"
   },
   {
@@ -968,7 +968,7 @@
    "id": "zhiji",
    "kind": "updated",
    "name": "纸祭",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "至少做到第三章（识恶）"
   },
   {
@@ -980,7 +980,7 @@
    "id": "p-cea474f50d",
    "kind": "updated",
    "name": "荒山诡宿",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将发售（2026 年第四季度）"
   },
   {
@@ -1004,7 +1004,7 @@
    "id": "p-769465ad17",
    "kind": "updated",
    "name": "衔蝶",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 4 月 27 日）"
   },
   {
@@ -1016,7 +1016,7 @@
    "id": "steam-2593320",
    "kind": "updated",
    "name": "要理问答",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "Demo（正式 2027 Q3）"
   },
   {
@@ -1076,7 +1076,7 @@
    "id": "p-ad89ac0730",
    "kind": "updated",
    "name": "诡宅祭坛",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 7 月 28 日）"
   },
   {
@@ -1088,7 +1088,7 @@
    "id": "steam-4354610",
    "kind": "updated",
    "name": "诡影藏锋",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "测试中（2026-08 首测；即将推出）"
   },
   {
@@ -1112,7 +1112,7 @@
    "id": "p-acdea54c0c",
    "kind": "updated",
    "name": "诡租：205号房",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025-08-21）"
   },
   {
@@ -1148,7 +1148,7 @@
    "id": "p-43b21b480d",
    "kind": "updated",
    "name": "赌你敢开",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将宣布（Demo 2026-10-02）"
   },
   {
@@ -1160,7 +1160,7 @@
    "id": "p-8168ed0844",
    "kind": "updated",
    "name": "过阴",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2023 年 7 月 12 日）"
   },
   {
@@ -1184,7 +1184,7 @@
    "id": "p-b1bd7fdc25",
    "kind": "updated",
    "name": "追曙",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 5 月 11 日）"
   },
   {
@@ -1208,7 +1208,7 @@
    "id": "p-6ca2ff6ae8",
    "kind": "updated",
    "name": "邪祟",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026 年 7 月 9 日）"
   },
   {
@@ -1232,7 +1232,7 @@
    "id": "steam-2333000",
    "kind": "updated",
    "name": "银松镇",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2026-10-08）"
   },
   {
@@ -1268,7 +1268,7 @@
    "id": "p-979bce17cb",
    "kind": "updated",
    "name": "阴债",
-   "note": "B站评论/弹幕全量重抓（2026-10-23，登录态）：高播放 top5 视频 BV1KUYLewEoj（41.9万播放）；BV1uzykYpEZV（7.4万播放）；BV1MsgTz1EvM（6.3万",
+   "note": "项目总结",
    "status": "即将推出"
   },
   {
@@ -1292,7 +1292,7 @@
    "id": "p-b24daa8672",
    "kind": "updated",
    "name": "阴阳鉴",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "即将发售（即将宣布）"
   },
   {
@@ -1328,7 +1328,7 @@
    "id": "p-e3b7173ecf",
    "kind": "updated",
    "name": "頭七",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "已发售（2025 年 8 月 13 日）"
   },
   {
@@ -1340,7 +1340,7 @@
    "id": "steam-2490960",
    "kind": "updated",
    "name": "驱灵天师",
-   "note": "玩家反馈",
+   "note": "项目总结",
    "status": "抢先体验（商店口径 2026-10-12）"
   },
   {
@@ -1376,7 +1376,7 @@
    "id": "steam-4498100",
    "kind": "updated",
    "name": "黄泉園",
-   "note": "B站评论/弹幕全量重抓（2026-10-23，登录态）：高播放 top5 视频 BV1Ri421X7sS（1231.4万播放）；BV19J4m177nm（121.1万播放）；BV1AD4y1Y7k9（",
+   "note": "项目总结",
    "status": "商店页公开（2027）"
   },
   {

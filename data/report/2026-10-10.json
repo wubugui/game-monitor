@@ -24,6 +24,42 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1o7ht6pEgQ.jpg",
+   "id": "BV1o7ht6pEgQ",
+   "name": "随侯珠"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-emberbound.jpg",
    "id": "p-6e867641fa",
    "name": "未烬之约 EMBERBOUND"
@@ -36,33 +72,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Kp46YEZN.jpg",
-   "id": "BV17Kp46YEZN",
-   "name": "别眨眼"
   },
   {
    "competitor": true,
@@ -159,12 +171,6 @@
    "cover": "covers/x-hearforest.jpg",
    "id": "x-hearforest",
    "name": "I Hear the Forest"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
   },
   {
    "competitor": true,
@@ -339,12 +345,6 @@
    "cover": "covers/BV1uiao6oEmy.jpg",
    "id": "BV1uiao6oEmy",
    "name": "1999保密协议"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1o7ht6pEgQ.jpg",
-   "id": "BV1o7ht6pEgQ",
-   "name": "随侯珠"
   }
  ],
  "sections": [

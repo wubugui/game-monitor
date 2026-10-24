@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "id": "p-330057f22b",
-   "name": "升棺发财"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3593940.jpg",
    "id": "p-21d8dd8ab7",
    "name": "出马"
@@ -30,18 +24,6 @@
    "cover": "covers/steam-3167220.jpg",
    "id": "p-a7ce3bb1c0",
    "name": "祖母 grandmother"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
   },
   {
    "competitor": true,
@@ -60,12 +42,6 @@
    "cover": "covers/steam-4924120.jpg",
    "id": "p-43b21b480d",
    "name": "赌你敢开"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5135770.jpg",
-   "id": "p-10ca9da4c1",
-   "name": "炼妖录：无相之人"
   },
   {
    "competitor": true,
@@ -93,27 +69,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2490960.jpg",
-   "id": "steam-2490960",
-   "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3677850.jpg",
-   "id": "steam-3677850",
-   "name": "永泉"
   },
   {
    "competitor": true,
@@ -135,27 +93,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-emberbound.jpg",
-   "id": "p-6e867641fa",
-   "name": "未烬之约 EMBERBOUND"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-hapunan.jpg",
-   "id": "x-hapunan",
-   "name": "Hapunan"
   },
   {
    "competitor": true,
@@ -174,12 +114,6 @@
    "cover": "covers/BV1S7LR6VEKc.jpg",
    "id": "BV1gE411y7q8",
    "name": "请神"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": true,
@@ -204,6 +138,72 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4840290.jpg",
+   "id": "p-330057f22b",
+   "name": "升棺发财"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5135770.jpg",
+   "id": "p-10ca9da4c1",
+   "name": "炼妖录：无相之人"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-2490960.jpg",
+   "id": "steam-2490960",
+   "name": "驱灵天师"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3677850.jpg",
+   "id": "steam-3677850",
+   "name": "永泉"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-emberbound.jpg",
+   "id": "p-6e867641fa",
+   "name": "未烬之约 EMBERBOUND"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-hapunan.jpg",
+   "id": "x-hapunan",
+   "name": "Hapunan"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
   }
  ],
  "sections": [

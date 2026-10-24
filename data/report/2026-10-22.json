@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-4840290.jpg",
-   "id": "p-330057f22b",
-   "name": "升棺发财"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3593940.jpg",
    "id": "p-21d8dd8ab7",
    "name": "出马"
@@ -30,18 +24,6 @@
    "cover": "covers/steam-3167220.jpg",
    "id": "p-a7ce3bb1c0",
    "name": "祖母 grandmother"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
   },
   {
    "competitor": true,
@@ -69,6 +51,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -78,12 +66,6 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-2490960.jpg",
-   "id": "steam-2490960",
-   "name": "驱灵天师"
   },
   {
    "competitor": true,
@@ -111,6 +93,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Kp46YEZN.jpg",
+   "id": "BV17Kp46YEZN",
+   "name": "别眨眼"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
@@ -120,12 +114,6 @@
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": true,
@@ -147,6 +135,36 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4840290.jpg",
+   "id": "p-330057f22b",
+   "name": "升棺发财"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-2490960.jpg",
+   "id": "steam-2490960",
+   "name": "驱灵天师"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-5093370.jpg",
    "id": "p-b24daa8672",
    "name": "阴阳鉴"
@@ -165,12 +183,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4354610.jpg",
    "id": "steam-4354610",
    "name": "诡影藏锋"
@@ -186,18 +198,6 @@
    "cover": "covers/BV15ZijeREHG.jpg",
    "id": "BV15ZijeREHG",
    "name": "镇邪2"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Kp46YEZN.jpg",
-   "id": "BV17Kp46YEZN",
-   "name": "别眨眼"
   },
   {
    "competitor": true,

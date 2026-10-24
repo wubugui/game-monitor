@@ -8,10 +8,16 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
+   "competitor": true,
+   "cover": "covers/steam-3403510.jpg",
+   "id": "p-3772892a2f",
+   "name": "山鬼志：寒衣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
   },
   {
    "competitor": true,
@@ -21,21 +27,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2490960.jpg",
-   "id": "steam-2490960",
-   "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3660260.jpg",
-   "id": "steam-3660260",
-   "name": "Out Fishing"
   },
   {
    "competitor": true,
@@ -51,21 +45,33 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
   },
   {
-   "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
+   "cover": "covers/steam-2490960.jpg",
+   "id": "steam-2490960",
+   "name": "驱灵天师"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3660260.jpg",
+   "id": "steam-3660260",
+   "name": "Out Fishing"
   },
   {
    "competitor": false,
@@ -78,12 +84,6 @@
    "cover": "covers/steam-4037370.jpg",
    "id": "steam-4037370",
    "name": "Laica"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3403510.jpg",
-   "id": "p-3772892a2f",
-   "name": "山鬼志：寒衣"
   },
   {
    "competitor": true,

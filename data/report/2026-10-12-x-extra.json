@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-3513600.jpg",
-   "id": "p-2050ec1777",
-   "name": "女吊"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1S7LR6VEKc.jpg",
    "id": "BV1gE411y7q8",
    "name": "请神"
@@ -36,6 +30,12 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3513600.jpg",
+   "id": "p-2050ec1777",
+   "name": "女吊"
   },
   {
    "competitor": true,

@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
@@ -45,15 +39,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV14HHq6uEX5.jpg",
-   "id": "BV14HHq6uEX5",
-   "name": "泯灭"
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
+   "cover": "covers/BV14HHq6uEX5.jpg",
+   "id": "BV14HHq6uEX5",
+   "name": "泯灭"
   },
   {
    "competitor": true,
@@ -74,6 +68,18 @@
    "name": "乌合之众"
   },
   {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
+  },
+  {
    "competitor": false,
    "cover": "covers/steam-5270150.jpg",
    "id": "p-4d51d8eab2",
@@ -90,12 +96,6 @@
    "cover": "covers/BV1RAeV67Ed9.jpg",
    "id": "BV1RAeV67Ed9",
    "name": "妄生"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,

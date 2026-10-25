@@ -63,6 +63,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",
    "name": "你就是缘由"
@@ -102,12 +108,6 @@
    "cover": "covers/wanguotou.jpg",
    "id": "wanguotou",
    "name": "玩骨頭"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,

@@ -160,6 +160,10 @@ discovery_date: "2026-10-10"
 <!-- recrawl:2026-10-24 -->
 **B站评论/弹幕全量重抓（2026-10-24，登录态）**：高播放 top5 视频 BV1nqgNzfEQo（145.2万播放）；BV1nfuuzTEPE（102.3万播放）；BV1vBumzNEPT（76.9万播放）；BV1dSPWehEJt（40.7万播放）；BV1AxMRzYEdZ（31.6万播放）。评论含楼中楼、弹幕按分段全量拉取，标题与本游戏无关的视频不计入分析。
 
+<!-- added:2026-10-25 -->
+<!-- recrawl:2026-10-25 -->
+**B站评论/弹幕全量重抓（2026-10-25，登录态）**：高播放 top5 视频 BV1nqgNzfEQo（145.2万播放）；BV1nfuuzTEPE（102.3万播放）；BV1vBumzNEPT（77.0万播放）；BV1dSPWehEJt（40.7万播放）；BV1AxMRzYEdZ（31.6万播放）。评论含楼中楼、弹幕按分段全量拉取，标题与本游戏无关的视频不计入分析。
+
 ## 实际评价
 <!-- feedback:start -->
 <!-- added:2026-10-24 -->

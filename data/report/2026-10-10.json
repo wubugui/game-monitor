@@ -24,12 +24,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
@@ -57,6 +51,12 @@
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",
    "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
   },
   {
    "competitor": true,

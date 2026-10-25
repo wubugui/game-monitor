@@ -45,6 +45,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -102,12 +108,6 @@
    "cover": "covers/x-hariti.jpg",
    "id": "p-af2615f3bf",
    "name": "鬼子母 Hariti"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   }
  ],
  "sections": [

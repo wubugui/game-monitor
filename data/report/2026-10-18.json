@@ -45,6 +45,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4840290.jpg",
    "id": "p-330057f22b",
    "name": "升棺发财"
@@ -66,12 +72,6 @@
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,

@@ -39,21 +39,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4924120.jpg",
-   "id": "p-43b21b480d",
-   "name": "赌你敢开"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-1859910.jpg",
    "id": "steam-1859910",
    "name": "活侠传"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
   },
   {
    "competitor": true,
@@ -93,12 +81,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1WGqhYdEjx.jpg",
-   "id": "BV1WGqhYdEjx",
-   "name": "无人"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Kp46YEZN.jpg",
    "id": "BV17Kp46YEZN",
    "name": "别眨眼"
@@ -132,6 +114,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4924120.jpg",
+   "id": "p-43b21b480d",
+   "name": "赌你敢开"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1WGqhYdEjx.jpg",
+   "id": "BV1WGqhYdEjx",
+   "name": "无人"
   },
   {
    "competitor": true,

@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -51,15 +45,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
   },
   {
    "competitor": false,

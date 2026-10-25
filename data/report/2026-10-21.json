@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -30,12 +24,6 @@
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3513600.jpg",
-   "id": "p-2050ec1777",
-   "name": "女吊"
   },
   {
    "competitor": true,
@@ -81,12 +69,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
@@ -96,6 +78,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3513600.jpg",
+   "id": "p-2050ec1777",
+   "name": "女吊"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
   },
   {
    "competitor": true,

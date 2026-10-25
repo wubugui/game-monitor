@@ -21,12 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3170460.jpg",
-   "id": "p-91f149afe3",
-   "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -63,15 +57,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1xMYY6QEBT.jpg",
-   "id": "BV1xMYY6QEBT",
-   "name": "小先生"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",
    "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3170460.jpg",
+   "id": "p-91f149afe3",
+   "name": "小先生：终南长鸣"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1xMYY6QEBT.jpg",
+   "id": "BV1xMYY6QEBT",
+   "name": "小先生"
   },
   {
    "competitor": true,

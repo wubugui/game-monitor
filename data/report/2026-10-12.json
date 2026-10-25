@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3513600.jpg",
-   "id": "p-2050ec1777",
-   "name": "女吊"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -30,6 +24,18 @@
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3513600.jpg",
+   "id": "p-2050ec1777",
+   "name": "女吊"
   },
   {
    "competitor": true,
@@ -48,12 +54,6 @@
    "cover": "covers/steam-4183150.jpg",
    "id": "steam-4183150",
    "name": "巡妖"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   }
  ],
  "sections": [

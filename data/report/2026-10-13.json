@@ -21,12 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-5382350.jpg",
-   "id": "p-935b02fc5a",
-   "name": "书包怪谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
@@ -54,6 +48,12 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5382350.jpg",
+   "id": "p-935b02fc5a",
+   "name": "书包怪谈"
   },
   {
    "competitor": true,

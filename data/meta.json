@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-10-25",
+ "data_date": "2026-10-26",
  "dev_types": [
   "个人",
   "小团队",
@@ -89,10 +89,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-10-25",
- "latest_report_date": "2026-10-25",
+ "latest_report": "2026-10-26",
+ "latest_report_date": "2026-10-26",
  "project_count": 236,
- "report_count": 29,
+ "report_count": 30,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -332,7 +332,7 @@
    "id": "p-935b02fc5a",
    "kind": "updated",
    "name": "书包怪谈",
-   "note": "B站评论/弹幕全量重抓（2026-10-25，登录态）：高播放 top5 视频 BV1t8NnerE1s（122.5万播放）；BV1CrWqzpEc7（25.4万播放）；BV13Z421E7Mu（20",
+   "note": "B站评论/弹幕全量重抓（2026-10-26，登录态）：高播放 top5 视频 BV1CrWqzpEc7（25.4万播放）；BV13Z421E7Mu（20.4万播放）；BV1D34y1P7r9（17.",
    "status": "即将推出（抢先体验意向）"
   },
   {
@@ -1268,7 +1268,7 @@
    "id": "p-979bce17cb",
    "kind": "updated",
    "name": "阴债",
-   "note": "B站评论/弹幕全量重抓（2026-10-25，登录态）：高播放 top5 视频 BV1KUYLewEoj（41.9万播放）；BV1uzykYpEZV（7.4万播放）；BV1MsgTz1EvM（6.3万",
+   "note": "B站评论/弹幕全量重抓（2026-10-26，登录态）：高播放 top5 视频 BV1KUYLewEoj（41.9万播放）；BV15s4y1k75y（8.7万播放）；BV1uzykYpEZV（7.4万",
    "status": "即将推出"
   },
   {
@@ -1376,7 +1376,7 @@
    "id": "steam-4498100",
    "kind": "updated",
    "name": "黄泉園",
-   "note": "B站评论/弹幕全量重抓（2026-10-25，登录态）：高播放 top5 视频 BV1Ri421X7sS（1231.7万播放）；BV1Y1421D7Cx（343.3万播放）；BV19J4m177nm（",
+   "note": "B站评论/弹幕全量重抓（2026-10-26，登录态）：高播放 top5 视频 BV1Ri421X7sS（1231.8万播放）；BV1AD4y1Y7k9（34.4万播放）；BV1TS411A7tG（2",
    "status": "商店页公开（2027）"
   },
   {

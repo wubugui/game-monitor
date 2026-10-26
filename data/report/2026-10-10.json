@@ -18,6 +18,18 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/x-farrealm.jpg",
+   "id": "x-farrealm",
+   "name": "遥之境 Far Realm"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -183,18 +195,6 @@
    "cover": "covers/x-gate.jpg",
    "id": "x-gate",
    "name": "門 GATE"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-farrealm.jpg",
-   "id": "x-farrealm",
-   "name": "遥之境 Far Realm"
   },
   {
    "competitor": true,

@@ -39,12 +39,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -54,18 +48,6 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5382350.jpg",
-   "id": "p-935b02fc5a",
-   "name": "书包怪谈"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4498100.jpg",
-   "id": "steam-4498100",
-   "name": "黄泉園"
   },
   {
    "competitor": true,
@@ -156,6 +138,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5382350.jpg",
+   "id": "p-935b02fc5a",
+   "name": "书包怪谈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4498100.jpg",
+   "id": "steam-4498100",
+   "name": "黄泉園"
   },
   {
    "competitor": true,

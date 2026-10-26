@@ -39,6 +39,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-soulcake.jpg",
    "id": "p-e77cbd7801",
    "name": "灵魂甜品 Soulcake"
@@ -102,12 +108,6 @@
    "cover": "covers/steam-5356780.jpg",
    "id": "p-71e32166fe",
    "name": "未春节 Festival of Unborn Spring"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4881350.jpg",
-   "id": "steam-4881350",
-   "name": "我将为死者命名"
   },
   {
    "competitor": true,

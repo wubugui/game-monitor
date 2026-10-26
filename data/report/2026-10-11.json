@@ -21,6 +21,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4881350.jpg",
+   "id": "steam-4881350",
+   "name": "我将为死者命名"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4952700.jpg",
    "id": "steam-4952700",
    "name": "惊悚乐园：平田的世界"
@@ -114,12 +120,6 @@
    "cover": "covers/steam-4037370.jpg",
    "id": "steam-4037370",
    "name": "Laica"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4881350.jpg",
-   "id": "steam-4881350",
-   "name": "我将为死者命名"
   },
   {
    "competitor": true,

@@ -18,12 +18,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-farrealm.jpg",
    "id": "x-farrealm",
    "name": "遥之境 Far Realm"
@@ -48,15 +42,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
   },
   {
    "competitor": true,

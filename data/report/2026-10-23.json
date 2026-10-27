@@ -21,12 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3167220.jpg",
-   "id": "p-a7ce3bb1c0",
-   "name": "祖母 grandmother"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -36,6 +30,18 @@
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4924120.jpg",
+   "id": "p-43b21b480d",
+   "name": "赌你敢开"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
   },
   {
    "competitor": true,
@@ -66,12 +72,6 @@
    "cover": "covers/steam-4952700.jpg",
    "id": "steam-4952700",
    "name": "惊悚乐园：平田的世界"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV12Lpt6LEV2.jpg",
-   "id": "yongchuang-sirengu",
-   "name": "勇闯死人谷"
   },
   {
    "competitor": true,
@@ -111,33 +111,33 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
+   "cover": "covers/steam-3167220.jpg",
+   "id": "p-a7ce3bb1c0",
+   "name": "祖母 grandmother"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV12Lpt6LEV2.jpg",
+   "id": "yongchuang-sirengu",
+   "name": "勇闯死人谷"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
    "cover": "covers/steam-5382350.jpg",
    "id": "p-935b02fc5a",
    "name": "书包怪谈"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4924120.jpg",
-   "id": "p-43b21b480d",
-   "name": "赌你敢开"
   },
   {
    "competitor": true,

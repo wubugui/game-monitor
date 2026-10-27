@@ -8,6 +8,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
@@ -102,12 +108,6 @@
    "cover": "covers/steam-3686930.jpg",
    "id": "p-e3b7173ecf",
    "name": "頭七"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
   },
   {
    "competitor": true,

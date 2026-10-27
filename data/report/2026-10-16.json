@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3167220.jpg",
-   "id": "p-a7ce3bb1c0",
-   "name": "祖母 grandmother"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -60,6 +54,12 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3167220.jpg",
+   "id": "p-a7ce3bb1c0",
+   "name": "祖母 grandmother"
   },
   {
    "competitor": true,

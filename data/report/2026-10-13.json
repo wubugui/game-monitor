@@ -8,10 +8,34 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4924120.jpg",
+   "id": "p-43b21b480d",
+   "name": "赌你敢开"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1602300.jpg",
+   "id": "p-93bde32e6f",
+   "name": "人窟日记"
   },
   {
    "competitor": true,
@@ -56,18 +80,6 @@
    "name": "书包怪谈"
   },
   {
-   "competitor": true,
-   "cover": "covers/steam-4924120.jpg",
-   "id": "p-43b21b480d",
-   "name": "赌你敢开"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
-  },
-  {
    "competitor": false,
    "cover": "covers/steam-5270150.jpg",
    "id": "p-4d51d8eab2",
@@ -102,12 +114,6 @@
    "cover": "covers/steam-5135060.jpg",
    "id": "p-43f95eada2",
    "name": "沣都镇"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
   },
   {
    "competitor": true,
@@ -156,12 +162,6 @@
    "cover": "covers/steam-5224770.jpg",
    "id": "p-99a0661b29",
    "name": "快乐的晴天娃娃"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-1602300.jpg",
-   "id": "p-93bde32e6f",
-   "name": "人窟日记"
   },
   {
    "competitor": true,

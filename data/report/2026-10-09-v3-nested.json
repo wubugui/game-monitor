@@ -21,12 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -57,15 +51,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,

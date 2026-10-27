@@ -33,9 +33,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV12Lpt6LEV2.jpg",
-   "id": "yongchuang-sirengu",
-   "name": "勇闯死人谷"
+   "cover": "covers/BV15ZijeREHG.jpg",
+   "id": "BV15ZijeREHG",
+   "name": "镇邪2"
   },
   {
    "competitor": true,
@@ -57,12 +57,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -75,15 +69,27 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV12Lpt6LEV2.jpg",
+   "id": "yongchuang-sirengu",
+   "name": "勇闯死人谷"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
@@ -102,12 +108,6 @@
    "cover": "covers/x-emberbound.jpg",
    "id": "p-6e867641fa",
    "name": "未烬之约 EMBERBOUND"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15ZijeREHG.jpg",
-   "id": "BV15ZijeREHG",
-   "name": "镇邪2"
   },
   {
    "competitor": true,

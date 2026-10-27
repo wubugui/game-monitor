@@ -8,6 +8,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
@@ -72,12 +78,6 @@
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
   },
   {
    "competitor": true,

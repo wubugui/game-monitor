@@ -15,9 +15,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3167220.jpg",
-   "id": "p-a7ce3bb1c0",
-   "name": "祖母 grandmother"
+   "cover": "covers/steam-1772060.jpg",
+   "id": "p-8168ed0844",
+   "name": "过阴"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3870140.jpg",
+   "id": "p-769465ad17",
+   "name": "衔蝶"
   },
   {
    "competitor": true,
@@ -63,6 +69,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3167220.jpg",
+   "id": "p-a7ce3bb1c0",
+   "name": "祖母 grandmother"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4373160.jpg",
    "id": "p-6ca2ff6ae8",
    "name": "邪祟"
@@ -84,18 +96,6 @@
    "cover": "covers/steam-3686930.jpg",
    "id": "p-e3b7173ecf",
    "name": "頭七"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-1772060.jpg",
-   "id": "p-8168ed0844",
-   "name": "过阴"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3870140.jpg",
-   "id": "p-769465ad17",
-   "name": "衔蝶"
   },
   {
    "competitor": true,

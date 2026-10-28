@@ -39,18 +39,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -78,12 +66,6 @@
    "cover": "covers/steam-4952700.jpg",
    "id": "steam-4952700",
    "name": "惊悚乐园：平田的世界"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15ZijeREHG.jpg",
-   "id": "BV15ZijeREHG",
-   "name": "镇邪2"
   },
   {
    "competitor": true,
@@ -126,6 +108,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15ZijeREHG.jpg",
+   "id": "BV15ZijeREHG",
+   "name": "镇邪2"
   },
   {
    "competitor": true,

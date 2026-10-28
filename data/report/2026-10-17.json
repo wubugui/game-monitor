@@ -15,18 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1772060.jpg",
-   "id": "p-8168ed0844",
-   "name": "过阴"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3870140.jpg",
-   "id": "p-769465ad17",
-   "name": "衔蝶"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
@@ -66,6 +54,18 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1772060.jpg",
+   "id": "p-8168ed0844",
+   "name": "过阴"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3870140.jpg",
+   "id": "p-769465ad17",
+   "name": "衔蝶"
   },
   {
    "competitor": true,

@@ -21,27 +21,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1772060.jpg",
-   "id": "p-8168ed0844",
-   "name": "过阴"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3870140.jpg",
-   "id": "p-769465ad17",
-   "name": "衔蝶"
   },
   {
    "competitor": true,
@@ -63,27 +45,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4568330.jpg",
-   "id": "p-a40b54b4db",
-   "name": "弃层凶谈"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-1602300.jpg",
-   "id": "p-93bde32e6f",
-   "name": "人窟日记"
   },
   {
    "competitor": true,
@@ -114,12 +78,6 @@
    "cover": "covers/steam-4952700.jpg",
    "id": "steam-4952700",
    "name": "惊悚乐园：平田的世界"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15ZijeREHG.jpg",
-   "id": "BV15ZijeREHG",
-   "name": "镇邪2"
   },
   {
    "competitor": true,
@@ -186,6 +144,48 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1772060.jpg",
+   "id": "p-8168ed0844",
+   "name": "过阴"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3870140.jpg",
+   "id": "p-769465ad17",
+   "name": "衔蝶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4568330.jpg",
+   "id": "p-a40b54b4db",
+   "name": "弃层凶谈"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1602300.jpg",
+   "id": "p-93bde32e6f",
+   "name": "人窟日记"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15ZijeREHG.jpg",
+   "id": "BV15ZijeREHG",
+   "name": "镇邪2"
   }
  ],
  "sections": [

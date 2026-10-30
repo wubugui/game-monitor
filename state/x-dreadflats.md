@@ -28,7 +28,7 @@ discovery_date: "2026-10-10"
 ---
 # ⭐ 凶寓 Dread Flats
 <!-- psum:start -->
-<!-- added:2026-10-28 -->
+<!-- added:2026-10-31 -->
 
 ## 项目总结
 
@@ -180,9 +180,13 @@ discovery_date: "2026-10-10"
 <!-- recrawl:2026-10-30 -->
 **B站评论/弹幕全量重抓（2026-10-30，登录态）**：高播放 top5 视频 BV1nqgNzfEQo（145.3万播放）；BV1nfuuzTEPE（102.4万播放）；BV1vBumzNEPT（77.1万播放）；BV1dSPWehEJt（40.7万播放）；BV1RGgtz5Ebu（31.8万播放）。评论含楼中楼、弹幕按分段全量拉取，标题与本游戏无关的视频不计入分析。
 
+<!-- added:2026-10-31 -->
+<!-- recrawl:2026-10-31 -->
+**B站评论/弹幕全量重抓（2026-10-31，登录态）**：高播放 top5 视频 BV1nqgNzfEQo（145.3万播放）；BV1nfuuzTEPE（102.4万播放）；BV1vBumzNEPT（77.1万播放）；BV1dSPWehEJt（40.7万播放）；BV1RGgtz5Ebu（31.8万播放）。评论含楼中楼、弹幕按分段全量拉取，标题与本游戏无关的视频不计入分析。
+
 ## 实际评价
 <!-- feedback:start -->
-<!-- added:2026-10-28 -->
+<!-- added:2026-10-31 -->
 
 ### 玩家反馈分析
 
@@ -290,7 +294,7 @@ discovery_date: "2026-10-10"
 - 「开衣柜那一关老奶体型太大会被卡住」（2赞） 〔Steam评测〕
 - 「这是一款短小的恐怖游戏，它通过氛围很好地吓到你。其诡异的基调承载了大部分体验，即使音效设计与惊吓不匹配或音量过大。它……（原文：A short horror game that does a good job of spooking you through its atmosphere. Its errie tone carries most of the experience, even if the sound design doesn't match the jumpscares or its volume is excessively loud. It'…）」（1赞） 〔Steam评测〕
 
-> 方法：每个项目随机抽样评论（均匀 120 条 + 按赞加权 60 条），先由免费大模型初判，再由 Grok Bot 逐条人工复核改正，只有复核过的标签进入统计；比例为样本估计，± 为 95% 置信区间。话题分布仍是关键词粗分。数据截至 2026-10-28。
+> 方法：每个项目随机抽样评论（均匀 120 条 + 按赞加权 60 条），先由免费大模型初判，再由 Grok Bot 逐条人工复核改正，只有复核过的标签进入统计；比例为样本估计，± 为 95% 置信区间。话题分布仍是关键词粗分。数据截至 2026-10-31。
 
 <!-- feedback:end -->
 <!-- added:meta -->

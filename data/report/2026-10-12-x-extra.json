@@ -9,9 +9,9 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,
@@ -33,6 +33,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3513600.jpg",
    "id": "p-2050ec1777",
    "name": "女吊"
@@ -42,12 +48,6 @@
    "cover": "covers/steam-2490960.jpg",
    "id": "steam-2490960",
    "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
   },
   {
    "competitor": true,

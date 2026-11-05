@@ -8,6 +8,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-4924120.jpg",
    "id": "p-43b21b480d",
@@ -39,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -56,10 +56,10 @@
    "name": "南亭湖"
   },
   {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
   },
   {
    "competitor": true,

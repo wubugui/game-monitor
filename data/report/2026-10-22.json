@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-5093370.jpg",
+   "id": "p-b24daa8672",
+   "name": "阴阳鉴"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
@@ -39,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -54,6 +54,12 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
   },
   {
    "competitor": true,
@@ -99,6 +105,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -114,6 +126,12 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
   },
   {
    "competitor": true,
@@ -165,18 +183,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-5093370.jpg",
-   "id": "p-b24daa8672",
-   "name": "阴阳鉴"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3694590.jpg",
    "id": "p-acdea54c0c",
    "name": "诡租：205号房"
@@ -186,12 +192,6 @@
    "cover": "covers/steam-5135060.jpg",
    "id": "p-43f95eada2",
    "name": "沣都镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
   },
   {
    "competitor": true,

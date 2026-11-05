@@ -51,6 +51,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
@@ -84,12 +90,6 @@
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": true,

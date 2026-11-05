@@ -26,6 +26,12 @@
    "name": "荒山诡宿"
   },
   {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
@@ -42,12 +48,6 @@
    "cover": "covers/steam-4924120.jpg",
    "id": "p-43b21b480d",
    "name": "赌你敢开"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
   },
   {
    "competitor": true,
@@ -111,21 +111,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1o7ht6pEgQ.jpg",
-   "id": "BV1o7ht6pEgQ",
-   "name": "随侯珠"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
   },
   {
    "competitor": true,
@@ -153,15 +141,27 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1o7ht6pEgQ.jpg",
+   "id": "BV1o7ht6pEgQ",
+   "name": "随侯珠"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-1772060.jpg",
    "id": "p-8168ed0844",
    "name": "过阴"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
   },
   {
    "competitor": true,

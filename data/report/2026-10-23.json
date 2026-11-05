@@ -39,12 +39,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-1859910.jpg",
-   "id": "steam-1859910",
-   "name": "活侠传"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -54,6 +48,12 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,
@@ -93,9 +93,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
   },
   {
    "competitor": true,
@@ -111,9 +111,27 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-1859910.jpg",
+   "id": "steam-1859910",
+   "name": "活侠传"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
   },
   {
    "competitor": true,
@@ -126,12 +144,6 @@
    "cover": "covers/BV12Lpt6LEV2.jpg",
    "id": "yongchuang-sirengu",
    "name": "勇闯死人谷"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
   },
   {
    "competitor": true,
@@ -171,12 +183,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3677850.jpg",
    "id": "steam-3677850",
    "name": "永泉"
@@ -198,12 +204,6 @@
    "cover": "covers/x-hapunan.jpg",
    "id": "x-hapunan",
    "name": "Hapunan"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   }
  ],
  "sections": [

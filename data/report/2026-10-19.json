@@ -21,18 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
@@ -72,6 +60,18 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,

@@ -9,12 +9,6 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -30,6 +24,12 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,

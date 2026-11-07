@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-11-06",
+ "data_date": "2026-11-07",
  "dev_types": [
   "个人",
   "小团队",
@@ -89,10 +89,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-11-06",
- "latest_report_date": "2026-11-06",
+ "latest_report": "2026-11-07",
+ "latest_report_date": "2026-11-07",
  "project_count": 236,
- "report_count": 37,
+ "report_count": 38,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",

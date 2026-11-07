@@ -21,12 +21,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-5093370.jpg",
-   "id": "p-b24daa8672",
-   "name": "阴阳鉴"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
@@ -66,18 +60,6 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
   },
   {
    "competitor": true,
@@ -168,6 +150,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-5093370.jpg",
+   "id": "p-b24daa8672",
+   "name": "阴阳鉴"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   }
  ],
  "sections": [

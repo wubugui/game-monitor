@@ -51,12 +51,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4283270.jpg",
-   "id": "steam-4283270",
-   "name": "契命"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
@@ -120,6 +114,12 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4283270.jpg",
+   "id": "steam-4283270",
+   "name": "契命"
   },
   {
    "competitor": true,

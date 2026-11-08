@@ -17,6 +17,12 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/BV1jmY361E4t.jpg",
+   "id": "BV1jmY361E4t",
+   "name": "欢迎来到古原镇"
+  },
+  {
    "competitor": true,
    "cover": "covers/steam-3170460.jpg",
    "id": "p-91f149afe3",
@@ -531,12 +537,6 @@
    "cover": "covers/BV1Qeej6XEe5.jpg",
    "id": "BV1Qeej6XEe5",
    "name": "污血远征"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1jmY361E4t.jpg",
-   "id": "BV1jmY361E4t",
-   "name": "欢迎来到古原镇"
   },
   {
    "competitor": false,

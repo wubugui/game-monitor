@@ -8,12 +8,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "covers/steam-5335260.jpg",
-   "id": "p-69a14ab52a",
-   "name": "樱桃客栈"
-  },
-  {
    "competitor": true,
    "cover": "covers/steam-4924120.jpg",
    "id": "p-43b21b480d",
@@ -45,6 +39,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/x-jiaohun.jpg",
+   "id": "x-jiaohun",
+   "name": "叫魂 JIAOHUN"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
@@ -60,6 +60,12 @@
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5335260.jpg",
+   "id": "p-69a14ab52a",
+   "name": "樱桃客栈"
   },
   {
    "competitor": true,
@@ -126,12 +132,6 @@
    "cover": "covers/steam-4037370.jpg",
    "id": "steam-4037370",
    "name": "Laica"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/x-jiaohun.jpg",
-   "id": "x-jiaohun",
-   "name": "叫魂 JIAOHUN"
   },
   {
    "competitor": true,

@@ -196,7 +196,7 @@
 | Seventh Seal | 第三人称生存恐怖动作 | 小团队（Renderready, LLC） | Demo | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/4023230/ ；X 单帖最高赞 4；档案 state/x-seventhseal.md |
 | 山海：神话起源 Shan Hai: Mythic Origins | 山海经动作肉鸽（最多 4 人合作） | 个人（Honglizi，自称独立开发者） | 开发中（有 Demo） | 2026-10-10 |  |  | 发现来源 X；Steam https://store.steampowered.com/app/3540450/ ；X 单帖最高赞 0；档案 state/x-shanhai.md |
 <!-- added:2026-10-10 -->
-| ⭐ 叫魂 JIAOHUN | 电影化第一人称中式心理恐怖（1999 小镇） | 小团队（12AM BLACKOUT） | 首曝（2027 年，PS5/PC） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3550940/ ；X 单帖最高赞 361；档案 state/x-jiaohun.md |
+| ⭐ 叫魂 JIAOHUN | 电影化第一人称中式心理恐怖（1999 小镇） | 小团队（12AM BLACKOUT） | 开发中（2027 年，PS5/PC；11-10 放出实机演示） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/3550940/ ；X 单帖最高赞 361；档案 state/x-jiaohun.md |
 | ⭐ 魇 Yan: Parasomnia | 东南亚华人民俗·固定视角生存恐怖（单人/双人合作） | 小团队（Cerebral Games，马来西亚；发行 Nimbus Games） | 开发中（据 X 消息延期至 2027-08） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/2967220/ ；X 单帖最高赞 157；档案 state/x-yanparasomnia.md |
 | ⭐ 遥之境 Far Realm | 台味叙事 2D 像素冒险（妖怪世界） | 小团队（高椰菜 Cabbroge，台湾；GameWorks Ventures 协力） | Demo（2026-09-21 起） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/4532450/ ；X 单帖最高赞 12；档案 state/x-farrealm.md |
 | ⭐ What Acts up | 社交恐惧主题心理现实主义文字冒险（异常 Windows 窗口交互） | 小团队（Rebirth Studio） | Demo（Steam） | 2026-10-10 |  |  | 发现来源 X（第二轮）；Steam https://store.steampowered.com/app/1602890/ ；X 单帖最高赞 1；档案 state/x-whatactsup.md |

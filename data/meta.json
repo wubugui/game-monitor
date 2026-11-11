@@ -2,7 +2,7 @@
  "baseline_only": false,
  "baseline_report": "2026-10-09",
  "competitor_count": 99,
- "data_date": "2026-11-10",
+ "data_date": "2026-11-11",
  "dev_types": [
   "个人",
   "小团队",
@@ -89,10 +89,10 @@
   "钓鱼",
   "黑色幽默"
  ],
- "latest_report": "2026-11-10",
- "latest_report_date": "2026-11-10",
+ "latest_report": "2026-11-11",
+ "latest_report_date": "2026-11-11",
  "project_count": 236,
- "report_count": 41,
+ "report_count": 42,
  "statuses": [
   "Demo",
   "Demo · 已发售（2026 年 10 月 7 日）",
@@ -181,6 +181,7 @@
   "开发中（2027 Q1；Demo 9 月）",
   "开发中（2027 年）",
   "开发中（2027 年，PC）",
+  "开发中（2027 年，PS5/PC；11-10 放出实机演示）",
   "开发中（2027 年；itch 免费 Demo，Steam Demo 即将）",
   "开发中（2027-02）",
   "开发中（2027）",
@@ -196,8 +197,7 @@
   "新 Demo（2026-10）",
   "测试中（2026-08 首测；即将推出）",
   "至少做到第三章（识恶）",
-  "首曝",
-  "首曝（2027 年，PS5/PC）"
+  "首曝"
  ],
  "today_banner": "",
  "today_new": 0,
@@ -501,7 +501,7 @@
    "kind": "updated",
    "name": "叫魂 JIAOHUN",
    "note": "实际评价",
-   "status": "首曝（2027 年，PS5/PC）"
+   "status": "开发中（2027 年，PS5/PC；11-10 放出实机演示）"
   },
   {
    "competitor": true,

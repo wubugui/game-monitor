@@ -61,12 +61,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-2333000.jpg",
    "id": "steam-2333000",
    "name": "银松镇"
@@ -148,6 +142,12 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
   }
  ],
  "sections": [

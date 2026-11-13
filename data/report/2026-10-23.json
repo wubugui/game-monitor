@@ -57,6 +57,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3677850.jpg",
+   "id": "steam-3677850",
+   "name": "永泉"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3820460.jpg",
    "id": "steam-3820460",
    "name": "末班"
@@ -186,12 +192,6 @@
    "cover": "covers/steam-2490960.jpg",
    "id": "steam-2490960",
    "name": "驱灵天师"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3677850.jpg",
-   "id": "steam-3677850",
-   "name": "永泉"
   },
   {
    "competitor": true,

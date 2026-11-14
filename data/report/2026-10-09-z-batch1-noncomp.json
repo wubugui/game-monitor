@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": false,
+   "cover": "covers/BV1yKYg6RErh.jpg",
+   "id": "BV1yKYg6RErh",
+   "name": "捉迷藏"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1uGew6kE5H.jpg",
    "id": "BV1uGew6kE5H",
    "name": "黑箱：无限构筑"
@@ -24,12 +30,6 @@
    "cover": "covers/BV1R7ar69EKk.jpg",
    "id": "BV1R7ar69EKk",
    "name": "无誓者"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1yKYg6RErh.jpg",
-   "id": "BV1yKYg6RErh",
-   "name": "捉迷藏"
   }
  ],
  "sections": [

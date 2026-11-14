@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4746890.jpg",
-   "id": "p-680bfc1559",
-   "name": "世末终巡"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -33,6 +27,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV17Jap6rEjm.jpg",
+   "id": "BV17Jap6rEjm",
+   "name": "诡偶"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4746890.jpg",
+   "id": "p-680bfc1559",
+   "name": "世末终巡"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-3660260.jpg",
    "id": "steam-3660260",
    "name": "Out Fishing"
@@ -42,12 +48,6 @@
    "cover": "covers/BV15GHX6hEjk.jpg",
    "id": "BV15GHX6hEjk",
    "name": "追境"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV17Jap6rEjm.jpg",
-   "id": "BV17Jap6rEjm",
-   "name": "诡偶"
   },
   {
    "competitor": true,

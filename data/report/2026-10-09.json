@@ -18,6 +18,12 @@
  "projects": [
   {
    "competitor": false,
+   "cover": "covers/BV1ygYd6UEui.jpg",
+   "id": "BV1ygYd6UEui",
+   "name": "文字游戏"
+  },
+  {
+   "competitor": false,
    "cover": "covers/BV1jmY361E4t.jpg",
    "id": "BV1jmY361E4t",
    "name": "欢迎来到古原镇"
@@ -291,12 +297,6 @@
    "cover": "covers/BV1o1pw6fExf.jpg",
    "id": "BV1o1pw6fExf",
    "name": "星期五之后"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/BV1ygYd6UEui.jpg",
-   "id": "BV1ygYd6UEui",
-   "name": "文字游戏"
   },
   {
    "competitor": false,

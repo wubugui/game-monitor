@@ -15,12 +15,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3432650.jpg",
-   "id": "p-b1bd7fdc25",
-   "name": "追曙"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4991870.jpg",
    "id": "p-cea474f50d",
    "name": "荒山诡宿"
@@ -30,12 +24,6 @@
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4746890.jpg",
-   "id": "p-680bfc1559",
-   "name": "世末终巡"
   },
   {
    "competitor": true,
@@ -69,6 +57,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
+  },
+  {
+   "competitor": true,
    "cover": "covers/x-farrealm.jpg",
    "id": "x-farrealm",
    "name": "遥之境 Far Realm"
@@ -87,12 +81,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -105,15 +93,33 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3432650.jpg",
+   "id": "p-b1bd7fdc25",
+   "name": "追曙"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4746890.jpg",
+   "id": "p-680bfc1559",
+   "name": "世末终巡"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
@@ -156,12 +162,6 @@
    "cover": "covers/BV12Lpt6LEV2.jpg",
    "id": "yongchuang-sirengu",
    "name": "勇闯死人谷"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
   },
   {
    "competitor": true,

@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/steam-4183150.jpg",
+   "id": "steam-4183150",
+   "name": "巡妖"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1zoe26JEwt.jpg",
    "id": "BV1zoe26JEwt",
    "name": "童年诡事录"
@@ -48,12 +54,6 @@
    "cover": "covers/steam-3513600.jpg",
    "id": "p-2050ec1777",
    "name": "女吊"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4183150.jpg",
-   "id": "steam-4183150",
-   "name": "巡妖"
   }
  ],
  "sections": [

@@ -15,6 +15,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
@@ -66,12 +72,6 @@
    "cover": "covers/steam-4840290.jpg",
    "id": "p-330057f22b",
    "name": "升棺发财"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
   },
   {
    "competitor": true,

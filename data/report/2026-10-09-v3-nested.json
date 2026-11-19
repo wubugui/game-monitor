@@ -8,10 +8,28 @@
  "new": "",
  "projects": [
   {
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
+  },
+  {
    "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
   },
   {
    "competitor": true,
@@ -57,12 +75,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",
    "name": "你就是缘由"
@@ -75,21 +87,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1GhHS6QECw.jpg",
    "id": "BV1GhHS6QECw",
    "name": "重启：工作日"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
   },
   {
    "competitor": true,

@@ -81,6 +81,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -117,12 +129,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4881350.jpg",
    "id": "steam-4881350",
    "name": "我将为死者命名"
@@ -138,12 +144,6 @@
    "cover": "covers/BV1o7ht6pEgQ.jpg",
    "id": "BV1o7ht6pEgQ",
    "name": "随侯珠"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
   }
  ],
  "sections": [

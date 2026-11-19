@@ -21,9 +21,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/steam-3167220.jpg",
+   "id": "p-a7ce3bb1c0",
+   "name": "祖母 grandmother"
+  },
+  {
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
   },
   {
    "competitor": true,
@@ -48,12 +54,6 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4183150.jpg",
-   "id": "steam-4183150",
-   "name": "巡妖"
   },
   {
    "competitor": true,
@@ -87,6 +87,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
@@ -105,6 +111,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4183150.jpg",
+   "id": "steam-4183150",
+   "name": "巡妖"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1RVH86hEBF.jpg",
    "id": "BV1RVH86hEBF",
    "name": "南亭湖"
@@ -114,12 +132,6 @@
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,
@@ -159,12 +171,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3167220.jpg",
-   "id": "p-a7ce3bb1c0",
-   "name": "祖母 grandmother"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1WGqhYdEjx.jpg",
    "id": "BV1WGqhYdEjx",
    "name": "无人"
@@ -174,12 +180,6 @@
    "cover": "covers/steam-4840290.jpg",
    "id": "p-330057f22b",
    "name": "升棺发财"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
   },
   {
    "competitor": true,

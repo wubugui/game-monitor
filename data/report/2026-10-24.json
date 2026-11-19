@@ -21,6 +21,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-3167220.jpg",
+   "id": "p-a7ce3bb1c0",
+   "name": "祖母 grandmother"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -75,6 +81,18 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1S7LR6VEKc.jpg",
+   "id": "BV1gE411y7q8",
+   "name": "请神"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -111,12 +129,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1NVH96SETa.jpg",
    "id": "BV1NVH96SETa",
    "name": "你就是缘由"
@@ -141,21 +153,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1S7LR6VEKc.jpg",
-   "id": "BV1gE411y7q8",
-   "name": "请神"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4568330.jpg",
    "id": "p-a40b54b4db",
    "name": "弃层凶谈"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-3167220.jpg",
-   "id": "p-a7ce3bb1c0",
-   "name": "祖母 grandmother"
   },
   {
    "competitor": true,

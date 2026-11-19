@@ -8,10 +8,10 @@
  "new": "",
  "projects": [
   {
-   "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
   },
   {
    "competitor": true,
@@ -27,6 +27,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
@@ -36,6 +42,12 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
   },
   {
    "competitor": true,
@@ -54,12 +66,6 @@
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,
@@ -84,12 +90,6 @@
    "cover": "covers/steam-4498100.jpg",
    "id": "steam-4498100",
    "name": "黄泉園"
-  },
-  {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
   },
   {
    "competitor": true,

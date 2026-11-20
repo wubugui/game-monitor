@@ -9,6 +9,12 @@
  "projects": [
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -27,21 +33,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,

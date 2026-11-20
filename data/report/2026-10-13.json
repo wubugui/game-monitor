@@ -45,12 +45,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1S7LR6VEKc.jpg",
    "id": "BV1gE411y7q8",
    "name": "请神"
@@ -60,6 +54,12 @@
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,

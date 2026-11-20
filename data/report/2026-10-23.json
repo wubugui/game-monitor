@@ -33,6 +33,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -63,12 +69,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3677850.jpg",
-   "id": "steam-3677850",
-   "name": "永泉"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3820460.jpg",
    "id": "steam-3820460",
    "name": "末班"
@@ -84,12 +84,6 @@
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,
@@ -117,9 +111,15 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/steam-3677850.jpg",
+   "id": "steam-3677850",
+   "name": "永泉"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,

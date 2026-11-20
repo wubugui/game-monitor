@@ -15,21 +15,27 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4327330.jpg",
    "id": "p-dd4450b100",
    "name": "山瘟"
   },
   {
    "competitor": true,
-   "cover": "covers/steam-2333000.jpg",
-   "id": "steam-2333000",
-   "name": "银松镇"
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
+   "cover": "covers/steam-2333000.jpg",
+   "id": "steam-2333000",
+   "name": "银松镇"
   },
   {
    "competitor": true,
@@ -45,9 +51,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,
@@ -66,12 +72,6 @@
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
   },
   {
    "competitor": true,

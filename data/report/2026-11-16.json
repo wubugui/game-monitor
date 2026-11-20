@@ -21,6 +21,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -60,6 +66,12 @@
    "cover": "covers/steam-4952700.jpg",
    "id": "steam-4952700",
    "name": "惊悚乐园：平田的世界"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
   },
   {
    "competitor": true,
@@ -105,21 +117,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-4183150.jpg",
    "id": "steam-4183150",
    "name": "巡妖"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
   },
   {
    "competitor": true,

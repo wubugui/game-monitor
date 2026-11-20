@@ -33,6 +33,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/steam-4373160.jpg",
+   "id": "p-6ca2ff6ae8",
+   "name": "邪祟"
+  },
+  {
+   "competitor": true,
    "cover": "covers/steam-4762620.jpg",
    "id": "p-32fe1bc024",
    "name": "物理超度"
@@ -54,6 +60,12 @@
    "cover": "covers/steam-5166850.jpg",
    "id": "p-d2844d718b",
    "name": "人柱 Hitobashira"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-4354610.jpg",
+   "id": "steam-4354610",
+   "name": "诡影藏锋"
   },
   {
    "competitor": true,
@@ -87,12 +99,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
@@ -111,9 +117,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-4373160.jpg",
-   "id": "p-6ca2ff6ae8",
-   "name": "邪祟"
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,
@@ -132,12 +138,6 @@
    "cover": "covers/steam-4746890.jpg",
    "id": "p-680bfc1559",
    "name": "世末终巡"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/steam-4354610.jpg",
-   "id": "steam-4354610",
-   "name": "诡影藏锋"
   },
   {
    "competitor": true,

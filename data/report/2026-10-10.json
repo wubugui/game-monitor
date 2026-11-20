@@ -18,15 +18,15 @@
  "projects": [
   {
    "competitor": true,
-   "cover": "covers/x-farrealm.jpg",
-   "id": "x-farrealm",
-   "name": "遥之境 Far Realm"
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1SjeP62EMn.jpg",
-   "id": "BV1SjeP62EMn",
-   "name": "萦回"
+   "cover": "covers/x-farrealm.jpg",
+   "id": "x-farrealm",
+   "name": "遥之境 Far Realm"
   },
   {
    "competitor": true,
@@ -42,21 +42,21 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV17Jap6rEjm.jpg",
    "id": "BV17Jap6rEjm",
    "name": "诡偶"
   },
   {
    "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
+   "cover": "covers/BV1SjeP62EMn.jpg",
+   "id": "BV1SjeP62EMn",
+   "name": "萦回"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,

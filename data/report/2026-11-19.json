@@ -63,12 +63,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/steam-3677850.jpg",
-   "id": "steam-3677850",
-   "name": "永泉"
-  },
-  {
-   "competitor": true,
    "cover": "covers/steam-3820460.jpg",
    "id": "steam-3820460",
    "name": "末班"
@@ -87,12 +81,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1SjeP62EMn.jpg",
-   "id": "BV1SjeP62EMn",
-   "name": "萦回"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-jiaohun.jpg",
    "id": "x-jiaohun",
    "name": "叫魂 JIAOHUN"
@@ -108,12 +96,6 @@
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
   },
   {
    "competitor": true,
@@ -138,6 +120,24 @@
    "cover": "covers/BV1mSa76yEor.jpg",
    "id": "BV1mSa76yEor",
    "name": "乌合之众"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/steam-3677850.jpg",
+   "id": "steam-3677850",
+   "name": "永泉"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1SjeP62EMn.jpg",
+   "id": "BV1SjeP62EMn",
+   "name": "萦回"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   }
  ],
  "sections": [

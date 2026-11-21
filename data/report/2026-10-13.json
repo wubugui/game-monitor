@@ -8,12 +8,6 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
-  },
-  {
    "competitor": true,
    "cover": "covers/steam-4924120.jpg",
    "id": "p-43b21b480d",
@@ -45,6 +39,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV1S7LR6VEKc.jpg",
    "id": "BV1gE411y7q8",
    "name": "请神"
@@ -56,10 +56,10 @@
    "name": "泯灭"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
   },
   {
    "competitor": true,

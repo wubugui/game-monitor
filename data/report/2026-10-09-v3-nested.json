@@ -8,16 +8,22 @@
  "new": "",
  "projects": [
   {
-   "competitor": false,
-   "cover": "covers/steam-5270150.jpg",
-   "id": "p-4d51d8eab2",
-   "name": "烟雨山异闻"
-  },
-  {
    "competitor": true,
    "cover": "covers/BV1vLFCzwEq1.jpg",
    "id": "BV1vLFCzwEq1",
    "name": "黑水镇"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1GhHS6QECw.jpg",
+   "id": "BV1GhHS6QECw",
+   "name": "重启：工作日"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV15GHX6hEjk.jpg",
+   "id": "BV15GHX6hEjk",
+   "name": "追境"
   },
   {
    "competitor": true,
@@ -33,9 +39,21 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
+  },
+  {
+   "competitor": true,
+   "cover": "covers/BV1NVH96SETa.jpg",
+   "id": "BV1NVH96SETa",
+   "name": "你就是缘由"
   },
   {
    "competitor": true,
@@ -44,22 +62,16 @@
    "name": "乌合之众"
   },
   {
-   "competitor": true,
-   "cover": "covers/BV15GHX6hEjk.jpg",
-   "id": "BV15GHX6hEjk",
-   "name": "追境"
+   "competitor": false,
+   "cover": "covers/steam-5270150.jpg",
+   "id": "p-4d51d8eab2",
+   "name": "烟雨山异闻"
   },
   {
    "competitor": true,
    "cover": "covers/steam-3170460.jpg",
    "id": "p-91f149afe3",
    "name": "小先生：终南长鸣"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
   },
   {
    "competitor": true,
@@ -75,21 +87,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1NVH96SETa.jpg",
-   "id": "BV1NVH96SETa",
-   "name": "你就是缘由"
-  },
-  {
-   "competitor": true,
    "cover": "covers/BV1o7ht6pEgQ.jpg",
    "id": "BV1o7ht6pEgQ",
    "name": "随侯珠"
-  },
-  {
-   "competitor": true,
-   "cover": "covers/BV1GhHS6QECw.jpg",
-   "id": "BV1GhHS6QECw",
-   "name": "重启：工作日"
   },
   {
    "competitor": true,

@@ -63,12 +63,6 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1rAbp66EV1.jpg",
-   "id": "BV1rAbp66EV1",
-   "name": "镇尸"
-  },
-  {
-   "competitor": true,
    "cover": "covers/x-farrealm.jpg",
    "id": "x-farrealm",
    "name": "遥之境 Far Realm"
@@ -99,6 +93,12 @@
   },
   {
    "competitor": true,
+   "cover": "covers/BV1zoe26JEwt.jpg",
+   "id": "BV1zoe26JEwt",
+   "name": "童年诡事录"
+  },
+  {
+   "competitor": true,
    "cover": "covers/BV14HHq6uEX5.jpg",
    "id": "BV14HHq6uEX5",
    "name": "泯灭"
@@ -111,9 +111,9 @@
   },
   {
    "competitor": true,
-   "cover": "covers/BV1zoe26JEwt.jpg",
-   "id": "BV1zoe26JEwt",
-   "name": "童年诡事录"
+   "cover": "covers/BV1rAbp66EV1.jpg",
+   "id": "BV1rAbp66EV1",
+   "name": "镇尸"
   },
   {
    "competitor": true,
